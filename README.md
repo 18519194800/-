@@ -152,11 +152,11 @@ static=★𓃰DiscoveryPlus✈, reject, direct, proxy, 🌈SSID⛈✈, ★𓃰�
 
 static=★𓃰網易音樂✈, ★𓃰網易雲✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Clubhouse.png
 
-static=★𓃰奈飛視頻✈, ★𓃰Netflix✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netflix.png
+static=★𓃰奈飛視頻✈, ★𓃰Netflix✈, img-url=https://raw.githubusercontent.com/Orz-3/face/master/Netflix.png
 
 url-latency-benchmark=★𓃰網易雲✈, server-tag-regex=网易, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netease_Music_Unlock.png
 
-url-latency-benchmark=★𓃰Netflix✈, server-tag-regex=(?=.*(Netflix|netflix|NETFLIX|NF|nf|IN|奈飞|网飞|奈飛|解锁流媒体|流媒体|(?i)Netflix))^((?!(专线|手游|游戏|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/face/master/Netflix.png
+url-latency-benchmark=★𓃰Netflix✈, server-tag-regex=(?=.*(Netflix|netflix|NETFLIX|NF|nf|IN|奈飞|网飞|奈飛|解锁流媒体|流媒体|(?i)Netflix))^((?!(专线|手游|游戏|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Netflix.png
 
 url-latency-benchmark=★𓃰节点✈, server-tag-regex=(?=.*(A||(?i)A||))^((?!(?i)(IPLC|IEPL|game|🎧|網易|网易|音乐|专线|手游|游戏)).)*$, check-interval=600, tolerance=0, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Daily.png
 
