@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/parkerpa/cs/main/v2ray, tag=🦥🫵✈⋯· �
 
 https://raw.githubusercontent.com/songtao1873/nmsl/864c2eae5aef022e783981b57808b2a9f938f662/sub/clash/5.yaml, tag=🦥🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Ingress.png, update-interval=172800, opt-parser=true, enabled=true
 
-https://qxnav.com/rules/QuantumultX/gz/wyy.list, tag=网易云解锁灰色, img-url=https://qxnav.com/rules/QuantumultX/img/Netease_Music.png, update-interval=86400, opt-parser=true, enabled=true
+https://qxnav.com/rules/QuantumultX/gz/wyy.list, tag=𓆉“音樂”☀️✈⋯· ·🎻, img-url=https://qxnav.com/rules/QuantumultX/img/Netease_Music.png, update-interval=86400, opt-parser=true, enabled=true
 
 https://gitlab.com/ioshkj/quantumultx/-/raw/main/wyy.list, tag=𓃵“網易🎻”✈⋯· ·✨, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Netease_Music_Unlock.png, update-interval=172800, opt-parser=true, enabled=true
 
