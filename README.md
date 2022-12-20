@@ -36,6 +36,8 @@ https://raw.githubusercontent.com/parkerpa/cs/main/v2ray, tag=🦥🫵✈⋯· �
 
 https://raw.githubusercontent.com/songtao1873/nmsl/864c2eae5aef022e783981b57808b2a9f938f662/sub/clash/5.yaml, tag=🦥🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Ingress.png, update-interval=172800, opt-parser=true, enabled=true
 
+https://qxnav.com/rules/QuantumultX/gz/wyy.list, tag=网易云解锁灰色, img-url=https://qxnav.com/rules/QuantumultX/img/Netease_Music.png, update-interval=86400, opt-parser=true, enabled=true
+
 https://gitlab.com/ioshkj/quantumultx/-/raw/main/wyy.list, tag=𓃵“網易🎻”✈⋯· ·✨, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Netease_Music_Unlock.png, update-interval=172800, opt-parser=true, enabled=true
 
 https://raw.githubusercontent.com/ripaojiedian/freenode/main/ssr, tag=𓃰“上”👍✈⋯· · · ·  ·⛹️‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Xingmeng.png, update-interval=172800, opt-parser=true, enabled=true
@@ -801,6 +803,9 @@ https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/backend/sub-store.min
 
 
 [task_local]
+
+
+
 30 0 8-22/2 * * * https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/check_in/hotsearch/hot.js, tag=热门监控, img-url=https://raw.githubusercontent.com/58xinian/icon/master/hot.png, enabled=true
 45 4 8 * * * https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/check_in/glados/checkin_env.js, tag=机场签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/airport.png, enabled=true
 0 5 8 * * * https://raw.githubusercontent.com/evilbutcher/QuantumultX/master//check_in/glados/checkincookie_env.js, tag=机场签到Cookie版, img-url=https://raw.githubusercontent.com/58xinian/icon/master/glados.png, enabled=true
@@ -820,7 +825,6 @@ https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/backend/sub-store.min
 0 5 * * * * https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/check_in/wechatsubs/gxrcw.js, tag=高校人才网招聘监控, img-url=https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/picture/gxrcw.png, enabled=true
 5 * * * * https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/check_in/wechatsubs/sydwzp.js, tag=事业单位招聘监控, img-url=https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/picture/sydw.png, enabled=true
 
-0 0 8 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/nCov.js, tag=疫情日报 ,img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/Z012.png
 
 # 京东多合一签到
 5 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东多合一签到, img-url=https://raw.githubusercontent.com/NobyDa/mini/master/Color/jd.png,enabled=true
