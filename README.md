@@ -10,32 +10,32 @@ trojan=185.44.76.188:443, password=2e240YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZE
 
 #节点远程订阅，自行添加
 [server_remote]
-https://tt.vg/freev2, tag=🦥🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/aaex.png, update-interval=172800, opt-parser=true, enabled=true
-https://pastebin.com/raw/XpR7pKPc, tag=🦥🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Catnet.png, update-interval=172800, opt-parser=true, enabled=true
-https://sub.sharecentre.online/sub, tag=🦥🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/WTT.png, update-interval=172800, opt-parser=true, enabled=true
-https://ghproxy.com//raw.githubusercontent.com/yaney01/Yaney01/main/yaney_01, tag=🦥🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/dark/Want_Want.png, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/freebaipiao/freebaipiao/main/freebaipiaolink.txt, tag=🦥🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/douyu.png, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/kxswa/k/k/base64, tag=🦥🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/manga.png, update-interval=172800, opt-parser=true, enabled=true
-https://freefq.neocities.org/free.xml, tag=🦥🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/project.png, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx1, tag=🦥🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/ttwkxcx.png, update-interval=172800, opt-parser=true, enabled=true
-https://suo.yt/BbKc17P, tag=🦥🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/fastlink.png, update-interval=172800, opt-parser=true, enabled=true
+https://tt.vg/freev2, tag=🦥🫵✈⋯· ·💥18, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/aaex.png, update-interval=172800, opt-parser=true, enabled=true
+https://pastebin.com/raw/XpR7pKPc, tag=🦥🫵✈⋯· ·💥17, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Catnet.png, update-interval=172800, opt-parser=true, enabled=true
+https://sub.sharecentre.online/sub, tag=🦥🫵✈⋯· ·💥16, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/WTT.png, update-interval=172800, opt-parser=true, enabled=true
+https://ghproxy.com//raw.githubusercontent.com/yaney01/Yaney01/main/yaney_01, tag=🦥🫵✈⋯· ·💥15, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/dark/Want_Want.png, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/freebaipiao/freebaipiao/main/freebaipiaolink.txt, tag=🦥🫵✈⋯· ·💥13, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/douyu.png, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/kxswa/k/k/base64, tag=🦥🫵✈⋯· ·💥12, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/manga.png, update-interval=172800, opt-parser=true, enabled=true
+https://freefq.neocities.org/free.xml, tag=🦥🫵✈⋯· ·💥11, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/project.png, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx1, tag=🦥🫵✈⋯· ·💥10, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/ttwkxcx.png, update-interval=172800, opt-parser=true, enabled=true
+https://suo.yt/BbKc17P, tag=🦥🫵✈⋯· ·💥9, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/fastlink.png, update-interval=172800, opt-parser=true, enabled=true
 
-https://sub.cm/v3Wvr4M, tag=🦥🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/xair.png, update-interval=172800, opt-parser=true, enabled=true
+https://sub.cm/v3Wvr4M, tag=🦥🫵✈⋯· ·💥8, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/xair.png, update-interval=172800, opt-parser=true, enabled=true
 
-https://pastebin.com/raw/GxR5pELe, tag=🦥🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Panda.png, update-interval=172800, opt-parser=true, enabled=true
+https://pastebin.com/raw/GxR5pELe, tag=🦥🫵✈⋯· ·💥7, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Panda.png, update-interval=172800, opt-parser=true, enabled=true
 
-https://pastebin.com/raw/dmnL3uAR, tag=🦥🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/panda.png, update-interval=172800, opt-parser=true, enabled=true
+https://pastebin.com/raw/dmnL3uAR, tag=🦥🫵✈⋯· ·💥6, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/panda.png, update-interval=172800, opt-parser=true, enabled=true
 
-https://clash.myvm.cc/vmess/sub, tag=🦥🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Star_2.png, update-interval=172800, opt-parser=true, enabled=true
+https://clash.myvm.cc/vmess/sub, tag=🦥🫵✈⋯· ·💥5, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Star_2.png, update-interval=172800, opt-parser=true, enabled=true
 
-http://101.132.255.205:1234/clash/proxies, tag=🦥🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/xiaozhang.png, update-interval=172800, opt-parser=true, enabled=true
+http://101.132.255.205:1234/clash/proxies, tag=🦥🫵✈⋯· ·💥4, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/xiaozhang.png, update-interval=172800, opt-parser=true, enabled=true
 
-https://tihg.fun/vmess/sub, tag=🦥🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/idkttt.png, update-interval=172800, opt-parser=true, enabled=true
+https://tihg.fun/vmess/sub, tag=🦥🫵✈⋯· ·💥3, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/idkttt.png, update-interval=172800, opt-parser=true, enabled=true
 
-https://raw.githubusercontent.com/parkerpa/cs/main/v2ray, tag=🦥🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/hoya.png, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/parkerpa/cs/main/v2ray, tag=🦥🫵✈⋯· ·💥2, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/hoya.png, update-interval=172800, opt-parser=true, enabled=true
 
 
-https://raw.githubusercontent.com/songtao1873/nmsl/864c2eae5aef022e783981b57808b2a9f938f662/sub/clash/5.yaml, tag=🦥🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Ingress.png, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/songtao1873/nmsl/864c2eae5aef022e783981b57808b2a9f938f662/sub/clash/5.yaml, tag=🦥🫵✈⋯· ·💥1, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Ingress.png, update-interval=172800, opt-parser=true, enabled=true
 
 https://qxnav.com/rules/QuantumultX/gz/wyy.list, tag=𓆉“音樂”☀️✈⋯· ·🎻, img-url=https://qxnav.com/rules/QuantumultX/img/Netease_Music.png, update-interval=86400, opt-parser=true, enabled=true
 
@@ -75,11 +75,11 @@ http://tg.cyy200.xyz/api/v1/client/subscribe?token=368b56858d0396b34eaaffd715ea2
 #策略组
 [policy]
 ssid=🌈SSID⛈✈, ★𓃰♨️健康檢測🌦✈,  ★𓃰♻️自動選擇🌦✈ ,    img-url=https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/SSID.png
-round-robin=★𓃰💯負載均衡🌦✈, 🇬🇧GB_4766, Trojan-东京01|公益, Trojan-东京01|公益 ¹, Trojan-东京01|公益 ², Trojan-东京01|公益 ³, Trojan-东京01|公益 ⁴, Trojan-东京01|公益 ⁵, Trojan-东京02|公益, Trojan-东京02|公益 ¹, Trojan-东京02|公益 ², Trojan-东京02|公益 ³, Trojan-东京02|公益 ⁴, Trojan-东京02|公益 ⁵, Trojan-东京03|公益, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png
+round-robin=★𓃰💯負載均衡🌦✈, 🇬🇧GB_4766, Trojan-东京01|公益 ², Trojan-东京01|公益 ³, Trojan-东京01|公益 ⁴, Trojan-东京02|公益 ², Trojan-东京02|公益 ⁴, Trojan-东京02|公益 ⁵, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png
 url-latency-benchmark=★𓃰🌏節點選擇🌦✈, 🇬🇧GB_4766, 蜂窝网, WI-FI, check-interval=600, tolerance=4, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Static.png
-static=★𓃰♨️健康檢測🌦✈, 🇬🇧GB_4766, [ssr]🇨🇳[CN]42.157.195.240: 12127(68xdgu9eyif), img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Urltest.png
+static=★𓃰♨️健康檢測🌦✈, 🇬🇧GB_4766, WI-FI, 蜂窝网, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Urltest.png
 url-latency-benchmark=★𓃰♻️自動選擇🌦✈, resource-tag-regex=𓃰“亥”🐗✈⋯· · · ·  ·🚴‍♀️, server-tag-regex=(?=.*(东京|公益|(?i)Trojan))^((?!(日本|频道|网易|hong kong|游戏|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Roundrobin.png
-static=★𓃰👋手動選擇🌦✈, server-tag-regex=(?=.*(A||(?i)A||))^((?!(?i)(IPLC|IEPL|game|🎧|網易|网易|音乐|专线|手游|游戏)).)*$, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Clubhouse.png
+static=★𓃰👋手動選擇🌦✈, resource-tag-regex=🦥🫵✈⋯· ·💥16, server-tag-regex=(?=.*(A||(?i)A||))^((?!(?i)(IPLC|IEPL|game|🎧|網易|网易|音乐|专线|手游|游戏)).)*$, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Clubhouse.png
 
 static=★𓃰直连✈, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Direct.png
 
