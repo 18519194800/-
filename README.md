@@ -384,11 +384,15 @@ final, 🌈SSID⛈✈
 
 #复写远程订阅
 [rewrite_remote]
+https://raw.githubusercontent.com/app2smile/rules/master/module/youtube-qx.conf, tag=YouTube瀑布流, update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/pomelosea/QuantumultX/main/YouTube.conf, tag=youtube去广告, update-interval=172800, opt-parser=true, inserted-resource=true, enabled=false
+https://raw.githubusercontent.com/Orz-3/QuantumultX/master/YouTube.conf, tag=新版YouTube去广告, update-interval=172800, opt-parser=true, enabled=false
 https://raw.githubusercontent.com/app2smile/rules/master/module/youtube.sgmodule, tag=YouTube去广告(>=iOS15), update-interval=172800, opt-parser=true, enabled=false
 https://raw.githubusercontent.com/Maasea/sgmodule/master/youtubePlayer.sgmodule, tag=YouToube去广告❹, update-interval=172800, opt-parser=true, enabled=false
 https://raw.githubusercontent.com/chengkongyiban/shadowrocket/main/Block/YTADBlocker.module, tag=YouToube去广告❸, update-interval=172800, opt-parser=true, enabled=false
 https://raw.githubusercontent.com/Maasea/sgmodule/master/YoutubeAds.sgmodule, tag=YouBube去广告❷, update-interval=172800, opt-parser=true, enabled=false
 https://raw.githubusercontent.com/bai1zi/shadowrocket-surge-loon-qx/main/YouTubeads.sgmodule, tag=YouTube去广告❶, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/id77/QuantumultX/master/rewrite/Youtube_CC.conf, tag=YouTube字幕, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/evilbutcher/QuantumultX/main/profiles/QuantumultX/QuantumultX.rewrite.conf, tag=脚本集合, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/AlpenglowProCrack.js, tag=alpenglow, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/QuantumultX.rewrite.conf, tag=脚本订阅合集+自己写的去广告, update-interval=172800, opt-parser=true, enabled=false
@@ -699,7 +703,6 @@ https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite
 #堆糖
 https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/duitang.conf, tag=堆糖, update-interval=172800, opt-parser=true, enabled=true
 #YouTube瀑布流
-https://raw.githubusercontent.com/app2smile/rules/master/module/youtube-qx.conf, tag=YouTube瀑布流, update-interval=172800, opt-parser=true, enabled=false
 #扫描全能王* +*解锁*VIP
 https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/smqnw.js, tag=*扫描全能王* +*解锁*VIP, update-interval=172800, opt-parser=true, enabled=true
 #HTTPS*抓包*+*解锁订阅
@@ -707,11 +710,8 @@ https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/https.js, tag=
 #浏览器插件*+*解锁订阅*
 https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/gear.js, tag=gear*浏览器插件*+*解锁订阅*, update-interval=172800, opt-parser=true, enabled=true
 #youtube去广告
-https://raw.githubusercontent.com/pomelosea/QuantumultX/main/YouTube.conf, tag=youtube去广告, update-interval=172800, opt-parser=true, inserted-resource=true, enabled=false
 #YouTube字幕
-https://raw.githubusercontent.com/id77/QuantumultX/master/rewrite/Youtube_CC.conf, tag=YouTube字幕, update-interval=172800, opt-parser=true, enabled=true
 #新版YouTube去广告
-https://raw.githubusercontent.com/Orz-3/QuantumultX/master/YouTube.conf, tag=新版YouTube去广告, update-interval=172800, opt-parser=true, enabled=false
 #脚本去广告
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/QuantumultX/AdvertisingScript/AdvertisingScript.conf, tag=脚本去广告, update-interval=172800, opt-parser=true, enabled=true
 #TestFlight下载修正
