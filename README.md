@@ -207,6 +207,8 @@ url-latency-benchmark=★𓃰澳大利亞✈, server-tag-regex=(?=.*(澳大利�
 #规则分流远程订阅
 [filter_remote]
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/CCTV/CCTV.list , tag=CCTV, force-policy=direct, update-interval=172800, opt-parser=true, enabled=true
+
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Baidu/Baidu.list, tag=百度, force-policy=direct, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaTelecom/ChinaTelecom.list, tag=中国电信, force-policy=direct, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/CaiNiao/CaiNiao.list, tag=菜鸟裹裹, force-policy=direct, update-interval=172800, opt-parser=true, enabled=true
