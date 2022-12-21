@@ -384,14 +384,19 @@ final, 🌈SSID⛈✈
 
 #复写远程订阅
 [rewrite_remote]
+https://raw.githubusercontent.com/app2smile/rules/master/module/youtube.sgmodule, tag=YouTube去广告(>=iOS15), update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/Maasea/sgmodule/master/youtubePlayer.sgmodule, tag=YouToube去广告❹, update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/chengkongyiban/shadowrocket/main/Block/YTADBlocker.module, tag=YouToube去广告❸, update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/Maasea/sgmodule/master/YoutubeAds.sgmodule, tag=YouBube去广告❷, update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/bai1zi/shadowrocket-surge-loon-qx/main/YouTubeads.sgmodule, tag=YouTube去广告❶, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/evilbutcher/QuantumultX/main/profiles/QuantumultX/QuantumultX.rewrite.conf, tag=脚本集合, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/AlpenglowProCrack.js, tag=alpenglow, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/QuantumultX.rewrite.conf, tag=脚本订阅合集+自己写的去广告, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/QuantumultX.rewrite.conf, tag=脚本订阅合集+自己写的去广告, update-interval=172800, opt-parser=true, enabled=false
 #快柠檬永久解锁
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/SmallDialyVipCrack.js, tag=快柠檬永久解锁, update-interval=172800, opt-parser=true, enabled=true
 #获取签到脚本
 #复写去广告
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/QuantumultX/AdvertisingLite/AdvertisingLite.conf, tag=复写去广告(严格版), update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/QuantumultX/AdvertisingLite/AdvertisingLite.conf, tag=复写去广告(严格版), update-interval=172800, opt-parser=true, enabled=false
 #格子日记
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/GridDiary2ProCrack.js, tag=格子日记, update-interval=172800, opt-parser=true, enabled=true
 #获取cookie
@@ -694,7 +699,7 @@ https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite
 #堆糖
 https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/duitang.conf, tag=堆糖, update-interval=172800, opt-parser=true, enabled=true
 #YouTube瀑布流
-https://raw.githubusercontent.com/app2smile/rules/master/module/youtube-qx.conf, tag=YouTube瀑布流, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/app2smile/rules/master/module/youtube-qx.conf, tag=YouTube瀑布流, update-interval=172800, opt-parser=true, enabled=false
 #扫描全能王* +*解锁*VIP
 https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/smqnw.js, tag=*扫描全能王* +*解锁*VIP, update-interval=172800, opt-parser=true, enabled=true
 #HTTPS*抓包*+*解锁订阅
@@ -702,7 +707,7 @@ https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/https.js, tag=
 #浏览器插件*+*解锁订阅*
 https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/gear.js, tag=gear*浏览器插件*+*解锁订阅*, update-interval=172800, opt-parser=true, enabled=true
 #youtube去广告
-https://raw.githubusercontent.com/pomelosea/QuantumultX/main/YouTube.conf, tag=youtube去广告, update-interval=172800, opt-parser=true, inserted-resource=true, enabled=true
+https://raw.githubusercontent.com/pomelosea/QuantumultX/main/YouTube.conf, tag=youtube去广告, update-interval=172800, opt-parser=true, inserted-resource=true, enabled=false
 #YouTube字幕
 https://raw.githubusercontent.com/id77/QuantumultX/master/rewrite/Youtube_CC.conf, tag=YouTube字幕, update-interval=172800, opt-parser=true, enabled=true
 #新版YouTube去广告
@@ -1007,7 +1012,7 @@ https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/backend/sub-store.min
 0 10 0 * * * https://raw.githubusercontent.com/DD-D1/2020scripts/master/hdhycSign.js, tag=海德汇一城, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/hdhyc.png, enabled=true
 0 10 0 * * * https://raw.githubusercontent.com/DD-D1/2020scripts/master/mygmcSign.js, tag=民盈国贸城, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/mygmc.png, enabled=true
 0 10 0 * * * https://github.com/DD-D1/2020scripts/blob/master/QQReadSign.js, tag=QQ阅读, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/QQRead.png, enabled=true
-10 8 * * * https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/telecomInfinity.js, tag=中国电信套餐, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/telecominfinty.png, enabled=false
+10 8 * * * https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/telecomInfinity.js, tag=中国电信套餐, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/telecominfinty.png, enabled=true
 1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/mgtv/mgtv.js, tag=芒果TV, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/mgtv.png, enabled=true
 1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/neteasenews/neteasenews.js, tag=网易新闻, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/neteasenews.png, enabled=true
 1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/neteasemusic/quanx/neteasemusic.js, tag=网易云音乐, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/neteasemusic.png, enabled=true
@@ -1018,11 +1023,6 @@ https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/backend/sub-store.min
 49 7 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/v2ex/quanx/v2ex.js, tag=V2EX, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/v2ex.png, enabled=true
 47 7 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/wmmeituan/wmmeituan.js, tag=美团外卖, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/meituan.png, enabled=true
 46 7 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10000/10000.js, tag=中国电信, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/10000.png, enabled=true
-15 10 * * * https://raw.githubusercontent.com/Semporia/Scripts/main/jd_joy_run.js, tag=宠汪汪邀请助力与赛跑助力, img-url=https://cdn.jsdelivr.net/gh/Semporia/Scripts@main/API-Icon/jd_joy_run.png, enabled=true
-0 0-16/8 * * * https://raw.githubusercontent.com/Semporia/Scripts/main/jd_joy_reward.js, tag=宠汪汪积分兑换奖品, img-url=https://cdn.jsdelivr.net/gh/Semporia/Scripts@main/API-Icon/jd_joy_reward.png, enabled=true
-15 */1 * * * https://raw.githubusercontent.com/Semporia/Scripts/main/jd_joy_feedPets.js, tag=宠汪汪喂食, img-url=https://cdn.jsdelivr.net/gh/Semporia/Scripts@main/API-Icon/jd_joy_feedPets.png, enabled=true
-0 0,6 * * * https://raw.githubusercontent.com/Semporia/Scripts/main/jd_joy_steal.js, tag=宠汪汪偷好友积分与狗粮, img-url=https://cdn.jsdelivr.net/gh/Semporia/Scripts@main/API-Icon/jd_joy_steal.png, enabled=true
-15 */2 * * * https://raw.githubusercontent.com/Semporia/Scripts/main/jd_joy.js, tag=宠汪汪, img-url=https://cdn.jsdelivr.net/gh/Semporia/Scripts@main/API-Icon/jd_joy.png, enabled=true
 3 */2 * * * https://raw.githubusercontent.com/Semporia/Scripts/main/jd_moneyTree.js, tag=摇钱树, img-url=https://cdn.jsdelivr.net/gh/Semporia/Scripts@main/API-Icon/jd_moneyTree.png, enabled=true
 0 9 */7 * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/epic.js, tag=Epic周免, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/epic.png, enabled=true
 0 9 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/steam.js, tag=Steam价格, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/steam.png, enabled=true
