@@ -186,19 +186,9 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Quant
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Tencent/Tencent.list, tag=腾讯, force-policy=★𓃰QQ✈, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/BBC/BBC.list, tag=BBC, force-policy=★𓃰BBC✈, update-interval=172800, opt-parser=true, enabled=true
 
-
-
-
-
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Direct/Direct.list, tag=直连, force-policy=★𓃰直连✈, update-interval=172800, opt-parser=true, enabled=true
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/China/China.list, tag=国内, force-policy=★𓃰直连✈, update-interval=172800, opt-parser=true, enabled=true
-
-
-
-
-
-
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/VOA/VOA.list, tag=voa, force-policy=🌈SSID⛈✈, update-interval=86400, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/WeChat/WeChat.list, tag=微信, force-policy=★𓃰微信✈, update-interval=172800, opt-parser=true, enabled=true
@@ -212,19 +202,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Quant
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Global/Global.list, tag=Global, force-policy=🌈SSID⛈✈, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Game/Game.list, tag=🎮游戏, force-policy=★𓃰游戏✈, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ParamountPlus/ParamountPlus.list, tag=派拉蒙, force-policy=★𓃰派拉蒙✈, update-interval=172800, opt-parser=true, enabled=true
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Google/Google.list, tag=Google, force-policy=★𓃰谷歌✈, update-interval=86400, opt-parser=true, enabled=true
