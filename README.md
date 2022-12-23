@@ -11,7 +11,7 @@ trojan=185.44.76.188:443, password=2e240YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZE
 #节点远程订阅，自行添加
 [server_remote]
 https://sub.sharecentre.online/sub, tag=🦥🫵✈⋯· ·💥❼, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/WTT.png, update-interval=172800, opt-parser=true, enabled=true
-https://sub.cm/v3Wvr4M, tag=🦥🫵✈⋯· ·💥⑥, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Blinkload.png, update-interval=172800, opt-parser=true, enabled=true
+https://sub.cm/v3Wvr4M, tag=🦥🫵✈⋯· ·💥⑥, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/GuGuEX.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/kxswa/k/k/base64, tag=🦥🫵✈⋯· ·💥㊄, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/manga.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx1, tag=🦥🫵✈⋯· ·💥④, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/ttwkxcx.png, update-interval=172800, opt-parser=true, enabled=true
 https://pastebin.com/raw/GxR5pELe, tag=🦥🫵✈⋯· ·💥❸, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Panda.png, update-interval=172800, opt-parser=true, enabled=true
@@ -388,7 +388,6 @@ https://raw.githubusercontent.com/yqc007/QuantumultX/master/AlpenglowProCrack.js
 https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/QuantumultX.rewrite.conf, tag=脚本订阅合集+自己写的去广告, update-interval=172800, opt-parser=true, enabled=true
 #快柠檬永久解锁
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/SmallDialyVipCrack.js, tag=快柠檬永久解锁, update-interval=172800, opt-parser=true, enabled=true
-#获取签到脚本
 #复写去广告
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/QuantumultX/AdvertisingLite/AdvertisingLite.conf, tag=复写去广告(严格版), update-interval=172800, opt-parser=true, enabled=true
 #格子日记
@@ -426,7 +425,6 @@ https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite
 https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/KuwoVip.conf, tag=酷我会员, update-interval=172800, opt-parser=true, enabled=true
 #酷我数字专辑解锁
 https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/kuwo-unlock.conf, tag=酷我数字专辑解锁, update-interval=172800, opt-parser=true, enabled=true
-#历史价格
 #WPS会员解锁
 https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/WPS.conf, tag=WPS会员解锁, update-interval=172800, opt-parser=true, enabled=true
 #Nicegram会员解锁
@@ -817,8 +815,6 @@ https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/backend/sub-store.min
 0 0 6 * * * https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/check_in/nasa/nasapic.js, tag=NASA每日一图, img-url=https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/picture/nasa.png, enabled=true
 0 5 * * * * https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/check_in/wechatsubs/gxrcw.js, tag=高校人才网招聘监控, img-url=https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/picture/gxrcw.png, enabled=true
 5 * * * * https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/check_in/wechatsubs/sydwzp.js, tag=事业单位招聘监控, img-url=https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/picture/sydw.png, enabled=true
-
-
 # 京东多合一签到
 5 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东多合一签到, img-url=https://raw.githubusercontent.com/NobyDa/mini/master/Color/jd.png,enabled=true
 13 12 * * * https://raw.githubusercontent.com/crossutility/Quantumult-X/master/sample-task.js, tag=远程示范(点击缓存/更新脚本), img-url=https://raw.githubusercontent.com/crossutility/Quantumult-X/master/quantumult-x.png, enabled=true
