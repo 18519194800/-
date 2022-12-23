@@ -11,8 +11,7 @@ trojan=185.44.76.188:443, password=2e240YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZE
 #节点远程订阅，自行添加
 [server_remote]
 https://sub.sharecentre.online/sub, tag=🦥🫵✈⋯· ·💥❼, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/WTT.png, update-interval=172800, opt-parser=true, enabled=true
-https://sub.cm/v3Wvr4M, tag=🦥🫵✈⋯· ·💥⑥, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/GuGuEX.png, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/kxswa/k/k/base64, tag=🦥🫵✈⋯· ·💥㊄, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/manga.png, update-interval=172800, opt-parser=true, enabled=true
+https://sub.cm/v3Wvr4M, tag=🦥🫵✈⋯· ·💥㊄, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/manga.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx1, tag=🦥🫵✈⋯· ·💥④, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/ttwkxcx.png, update-interval=172800, opt-parser=true, enabled=true
 https://pastebin.com/raw/GxR5pELe, tag=🦥🫵✈⋯· ·💥❸, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Panda.png, update-interval=172800, opt-parser=true, enabled=true
 https://tihg.fun/vmess/sub, tag=🦥🫵✈⋯· ·💥②, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/idkttt.png, update-interval=172800, opt-parser=true, enabled=true
@@ -30,7 +29,7 @@ https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2, tag=𓃰“辰”�
 https://ghproxy.com//raw.githubusercontent.com/yaney01/Yaney01/main/yaney_01, tag=𓃰“巳”🐍✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Area.png, update-interval=86400, opt-parser=true, enabled=true
 http://101.132.255.205:1234/clash/proxies, tag=𓃰“午”🐎✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Kache.png, update-interval=86400, opt-parser=true, enabled=true
 https://clash.myvm.cc/vmess/sub, tag=𓃰“未”🐑✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Ywhl.png, update-interval=86400, opt-parser=true, enabled=true
-https://blueseago.tk:8443/vmess/sub, tag=𓃰“申”🐵✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Enet.png, update-interval=86400, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/kxswa/k/k/base64, tag=𓃰“申”🐵✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Enet.png, update-interval=86400, opt-parser=true, enabled=true
 https://sub.cm/BCWkxDR, tag=𓃰“酉”🐔✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SaySS.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/ijjhfyuh/-/main/q, tag=𓃰“戌”🦮✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Media.png, update-interval=172800, opt-parser=true, inserted-resource=true, enabled=true
 http://tg.cyy200.xyz/api/v1/client/subscribe?token=368b56858d0396b34eaaffd715ea2266&flag=shadowrocket, tag=𓃰“亥”🐗✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Bubble/Social-Logo/Slack.png, update-interval=86400, opt-parser=true, inserted-resource=true, enabled=true
