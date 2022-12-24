@@ -375,6 +375,17 @@ final, 🌈SSID⛈✈
 
 #复写远程订阅
 [rewrite_remote]
+https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/dzqj.conf, tag=电子请柬制作, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/jssmy.conf, tag=极速扫描仪, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/sjsmy.conf, tag=手机扫描仪, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/lgzj.conf, tag=灵敢足迹, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/seven.conf, tag=7分钟HIIT运动, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/arpdfbj.conf, tag=傲软PDF编辑, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/artp.conf, tag=傲软投屏, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/hyzm.conf, tag=绘影字幕, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/biliad.conf, tag=哔哩哔哩去广告, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/startingad.conf, tag=APP启动页去广告, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/AdBlock.conf, tag=广告屏蔽, update-interval=172800, opt-parser=true, enabled=true
 #新版YouTube去广告
 https://raw.githubusercontent.com/Orz-3/QuantumultX/master/YouTube.conf, tag=新版YouTube去广告, update-interval=172800, opt-parser=true, enabled=false
 #YouTube去广告(>=iOS15)
@@ -827,7 +838,7 @@ https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/backend/sub-store.min
 5 0 * * * https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/check_in/hzh/hzh.js, tag=华住会, img-url=https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/picture/hzh.png, enabled=true
 30 4 8 * * * https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/check_in/klcw/klcw.js, tag=酷乐潮玩小程序, img-url=https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/picture/klcw.png, enabled=true
 25 4 8 * * * https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/check_in/jiumu/jiumu.js, tag=九木杂物社, img-url=https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/picture/jiumu.png, enabled=true
-0 0 6 * * * https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/check_in/idaily/idaily.js, tag=iDaily每日环球视野, img-url=https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/picture/idaily.png, enabled=true
+*/5 * * * * https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/check_in/idaily/idaily.js, tag=iDaily每日环球视野, img-url=https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/picture/idaily.png, enabled=true
 0 0 6 * * * https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/check_in/nasa/nasapic.js, tag=NASA每日一图, img-url=https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/picture/nasa.png, enabled=true
 0 5 * * * * https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/check_in/wechatsubs/sydwzp.js, tag=事业单位招聘监控, img-url=https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/picture/sydw.png, enabled=true
 # 京东多合一签到
