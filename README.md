@@ -375,6 +375,11 @@ final, 🌈SSID⛈✈
 
 #复写远程订阅
 [rewrite_remote]
+https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/bili-region.module, tag=bilibili自动换区, update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.sgmodule, tag=开屏去广告, update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/biliad.module, tag=哔哩哔哩去广告, update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/bai1zi/shadowrocket-surge-loon-qx/main/bilibili.sgmodule, tag=哔哩哔哩去广告, update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/chengkongyiban/shadowrocket/main/Block/bilibili.module, tag=哔哩哔哩去广告, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/dzqj.conf, tag=电子请柬制作, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/jssmy.conf, tag=极速扫描仪, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/sjsmy.conf, tag=手机扫描仪, update-interval=172800, opt-parser=true, enabled=true
