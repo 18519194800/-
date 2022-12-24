@@ -40,7 +40,7 @@ http://tg.cyy200.xyz/api/v1/client/subscribe?token=368b56858d0396b34eaaffd715ea2
 ssid=🌈SSID⛈✈, ★𓃰🦢策略選取🌦✈,  ★𓃰🦢策略選取🌦✈,    img-url=https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/SSID.png
 static=★𓃰🦢策略選取🌦✈, proxy, direct, reject, ★𓃰直连✈, ★𓃰拒绝✈, ★𓃰廣告攔截✈, ★𓃰🍟機場訂閱🌦✈, ★𓃰💯負載均衡🌦✈, ★𓃰🌏節點選擇🌦✈, ★𓃰♨️健康檢測🌦✈, ★𓃰♻️自動選擇🌦✈, ★𓃰👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png
 
-dest-hash=★𓃰🍟機場訂閱🌦✈, resource-tag-regex=𓃰“申”🐵✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Fries.png
+url-latency-benchmark=★𓃰🍟機場訂閱🌦✈, resource-tag-regex=🦥🫵✈⋯· ·💥❹, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Fries.png
 
 url-latency-benchmark=★𓃰🌏節點選擇🌦✈, 🇬🇧GB_4766, 蜂窝网, WI-FI, check-interval=600, tolerance=4, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Static.png
 
@@ -50,7 +50,7 @@ static=★𓃰♨️健康檢測🌦✈, 🇬🇧GB_4766, WI-FI, 蜂窝网, img-
 
 url-latency-benchmark=★𓃰♻️自動選擇🌦✈, resource-tag-regex=𓃰“亥”🐗✈⋯· · · ·  ·🚴‍♀️, server-tag-regex=(?=.*(东京|公益|(?i)Trojan))^((?!(日本|频道|网易|hong kong|游戏|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Roundrobin.png
 
-static=★𓃰👋手動選擇🌦✈, resource-tag-regex=🦥🫵✈⋯· ·💥❶, server-tag-regex=(?=.*(A||(?i)A||))^((?!(?i)(IPLC|IEPL|game|🎧|網易|网易|音乐|专线|手游|游戏)).)*$, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Clubhouse.png
+static=★𓃰👋手動選擇🌦✈, resource-tag-regex=𓃰“申”🐵✈⋯· · · ·  ·🚴‍♀️, server-tag-regex=(?=.*(A||(?i)A||))^((?!(?i)(IPLC|IEPL|game|🎧|網易|网易|音乐|专线|手游|游戏)).)*$, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Clubhouse.png
 
 static=★𓃰直连✈, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Direct.png
 
@@ -179,8 +179,8 @@ url-latency-benchmark=★𓃰澳大利亞✈, server-tag-regex=(?=.*(澳大利�
 [filter_remote]
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Baidu/Baidu.list, tag=百度, force-policy=direct, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/CCTV/CCTV.list , tag=CCTV, force-policy=direct, update-interval=172800, opt-parser=true, enabled=true
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/CCTV/CCTV.list , tag=CCTV, force-policy=direct, update-interval=172800, opt-parser=true, enabled=true
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaTelecom/ChinaTelecom.list, tag=中国电信, force-policy=direct, update-interval=172800, opt-parser=true, enabled=true
 
@@ -314,9 +314,10 @@ https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/Speedte
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Microsoft/Microsoft.list, tag=Microsoft (微软服务), force-policy=★𓃰Microsoft✈, update-interval=86400, opt-parser=true, enabled=true
 
 
+# 本地分流规则
+# 本地分流规则(相同规则下，本地规则将覆盖远程规则，优先生效)
 [filter_local]
 host-suffix, boxjs.com, 🌈SSID⛈✈
-# 本地分流规则(相同规则下，本地规则将覆盖远程规则，优先生效)
 # 绕过企业证书过期
 host, ocsp.apple.com, reject
 #YouTube 去底部广告
@@ -374,18 +375,31 @@ final, 🌈SSID⛈✈
 
 #复写远程订阅
 [rewrite_remote]
+#新版YouTube去广告
 https://raw.githubusercontent.com/Orz-3/QuantumultX/master/YouTube.conf, tag=新版YouTube去广告, update-interval=172800, opt-parser=true, enabled=false
+#YouTube去广告(>=iOS15)
 https://raw.githubusercontent.com/app2smile/rules/master/module/youtube.sgmodule, tag=YouTube去广告(>=iOS15), update-interval=172800, opt-parser=true, enabled=false
+#YouTube瀑布流
 https://raw.githubusercontent.com/app2smile/rules/master/module/youtube-qx.conf, tag=YouTube瀑布流, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/YouTubeAds.conf, tag=YouTube去广告❻, update-interval=172800, opt-parser=false, enabled=true
+#YouTube去广告❻
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/YouTubeAds.conf, tag=YouTube去广告❻, update-interval=172800, opt-parser=false, enabled=true 
+#youtube去广告❺
 https://raw.githubusercontent.com/pomelosea/QuantumultX/main/YouTube.conf, tag=youtube去广告❺, update-interval=172800, opt-parser=true, inserted-resource=true, enabled=false
+#YouToube去广告❹
 https://raw.githubusercontent.com/Maasea/sgmodule/master/youtubePlayer.sgmodule, tag=YouToube去广告❹, update-interval=172800, opt-parser=true, enabled=false
+#YouToube去广告❸
 https://raw.githubusercontent.com/chengkongyiban/shadowrocket/main/Block/YTADBlocker.module, tag=YouToube去广告❸, update-interval=172800, opt-parser=true, enabled=false
+#YouBube去广告❷
 https://raw.githubusercontent.com/Maasea/sgmodule/master/YoutubeAds.sgmodule, tag=YouBube去广告❷, update-interval=172800, opt-parser=true, enabled=false
+#YouBube去广告❶
 https://raw.githubusercontent.com/bai1zi/shadowrocket-surge-loon-qx/main/YouTubeads.sgmodule, tag=YouTube去广告❶, update-interval=172800, opt-parser=true, enabled=true
+#YouTube字幕
 https://raw.githubusercontent.com/id77/QuantumultX/master/rewrite/Youtube_CC.conf, tag=YouTube字幕, update-interval=172800, opt-parser=true, enabled=true
+#脚本集合
 https://raw.githubusercontent.com/evilbutcher/QuantumultX/main/profiles/QuantumultX/QuantumultX.rewrite.conf, tag=脚本集合, update-interval=172800, opt-parser=true, enabled=true
+#alpenglow
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/AlpenglowProCrack.js, tag=alpenglow, update-interval=172800, opt-parser=true, enabled=true
+#脚本订阅合集+自己写的去广告
 https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/QuantumultX.rewrite.conf, tag=脚本订阅合集+自己写的去广告, update-interval=172800, opt-parser=true, enabled=true
 #快柠檬永久解锁
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/SmallDialyVipCrack.js, tag=快柠檬永久解锁, update-interval=172800, opt-parser=true, enabled=true
@@ -395,7 +409,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Qu
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/GridDiary2ProCrack.js, tag=格子日记, update-interval=172800, opt-parser=true, enabled=true
 #获取cookie
 https://raw.githubusercontent.com/ClydeTime/Quantumult/main/Task/GetCookie.sgmodule, tag=获取cookie, update-interval=172800, opt-parser=true, enabled=true
-#广告拦截
 # iRingo for Siri & Search
 https://raw.githubusercontent.com/VirgilClyne/iRingo/main/qxrewrite/Siri.qxrewrite?raw=true, tag= iRingo for Siri & Search, update-interval=172800, opt-parser=false, enabled=true
 # iRingo for TV app
@@ -709,7 +722,8 @@ https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrit
 
 
 [rewrite_local]
-
+#九木杂物社
+https:\/\/wxavip\-up\.ezrpro\.cn\/Vip\/SignIn\/SignIn url script-request-body https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/jiumu/jiumu.js
 # 阿里云盘 hostname = api.aliyundrive.com
 ^https?:\/\/api\.aliyundrive\.com\/apps\/v\d\/users\/apps\/widgets$ url script-response-body https://raw.githubusercontent.com/Softlyx/QuantumultX/main/AdBlock/Aliyun/aliyun.js
 
@@ -815,7 +829,6 @@ https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/backend/sub-store.min
 25 4 8 * * * https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/check_in/jiumu/jiumu.js, tag=九木杂物社, img-url=https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/picture/jiumu.png, enabled=true
 0 0 6 * * * https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/check_in/idaily/idaily.js, tag=iDaily每日环球视野, img-url=https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/picture/idaily.png, enabled=true
 0 0 6 * * * https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/check_in/nasa/nasapic.js, tag=NASA每日一图, img-url=https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/picture/nasa.png, enabled=true
-0 5 * * * * https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/check_in/wechatsubs/gxrcw.js, tag=高校人才网招聘监控, img-url=https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/picture/gxrcw.png, enabled=true
 0 5 * * * * https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/check_in/wechatsubs/sydwzp.js, tag=事业单位招聘监控, img-url=https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/picture/sydw.png, enabled=true
 # 京东多合一签到
 5 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东多合一签到, img-url=https://raw.githubusercontent.com/NobyDa/mini/master/Color/jd.png,enabled=true
