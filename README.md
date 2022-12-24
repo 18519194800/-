@@ -46,7 +46,7 @@ url-latency-benchmark=★𓃰🌏節點選擇🌦✈, 🇬🇧GB_4766, 蜂窝网
 
 round-robin=★𓃰💯負載均衡🌦✈, 🇬🇧GB_4766, Trojan-东京01|公益 ², Trojan-东京01|公益 ³, Trojan-东京01|公益 ⁴, Trojan-东京02|公益 ², Trojan-东京02|公益 ⁴, Trojan-东京02|公益 ⁵, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SSID.png
 
-static=★𓃰♨️健康檢測🌦✈, 🇬🇧GB_4766, WI-FI, 蜂窝网, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Available.png
+dest-hash=★𓃰♨️健康檢測🌦✈, 🇬🇧GB_4766, WI-FI, 蜂窝网, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Available.png
 
 url-latency-benchmark=★𓃰♻️自動選擇🌦✈, resource-tag-regex=𓃰“亥”🐗✈⋯· · · ·  ·🚴‍♀️, server-tag-regex=(?=.*(东京|公益|(?i)Trojan))^((?!(日本|频道|网易|hong kong|游戏|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Roundrobin.png
 
@@ -156,7 +156,7 @@ url-latency-benchmark=★𓃰埃及✈, server-tag-regex=(?=.*(埃及|Egypt|EG|�
 
 url-latency-benchmark=★𓃰菲利賓✈, server-tag-regex=(?=.*(?i)(菲律宾|🇵🇭|PH|Ph|ph|Philippines|(?i)PH))^((?!(?i)(IPLC|IEPL|game|baipiao|专线|手游|游戏)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Philippines.png
 
-url-latency-benchmark=★𓃰土爾其✈, server-tag-regex=(?=.*(土耳其|🇹🇷|TR|Tr|tr|rus|(?i) Turkey))^((?!(专线|手游|游戏|🇭🇰|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Turkey.png
+url-latency-benchmark=★𓃰土爾其✈, server-tag-regex=(?=.*(土耳其|🇹🇷|TR|Tr|tr|rus|(?i) Turkey))^((?!(专线|手游|游戏|东京|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Turkey.png
 
 url-latency-benchmark=★𓃰新加坡✈, resource-tag-regex=A||, server-tag-regex=(?=.*(新加坡|🇸🇬|Singapore|usa|singapore|USA|(?i)Singapore))^((?!(专线|手游|游戏|Hong|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=5, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Singapore.png
 
