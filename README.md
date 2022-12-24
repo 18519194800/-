@@ -10,8 +10,9 @@ trojan=185.44.76.188:443, password=2e240YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZE
 
 #节点远程订阅，自行添加
 [server_remote]
-https://sub.sharecentre.online/sub, tag=🦥🫵✈⋯· ·💥❺, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/WTT.png, update-interval=172800, opt-parser=true, enabled=true
-https://sub.cm/v3Wvr4M, tag=🦥🫵✈⋯· ·💥❹, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/manga.png, update-interval=172800, opt-parser=true, enabled=true
+https://sub.sharecentre.online/sub, tag=🦥🫵✈⋯· ·💥❻, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/WTT.png, update-interval=172800, opt-parser=true, enabled=true
+https://sub.cm/v3Wvr4M, tag=🦥🫵✈⋯· ·💥❺, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/manga.png, update-interval=172800, opt-parser=true, enabled=true
+https://pastebin.com/raw/VE7Hf2ZC, tag=🦥🫵✈⋯· ·💥❹, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/pikachu.png, update-interval=172800, opt-parser=false, enabled=true
 https://raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx1, tag=🦥🫵✈⋯· ·💥❸, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/ttwkxcx.png, update-interval=172800, opt-parser=true, enabled=true
 https://tihg.fun/vmess/sub, tag=🦥🫵✈⋯· ·💥❷, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/idkttt.png, update-interval=172800, opt-parser=true, enabled=true
 https://tt.vg/freev2, tag=🦥🫵✈⋯· ·💥❶, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/hoya.png, update-interval=172800, opt-parser=true, enabled=true
