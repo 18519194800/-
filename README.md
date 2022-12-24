@@ -50,7 +50,7 @@ dest-hash=★𓃰♨️健康檢測🌦✈, 🇬🇧GB_4766, WI-FI, 蜂窝网, i
 
 url-latency-benchmark=★𓃰♻️自動選擇🌦✈, resource-tag-regex=𓃰“亥”🐗✈⋯· · · ·  ·🚴‍♀️, server-tag-regex=(?=.*(东京|公益|(?i)Trojan))^((?!(日本|频道|网易|hong kong|游戏|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Roundrobin.png
 
-static=★𓃰👋手動選擇🌦✈, resource-tag-regex=𓃰“申”🐵✈⋯· · · ·  ·🚴‍♀️, server-tag-regex=(?=.*(A||(?i)A||))^((?!(?i)(IPLC|IEPL|game|🎧|網易|网易|音乐|专线|手游|游戏)).)*$, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Clubhouse.png
+static=★𓃰👋手動選擇🌦✈, server-tag-regex=(?=.*(香港|🇭🇰|Hong Kong|hong|kong|HK|Hk|hk|(?i)Hong))^((?!(专线|手游|游戏|NETFLIX|yun|Kong|(?i)IPLC|IEPF|game)).)*$, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Clubhouse.png
 
 static=★𓃰直连✈, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Direct.png
 
@@ -177,6 +177,7 @@ url-latency-benchmark=★𓃰澳大利亞✈, server-tag-regex=(?=.*(澳大利�
 
 #规则分流远程订阅
 [filter_remote]
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingTest/AdvertisingTest.list, tag=测试版去广告, force-policy=direct, update-interval=172800, opt-parser=true, enabled=false
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Baidu/Baidu.list, tag=百度, force-policy=direct, update-interval=172800, opt-parser=true, enabled=true
 
@@ -375,30 +376,21 @@ final, 🌈SSID⛈✈
 
 #复写远程订阅
 [rewrite_remote]
-https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/bili-region.module, tag=bilibili自动换区, update-interval=172800, opt-parser=true, enabled=false
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.sgmodule, tag=开屏去广告, update-interval=172800, opt-parser=true, enabled=false
-https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/biliad.module, tag=哔哩哔哩去广告, update-interval=172800, opt-parser=true, enabled=false
-https://raw.githubusercontent.com/bai1zi/shadowrocket-surge-loon-qx/main/bilibili.sgmodule, tag=哔哩哔哩去广告, update-interval=172800, opt-parser=true, enabled=false
 https://raw.githubusercontent.com/chengkongyiban/shadowrocket/main/Block/bilibili.module, tag=哔哩哔哩去广告, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/dzqj.conf, tag=电子请柬制作, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/jssmy.conf, tag=极速扫描仪, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/sjsmy.conf, tag=手机扫描仪, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/lgzj.conf, tag=灵敢足迹, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/seven.conf, tag=7分钟HIIT运动, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/arpdfbj.conf, tag=傲软PDF编辑, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/artp.conf, tag=傲软投屏, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/hyzm.conf, tag=绘影字幕, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/biliad.conf, tag=哔哩哔哩去广告, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/startingad.conf, tag=APP启动页去广告, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/AdBlock.conf, tag=广告屏蔽, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/bai1zi/shadowrocket-surge-loon-qx/main/bilibili.sgmodule, tag=哔哩哔哩去广告, update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/biliad.conf, tag=哔哩哔哩去广告, update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/biliad.module, tag=哔哩哔哩去广告, update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/bili-region.module, tag=bilibili自动换区, update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/startingad.conf, tag=APP启动页去广告, update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.sgmodule, tag=开屏去广告, update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/AdBlock.conf, tag=广告屏蔽, update-interval=172800, opt-parser=true, enabled=false
 #新版YouTube去广告
 https://raw.githubusercontent.com/Orz-3/QuantumultX/master/YouTube.conf, tag=新版YouTube去广告, update-interval=172800, opt-parser=true, enabled=false
 #YouTube去广告(>=iOS15)
 https://raw.githubusercontent.com/app2smile/rules/master/module/youtube.sgmodule, tag=YouTube去广告(>=iOS15), update-interval=172800, opt-parser=true, enabled=false
 #YouTube瀑布流
-https://raw.githubusercontent.com/app2smile/rules/master/module/youtube-qx.conf, tag=YouTube瀑布流, update-interval=172800, opt-parser=true, enabled=true
 #YouTube去广告❻
-https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/YouTubeAds.conf, tag=YouTube去广告❻, update-interval=172800, opt-parser=false, enabled=true 
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/YouTubeAds.conf, tag=YouTube去广告❻, update-interval=172800, opt-parser=false, enabled=false
 #youtube去广告❺
 https://raw.githubusercontent.com/pomelosea/QuantumultX/main/YouTube.conf, tag=youtube去广告❺, update-interval=172800, opt-parser=true, inserted-resource=true, enabled=false
 #YouToube去广告❹
@@ -409,10 +401,19 @@ https://raw.githubusercontent.com/chengkongyiban/shadowrocket/main/Block/YTADBlo
 https://raw.githubusercontent.com/Maasea/sgmodule/master/YoutubeAds.sgmodule, tag=YouBube去广告❷, update-interval=172800, opt-parser=true, enabled=false
 #YouBube去广告❶
 https://raw.githubusercontent.com/bai1zi/shadowrocket-surge-loon-qx/main/YouTubeads.sgmodule, tag=YouTube去广告❶, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/app2smile/rules/master/module/youtube-qx.conf, tag=YouTube瀑布流, update-interval=172800, opt-parser=true, enabled=true
 #YouTube字幕
 https://raw.githubusercontent.com/id77/QuantumultX/master/rewrite/Youtube_CC.conf, tag=YouTube字幕, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/artp.conf, tag=傲软投屏, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/hyzm.conf, tag=绘影字幕, update-interval=172800, opt-parser=true, enabled=true
 #脚本集合
 https://raw.githubusercontent.com/evilbutcher/QuantumultX/main/profiles/QuantumultX/QuantumultX.rewrite.conf, tag=脚本集合, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/lgzj.conf, tag=灵敢足迹, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/jssmy.conf, tag=极速扫描仪, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/sjsmy.conf, tag=手机扫描仪, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/arpdfbj.conf, tag=傲软PDF编辑, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/dzqj.conf, tag=电子请柬制作, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/seven.conf, tag=7分钟HIIT运动, update-interval=172800, opt-parser=true, enabled=true
 #alpenglow
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/AlpenglowProCrack.js, tag=alpenglow, update-interval=172800, opt-parser=true, enabled=true
 #脚本订阅合集+自己写的去广告
@@ -827,7 +828,7 @@ https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/backend/sub-store.min
 
 
 [task_local]
-*/5 * * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10000/10000.js, tag=电信, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/10000.png, enabled=true
+1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10000/10000.js, tag=电信, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/10000.png, enabled=true
 */5 * * * * https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v3/10010.js, tag=联通余量(v3), img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/10010.png, enabled=true
 30 0 8-22/2 * * * https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/check_in/hotsearch/hot.js, tag=热门监控, img-url=https://raw.githubusercontent.com/58xinian/icon/master/hot.png, enabled=true
 45 4 8 * * * https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/check_in/glados/checkin_env.js, tag=机场签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/airport.png, enabled=true
@@ -1081,18 +1082,18 @@ https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/backend/sub-store.min
 0 16 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js, tag=腾讯自选股, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/txstockqx.png, enabled=true
 */30 6-23 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/chonghua.js, tag=葱花视频, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/chonghua.png, enabled=true
 0 8-23/2 * * * https://raw.githubusercontent.com/adwktt/adwktt/master/BBB.js, tag=步步宝, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/BBB.png, enabled=true
+event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/switch-check-google.js, tag=Google 切换, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Google.png, enabled=true
+event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/traffic-check.js, tag=策略流量查询, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Download.png, enabled=true
+event-interaction https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/NodeLinkCheck/Script/NodeLinkCheck.js, tag=Env代理链路检测, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Stack.png, enabled=true
+event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/streaming-ui-check.js, tag=流媒体-解锁查询, img-url=checkmark.seal.system, enabled=true
+event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/geo_location.js, tag=GeoIP 查询, img-url=location.fill.viewfinder.system, enabled=true
 event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/ytb-ui-check.js, tag=YouTube 查询, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube_Letter.png, enabled=true
 event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/switch-check-ytb.js, tag=YouTube 切换, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube_Letter.png, enabled=true
 event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/nf-ui-check.js, tag=Netflix 查询, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netflix_Letter.png, enabled=true
 event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/switch-check-nf.js, tag=Netflix 切换, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netflix_Letter.png, enabled=true
 event-interaction https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/TaskLocal/NeteaseMusicUnlockCheck.js, tag=网易音乐查询, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netease_Music_Unlock.png, enabled=true
-event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/streaming-ui-check.js, tag=流媒体-解锁查询, img-url=checkmark.seal.system, enabled=true
 event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/disney-ui-check.js, tag=Disney⁺ 查询, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Disney.png, enabled=true
 event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/switch-check-disneyplus.js, tag=Disneyᐩ 切换, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Disney.png, enabled=true
-event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/switch-check-google.js, tag=Google 切换, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Google.png, enabled=true
-event-interaction https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/NodeLinkCheck/Script/NodeLinkCheck.js, tag=Env代理链路检测, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Stack.png, enabled=true
-event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/traffic-check.js, tag=策略流量查询, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Download.png, enabled=true
-event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/geo_location.js, tag=GeoIP 查询, img-url=location.fill.viewfinder.system, enabled=true
 
 
 [mitm]
