@@ -373,11 +373,11 @@ final, 🌈SSID⛈✈
 
 #复写远程订阅
 [rewrite_remote]
-https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/YouTubeAds.conf, tag=YouTube去广告, update-interval=172800, opt-parser=false, enabled=true
-https://raw.githubusercontent.com/app2smile/rules/master/module/youtube-qx.conf, tag=YouTube瀑布流, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/pomelosea/QuantumultX/main/YouTube.conf, tag=youtube去广告, update-interval=172800, opt-parser=true, inserted-resource=true, enabled=false
 https://raw.githubusercontent.com/Orz-3/QuantumultX/master/YouTube.conf, tag=新版YouTube去广告, update-interval=172800, opt-parser=true, enabled=false
 https://raw.githubusercontent.com/app2smile/rules/master/module/youtube.sgmodule, tag=YouTube去广告(>=iOS15), update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/app2smile/rules/master/module/youtube-qx.conf, tag=YouTube瀑布流, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/YouTubeAds.conf, tag=YouTube去广告❻, update-interval=172800, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/pomelosea/QuantumultX/main/YouTube.conf, tag=youtube去广告❺, update-interval=172800, opt-parser=true, inserted-resource=true, enabled=false
 https://raw.githubusercontent.com/Maasea/sgmodule/master/youtubePlayer.sgmodule, tag=YouToube去广告❹, update-interval=172800, opt-parser=true, enabled=false
 https://raw.githubusercontent.com/chengkongyiban/shadowrocket/main/Block/YTADBlocker.module, tag=YouToube去广告❸, update-interval=172800, opt-parser=true, enabled=false
 https://raw.githubusercontent.com/Maasea/sgmodule/master/YoutubeAds.sgmodule, tag=YouBube去广告❷, update-interval=172800, opt-parser=true, enabled=false
@@ -796,7 +796,9 @@ https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/backend/sub-store.min
 
 
 [task_local]
-
+0 30 21 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10000/10000.js, tag=电信, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/10000.png, enabled=true
+*/5 * * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10000/10000.cookie.js, tag=电信cookie, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/10000.png, enabled=true
+*/5 * * * * https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v3/10010.js, tag=联通余量(v3), img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/10010.png, enabled=true
 30 0 8-22/2 * * * https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/check_in/hotsearch/hot.js, tag=热门监控, img-url=https://raw.githubusercontent.com/58xinian/icon/master/hot.png, enabled=true
 45 4 8 * * * https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/check_in/glados/checkin_env.js, tag=机场签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/airport.png, enabled=true
 0 5 8 * * * https://raw.githubusercontent.com/evilbutcher/QuantumultX/master//check_in/glados/checkincookie_env.js, tag=机场签到Cookie版, img-url=https://raw.githubusercontent.com/58xinian/icon/master/glados.png, enabled=true
