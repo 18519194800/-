@@ -8,8 +8,11 @@ vmess=example.com:443, method=chacha20-poly1305, password=23ad6b10-8d1a-40f7-8ad
 
 trojan=185.44.76.188:443, password=2e240YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZEc1I3QVZ2, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇬🇧GB_4766
 
+
 #节点远程订阅，自行添加
 [server_remote]
+
+https://sanfen002.xyz/api/v1/client/subscribe?token=909085c9d6a41db40e2399ff644395fc&flag=v2ray, tag=🦥🫵✈⋯· ·💥❼, update-interval=172800, opt-parser=true, enabled=true
 https://sub.sharecentre.online/sub, tag=🦥🫵✈⋯· ·💥❻, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/WTT.png, update-interval=172800, opt-parser=true, enabled=true
 https://sub.cm/v3Wvr4M, tag=🦥🫵✈⋯· ·💥❺, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/manga.png, update-interval=172800, opt-parser=true, enabled=true
 https://pastebin.com/raw/VE7Hf2ZC, tag=🦥🫵✈⋯· ·💥❹, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/pikachu.png, update-interval=172800, opt-parser=false, enabled=true
@@ -20,7 +23,7 @@ https://qxnav.com/rules/QuantumultX/gz/wyy.list, tag=𓆉“音樂”✈⋯· ·
 https://gitlab.com/ioshkj/quantumultx/-/raw/main/wyy.list, tag=𓃵“網易”✈⋯· ·✨, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Netease_Music_Unlock.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/ripaojiedian/freenode/main/ssr, tag=𓃰“上”👍✈⋯· · · ·  ·⛹️‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Xingmeng.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.fastgit.org/ripaojiedian/freenode/main/sub, tag=𓃰“中”🤝✈⋯· · · ·  ·⛹🏻‍♀️, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Filter/Proxy.png, update-interval=172800, opt-parser=true, inserted-resource=true, enabled=true
-https://suo.yt/BbKc17P, tag=𓃰“下”👎✈⋯· · · ·  ·⛹🏼‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Nucleus.png, update-interval=172800, opt-parser=true, enabled=true
+https://sub.heimayun.xyz/api/v1/client/subscribe?token=705224de588fa1323068a703526dc93c, tag=𓃰“下”👎✈⋯· · · ·  ·⛹🏼‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Nucleus.png, update-interval=172800, opt-parser=true, enabled=true
 https://gitlab.com/univstar1/v2ray/-/raw/main/data/v2ray/general.txt, tag=𓃰“子”🐁✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Naiko.png, update-interval=172800, opt-parser=true, enabled=true
 https://freefq.neocities.org/free.xml, tag=𓃰“醜”🦬✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Ox.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.fastgit.org/freefq/free/master/v2, tag=𓃰“寅”🐅✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/AEX.png, update-interval=86400, opt-parser=true, enabled=true
@@ -41,11 +44,11 @@ ssid=🌈SSID⛈✈, ★𓃰🦥策略選取🌦✈,  ★𓃰🦥策略選取�
 
 static=★𓃰🦥策略選取🌦✈, proxy, direct, reject, ★𓃰直连✈, ★𓃰拒绝✈, ★𓃰廣告攔截✈, ★𓃰🍟機場訂閱🌦✈, ★𓃰💯負載均衡🌦✈, ★𓃰🌏節點選擇🌦✈, ★𓃰♨️健康檢測🌦✈, ★𓃰♻️自動選擇🌦✈, ★𓃰👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png
 
-url-latency-benchmark=★𓃰🍟機場訂閱🌦✈, resource-tag-regex=🦥🫵✈⋯· ·💥❹, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Fries.png
+static=★𓃰🍟機場訂閱🌦✈, resource-tag-regex=🦥🫵✈⋯· ·💥❼, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Fries.png
 
 url-latency-benchmark=★𓃰🌏節點選擇🌦✈, 🇬🇧GB_4766, 蜂窝网, WI-FI, check-interval=600, tolerance=4, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Static.png
 
-round-robin=★𓃰💯負載均衡🌦✈, 🇬🇧GB_4766, Trojan-东京01|公益 ², Trojan-东京01|公益 ³, Trojan-东京01|公益 ⁴, Trojan-东京02|公益 ², Trojan-东京02|公益 ⁴, Trojan-东京02|公益 ⁵, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SSID.png
+round-robin=★𓃰💯負載均衡🌦✈, 🇬🇧GB_4766, Trojan-东京01|公益 ², Trojan-东京01|公益 ³, Trojan-东京02|公益 ², Trojan-东京02|公益 ⁵, Trojan-东京01|公益 ⁵, Trojan-东京02|公益, Trojan-东京02|公益 ³, Trojan-东京03|公益 ³, Trojan-东京03|公益 ⁵, Trojan-东京04|公益 ¹, Trojan-东京04|公益 ², Trojan-东京04|公益 ³, Trojan-东京04|公益 ⁴, Trojan-东京04|公益 ⁵, Trojan-东京05|公益, Trojan-东京05|公益 ¹, Trojan-东京05|公益 ², Trojan-东京05|公益 ⁴, Trojan-东京06|公益 ³, Trojan-东京06|公益 ⁴, Trojan-东京07|公益 ¹, Trojan-东京07|公益 ⁴, Trojan-东京07|公益 ⁵, Trojan-东京08|公益, Trojan-东京08|公益 ³, Trojan-东京08|公益 ⁴, Trojan-东京09|公益, Trojan-东京09|公益 ², Trojan-东京09|公益 ³, Trojan-东京09|公益 ⁴, Trojan-东京09|公益 ⁵, Trojan-东京10|公益 ¹, Trojan-东京10|公益 ³, Trojan-东京10|公益 ⁴, Trojan-东京10|公益 ⁵, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SSID.png
 
 dest-hash=★𓃰♨️健康檢測🌦✈, 🇬🇧GB_4766, WI-FI, 蜂窝网, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Available.png
 
