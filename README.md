@@ -11,7 +11,6 @@ trojan=185.44.76.188:443, password=2e240YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZE
 
 #节点远程订阅，自行添加
 [server_remote]
-
 https://sanfen002.xyz/api/v1/client/subscribe?token=909085c9d6a41db40e2399ff644395fc&flag=v2ray, tag=🦥🫵✈⋯· ·💥❼, update-interval=172800, opt-parser=true, enabled=true
 https://sub.sharecentre.online/sub, tag=🦥🫵✈⋯· ·💥❻, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/WTT.png, update-interval=172800, opt-parser=true, enabled=true
 https://sub.cm/v3Wvr4M, tag=🦥🫵✈⋯· ·💥❺, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/manga.png, update-interval=172800, opt-parser=true, enabled=true
@@ -40,6 +39,7 @@ http://tg.cyy200.xyz/api/v1/client/subscribe?token=368b56858d0396b34eaaffd715ea2
 
 #策略组
 [policy]
+
 ssid=🌈SSID⛈✈, ★𓃰🦥策略選取🌦✈,  ★𓃰🦥策略選取🌦✈,    img-url=https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/SSID.png
 
 static=★𓃰🦥策略選取🌦✈, proxy, direct, reject, ★𓃰直连✈, ★𓃰拒绝✈, ★𓃰廣告攔截✈, ★𓃰🍟機場訂閱🌦✈, ★𓃰💯負載均衡🌦✈, ★𓃰🌏節點選擇🌦✈, ★𓃰♨️健康檢測🌦✈, ★𓃰♻️自動選擇🌦✈, ★𓃰👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png
@@ -48,7 +48,7 @@ static=★𓃰🍟機場訂閱🌦✈, resource-tag-regex=🦥🫵✈⋯· ·�
 
 url-latency-benchmark=★𓃰🌏節點選擇🌦✈, 🇬🇧GB_4766, 蜂窝网, WI-FI, check-interval=600, tolerance=4, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Static.png
 
-round-robin=★𓃰💯負載均衡🌦✈, 🇬🇧GB_4766, Trojan-东京01|公益 ², Trojan-东京01|公益 ³, Trojan-东京02|公益 ², Trojan-东京02|公益 ⁵, Trojan-东京01|公益 ⁵, Trojan-东京02|公益, Trojan-东京02|公益 ³, Trojan-东京03|公益 ³, Trojan-东京03|公益 ⁵, Trojan-东京04|公益 ¹, Trojan-东京04|公益 ², Trojan-东京04|公益 ³, Trojan-东京04|公益 ⁴, Trojan-东京04|公益 ⁵, Trojan-东京05|公益, Trojan-东京05|公益 ¹, Trojan-东京05|公益 ², Trojan-东京05|公益 ⁴, Trojan-东京06|公益 ³, Trojan-东京06|公益 ⁴, Trojan-东京07|公益 ¹, Trojan-东京07|公益 ⁴, Trojan-东京07|公益 ⁵, Trojan-东京08|公益, Trojan-东京08|公益 ³, Trojan-东京08|公益 ⁴, Trojan-东京09|公益, Trojan-东京09|公益 ², Trojan-东京09|公益 ³, Trojan-东京09|公益 ⁴, Trojan-东京09|公益 ⁵, Trojan-东京10|公益 ¹, Trojan-东京10|公益 ³, Trojan-东京10|公益 ⁴, Trojan-东京10|公益 ⁵, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SSID.png
+round-robin=★𓃰💯負載均衡🌦✈, 🇬🇧GB_4766, Trojan-东京01|公益 ², Trojan-东京01|公益 ³, Trojan-东京02|公益 ², Trojan-东京02|公益 ⁵, Trojan-东京01|公益 ⁵, Trojan-东京02|公益, Trojan-东京02|公益 ³, Trojan-东京03|公益 ³, Trojan-东京03|公益 ⁵, Trojan-东京04|公益 ¹, Trojan-东京04|公益 ², Trojan-东京04|公益 ³, Trojan-东京04|公益 ⁴, Trojan-东京04|公益 ⁵, Trojan-东京05|公益, Trojan-东京05|公益 ¹, Trojan-东京05|公益 ², Trojan-东京05|公益 ⁴, Trojan-东京06|公益 ³, Trojan-东京06|公益 ⁴, Trojan-东京08|公益, Trojan-东京08|公益 ³, Trojan-东京08|公益 ⁴, Trojan-东京09|公益, Trojan-东京09|公益 ², Trojan-东京09|公益 ³, Trojan-东京09|公益 ⁴, Trojan-东京09|公益 ⁵, Trojan-东京10|公益 ¹, Trojan-东京10|公益 ³, Trojan-东京10|公益 ⁴, Trojan-东京10|公益 ⁵, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SSID.png
 
 dest-hash=★𓃰♨️健康檢測🌦✈, 🇬🇧GB_4766, WI-FI, 蜂窝网, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Available.png
 
@@ -189,7 +189,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Quant
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaTelecom/ChinaTelecom.list, tag=中国电信, force-policy=direct, update-interval=172800, opt-parser=true, enabled=true
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/CaiNiao/CaiNiao.list, tag=菜鸟裹裹, force-policy=direct, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingTest/AdvertisingTest.list, tag=测试版去广告, force-policy=direct, update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingTest/AdvertisingTest.list, tag=测试版去广告, force-policy=direct, update-interval=172800, opt-parser=true, enabled=true
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/CNNIC/CNNIC.list, tag=中国互联网络信息中心, force-policy=direct, update-interval=172800, opt-parser=true, enabled=true
 
@@ -380,6 +380,9 @@ final, 🌈SSID⛈✈
 
 #复写远程订阅
 [rewrite_remote]
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/yczjz.js, tag=一寸证件照——解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/Eric.conf, tag=Eric大佬破解解锁脚本合集, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/Crazy-Z7/AdGuard/main/Ad.conf, tag=屏蔽开屏广告, update-interval=172800, opt-parser=true, enabled=true
 #哔哩哔哩去广告❹
 https://raw.githubusercontent.com/chengkongyiban/shadowrocket/main/Block/bilibili.module, tag=哔哩哔哩去广告❹, update-interval=172800, opt-parser=true, enabled=true
 #哔哩哔哩去广告❸
@@ -759,6 +762,9 @@ https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrit
 
 
 [rewrite_local]
+
+# 注意获取Cookie有两条脚本
+
 #九木杂物社
 https:\/\/wxavip\-up\.ezrpro\.cn\/Vip\/SignIn\/SignIn url script-request-body https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/jiumu/jiumu.js
 # 阿里云盘 hostname = api.aliyundrive.com
@@ -848,6 +854,8 @@ https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/backend/sub-store.min
 
 
 [task_local]
+1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10010/10010.cookie.js, tag=联通cookie, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/10010.png, enabled=true
+1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10010/10010.js, tag=联通签到, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/10010.png, enabled=true
 0 4 8 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/funboat/funboat.js, tag=Funboat, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/funboat.png, enabled=true
 30 0 8-22/2 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/hotsearch/hot.js, tag=热门监控, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/hot.png, enabled=true
 5 0 * * * https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/check_in/taobao/tb.js, tag=淘宝监控, img-url=https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/picture/tb.png, enabled=true
