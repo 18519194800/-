@@ -11,9 +11,8 @@ trojan=185.44.76.188:443, password=2e240YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZE
 
 #节点远程订阅，自行添加
 [server_remote]
-https://sanfen002.xyz/api/v1/client/subscribe?token=909085c9d6a41db40e2399ff644395fc&flag=v2ray, tag=🦥🫵✈⋯· ·💥❼, update-interval=172800, opt-parser=true, enabled=true
 https://sub.sharecentre.online/sub, tag=🦥🫵✈⋯· ·💥❻, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/WTT.png, update-interval=172800, opt-parser=true, enabled=true
-https://sub.cm/v3Wvr4M, tag=🦥🫵✈⋯· ·💥❺, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/manga.png, update-interval=172800, opt-parser=true, enabled=true
+https://suo.yt/qrlRIGD, tag=🦥🫵✈⋯· ·💥❺, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/manga.png, update-interval=172800, opt-parser=true, enabled=true
 https://pastebin.com/raw/VE7Hf2ZC, tag=🦥🫵✈⋯· ·💥❹, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/pikachu.png, update-interval=172800, opt-parser=false, enabled=true
 https://raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx1, tag=🦥🫵✈⋯· ·💥❸, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/ttwkxcx.png, update-interval=172800, opt-parser=true, enabled=true
 https://tihg.fun/vmess/sub, tag=🦥🫵✈⋯· ·💥❷, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/idkttt.png, update-interval=172800, opt-parser=true, enabled=true
@@ -30,7 +29,7 @@ https://pastebin.com/raw/GxR5pELe, tag=𓃰“卯”🐇✈⋯· · · ·  ·�
 https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2, tag=𓃰“辰”🐉✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/Final.png, update-interval=172800, opt-parser=true, enabled=true
 https://ghproxy.com//raw.githubusercontent.com/yaney01/Yaney01/main/yaney_01, tag=𓃰“巳”🐍✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Area.png, update-interval=86400, opt-parser=true, enabled=true
 http://101.132.255.205:1234/clash/proxies, tag=𓃰“午”🐎✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Kache.png, update-interval=86400, opt-parser=true, enabled=true
-https://clash.myvm.cc/vmess/sub, tag=𓃰“未”🐑✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Ywhl.png, update-interval=86400, opt-parser=true, enabled=true
+https://raw.fastgit.org/Pawdroid/Free-servers/main/sub, tag=𓃰“未”🐑✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Ywhl.png, update-interval=86400, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/kxswa/k/k/base64, tag=𓃰“申”🐵✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Enet.png, update-interval=86400, opt-parser=true, enabled=true
 https://sub.cm/BCWkxDR, tag=𓃰“酉”🐔✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SaySS.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/ijjhfyuh/-/main/q, tag=𓃰“戌”🦮✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Media.png, update-interval=172800, opt-parser=true, inserted-resource=true, enabled=true
@@ -44,7 +43,7 @@ ssid=🌈SSID⛈✈, ★𓃰🦥策略選取🌦✈,  ★𓃰🦥策略選取�
 
 static=★𓃰🦥策略選取🌦✈, proxy, direct, reject, ★𓃰直连✈, ★𓃰拒绝✈, ★𓃰廣告攔截✈, ★𓃰🍟機場訂閱🌦✈, ★𓃰💯負載均衡🌦✈, ★𓃰🌏節點選擇🌦✈, ★𓃰♨️健康檢測🌦✈, ★𓃰♻️自動選擇🌦✈, ★𓃰👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png
 
-static=★𓃰🍟機場訂閱🌦✈, resource-tag-regex=🦥🫵✈⋯· ·💥❼, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Fries.png
+url-latency-benchmark=★𓃰🍟機場訂閱🌦✈, resource-tag-regex=🦥🫵✈⋯· ·💥❺, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Fries.png
 
 url-latency-benchmark=★𓃰🌏節點選擇🌦✈, 🇬🇧GB_4766, 蜂窝网, WI-FI, check-interval=600, tolerance=4, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Static.png
 
@@ -763,7 +762,11 @@ https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrit
 
 [rewrite_local]
 
-# 注意获取Cookie有两条脚本
+# 获取京东Cookie. 
+^https:\/\/(api\.m|me-api)\.jd\.com\/(client\.action\?functionId=signBean|user_new\/info\/GetJDUserInfoUnion\?) url script-request-header https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js
+
+# 获取钢镚签到body. 
+^https:\/\/ms\.jr\.jd\.com\/gw\/generic\/hy\/h5\/m\/appSign\? url script-request-body https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js
 
 #九木杂物社
 https:\/\/wxavip\-up\.ezrpro\.cn\/Vip\/SignIn\/SignIn url script-request-body https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/jiumu/jiumu.js
@@ -854,6 +857,8 @@ https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/backend/sub-store.min
 
 
 [task_local]
+# 京东多合一签到
+5 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东多合一签到, img-url=https://raw.githubusercontent.com/NobyDa/mini/master/Color/jd.png,enabled=true
 1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10010/10010.cookie.js, tag=联通cookie, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/10010.png, enabled=true
 1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10010/10010.js, tag=联通签到, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/10010.png, enabled=true
 0 4 8 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/funboat/funboat.js, tag=Funboat, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/funboat.png, enabled=true
@@ -1128,7 +1133,8 @@ event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/
 
 
 [mitm]
-hostname = *.easygame2021.com, https://raw.githubusercontent.com/crossutility/Quantumult-X/master/sample-dns-api.js, https://raw.githubusercontent.com/crossutility/Quantumult-X/master/sample-dns-api.js, *.tiktokv.com, *.byteoversea.com, *.tik-tokapi.com,*.googlevideo.com
+hostname = ms.jr.jd.com, me-api.jd.com, api.m.jd.com*.easygame2021.com, https://raw.githubusercontent.com/crossutility/Quantumult-X/master/sample-dns-api.js, https://raw.githubusercontent.com/crossutility/Quantumult-X/master/sample-dns-api.js, *.tiktokv.com, *.byteoversea.com, *.tik-tokapi.com,*.googlevideo.com
+
 passphrase = 6EE87080
 p12 = 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
 
