@@ -18,8 +18,6 @@ https://u.sylu.cyou/afbFyi, tag=Tag-1672423481, update-interval=172800, opt-pars
 http://v3.pkqshidazhubi.live/api/v1/client/subscribe?token=37624ad18dd626a21cfb1a43c39b460c&flag=clash, tag=Tag-1672423360, update-interval=172800, opt-parser=true, enabled=true
 https://ddddb1.cyou/api/v1/client/subscribe?token=dabdd9c86af0d95e32273bd445367944&flag=clash, tag=Tag-1672406362, update-interval=172800, opt-parser=true, enabled=true
 https://ylimly.net/api/v1/client/subscribe?token=5287c79a5365fbc9c0f74e44f07c45f6&flag=clash, tag=Tag-1672406295, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/free, tag=🦥🫵✈⋯· ·💥❽, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Daily.png, update-interval=172800, opt-parser=true, enabled=true
-http://39.106.12.141:8081/surge/proxies, tag=🦥🫵✈⋯· ·💥❼, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Blackhole.png, update-interval=172800, opt-parser=true, enabled=true
 https://proxy.yiun.xyz/vmess/sub, tag=🦥🫵✈⋯· ·💥❻, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Catnet.png, update-interval=172800, opt-parser=true, enabled=true
 https://free.dswang.ga/vmess/sub, tag=🦥🫵✈⋯· ·💥❺, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/WTT.png, update-interval=172800, opt-parser=true, enabled=true
 https://ghproxy.com/https://raw.githubusercontent.com/kxswa/k/k/base64, tag=🦥🫵✈⋯· ·💥❹, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/manga.png, update-interval=172800, opt-parser=true, enabled=true
