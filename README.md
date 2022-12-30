@@ -56,7 +56,7 @@ dest-hash=★𓃰♨️健康檢測🌦✈, 🇬🇧GB_4766, WI-FI, 蜂窝网, i
 
 url-latency-benchmark=★𓃰♻️自動選擇🌦✈, resource-tag-regex=𓃰“午”🐎✈⋯· · · ·  ·🚴‍♀️, server-tag-regex=(?=.*(东京|公益|(?i)Trojan))^((?!(日本|频道|网易|hong kong|游戏|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Roundrobin.png
 
-url-latency-benchmark=★𓃰👋手動選擇🌦✈, server-tag-regex=香港|台湾, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Clubhouse.png
+static=★𓃰👋手動選擇🌦✈, server-tag-regex=香港|台湾, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Clubhouse.png
 
 static=★𓃰直连✈, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Direct.png
 
