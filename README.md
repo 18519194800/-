@@ -13,11 +13,17 @@ trojan=185.44.76.188:443, password=2e240YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZE
 
 #节点远程订阅，自行添加
 [server_remote]
-http://39.106.12.141:8081/surge/proxies, tag=Tag-1672230725, update-interval=172800, opt-parser=true, enabled=true
-https://proxy.yiun.xyz/vmess/sub, tag=Tag-1672230654, update-interval=172800, opt-parser=true, enabled=true
-https://sub.sharecentre.online/sub, tag=🦥🫵✈⋯· ·💥❺, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/WTT.png, update-interval=172800, opt-parser=true, enabled=true
-https://u.sylu.cyou/afbFyi, tag=🦥🫵✈⋯· ·💥❹, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/manga.png, update-interval=172800, opt-parser=true, enabled=true
-http://v3.pkqshidazhubi.live/api/v1/client/subscribe?token=37624ad18dd626a21cfb1a43c39b460c&flag=clash, tag=🦥🫵✈⋯· ·💥❸, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/ttwkxcx.png, update-interval=172800, opt-parser=true, enabled=true
+https://sub.sharecentre.online/sub, tag=Tag-1672423607, update-interval=172800, opt-parser=true, enabled=true
+https://u.sylu.cyou/afbFyi, tag=Tag-1672423481, update-interval=172800, opt-parser=true, enabled=true
+http://v3.pkqshidazhubi.live/api/v1/client/subscribe?token=37624ad18dd626a21cfb1a43c39b460c&flag=clash, tag=Tag-1672423360, update-interval=172800, opt-parser=true, enabled=true
+https://ddddb1.cyou/api/v1/client/subscribe?token=dabdd9c86af0d95e32273bd445367944&flag=clash, tag=Tag-1672406362, update-interval=172800, opt-parser=true, enabled=true
+https://ylimly.net/api/v1/client/subscribe?token=5287c79a5365fbc9c0f74e44f07c45f6&flag=clash, tag=Tag-1672406295, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/free, tag=🦥🫵✈⋯· ·💥❽, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Daily.png, update-interval=172800, opt-parser=true, enabled=true
+http://39.106.12.141:8081/surge/proxies, tag=🦥🫵✈⋯· ·💥❼, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Blackhole.png, update-interval=172800, opt-parser=true, enabled=true
+https://proxy.yiun.xyz/vmess/sub, tag=🦥🫵✈⋯· ·💥❻, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Catnet.png, update-interval=172800, opt-parser=true, enabled=true
+https://free.dswang.ga/vmess/sub, tag=🦥🫵✈⋯· ·💥❺, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/WTT.png, update-interval=172800, opt-parser=true, enabled=true
+https://ghproxy.com/https://raw.githubusercontent.com/kxswa/k/k/base64, tag=🦥🫵✈⋯· ·💥❹, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/manga.png, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg, tag=🦥🫵✈⋯· ·💥❸, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/ttwkxcx.png, update-interval=172800, opt-parser=true, enabled=true
 https://tihg.fun/vmess/sub, tag=🦥🫵✈⋯· ·💥❷, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/idkttt.png, update-interval=172800, opt-parser=true, enabled=true
 https://tt.vg/freev2, tag=🦥🫵✈⋯· ·💥❶, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/hoya.png, update-interval=172800, opt-parser=true, enabled=true
 https://qxnav.com/rules/QuantumultX/gz/wyy.list, tag=𓆉“音樂”✈⋯· ·☀️, img-url=https://qxnav.com/rules/QuantumultX/img/Netease_Music.png, update-interval=86400, opt-parser=true, enabled=true
@@ -45,7 +51,7 @@ ssid=🌈SSID⛈✈, ★𓃰🦥策略選取🌦✈,  ★𓃰🦥策略選取�
 
 static=★𓃰🦥策略選取🌦✈, proxy, direct, reject, ★𓃰直连✈, ★𓃰拒绝✈, ★𓃰廣告攔截✈, ★𓃰🍟機場訂閱🌦✈, ★𓃰💯負載均衡🌦✈, ★𓃰🌏節點選擇🌦✈, ★𓃰♨️健康檢測🌦✈, ★𓃰♻️自動選擇🌦✈, ★𓃰👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png
 
-url-latency-benchmark=★𓃰🍟機場訂閱🌦✈, resource-tag-regex=𓃰“醜”🦬✈⋯· · · ·  ·🚴‍♀️, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Fries.png
+static=★𓃰🍟機場訂閱🌦✈, resource-tag-regex=Tag-1672406362, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Fries.png
 
 url-latency-benchmark=★𓃰🌏節點選擇🌦✈, 🇬🇧GB_4766, 蜂窝网, WI-FI, check-interval=600, tolerance=4, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Static.png
 
@@ -113,7 +119,7 @@ static=★𓃰𝐏𝐚𝐲𝐏𝐚𝐥✈, reject, direct, proxy, 🌈SSID⛈✈
 
 static=★𓃰派拉蒙✈, reject, direct, proxy, 🌈SSID⛈✈, ★𓃰💯負載均衡🌦✈, ★𓃰🌏節點選擇🌦✈, ★𓃰♨️健康檢測🌦✈, ★𓃰♻️自動選擇🌦✈, ★𓃰👋手動選擇🌦✈, ★𓃰直连✈, ★𓃰拒绝✈, ★𓃰廣告攔截✈, ★𓃰节点✈, ★𓃰回國✈, ★𓃰韓國✈, ★𓃰日本✈, ★𓃰美國✈, ★𓃰英國✈, ★𓃰法國✈, ★𓃰德國✈, ★𓃰印度✈, ★𓃰泰國✈, ★𓃰埃及✈, ★𓃰菲利賓✈, ★𓃰土爾其✈, ★𓃰新加坡✈, ★𓃰加拿大✈, ★𓃰俄羅斯✈,  ★𓃰澳門特區✈, ★𓃰香港特區✈, ★𓃰臺灣地區✈, ★𓃰馬來西亞✈, ★𓃰澳大利亞✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Paramount.png
 
-static=★𓃰Youtube✈, reject, direct, proxy, 🌈SSID⛈✈, ★𓃰💯負載均衡🌦✈, ★𓃰🌏節點選擇🌦✈, ★𓃰♨️健康檢測🌦✈, ★𓃰♻️自動選擇🌦✈, ★𓃰👋手動選擇🌦✈, ★𓃰直连✈, ★𓃰拒绝✈, ★𓃰廣告攔截✈, ★𓃰节点✈, ★𓃰回國✈, ★𓃰韓國✈, ★𓃰日本✈, ★𓃰美國✈, ★𓃰英國✈, ★𓃰法國✈, ★𓃰德國✈, ★𓃰印度✈, ★𓃰泰國✈, ★𓃰埃及✈, ★𓃰菲利賓✈, ★𓃰土爾其✈, ★𓃰新加坡✈, ★𓃰加拿大✈, ★𓃰俄羅斯✈, ★𓃰澳門特區✈, ★𓃰香港特區✈, ★𓃰臺灣地區✈, ★𓃰馬來西亞✈, ★𓃰澳大利亞✈, img-url=https://raw.githubusercontent.com/Orz-3/face/master/YouTube.png
+static=★𓃰Youtube✈, reject, direct, proxy, 🌈SSID⛈✈, ★𓃰💯負載均衡🌦✈, ★𓃰🌏節點選擇🌦✈, ★𓃰♨️健康檢測🌦✈, ★𓃰♻️自動選擇🌦✈, ★𓃰👋手動選擇🌦✈, ★𓃰直连✈, ★𓃰拒绝✈, ★𓃰廣告攔截✈, ★𓃰节点✈, ★𓃰回國✈, ★𓃰韓國✈, ★𓃰日本✈, ★𓃰美國✈, ★𓃰英國✈, ★𓃰法國✈, ★𓃰德國✈, ★𓃰印度✈, ★𓃰泰國✈, ★𓃰埃及✈, ★𓃰菲利賓✈, ★𓃰土爾其✈, ★𓃰新加坡✈, ★𓃰加拿大✈, ★𓃰俄羅斯✈, ★𓃰澳門特區✈, ★𓃰香港特區✈, ★𓃰臺灣地區✈, ★𓃰馬來西亞✈, ★𓃰澳大利亞✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
 
 static=★𓃰谷歌邮箱✈, reject, direct, proxy, 🌈SSID⛈✈, ★𓃰💯負載均衡🌦✈, ★𓃰🌏節點選擇🌦✈, ★𓃰♨️健康檢測🌦✈, ★𓃰♻️自動選擇🌦✈, ★𓃰👋手動選擇🌦✈, ★𓃰直连✈, ★𓃰拒绝✈, ★𓃰廣告攔截✈, ★𓃰节点✈, ★𓃰回國✈, ★𓃰韓國✈, ★𓃰日本✈, ★𓃰美國✈, ★𓃰英國✈, ★𓃰法國✈, ★𓃰德國✈, ★𓃰印度✈, ★𓃰泰國✈, ★𓃰埃及✈, ★𓃰菲利賓✈, ★𓃰土爾其✈, ★𓃰新加坡✈, ★𓃰加拿大✈, ★𓃰俄羅斯✈,  ★𓃰澳門特區✈, ★𓃰香港特區✈, ★𓃰臺灣地區✈, ★𓃰馬來西亞✈, ★𓃰澳大利亞✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Gmail.png
 
@@ -381,6 +387,10 @@ final, 🌈SSID⛈✈
 
 #复写远程订阅
 [rewrite_remote]
+https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Applet.conf, tag=小程序去广告, update-interval=172800, opt-parser=true, enabled=true
+https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/StartUp.conf, tag=去开屏广告, update-interval=172800, opt-parser=true, enabled=true
+https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/YoutubeAds.conf, tag=油管去广告, update-interval=172800, opt-parser=true, enabled=true
+https://github.com/ddgksf2013/Scripts/raw/master/12306.js, tag=12306去广告, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/price.conf, tag=京东淘宝比价, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/Moli-X/Resources/main/Rewrite/XHS.conf, tag=小红书, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu_plus.qxrewrite, tag=知乎, update-interval=172800, opt-parser=false, enabled=true
@@ -425,9 +435,9 @@ https://raw.githubusercontent.com/Maasea/sgmodule/master/youtubePlayer.sgmodule,
 #YouToube去广告❸
 https://raw.githubusercontent.com/chengkongyiban/shadowrocket/main/Block/YTADBlocker.module, tag=YouToube去广告❸, update-interval=172800, opt-parser=true, enabled=false
 #YouBube去广告❷
-https://raw.githubusercontent.com/Maasea/sgmodule/master/YoutubeAds.sgmodule, tag=YouBube去广告❷, update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/Maasea/sgmodule/master/YoutubeAds.sgmodule, tag=YouBube去广告❷, update-interval=172800, opt-parser=true, enabled=true
 #YouBube去广告❶
-https://raw.githubusercontent.com/bai1zi/shadowrocket-surge-loon-qx/main/YouTubeads.sgmodule, tag=YouTube去广告❶, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/bai1zi/shadowrocket-surge-loon-qx/main/YouTubeads.sgmodule, tag=YouTube去广告❶, update-interval=172800, opt-parser=true, enabled=false
 #YouTube瀑布流
 https://raw.githubusercontent.com/app2smile/rules/master/module/youtube-qx.conf, tag=YouTube瀑布流, update-interval=172800, opt-parser=true, enabled=true
 #YouTube字幕
@@ -838,7 +848,7 @@ profile_img_url=http://qxzy.top/images/molu.png
 dns_exclusion_list = *.cmpassport.com, *.jegotrip.com.cn, *.icitymobile.mobi, id6.me, *.icitymobile.mobi, *.pingan.com.cn, *.cmbchina.com, *.localnetwork.uop, mfs.ykimg.com*.ttf
 #第一个filter为4g模式开启规则分流，第二个filter为其他wifi下开启规则分流，第三个wifi1修改成你路由器翻墙的wifi名开启直连模式，第四个wifi2为你公司或者其他有路由器翻墙的WiFi名走直连）
 #默认关闭根据wifi切换模式，如需开启，删除下方的“#”即可！
-running_mode_trigger=filter, filter, wifi1:all_direct, wifi2: all_proxy
+#running_mode_trigger=filter, filter, wifi1:all_direct, wifi2: all_proxy
 
 [dns]
 no-ipv6
@@ -877,7 +887,6 @@ https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/backend/sub-store.min
 # 京东取关
 30 18,20 * * * https://raw.githubusercontent.com/ChuheGit/1/main/Script/jd_scripts/jd_unsubscribe.js, tag=京东取关, img-url=https://raw.githubusercontent.com/NobyDa/mini/master/Color/jd.png, enabled=true
 # 京豆变动
-30 8,12,16,20 * * * https://raw.githubusercontent.com/ChuheGit/1/main/Script/jd_scripts/jd_bean_change.js, tag=京豆变动, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_bean_change.png, enabled=true
 4 0 * * * https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/backend/dist/cron-sync-artifacts.min.js, tag=订阅同步, img-url=https://raw.githubusercontent.com/Moli-X/Resources/main/Icon/Other/Sub-Store.png, enabled=true
 
 5 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/scripts/boxjs.revert.usercfgs.httpbackend.js, tag=𝑩𝒐𝒙𝑱𝒔 𝑪𝒍𝒆𝒂𝒓 𝑪𝒂𝒄𝒉𝒆, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Lab.png, enabled=true
@@ -885,12 +894,10 @@ https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/backend/sub-store.min
 
 # 京东多合一签到
 5 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东多合一签到, img-url=https://raw.githubusercontent.com/NobyDa/mini/master/Color/jd.png,enabled=true
-1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10010/10010.cookie.js, tag=联通cookie, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/10010.png, enabled=true
-1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10010/10010.js, tag=联通签到, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/10010.png, enabled=true
+1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10010/10010.cookie.js, tag=联通cookie, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/10010.png, enabled=false
 0 4 8 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/funboat/funboat.js, tag=Funboat, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/funboat.png, enabled=true
 30 0 8-22/2 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/hotsearch/hot.js, tag=热门监控, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/hot.png, enabled=true
 5 0 * * * https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/check_in/taobao/tb.js, tag=淘宝监控, img-url=https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/picture/tb.png, enabled=true
-1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10000/10000.js, tag=电信, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/10000.png, enabled=true
 */5 * * * * https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v3/10010.js, tag=联通余量(v3), img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/10010.png, enabled=true
 30 0 8-22/2 * * * https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/check_in/hotsearch/hot.js, tag=热门监控, img-url=https://raw.githubusercontent.com/58xinian/icon/master/hot.png, enabled=true
 45 4 8 * * * https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/check_in/glados/checkin_env.js, tag=机场签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/airport.png, enabled=true
@@ -960,7 +967,7 @@ https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/backend/sub-store.min
 1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/acfun/acfun.js, tag=AcFun, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/acfun.png, enabled=true
 1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/apktw/apktw.js, tag=APK.TW, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/apktw.png, enabled=true
 1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10086/10086.js, tag=中国移动, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/10086.png, enabled=true
-1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10010/10010.js, tag=中国联通, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/10010.png, enabled=true
+1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10010/10010.js, tag=中国联通, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/10010.png, enabled=false
 0 8 * * * https://github.com/congcong0806/surge-list/raw/master/Script/daysmatter.js, tag=倒数日, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/daysmatter.png, enabled=true
 0 7-23 * * * https://github.com/congcong0806/surge-list/raw/master/Script/time.js, tag=今日时间, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/time.png, enabled=true
 29 8 * * * https://raw.githubusercontent.com/iepngs/Script/master/ctrip/index.js, tag=携程旅行, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/ctrip.png, enabled=true
@@ -1143,9 +1150,9 @@ https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/backend/sub-store.min
 0 8-23/2 * * * https://raw.githubusercontent.com/adwktt/adwktt/master/BBB.js, tag=步步宝, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/BBB.png, enabled=true
 event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/streaming-ui-check.js, tag=流媒体-解锁查询, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TVB.png, enabled=true
 event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/nf_ytb_ui-check.js, tag=油管奈飞, img-url=https://raw.githubusercontent.com/Orz-3/face/master/YouTube.png, enabled=true
-event-interaction https://api.343.re/freedom/rule/quanx/script/ipinfo.js, tag=地址查询, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Domestic.png, enabled=true
+event-interaction https://api.343.re/freedom/rule/quanx/script/ipinfo.js, tag=IP地址查询, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Domestic.png, enabled=true
 event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/geo_location.js, tag=GeoIP 查询, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Back.png, enabled=true
-event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/traffic-check.js, tag=策略流量查询, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Google_Search.png, enabled=true
+event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/traffic-check.js, tag=策略流量查询, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Bypass.png, enabled=true
 event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/switch-check-google.js, tag=Google 切换, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Google_Search.png, enabled=true
 event-interaction https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/NodeLinkCheck/Script/NodeLinkCheck.js, tag=Env代理链路检测, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Stack.png, enabled=true
 event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/ytb-ui-check.js, tag=YouTube 查询, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png, enabled=true
