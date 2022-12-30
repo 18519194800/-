@@ -888,7 +888,6 @@ https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/backend/sub-store.min
 
 # 京东多合一签到
 5 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东多合一签到, img-url=https://raw.githubusercontent.com/NobyDa/mini/master/Color/jd.png,enabled=true
-1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10010/10010.cookie.js, tag=联通cookie, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/10010.png, enabled=false
 0 4 8 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/funboat/funboat.js, tag=Funboat, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/funboat.png, enabled=true
 30 0 8-22/2 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/hotsearch/hot.js, tag=热门监控, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/hot.png, enabled=true
 5 0 * * * https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/check_in/taobao/tb.js, tag=淘宝监控, img-url=https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/picture/tb.png, enabled=true
@@ -1142,10 +1141,10 @@ https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/backend/sub-store.min
 0 16 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js, tag=腾讯自选股, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/txstockqx.png, enabled=true
 */30 6-23 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/chonghua.js, tag=葱花视频, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/chonghua.png, enabled=true
 0 8-23/2 * * * https://raw.githubusercontent.com/adwktt/adwktt/master/BBB.js, tag=步步宝, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/BBB.png, enabled=true
-event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/streaming-ui-check.js, tag=流媒体-解锁查询, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TVB.png, enabled=true
+event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/streaming-ui-check.js, tag=流媒体-解锁查询, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube_Music.png, enabled=true
 event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/nf_ytb_ui-check.js, tag=油管奈飞, img-url=https://raw.githubusercontent.com/Orz-3/face/master/YouTube.png, enabled=true
 event-interaction https://api.343.re/freedom/rule/quanx/script/ipinfo.js, tag=IP地址查询, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Domestic.png, enabled=true
-event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/geo_location.js, tag=GeoIP 查询, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Back.png, enabled=true
+event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/geo_location.js, tag=GeoIP 查询, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Stack.png, enabled=true
 event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/traffic-check.js, tag=策略流量查询, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Bypass.png, enabled=true
 event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/switch-check-google.js, tag=Google 切换, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Google_Search.png, enabled=true
 event-interaction https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/NodeLinkCheck/Script/NodeLinkCheck.js, tag=Env代理链路检测, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Stack.png, enabled=true
