@@ -49,10 +49,8 @@ https://clash.myvm.cc/vmess/sub, tag=𓃰“亥”🐗✈⋯· · · ·  ·🚴�
 #策略组
 [policy]
 ssid=🌈SSID⛈✈, ★𓃰🦥策略選取🌦✈,  ★𓃰🦥策略選取🌦✈,    img-url=https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/SSID.png
-static=★𓃰🦥策略選取🌦✈, ★𓃰⭕️直鏈🌦✈, ★𓃰⛔️拒絕🌦✈, ★𓃰🚫廣告攔截🌦✈, ★𓃰🔆機場節點🌦✈, ★𓃰🌟機場轉換🌦✈, ★𓃰🚀機場選取🌦✈, ★𓃰🍟機場訂閱🌦✈, ★𓃰📺藩劇節點🌦✈, ★𓃰💯負載均衡🌦✈, ★𓃰🌏節點選擇🌦✈, ★𓃰♨️健康檢測🌦✈, ★𓃰♻️自動選擇🌦✈, ★𓃰👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png
-
+static=★𓃰🦥策略選取🌦✈, ★𓃰⭕️直鏈🌦✈, ★𓃰⛔️拒絕🌦✈, ★𓃰🚫廣告攔截🌦✈, ★𓃰🔆機場節點🌦✈, ★𓃰🌟機場轉換🌦✈, ★𓃰🚀機場選取🌦✈, ★𓃰🍟機場訂閱🌦✈, ★𓃰💯負載均衡🌦✈, ★𓃰🌏節點選擇🌦✈, ★𓃰♨️健康檢測🌦✈, ★𓃰♻️自動選擇🌦✈, ★𓃰👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png
 static=★𓃰⭕️直鏈🌦✈, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Direct.png
-
 static=★𓃰⛔️拒絕🌦✈, reject, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Reject.png
 
 static=★𓃰🚫廣告攔截🌦✈, direct, proxy, 🌈SSID⛈✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Adblock.png
@@ -64,8 +62,6 @@ static=★𓃰🌟機場轉換🌦✈, resource-tag-regex=Tag-1672459447, img-ur
 static=★𓃰🚀機場選取🌦✈, resource-tag-regex=Tag-1672499285, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/PlayStation.png
 
 static=★𓃰🍟機場訂閱🌦✈, resource-tag-regex=Tag-1672482894, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Fries.png
-
-static=★𓃰📺藩劇節點🌦✈, server-tag-regex=香港|台湾, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AfreecaTV.png
 
 url-latency-benchmark=★𓃰🌏節點選擇🌦✈, 🇬🇧GB_4766, 蜂窝网, WI-FI, check-interval=600, tolerance=4, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Static.png
 
@@ -81,7 +77,7 @@ static=★𓃰網易音樂✈, ★𓃰網易雲✈, img-url=https://raw.githubus
 
 static=★𓃰奈飛視頻✈, ★𓃰Netflix✈, img-url=https://raw.githubusercontent.com/Orz-3/face/master/Netflix.png
 
-static=★𓃰港臺番劇✈, ★𓃰📺藩劇節點🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Bili.png
+static=★𓃰港臺番劇✈, ★𓃰藩劇節點✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Bili.png
 
 static=★𓃰QQ✈, reject, direct, proxy, 🌈SSID⛈✈, ★𓃰💯負載均衡🌦✈, ★𓃰🌏節點選擇🌦✈, ★𓃰♨️健康檢測🌦✈, ★𓃰♻️自動選擇🌦✈, ★𓃰👋手動選擇🌦✈, ★𓃰⭕️直鏈🌦✈, ★𓃰⛔️拒絕🌦✈, ★𓃰🚫廣告攔截🌦✈, ★𓃰节点✈, ★𓃰回國✈, ★𓃰韓國✈, ★𓃰日本✈, ★𓃰美國✈, ★𓃰英國✈, ★𓃰法國✈, ★𓃰德國✈, ★𓃰印度✈, ★𓃰泰國✈, ★𓃰埃及✈, ★𓃰菲利賓✈, ★𓃰土爾其✈, ★𓃰新加坡✈, ★𓃰加拿大✈, ★𓃰俄羅斯✈,  ★𓃰澳門特區✈, ★𓃰香港特區✈, ★𓃰臺灣地區✈, ★𓃰馬來西亞✈, ★𓃰澳大利亞✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/QQ.png
 
@@ -131,7 +127,7 @@ static=★𓃰派拉蒙✈, reject, direct, proxy, 🌈SSID⛈✈, ★𓃰💯�
 
 static=★𓃰Youtube✈, reject, direct, proxy, 🌈SSID⛈✈, ★𓃰💯負載均衡🌦✈, ★𓃰🌏節點選擇🌦✈, ★𓃰♨️健康檢測🌦✈, ★𓃰♻️自動選擇🌦✈, ★𓃰👋手動選擇🌦✈, ★𓃰⭕️直鏈🌦✈, ★𓃰⛔️拒絕🌦✈, ★𓃰🚫廣告攔截🌦✈, ★𓃰节点✈, ★𓃰回國✈, ★𓃰韓國✈, ★𓃰日本✈, ★𓃰美國✈, ★𓃰英國✈, ★𓃰法國✈, ★𓃰德國✈, ★𓃰印度✈, ★𓃰泰國✈, ★𓃰埃及✈, ★𓃰菲利賓✈, ★𓃰土爾其✈, ★𓃰新加坡✈, ★𓃰加拿大✈, ★𓃰俄羅斯✈, ★𓃰澳門特區✈, ★𓃰香港特區✈, ★𓃰臺灣地區✈, ★𓃰馬來西亞✈, ★𓃰澳大利亞✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
 
-static=★𓃰Discord✈, proxy, direct, reject, 🌈SSID⛈✈, ★𓃰⭕️直鏈🌦✈, ★𓃰⛔️拒絕🌦✈, ★𓃰🚫廣告攔截🌦✈, ★𓃰🔆機場節點🌦✈, ★𓃰🌟機場轉換🌦✈, ★𓃰🚀機場選取🌦✈, ★𓃰🍟機場訂閱🌦✈, ★𓃰📺藩劇節點🌦✈, ★𓃰🌏節點選擇🌦✈, ★𓃰💯負載均衡🌦✈, ★𓃰♨️健康檢測🌦✈, ★𓃰♻️自動選擇🌦✈, ★𓃰👋手動選擇🌦✈, ★𓃰节点✈, ★𓃰回國✈, ★𓃰韓國✈, ★𓃰日本✈, ★𓃰美國✈, ★𓃰英國✈, ★𓃰法國✈, ★𓃰德國✈, ★𓃰印度✈, ★𓃰泰國✈, ★𓃰埃及✈, ★𓃰菲利賓✈, ★𓃰土爾其✈, ★𓃰新加坡✈, ★𓃰加拿大✈, ★𓃰俄羅斯✈, ★𓃰澳門特區✈, ★𓃰香港特區✈, ★𓃰臺灣地區✈, ★𓃰馬來西亞✈, ★𓃰澳大利亞✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Discord.png
+static=★𓃰Discord✈, proxy, direct, reject, 🌈SSID⛈✈, ★𓃰⭕️直鏈🌦✈, ★𓃰⛔️拒絕🌦✈, ★𓃰🚫廣告攔截🌦✈, ★𓃰🔆機場節點🌦✈, ★𓃰🌟機場轉換🌦✈, ★𓃰🚀機場選取🌦✈, ★𓃰🍟機場訂閱🌦✈, ★𓃰🌏節點選擇🌦✈, ★𓃰💯負載均衡🌦✈, ★𓃰♨️健康檢測🌦✈, ★𓃰♻️自動選擇🌦✈, ★𓃰👋手動選擇🌦✈, ★𓃰节点✈, ★𓃰回國✈, ★𓃰韓國✈, ★𓃰日本✈, ★𓃰美國✈, ★𓃰英國✈, ★𓃰法國✈, ★𓃰德國✈, ★𓃰印度✈, ★𓃰泰國✈, ★𓃰埃及✈, ★𓃰菲利賓✈, ★𓃰土爾其✈, ★𓃰新加坡✈, ★𓃰加拿大✈, ★𓃰俄羅斯✈, ★𓃰澳門特區✈, ★𓃰香港特區✈, ★𓃰臺灣地區✈, ★𓃰馬來西亞✈, ★𓃰澳大利亞✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Discord.png
 
 static=★𓃰谷歌邮箱✈, reject, direct, proxy, 🌈SSID⛈✈, ★𓃰💯負載均衡🌦✈, ★𓃰🌏節點選擇🌦✈, ★𓃰♨️健康檢測🌦✈, ★𓃰♻️自動選擇🌦✈, ★𓃰👋手動選擇🌦✈, ★𓃰⭕️直鏈🌦✈, ★𓃰⛔️拒絕🌦✈, ★𓃰🚫廣告攔截🌦✈, ★𓃰节点✈, ★𓃰回國✈, ★𓃰韓國✈, ★𓃰日本✈, ★𓃰美國✈, ★𓃰英國✈, ★𓃰法國✈, ★𓃰德國✈, ★𓃰印度✈, ★𓃰泰國✈, ★𓃰埃及✈, ★𓃰菲利賓✈, ★𓃰土爾其✈, ★𓃰新加坡✈, ★𓃰加拿大✈, ★𓃰俄羅斯✈,  ★𓃰澳門特區✈, ★𓃰香港特區✈, ★𓃰臺灣地區✈, ★𓃰馬來西亞✈, ★𓃰澳大利亞✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Gmail.png
 
@@ -158,6 +154,8 @@ url-latency-benchmark=★𓃰节点✈, server-tag-regex=(?=.*(A||(?i)A||))^((?!
 url-latency-benchmark=★𓃰網易雲✈, server-tag-regex=网易, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netease_Music_Unlock.png
 
 url-latency-benchmark=★𓃰Netflix✈, server-tag-regex=(?=.*(Netflix|netflix|NETFLIX|NF|nf|IN|奈飞|网飞|奈飛|解锁流媒体|流媒体|(?i)Netflix))^((?!(专线|手游|游戏|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netflix.png
+
+url-latency-benchmark=★𓃰藩劇節點✈, server-tag-regex=(?=.*(香港|TW|🇭🇰|台湾|HK|MO|🇲🇴|(?i)澳門))^((?!(专线|厦门|翻墙|手游|游戏|天津|武汉|重庆|杭州|上海|深圳|广州|(?i)北京)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AfreecaTV.png
 
 url-latency-benchmark=★𓃰回國✈, server-tag-regex=(?=.*(回國|中國|中国|🇨🇳|CN|Cn|cn|(?i)China))^((?!(专线|Hong|翻墙|手游|游戏|台湾|Taiwan|hong kong|EG|TW|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png
 
@@ -189,6 +187,8 @@ url-latency-benchmark=★𓃰加拿大✈, server-tag-regex=(?=.*(加拿大|🇨
 
 url-latency-benchmark=★𓃰俄羅斯✈, server-tag-regex=(?=.*(俄罗斯|俄羅斯|🇷🇺|RU|Ru|ru|Russian|Federation|Rus|rus|(?i) Russian Federation))^((?!(专线|手游|游戏|🇭🇰|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=5, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Russia.png
 
+static=★𓃰阿根廷✈, server-tag-regex=(?=.*(阿根廷|🇦🇷|AR|(?i)Argentina))^((?!(专线|🇭🇰|手游|hong kong|游戏|(?i)IPLC|IEPL|game)).)*$, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Argentina.png
+
 url-latency-benchmark=★𓃰澳門特區✈, server-tag-regex=(?=.*(澳门|MO|🇲🇴|Mo|mo|Macao|(?i)Macau))^((?!(专线|Hong|United|翻墙|手游|游戏|hong kong|EG|TW|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Macao.png
 
 url-latency-benchmark=★𓃰香港特區✈, resource-tag-regex=A||, server-tag-regex=(?=.*(香港|🇭🇰|Hong Kong|hong|kong|HK|Hk|hk|(?i)Hong))^((?!(专线|手游|游戏|NETFLIX|yun|Kong|(?i)IPLC|IEPF|game)).)*$, check-interval=600, tolerance=5, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hong_Kong.png
@@ -198,6 +198,8 @@ url-latency-benchmark=★𓃰臺灣地區✈, resource-tag-regex=A||, server-tag
 url-latency-benchmark=★𓃰馬來西亞✈, server-tag-regex=(?=.*(?i)(马来西亚|Malaysia|🇲🇾|大马|MY|My|my|(?i)Hungary))^((?!(?i)(IPLC|IEPL|game|baipiao|专线|手游|游戏)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Malaysia.png
 
 url-latency-benchmark=★𓃰澳大利亞✈, server-tag-regex=(?=.*(澳大利亚|澳大利亞|🇦🇺|AU|Au|au|Commonwealth of Australia|(?i)Australia))^((?!(专线|🇭🇰|手游|hong kong|游戏|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=5, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Australia.png
+
+static=★𓃰巴西聯邦✈, server-tag-regex=(?=.*(巴西|🇧🇷|BR|(?i)Brazil))^((?!(专线|🇭🇰|手游|hong kong|游戏|(?i)IPLC|IEPL|game)).)*$, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Brazil.png
 
 
 #规则分流远程订阅
