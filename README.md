@@ -13,14 +13,12 @@ trojan=185.44.76.188:443, password=2e240YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZE
 
 #节点远程订阅，自行添加
 [server_remote]
-https://htvviru.top/api/v1/client/subscribe?token=d06fde8396380c53d2ab7c3ab7a9b76b, tag=Tag-1672579449, update-interval=172800, opt-parser=true, enabled=true
-https://sanfen002.xyz/api/v1/client/subscribe?token=bfe0b1460a6d00dac065431a6c54c462&flag=clash, tag=Tag-1672459447, update-interval=172800, opt-parser=true, enabled=true
-https://rss.jkl-sub.com/link/jRwSWhEhFHfmFP8J?list=clash, tag=Tag-1672482996, update-interval=172800, opt-parser=true, enabled=true
-https://api.eutopiacloud.ml/api/v1/client/subscribe?token=e8211417b978efe25d9702dbf84b9c71&flag=clash, tag=Tag-1672468577, update-interval=172800, opt-parser=true, enabled=true
+https://htvviru.top/api/v1/client/subscribe?token=d06fde8396380c53d2ab7c3ab7a9b76b, tag=⑤, update-interval=172800, opt-parser=true, enabled=true
+https://api.eutopiacloud.ml/api/v1/client/subscribe?token=e8211417b978efe25d9702dbf84b9c71&flag=clash, tag=④, update-interval=172800, opt-parser=true, enabled=true
 
-http://v3.pkqshidazhubi.live/api/v1/client/subscribe?token=37624ad18dd626a21cfb1a43c39b460c&flag=clash, tag=Tag-1672406362, update-interval=172800, opt-parser=true, enabled=true
-https://www.sublink.club/link/wYHSJvUTjoq84l2d?sub=1, tag=Tag-1672499119, update-interval=172800, opt-parser=true, enabled=true
-https://u.sylu.cyou/afbFyi, tag=Tag-1672475359, update-interval=172800, opt-parser=true, enabled=true
+http://v3.pkqshidazhubi.live/api/v1/client/subscribe?token=37624ad18dd626a21cfb1a43c39b460c&flag=clash, tag=③, update-interval=172800, opt-parser=true, enabled=true
+https://www.sublink.club/link/wYHSJvUTjoq84l2d?sub=1, tag=②, update-interval=172800, opt-parser=true, enabled=true
+https://u.sylu.cyou/afbFyi, tag=①, update-interval=172800, opt-parser=true, enabled=true
 https://sub.sharecentre.online/sub, tag=🦥🫵✈⋯· ·💥❾, update-interval=172800, opt-parser=true, enabled=true
 https://pastebin.com/raw/dmnL3uAR, tag=🦥🫵✈⋯· ·💥❽, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Daily.png, update-interval=172800, opt-parser=true, enabled=true
 https://proxy.yugogo.xyz/vmess/sub, tag=🦥🫵✈⋯· ·💥❼, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Catnet.png, update-interval=172800, opt-parser=true, enabled=true
@@ -51,13 +49,20 @@ https://clash.myvm.cc/vmess/sub, tag=𓃰“亥”🐗✈⋯· · · ·  ·🚴�
 #策略组
 [policy]
 ssid=🌈SSID⛈✈, ★𓃰🦥策略選取🌦✈,  ★𓃰🦥策略選取🌦✈,    img-url=https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/SSID.png
-static=★𓃰🦥策略選取🌦✈, ★𓃰✈️㊀🦥號機場🧜‍♀️✈, ★𓃰🧩㊁🦥號機場🧜‍♀️✈, ★𓃰🔆㊂🦥號機場🧜‍♀️✈, ★𓃰🚷㊃🦥號機場🧜‍♀️✈, ★𓃰🚀㊄🦥號機場🧜‍♀️✈, ★𓃰🍟㊅🦥號機場🧜‍♀️✈, ★𓃰💯負載均衡🌦✈, ★𓃰🌏節點選擇🌦✈, ★𓃰♨️健康檢測🌦✈, ★𓃰♻️自動選擇🌦✈, ★𓃰👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png
-static=★𓃰✈️㊀🦥號機場🧜‍♀️✈, resource-tag-regex=𓃰“午”🐎✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/sayss.png
-static=★𓃰🧩㊁🦥號機場🧜‍♀️✈, resource-tag-regex=Tag-1672499119, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/ywhl.png
-static=★𓃰🔆㊂🦥號機場🧜‍♀️✈, resource-tag-regex=Tag-1672579449, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ssLinks.png
-static=★𓃰🚷㊃🦥號機場🧜‍♀️✈, resource-tag-regex=Tag-1672459447, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Star_2.png
-static=★𓃰🚀㊄🦥號機場🧜‍♀️✈, resource-tag-regex=Tag-1672482996, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/PlayStation.png
-static=★𓃰🍟㊅🦥號機場🧜‍♀️✈, resource-tag-regex=🦥🫵✈⋯· ·💥❾, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Fries.png
+
+static=★𓃰🦥策略選取🌦✈, ★𓃰✈️壹號🦥機場🧜‍♀️✈, ★𓃰🧩貳號🦥機場🧜‍♀️✈, ★𓃰🔆叁號🦥機場🧜‍♀️✈, ★𓃰🚷肆號🦥機場🧜‍♀️✈, ★𓃰🚀伍號🦥機場🧜‍♀️✈, ★𓃰🍟陸號🦥機場🧜‍♀️✈, ★𓃰💯負載均衡🌦✈, ★𓃰🌏節點選擇🌦✈, ★𓃰♨️健康檢測🌦✈, ★𓃰♻️自動選擇🌦✈, ★𓃰👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png
+
+static=★𓃰✈️壹號🦥機場🧜‍♀️✈, resource-tag-regex=🦥🫵✈⋯· ·💥❺, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/sayss.png
+
+static=★𓃰🧩貳號🦥機場🧜‍♀️✈, resource-tag-regex=Tag-1672499119, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/ywhl.png
+
+static=★𓃰🔆叁號🦥機場🧜‍♀️✈, resource-tag-regex=🦥🫵✈⋯· ·💥❽, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ssLinks.png
+
+static=★𓃰🚷肆號🦥機場🧜‍♀️✈, resource-tag-regex=⑤, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Star_2.png
+
+static=★𓃰🚀伍號🦥機場🧜‍♀️✈, resource-tag-regex=①, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/PlayStation.png
+
+static=★𓃰🍟陸號🦥機場🧜‍♀️✈, resource-tag-regex=🦥🫵✈⋯· ·💥❾, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Fries.png
 
 static=★𓃰🟢直接連通🌦✈, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Direct.png
 
