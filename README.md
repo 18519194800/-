@@ -13,19 +13,19 @@ trojan=185.44.76.188:443, password=2e240YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZE
 
 #节点远程订阅，自行添加
 [server_remote]
-https://gongyiyun.cf/api/v1/client/subscribe?token=1a0f39b715ed9f4de4789628b1633c21&flag=clash, tag=Tag-1672547740, update-interval=172800, opt-parser=true, enabled=true
-https://dingyue.xn--9kqr64b41s.gq/api/v1/client/subscribe?token=54ffca95b75fcd8b10810d9c47f4bd31, tag=Tag-1672546125, update-interval=172800, opt-parser=true, enabled=true
-https://www.sublink.club/link/wYHSJvUTjoq84l2d?sub=1, tag=Tag-1672499119, update-interval=172800, opt-parser=true, enabled=true
+https://awsl.business/api/v1/client/subscribe?token=559be8395ca8388a38d62129241b5918&flag=clash, tag=Tag-1672558357, update-interval=172800, opt-parser=true, enabled=true
+https://daxun.buzz/api/v1/client/subscribe?token=075bfbbe97a17f22bd351b838458ed83&flag=clash, tag=Tag-1672558303, update-interval=172800, opt-parser=true, enabled=true
 https://rss.jkl-sub.com/link/jRwSWhEhFHfmFP8J?list=clash, tag=Tag-1672482996, update-interval=172800, opt-parser=true, enabled=true
-http://www.qianlong520.top/api/v1/client/subscribe?token=8949b4b40ea3e7eec3764b38c0e89f13, tag=Tag-1672482824, update-interval=172800, opt-parser=true, enabled=true
-https://u.sylu.cyou/afbFyi, tag=Tag-1672475359, update-interval=172800, opt-parser=true, enabled=true
 https://api.eutopiacloud.ml/api/v1/client/subscribe?token=e8211417b978efe25d9702dbf84b9c71&flag=clash, tag=Tag-1672468577, update-interval=172800, opt-parser=true, enabled=true
-https://sanfen002.xyz/api/v1/client/subscribe?token=bfe0b1460a6d00dac065431a6c54c462&flag=clash, tag=Tag-1672459447, update-interval=172800, opt-parser=true, enabled=true
 
 http://v3.pkqshidazhubi.live/api/v1/client/subscribe?token=37624ad18dd626a21cfb1a43c39b460c&flag=clash, tag=Tag-1672406362, update-interval=172800, opt-parser=true, enabled=true
-https://sub.sharecentre.online/sub, tag=🦥🫵✈⋯· ·💥❽, update-interval=172800, opt-parser=true, enabled=true
-https://proxy.yugogo.xyz/vmess/sub, tag=🦥🫵✈⋯· ·💥❼, update-interval=172800, opt-parser=true, enabled=true
-https://proxypool.sumwai.cn/vmess/sub, tag=🦥🫵✈⋯· ·💥❻, update-interval=172800, opt-parser=true, enabled=true
+https://www.sublink.club/link/wYHSJvUTjoq84l2d?sub=1, tag=Tag-1672499119, update-interval=172800, opt-parser=true, enabled=true
+https://u.sylu.cyou/afbFyi, tag=Tag-1672475359, update-interval=172800, opt-parser=true, enabled=true
+https://sanfen002.xyz/api/v1/client/subscribe?token=bfe0b1460a6d00dac065431a6c54c462&flag=clash, tag=Tag-1672459447, update-interval=172800, opt-parser=true, enabled=true
+https://sub.sharecentre.online/sub, tag=🦥🫵✈⋯· ·💥❾, update-interval=172800, opt-parser=true, enabled=true
+https://pastebin.com/raw/dmnL3uAR, tag=🦥🫵✈⋯· ·💥❽, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Daily.png, update-interval=172800, opt-parser=true, enabled=true
+https://proxy.yugogo.xyz/vmess/sub, tag=🦥🫵✈⋯· ·💥❼, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Catnet.png, update-interval=172800, opt-parser=true, enabled=true
+https://proxypool.sumwai.cn/vmess/sub, tag=🦥🫵✈⋯· ·💥❻, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/GuGuEX.png, update-interval=172800, opt-parser=true, enabled=true
 http://101.132.255.205:1234/surge/proxies, tag=🦥🫵✈⋯· ·💥❺, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/WTT.png, update-interval=172800, opt-parser=true, enabled=true
 https://ghproxy.com//raw.githubusercontent.com/yaney01/Yaney01/main/yaney_01, tag=🦥🫵✈⋯· ·💥❹, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/idkttt.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.fastgit.org/Pawdroid/Free-servers/main/sub, tag=🦥🫵✈⋯· ·💥❸, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/hoya.png, update-interval=172800, opt-parser=true, enabled=true
@@ -52,15 +52,15 @@ https://clash.myvm.cc/vmess/sub, tag=𓃰“亥”🐗✈⋯· · · ·  ·🚴�
 #策略组
 [policy]
 ssid=🌈SSID⛈✈, ★𓃰🦥策略選取🌦✈,  ★𓃰🦥策略選取🌦✈,    img-url=https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/SSID.png
-static=★𓃰🦥策略選取🌦✈, ★𓃰⭕️直接連通🌦✈, ★𓃰⛔️拒絕請求🌦✈, ★𓃰🚫廣告攔截🌦✈, ★𓃰✈️（壹）號機場🧜‍♀️✈, ★𓃰🧩（貳）號機場🧜‍♀️✈, ★𓃰🔆（叁）號機場🧜‍♀️✈, ★𓃰🌟（肆）號機場🧜‍♀️✈, ★𓃰🚀（伍）號機場🧜‍♀️✈, ★𓃰🍟（陸）號機場🧜‍♀️✈, ★𓃰💯負載均衡🌦✈, ★𓃰🌏節點選擇🌦✈, ★𓃰♨️健康檢測🌦✈, ★𓃰♻️自動選擇🌦✈, ★𓃰👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png
-static=★𓃰✈️（壹）號機場🧜‍♀️✈, resource-tag-regex=🦥🫵✈⋯· ·💥❼, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/sayss.png
-static=★𓃰🧩（貳）號機場🧜‍♀️✈, resource-tag-regex=𓃰“醜”🦬✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/ywhl.png
+static=★𓃰🦥策略選取🌦✈, ★𓃰✈️（壹）號機場🧜‍♀️✈, ★𓃰🧩（貳）號機場🧜‍♀️✈, ★𓃰🔆（叁）號機場🧜‍♀️✈, ★𓃰🌟（肆）號機場🧜‍♀️✈, ★𓃰🚀（伍）號機場🧜‍♀️✈, ★𓃰🍟（陸）號機場🧜‍♀️✈, ★𓃰💯負載均衡🌦✈, ★𓃰🌏節點選擇🌦✈, ★𓃰♨️健康檢測🌦✈, ★𓃰♻️自動選擇🌦✈, ★𓃰👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png
+static=★𓃰✈️（壹）號機場🧜‍♀️✈, resource-tag-regex=Tag-1672558357, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/sayss.png
+static=★𓃰🧩（貳）號機場🧜‍♀️✈, resource-tag-regex=Tag-1672558303, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/ywhl.png
 static=★𓃰🔆（叁）號機場🧜‍♀️✈, resource-tag-regex=🦥🫵✈⋯· ·💥❺, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ssLinks.png
 static=★𓃰🌟（肆）號機場🧜‍♀️✈, resource-tag-regex=Tag-1672459447, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Star_2.png
 
-static=★𓃰🚀（伍）號機場🧜‍♀️✈, resource-tag-regex=Tag-1672482824, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/PlayStation.png
+static=★𓃰🚀（伍）號機場🧜‍♀️✈, resource-tag-regex=Tag-1672482996, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/PlayStation.png
 
-static=★𓃰🍟（陸）號機場🧜‍♀️✈, resource-tag-regex=🦥🫵✈⋯· ·💥❽, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Fries.png
+static=★𓃰🍟（陸）號機場🧜‍♀️✈, resource-tag-regex=🦥🫵✈⋯· ·💥❾, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Fries.png
 
 static=★𓃰⭕️直接連通🌦✈, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Direct.png
 
@@ -192,7 +192,7 @@ url-latency-benchmark=★𓃰加拿大✈, server-tag-regex=(?=.*(加拿大|🇨
 
 url-latency-benchmark=★𓃰俄羅斯✈, server-tag-regex=(?=.*(俄罗斯|俄羅斯|🇷🇺|RU|Ru|ru|Russian|Federation|Rus|rus|(?i) Russian Federation))^((?!(专线|手游|游戏|🇭🇰|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=5, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Russia.png
 
-static=★𓃰阿根廷✈, server-tag-regex=(?=.*(阿根廷|🇦🇷|AR|(?i)Argentina))^((?!(专线|🇭🇰|手游|hong kong|游戏|(?i)IPLC|IEPL|game)).)*$, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Argentina.png
+url-latency-benchmark=★𓃰阿根廷✈, server-tag-regex=(?=.*(阿根廷|🇦🇷|AR|(?i)Argentina))^((?!(专线|🇭🇰|手游|hong kong|游戏|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Argentina.png
 
 url-latency-benchmark=★𓃰澳門特區✈, server-tag-regex=(?=.*(澳门|MO|🇲🇴|Mo|mo|Macao|(?i)Macau))^((?!(专线|Hong|United|翻墙|手游|游戏|hong kong|EG|TW|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Macao.png
 
@@ -204,7 +204,7 @@ url-latency-benchmark=★𓃰馬來西亞✈, server-tag-regex=(?=.*(?i)(马来�
 
 url-latency-benchmark=★𓃰澳大利亞✈, server-tag-regex=(?=.*(澳大利亚|澳大利亞|🇦🇺|AU|Au|au|Commonwealth of Australia|(?i)Australia))^((?!(专线|🇭🇰|手游|hong kong|游戏|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=5, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Australia.png
 
-static=★𓃰巴西聯邦✈, server-tag-regex=(?=.*(巴西|🇧🇷|BR|(?i)Brazil))^((?!(专线|🇭🇰|手游|hong kong|游戏|(?i)IPLC|IEPL|game)).)*$, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Brazil.png
+url-latency-benchmark=★𓃰巴西聯邦✈, server-tag-regex=(?=.*(巴西|🇧🇷|BR|(?i)Brazil))^((?!(专线|🇭🇰|手游|hong kong|游戏|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Brazil.png
 
 
 #规则分流远程订阅
