@@ -13,8 +13,6 @@ trojan=185.44.76.188:443, password=2e240YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZE
 
 #节点远程订阅，自行添加
 [server_remote]
-https://awsl.business/api/v1/client/subscribe?token=559be8395ca8388a38d62129241b5918&flag=clash, tag=Tag-1672558357, update-interval=172800, opt-parser=true, enabled=true
-https://daxun.buzz/api/v1/client/subscribe?token=075bfbbe97a17f22bd351b838458ed83&flag=clash, tag=Tag-1672558303, update-interval=172800, opt-parser=true, enabled=true
 https://rss.jkl-sub.com/link/jRwSWhEhFHfmFP8J?list=clash, tag=Tag-1672482996, update-interval=172800, opt-parser=true, enabled=true
 https://api.eutopiacloud.ml/api/v1/client/subscribe?token=e8211417b978efe25d9702dbf84b9c71&flag=clash, tag=Tag-1672468577, update-interval=172800, opt-parser=true, enabled=true
 
@@ -52,15 +50,15 @@ https://clash.myvm.cc/vmess/sub, tag=𓃰“亥”🐗✈⋯· · · ·  ·🚴�
 #策略组
 [policy]
 ssid=🌈SSID⛈✈, ★𓃰🦥策略選取🌦✈,  ★𓃰🦥策略選取🌦✈,    img-url=https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/SSID.png
-static=★𓃰🦥策略選取🌦✈, ★𓃰✈️（壹）號機場🧜‍♀️✈, ★𓃰🧩（貳）號機場🧜‍♀️✈, ★𓃰🔆（叁）號機場🧜‍♀️✈, ★𓃰🌟（肆）號機場🧜‍♀️✈, ★𓃰🚀（伍）號機場🧜‍♀️✈, ★𓃰🍟（陸）號機場🧜‍♀️✈, ★𓃰💯負載均衡🌦✈, ★𓃰🌏節點選擇🌦✈, ★𓃰♨️健康檢測🌦✈, ★𓃰♻️自動選擇🌦✈, ★𓃰👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png
-static=★𓃰✈️（壹）號機場🧜‍♀️✈, resource-tag-regex=Tag-1672558357, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/sayss.png
-static=★𓃰🧩（貳）號機場🧜‍♀️✈, resource-tag-regex=Tag-1672558303, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/ywhl.png
-static=★𓃰🔆（叁）號機場🧜‍♀️✈, resource-tag-regex=🦥🫵✈⋯· ·💥❺, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ssLinks.png
-static=★𓃰🌟（肆）號機場🧜‍♀️✈, resource-tag-regex=Tag-1672459447, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Star_2.png
+static=★𓃰🦥策略選取🌦✈, ★𓃰✈️㊀🦥號機場🧜‍♀️✈, ★𓃰🧩㊁🦥號機場🧜‍♀️✈, ★𓃰🔆㊂🦥號機場🧜‍♀️✈, ★𓃰🚷㊃🦥號機場🧜‍♀️✈, ★𓃰🚀㊄🦥號機場🧜‍♀️✈, ★𓃰🍟㊅🦥號機場🧜‍♀️✈, ★𓃰💯負載均衡🌦✈, ★𓃰🌏節點選擇🌦✈, ★𓃰♨️健康檢測🌦✈, ★𓃰♻️自動選擇🌦✈, ★𓃰👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png
+static=★𓃰✈️㊀🦥號機場🧜‍♀️✈, resource-tag-regex=𓃰“午”🐎✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/sayss.png
+static=★𓃰🧩㊁🦥號機場🧜‍♀️✈, resource-tag-regex=Tag-1672499119, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/ywhl.png
+static=★𓃰🔆㊂🦥號機場🧜‍♀️✈, resource-tag-regex=🦥🫵✈⋯· ·💥❺, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ssLinks.png
+static=★𓃰🚷㊃🦥號機場🧜‍♀️✈, resource-tag-regex=Tag-1672459447, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Star_2.png
 
-static=★𓃰🚀（伍）號機場🧜‍♀️✈, resource-tag-regex=Tag-1672482996, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/PlayStation.png
+static=★𓃰🚀㊄🦥號機場🧜‍♀️✈, resource-tag-regex=Tag-1672482996, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/PlayStation.png
 
-static=★𓃰🍟（陸）號機場🧜‍♀️✈, resource-tag-regex=🦥🫵✈⋯· ·💥❾, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Fries.png
+static=★𓃰🍟㊅🦥號機場🧜‍♀️✈, resource-tag-regex=🦥🫵✈⋯· ·💥❾, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Fries.png
 
 static=★𓃰⭕️直接連通🌦✈, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Direct.png
 
@@ -158,7 +156,7 @@ url-latency-benchmark=★𓃰节点✈, server-tag-regex=(?=.*(A||(?i)A||))^((?!
 
 url-latency-benchmark=★𓃰網易雲✈, server-tag-regex=网易, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netease_Music_Unlock.png
 
-url-latency-benchmark=★𓃰Netflix✈, server-tag-regex=(?=.*(Netflix|netflix|NETFLIX|NF|nf|IN|奈飞|网飞|奈飛|解锁流媒体|流媒体|(?i)Netflix))^((?!(专线|手游|游戏|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netflix.png
+url-latency-benchmark=★𓃰Netflix✈, server-tag-regex=(?=.*(Netflix|netflix|NETFLIX|NF|nf|IN|奈飞|网飞|奈飛|解锁流媒体|流媒体|(?i)Netflix))^((?!(专线|手游|🇮🇳|游戏|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netflix.png
 
 url-latency-benchmark=★𓃰藩劇節點✈, server-tag-regex=(?=.*(香港|TW|🇭🇰|台湾|HK|MO|🇲🇴|(?i)澳門))^((?!(专线|厦门|翻墙|手游|游戏|天津|武汉|重庆|杭州|上海|深圳|广州|(?i)北京)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AfreecaTV.png
 
@@ -905,6 +903,7 @@ https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/backend/sub-store.min
 
 
 [task_local]
+5 0 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/wechatsubs/wechatsubs.js, tag=公众号监控, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/WeChat.png, enabled=true
 0 36 6,14,23 * * * https://raw.githubusercontent.com/dompling/Script/master/jd/jd_cookie_search.js, tag=京东检测, img-url=https://raw.githubusercontent.com/FoKit/Quantumult-X/main/images/check.png, enabled=true
 # 京东物流
 30 7,11,15,19 * * * https://raw.githubusercontent.com/id77/QuantumultX/master/task/jdWuLiu.js, tag=京东物流, img-url=https://raw.githubusercontent.com/NobyDa/mini/master/Color/jd.png, enabled=true
