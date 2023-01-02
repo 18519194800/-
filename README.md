@@ -47,13 +47,13 @@ ssid=🌈SSID⛈✈, ★𓃰🚫廣告攔截🌦✈,  ★𓃰🚫廣告攔截�
 
 static=★𓃵🦥策略選取🌦✈, ★𓃰💯負載均衡🌦✈, ★𓃰🌏節點選擇🌦✈, ★𓃰♨️健康檢測🌦✈, ★𓃰👋手動選擇🌦✈, ★𓃰♻️自動選擇🌦✈, ★🌈壹號🏆機場🧜‍♀️✈, ★🌈貳號🏆機場🧜‍♀️✈, ★🌈叁號🏆機場🧜‍♀️✈, ★🌈肆號🏆機場🧜‍♀️✈, ★🌈伍號🏆機場🧜‍♀️✈, ★🌈陸號🏆機場🧜‍♀️✈, ★🌈柒號🏆機場🧜‍♀️✈, ★🌈捌號🏆機場🧜‍♀️✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png
 
-url-latency-benchmark=★🌈壹號🏆機場🧜‍♀️✈, resource-tag-regex=②, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Want_Want.png
+url-latency-benchmark=★🌈壹號🏆機場🧜‍♀️✈, resource-tag-regex=②, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Star_2.png
 
 static=★🌈貳號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“亥”🐗✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SaySS.png
 
-static=★🌈叁號🏆機場🧜‍♀️✈, resource-tag-regex=🦥🫵✈⋯· ·💥❽, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Ywhl.png
+static=★🌈叁號🏆機場🧜‍♀️✈, resource-tag-regex=🦥🫵✈⋯· ·💥❽, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/MDSS.png
 
-url-latency-benchmark=★🌈肆號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“午”🐎✈⋯· · · ·  ·🚴‍♀️, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Star_2.png
+url-latency-benchmark=★🌈肆號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“午”🐎✈⋯· · · ·  ·🚴‍♀️, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Ywhl.png
 
 static=★🌈伍號🏆機場🧜‍♀️✈, resource-tag-regex=①, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/PlayStation.png
 
