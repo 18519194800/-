@@ -12,9 +12,8 @@ trojan=185.44.76.188:443, password=2e240YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZE
 
 #节点远程订阅，自行添加
 [server_remote]
-https://api.eutopiacloud.ml/api/v1/client/subscribe?token=e8211417b978efe25d9702dbf84b9c71&flag=clash, tag=④, update-interval=172800, opt-parser=true, enabled=true
+https://paste.wmlabs.net/raw/14ce75afec11, tag=②, update-interval=172800, opt-parser=true, enabled=true
 
-https://www.sublink.club/link/wYHSJvUTjoq84l2d?sub=1, tag=②, update-interval=172800, opt-parser=true, enabled=true
 https://u.sylu.cyou/afbFyi, tag=①, update-interval=172800, opt-parser=true, enabled=true
 https://sub.sharecentre.online/sub, tag=🦥🫵✈⋯· ·💥❽, update-interval=172800, opt-parser=true, enabled=true
 https://pastebin.com/raw/dmnL3uAR, tag=🦥🫵✈⋯· ·💥❼, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/WTT.png, update-interval=172800, opt-parser=true, enabled=true
@@ -48,11 +47,11 @@ ssid=🌈SSID⛈✈, ★𓃰🚫廣告攔截🌦✈,  ★𓃰🚫廣告攔截�
 
 static=★𓃵🦥策略選取🌦✈, ★𓃰💯負載均衡🌦✈, ★𓃰🌏節點選擇🌦✈, ★𓃰♨️健康檢測🌦✈, ★𓃰👋手動選擇🌦✈, ★𓃰♻️自動選擇🌦✈, ★🌈壹號🏆機場🧜‍♀️✈, ★🌈貳號🏆機場🧜‍♀️✈, ★🌈叁號🏆機場🧜‍♀️✈, ★🌈肆號🏆機場🧜‍♀️✈, ★🌈伍號🏆機場🧜‍♀️✈, ★🌈陸號🏆機場🧜‍♀️✈, ★🌈柒號🏆機場🧜‍♀️✈, ★🌈捌號🏆機場🧜‍♀️✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png
 
-static=★🌈壹號🏆機場🧜‍♀️✈, resource-tag-regex=🦥🫵✈⋯· ·💥❻, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/sayss.png
+url-latency-benchmark=★🌈壹號🏆機場🧜‍♀️✈, resource-tag-regex=②, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Want_Want.png
 
-static=★🌈貳號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“亥”🐗✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/ywhl.png
+static=★🌈貳號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“亥”🐗✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SaySS.png
 
-static=★🌈叁號🏆機場🧜‍♀️✈, resource-tag-regex=🦥🫵✈⋯· ·💥❽, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Want_Want.png
+static=★🌈叁號🏆機場🧜‍♀️✈, resource-tag-regex=🦥🫵✈⋯· ·💥❽, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Ywhl.png
 
 url-latency-benchmark=★🌈肆號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“午”🐎✈⋯· · · ·  ·🚴‍♀️, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Star_2.png
 
@@ -60,7 +59,7 @@ static=★🌈伍號🏆機場🧜‍♀️✈, resource-tag-regex=①, img-url=
 
 static=★🌈陸號🏆機場🧜‍♀️✈, resource-tag-regex=🦥🫵✈⋯· ·💥❽, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Fries.png
 
-static=★🌈柒號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“寅”🐅✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SSlinks.png
+static=★🌈柒號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“寅”🐅✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/ssLinks.png
 
 static=★🌈捌號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“子”🐁✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/LiYing.png
 
@@ -184,7 +183,7 @@ url-latency-benchmark=★𓃰德國✈, server-tag-regex=(?=.*(德国|德國|�
 
 url-latency-benchmark=★𓃰印度✈, server-tag-regex=(?=.*(印度|🇮🇳|Ln|ln|LN|Lnd|India|भारत गणराज्य|(?i)The Republic of India))^((?!(专线|Hong|United|翻墙|手游|游戏|hong kong|EG|TW|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/India.png
 
-url-latency-benchmark=★𓃰泰國✈, resource-tag-regex=A||, server-tag-regex=(?=.*(?i)(泰国|🇹🇭|曼谷|泰國|THA|Thailand|TH|Th|th))^((?!(?i)(IPLC|IEPL|game|baipiao|专线|手游|游戏)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Thailand.png
+url-latency-benchmark=★𓃰泰國✈, resource-tag-regex=A||, server-tag-regex=(?=.*(?i)(泰国|🇹🇭|曼谷|泰國TH|Th|th))^((?!(?i)(法国|澳大利亚|英国|俄罗斯|日本|德国|罗马尼亚|美国|新加坡|专线|手游|游戏)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Thailand.png
 
 url-latency-benchmark=★𓃰埃及✈, server-tag-regex=(?=.*(埃及|Egypt|EG|🇪🇬|جمهورية مصر العربية‎ |The Arab Republic of Egypt|Eg|eg|(?i)South Korea))^((?!(?i)(IPLC|IEPL|game|Hong|专线|手游|游戏)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Egypt.png
 
