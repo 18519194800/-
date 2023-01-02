@@ -2,6 +2,7 @@
 
 #图标备用📮✉️📪📬💫💬💥🔨🥼🚫🔰🙈🍎🎬📺🎱🍐🐝🦁💡🌵🐯🎸💻📽🌏🕹📡🦑🌟🐷🦒🐳🚦📵🎧💊🔓🚦🚥🐼⛔️🈲🌐🎯🖲️🐦🔞🎵📱🚀💳♻️🙈🍱🔂📦🔀⏱
 
+
 #本地服务器部分
 [server_local]
 vmess=example.com:443, method=chacha20-poly1305, password=23ad6b10-8d1a-40f7-8ad0-e3e35cd32291, obfs=wss, obfs-uri=/ws, fast-open=false, udp-relay=false, tag=WI-FI
@@ -11,7 +12,7 @@ trojan=185.44.76.188:443, password=2e240YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZE
 
 #节点远程订阅，自行添加
 [server_remote]
-https://htvviru.top/api/v1/client/subscribe?token=d06fde8396380c53d2ab7c3ab7a9b76b, tag=⑤, update-interval=172800, opt-parser=true, enabled=true
+https://paste.wmlabs.net/raw/2cf984e991e9, tag=Tag-1672673870, update-interval=172800, opt-parser=true, enabled=true
 https://api.eutopiacloud.ml/api/v1/client/subscribe?token=e8211417b978efe25d9702dbf84b9c71&flag=clash, tag=④, update-interval=172800, opt-parser=true, enabled=true
 
 https://www.sublink.club/link/wYHSJvUTjoq84l2d?sub=1, tag=②, update-interval=172800, opt-parser=true, enabled=true
@@ -44,23 +45,23 @@ https://clash.myvm.cc/vmess/sub, tag=𓃰“亥”🐗✈⋯· · · ·  ·🚴�
 
 #策略组
 [policy]
-ssid=🌈SSID⛈✈, ★𓃵🦥策略選取🌦✈,  ★𓃵🦥策略選取🌦✈,    img-url=https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/SSID.png
+ssid=🌈SSID⛈✈, ★𓃰🚫廣告攔截🌦✈,  ★𓃰🚫廣告攔截🌦✈, img-url=https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/SSID.png
 
 static=★𓃵🦥策略選取🌦✈, ★𓃰💯負載均衡🌦✈, ★𓃰🌏節點選擇🌦✈, ★𓃰♨️健康檢測🌦✈, ★𓃰👋手動選擇🌦✈, ★𓃰♻️自動選擇🌦✈, ★🌈壹號🏆機場🧜‍♀️✈, ★🌈貳號🏆機場🧜‍♀️✈, ★🌈叁號🏆機場🧜‍♀️✈, ★🌈肆號🏆機場🧜‍♀️✈, ★🌈伍號🏆機場🧜‍♀️✈, ★🌈陸號🏆機場🧜‍♀️✈, ★🌈柒號🏆機場🧜‍♀️✈, ★🌈捌號🏆機場🧜‍♀️✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png
 
-static=★🌈壹號🏆機場🧜‍♀️✈, resource-tag-regex=🦥🫵✈⋯· ·💥❺, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/sayss.png
+url-latency-benchmark=★🌈壹號🏆機場🧜‍♀️✈, resource-tag-regex=Tag-1672673870, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/sayss.png
 
 static=★🌈貳號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“亥”🐗✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/ywhl.png
 
 static=★🌈叁號🏆機場🧜‍♀️✈, resource-tag-regex=🦥🫵✈⋯· ·💥❽, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ssLinks.png
 
-static=★🌈肆號🏆機場🧜‍♀️✈, resource-tag-regex=⑤, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Star_2.png
+url-latency-benchmark=★🌈肆號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“午”🐎✈⋯· · · ·  ·🚴‍♀️, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Star_2.png
 
 static=★🌈伍號🏆機場🧜‍♀️✈, resource-tag-regex=①, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/PlayStation.png
 
 static=★🌈陸號🏆機場🧜‍♀️✈, resource-tag-regex=🦥🫵✈⋯· ·💥❽, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Fries.png
 
-static=★🌈柒號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“寅”🐅✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/STC.png
+static=★🌈柒號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“寅”🐅✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Kafka.png
 
 static=★🌈捌號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“子”🐁✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/LiYing.png
 
@@ -68,7 +69,7 @@ static=★𓃰🟢直接連通🌦✈, direct, img-url=https://raw.githubusercon
 
 static=★𓃰⛔️拒絕請求🌦✈, reject, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Reject.png
 
-static=★𓃰🚫廣告攔截🌦✈, direct, proxy, 🌈SSID⛈✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Adblock.png
+static=★𓃰🚫廣告攔截🌦✈, direct, proxy, ★𓃵🦥策略選取🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Adblock.png
 
 url-latency-benchmark=★𓃰🌏節點選擇🌦✈, 🇬🇧GB_4766, 蜂窝网, WI-FI, check-interval=600, tolerance=4, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Static.png
 
