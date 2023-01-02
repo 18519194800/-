@@ -12,7 +12,6 @@ trojan=185.44.76.188:443, password=2e240YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZE
 
 #节点远程订阅，自行添加
 [server_remote]
-https://paste.wmlabs.net/raw/2cf984e991e9, tag=Tag-1672673870, update-interval=172800, opt-parser=true, enabled=true
 https://api.eutopiacloud.ml/api/v1/client/subscribe?token=e8211417b978efe25d9702dbf84b9c71&flag=clash, tag=④, update-interval=172800, opt-parser=true, enabled=true
 
 https://www.sublink.club/link/wYHSJvUTjoq84l2d?sub=1, tag=②, update-interval=172800, opt-parser=true, enabled=true
@@ -49,11 +48,11 @@ ssid=🌈SSID⛈✈, ★𓃰🚫廣告攔截🌦✈,  ★𓃰🚫廣告攔截�
 
 static=★𓃵🦥策略選取🌦✈, ★𓃰💯負載均衡🌦✈, ★𓃰🌏節點選擇🌦✈, ★𓃰♨️健康檢測🌦✈, ★𓃰👋手動選擇🌦✈, ★𓃰♻️自動選擇🌦✈, ★🌈壹號🏆機場🧜‍♀️✈, ★🌈貳號🏆機場🧜‍♀️✈, ★🌈叁號🏆機場🧜‍♀️✈, ★🌈肆號🏆機場🧜‍♀️✈, ★🌈伍號🏆機場🧜‍♀️✈, ★🌈陸號🏆機場🧜‍♀️✈, ★🌈柒號🏆機場🧜‍♀️✈, ★🌈捌號🏆機場🧜‍♀️✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png
 
-url-latency-benchmark=★🌈壹號🏆機場🧜‍♀️✈, resource-tag-regex=Tag-1672673870, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/sayss.png
+static=★🌈壹號🏆機場🧜‍♀️✈, resource-tag-regex=🦥🫵✈⋯· ·💥❻, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/sayss.png
 
 static=★🌈貳號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“亥”🐗✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/ywhl.png
 
-static=★🌈叁號🏆機場🧜‍♀️✈, resource-tag-regex=🦥🫵✈⋯· ·💥❽, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ssLinks.png
+static=★🌈叁號🏆機場🧜‍♀️✈, resource-tag-regex=🦥🫵✈⋯· ·💥❽, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Want_Want.png
 
 url-latency-benchmark=★🌈肆號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“午”🐎✈⋯· · · ·  ·🚴‍♀️, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Star_2.png
 
@@ -61,7 +60,7 @@ static=★🌈伍號🏆機場🧜‍♀️✈, resource-tag-regex=①, img-url=
 
 static=★🌈陸號🏆機場🧜‍♀️✈, resource-tag-regex=🦥🫵✈⋯· ·💥❽, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Fries.png
 
-static=★🌈柒號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“寅”🐅✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Kafka.png
+static=★🌈柒號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“寅”🐅✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SSlinks.png
 
 static=★🌈捌號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“子”🐁✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/LiYing.png
 
