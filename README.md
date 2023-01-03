@@ -60,17 +60,17 @@ static=★🌈壹號🏆機場🧜‍♀️✈, resource-tag-regex=②, img-url=
 
 static=★🌈貳號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“亥”🐗✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SaySS.png
 
-static=★🌈叁號🏆機場🧜‍♀️✈, resource-tag-regex=🦥🫵✈⋯· ·💥❽, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/STC.png
+static=★🌈叁號🏆機場🧜‍♀️✈, resource-tag-regex=①, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/STC.png
 
-url-latency-benchmark=★🌈肆號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“午”🐎✈⋯· · · ·  ·🚴‍♀️, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Ywhl.png
+url-latency-benchmark=★🌈肆號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“子”🐁✈⋯· · · ·  ·🚴‍♀️, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Ywhl.png
 
-static=★🌈伍號🏆機場🧜‍♀️✈, resource-tag-regex=①, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/PlayStation.png
+static=★🌈伍號🏆機場🧜‍♀️✈, resource-tag-regex=④, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/PlayStation.png
 
 static=★🌈陸號🏆機場🧜‍♀️✈, resource-tag-regex=🦥🫵✈⋯· ·💥❽, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Fries.png
 
-static=★🌈柒號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“寅”🐅✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/ssLinks.png
+static=★🌈柒號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“辰”🐉✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/ssLinks.png
 
-static=★🌈捌號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“子”🐁✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/LiYing.png
+static=★🌈捌號🏆機場🧜‍♀️✈, resource-tag-regex=⑤, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/LiYing.png
 
 url-latency-benchmark=★𓃰🌏節點選擇🌦✈, 🇬🇧GB_4766, 蜂窝网, WI-FI, check-interval=600, tolerance=4, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Static.png
 
