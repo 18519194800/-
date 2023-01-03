@@ -14,10 +14,9 @@ trojan=185.44.76.188:443, password=2e240YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZE
 [server_remote]
 https://v1.mk/5B0AwPa, tag=④, update-interval=172800, opt-parser=true, enabled=true
 https://pastebin.com/raw/jMDr6TKD, tag=③, update-interval=172800, opt-parser=true, enabled=true
-https://pastebin.com/raw/8Ej0ewBc, tag=②, update-interval=172800, opt-parser=true, enabled=true
-
+https://sub.sharecentre.online/sub, tag=②, update-interval=172800, opt-parser=true, enabled=true
 https://u.sylu.cyou/afbFyi, tag=①, update-interval=172800, opt-parser=true, enabled=true
-https://sub.sharecentre.online/sub, tag=🦥🫵✈⋯· ·💥❽, update-interval=172800, opt-parser=true, enabled=true
+https://pastebin.com/raw/8Ej0ewBc, tag=🦥🫵✈⋯· ·💥❽, update-interval=172800, opt-parser=true, enabled=true
 https://pastebin.com/raw/dmnL3uAR, tag=🦥🫵✈⋯· ·💥❼, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/WTT.png, update-interval=172800, opt-parser=true, enabled=true
 https://proxypool.sumwai.cn/vmess/sub, tag=🦥🫵✈⋯· ·💥❻, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Kafka.png, update-interval=172800, opt-parser=true, enabled=true
 http://101.132.255.205:1234/surge/proxies, tag=🦥🫵✈⋯· ·💥❺, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/LiYing.png, update-interval=172800, opt-parser=true, enabled=true
@@ -55,11 +54,11 @@ static=★𓃰⛔️拒絕請求🌦✈, reject, img-url=https://raw.githubuserc
 
 static=★𓃰🚫廣告攔截🌦✈, direct, proxy, ★🌈壹號🏆機場🧜‍♀️✈, ★🌈貳號🏆機場🧜‍♀️✈, ★🌈叁號🏆機場🧜‍♀️✈, ★🌈肆號🏆機場🧜‍♀️✈, ★🌈伍號🏆機場🧜‍♀️✈, ★🌈陸號🏆機場🧜‍♀️✈, ★🌈柒號🏆機場🧜‍♀️✈, ★🌈捌號🏆機場🧜‍♀️✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Adblock.png
 
-url-latency-benchmark=★🌈壹號🏆機場🧜‍♀️✈, resource-tag-regex=②, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Star_2.png
+static=★🌈壹號🏆機場🧜‍♀️✈, resource-tag-regex=②, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Star_2.png
 
 static=★🌈貳號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“亥”🐗✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SaySS.png
 
-static=★🌈叁號🏆機場🧜‍♀️✈, resource-tag-regex=🦥🫵✈⋯· ·💥❽, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/MDSS.png
+static=★🌈叁號🏆機場🧜‍♀️✈, resource-tag-regex=🦥🫵✈⋯· ·💥❽, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/STC.png
 
 url-latency-benchmark=★🌈肆號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“午”🐎✈⋯· · · ·  ·🚴‍♀️, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Ywhl.png
 
