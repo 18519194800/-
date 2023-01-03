@@ -12,7 +12,9 @@ trojan=185.44.76.188:443, password=2e240YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZE
 
 #节点远程订阅，自行添加
 [server_remote]
-https://paste.wmlabs.net/raw/14ce75afec11, tag=②, update-interval=172800, opt-parser=true, enabled=true
+https://v1.mk/5B0AwPa, tag=④, update-interval=172800, opt-parser=true, enabled=true
+https://pastebin.com/raw/jMDr6TKD, tag=③, update-interval=172800, opt-parser=true, enabled=true
+https://pastebin.com/raw/8Ej0ewBc, tag=②, update-interval=172800, opt-parser=true, enabled=true
 
 https://u.sylu.cyou/afbFyi, tag=①, update-interval=172800, opt-parser=true, enabled=true
 https://sub.sharecentre.online/sub, tag=🦥🫵✈⋯· ·💥❽, update-interval=172800, opt-parser=true, enabled=true
@@ -43,9 +45,15 @@ https://clash.myvm.cc/vmess/sub, tag=𓃰“亥”🐗✈⋯· · · ·  ·🚴�
 
 #策略组
 [policy]
-ssid=🌈SSID⛈✈, ★𓃰🚫廣告攔截🌦✈,  ★𓃰🚫廣告攔截🌦✈, img-url=https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/SSID.png
+ssid=🌈SSID⛈✈, ★𓃵🦥策略選取🌦✈, ★𓃵🦥策略選取🌦✈, img-url=https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/SSID.png
 
-static=★𓃵🦥策略選取🌦✈, ★𓃰💯負載均衡🌦✈, ★𓃰🌏節點選擇🌦✈, ★𓃰♨️健康檢測🌦✈, ★𓃰👋手動選擇🌦✈, ★𓃰♻️自動選擇🌦✈, ★🌈壹號🏆機場🧜‍♀️✈, ★🌈貳號🏆機場🧜‍♀️✈, ★🌈叁號🏆機場🧜‍♀️✈, ★🌈肆號🏆機場🧜‍♀️✈, ★🌈伍號🏆機場🧜‍♀️✈, ★🌈陸號🏆機場🧜‍♀️✈, ★🌈柒號🏆機場🧜‍♀️✈, ★🌈捌號🏆機場🧜‍♀️✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png
+static=★𓃵🦥策略選取🌦✈, ★𓃰🟢直接連通🌦✈, ★𓃰⛔️拒絕請求🌦✈, ★𓃰🚫廣告攔截🌦✈, ★𓃰💯負載均衡🌦✈, ★𓃰🌏節點選擇🌦✈, ★𓃰♨️健康檢測🌦✈, ★𓃰👋手動選擇🌦✈, ★𓃰♻️自動選擇🌦✈, ★🌈壹號🏆機場🧜‍♀️✈, ★🌈貳號🏆機場🧜‍♀️✈, ★🌈叁號🏆機場🧜‍♀️✈, ★🌈肆號🏆機場🧜‍♀️✈, ★🌈伍號🏆機場🧜‍♀️✈, ★🌈陸號🏆機場🧜‍♀️✈, ★🌈柒號🏆機場🧜‍♀️✈, ★🌈捌號🏆機場🧜‍♀️✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png
+
+static=★𓃰🟢直接連通🌦✈, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Direct.png
+
+static=★𓃰⛔️拒絕請求🌦✈, reject, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Reject.png
+
+static=★𓃰🚫廣告攔截🌦✈, direct, proxy, ★🌈壹號🏆機場🧜‍♀️✈, ★🌈貳號🏆機場🧜‍♀️✈, ★🌈叁號🏆機場🧜‍♀️✈, ★🌈肆號🏆機場🧜‍♀️✈, ★🌈伍號🏆機場🧜‍♀️✈, ★🌈陸號🏆機場🧜‍♀️✈, ★🌈柒號🏆機場🧜‍♀️✈, ★🌈捌號🏆機場🧜‍♀️✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Adblock.png
 
 url-latency-benchmark=★🌈壹號🏆機場🧜‍♀️✈, resource-tag-regex=②, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Star_2.png
 
@@ -62,12 +70,6 @@ static=★🌈陸號🏆機場🧜‍♀️✈, resource-tag-regex=🦥🫵✈�
 static=★🌈柒號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“寅”🐅✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/ssLinks.png
 
 static=★🌈捌號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“子”🐁✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/LiYing.png
-
-static=★𓃰🟢直接連通🌦✈, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Direct.png
-
-static=★𓃰⛔️拒絕請求🌦✈, reject, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Reject.png
-
-static=★𓃰🚫廣告攔截🌦✈, direct, proxy, ★𓃵🦥策略選取🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Adblock.png
 
 url-latency-benchmark=★𓃰🌏節點選擇🌦✈, 🇬🇧GB_4766, 蜂窝网, WI-FI, check-interval=600, tolerance=4, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Static.png
 
@@ -334,7 +336,7 @@ https://raw.githubusercontent.com/Hedilict/QuantumultX/master/Filter/NetEaseClou
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/NetEaseMusic/NetEaseMusic.list, tag=网易云音乐, force-policy=★𓃰網易音樂✈, update-interval=86400, opt-parser=true, enabled=true
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingLite/AdvertisingLite.list, tag=去广告精简版, force-policy=★𓃰🟢直接連通🌦✈, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingLite/AdvertisingLite.list, tag=去广告精简版, force-policy=★𓃰🚫廣告攔截🌦✈, update-interval=172800, opt-parser=true, enabled=true
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/YouTubeMusic/YouTubeMusic.list, tag=YouTubeMusic, force-policy=🌈SSID⛈✈, update-interval=86400, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Instagram/Instagram.list, tag=Instagram, force-policy=★𓃰Instagram✈, update-interval=172800, opt-parser=true, enabled=true
