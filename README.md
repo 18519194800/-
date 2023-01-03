@@ -12,13 +12,14 @@ trojan=185.44.76.188:443, password=2e240YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZE
 
 #节点远程订阅，自行添加
 [server_remote]
+https://paste.wmlabs.net/raw/f9a56a2c7167, tag=⑦, update-interval=172800, opt-parser=true, enabled=true
+https://ieplcloud.xyz/api/v1/client/subscribe?token=0c4552e021e9a34b733379114a994275, tag=⑥, update-interval=172800, opt-parser=true, enabled=true
 https://v1.mk/5B0AwPa, tag=⑤, update-interval=172800, opt-parser=true, enabled=true
 https://sub.sharecentre.online/sub, tag=④, update-interval=172800, opt-parser=true, enabled=true
 https://u.sylu.cyou/afbFyi, tag=③, update-interval=172800, opt-parser=true, enabled=true
 https://pastebin.com/raw/jMDr6TKD, tag=②, update-interval=172800, opt-parser=true, enabled=true
 https://gitlab.com/xream/scripts/-/raw/main/check.txt, tag=①, update-interval=172800, opt-parser=true, enabled=true
-https://proxypool.sumwai.cn/vmess/sub, tag=🦥🫵✈⋯· ·💥❾, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Telegram.png, update-interval=172800, opt-parser=true, enabled=true
-https://raw.fastgit.org/Pawdroid/Free-servers/main/sub, tag=🦥🫵✈⋯· ·💥❽, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Blackhole.png, update-interval=172800, opt-parser=true, enabled=true
+https://raw.fastgit.org/Pawdroid/Free-servers/main/sub, tag=🦥🫵✈⋯· ·💥❽, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Catnet.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/ijjhfyuh/-/main/q, tag=🦥🫵✈⋯· ·💥❼, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/WTT.png, update-interval=172800, opt-parser=true, enabled=true
 https://pastebin.com/raw/dmnL3uAR, tag=🦥🫵✈⋯· ·💥❻, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Kafka.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/ripaojiedian/freenode/main/ssr, tag=🦥🫵✈⋯· ·💥❺, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/LiYing.png, update-interval=172800, opt-parser=true, enabled=true
@@ -56,11 +57,11 @@ static=★𓃰⛔️拒絕請求🌦✈, reject, img-url=https://raw.githubuserc
 
 static=★𓃰🚫廣告攔截🌦✈, direct, proxy, ★🌈壹號🏆機場🧜‍♀️✈, ★🌈貳號🏆機場🧜‍♀️✈, ★🌈叁號🏆機場🧜‍♀️✈, ★🌈肆號🏆機場🧜‍♀️✈, ★🌈伍號🏆機場🧜‍♀️✈, ★🌈陸號🏆機場🧜‍♀️✈, ★🌈柒號🏆機場🧜‍♀️✈, ★🌈捌號🏆機場🧜‍♀️✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Adblock.png
 
-static=★🌈壹號🏆機場🧜‍♀️✈, resource-tag-regex=②, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Star_2.png
+static=★🌈壹號🏆機場🧜‍♀️✈, resource-tag-regex=①, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Star_2.png
 
-static=★🌈貳號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“亥”🐗✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SaySS.png
+static=★🌈貳號🏆機場🧜‍♀️✈, resource-tag-regex=⑦, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SaySS.png
 
-static=★🌈叁號🏆機場🧜‍♀️✈, resource-tag-regex=①, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/STC.png
+static=★🌈叁號🏆機場🧜‍♀️✈, resource-tag-regex=⑥, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/STC.png
 
 url-latency-benchmark=★🌈肆號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“子”🐁✈⋯· · · ·  ·🚴‍♀️, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Ywhl.png
 
@@ -78,7 +79,7 @@ dest-hash=★𓃰♨️健康檢測🌦✈, 🇬🇧GB_4766, WI-FI, 蜂窝网, i
 
 round-robin=★𓃰💯負載均衡🌦✈, 🇬🇧GB_4766, Trojan-东京01|公益 ², Trojan-东京01|公益 ³, Trojan-东京02|公益 ², Trojan-东京02|公益 ⁵, Trojan-东京01|公益 ⁵, Trojan-东京02|公益, Trojan-东京02|公益 ³, Trojan-东京03|公益 ³, Trojan-东京03|公益 ⁵, Trojan-东京04|公益 ¹, Trojan-东京04|公益 ², Trojan-东京04|公益 ³, Trojan-东京04|公益 ⁴, Trojan-东京04|公益 ⁵, Trojan-东京05|公益, Trojan-东京05|公益 ¹, Trojan-东京05|公益 ², Trojan-东京05|公益 ⁴, Trojan-东京06|公益 ³, Trojan-东京06|公益 ⁴, Trojan-东京08|公益, Trojan-东京08|公益 ³, Trojan-东京09|公益, Trojan-东京09|公益 ², Trojan-东京09|公益 ³, Trojan-东京09|公益 ⁴, Trojan-东京09|公益 ⁵, Trojan-东京10|公益 ¹, Trojan-东京10|公益 ³, Trojan-东京10|公益 ⁴, Trojan-东京10|公益 ⁵, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SSID.png
 
-url-latency-benchmark=★𓃰♻️自動選擇🌦✈, resource-tag-regex=𓃰“午”🐎✈⋯· · · ·  ·🚴‍♀️, server-tag-regex=(?=.*(东京|公益|(?i)Trojan))^((?!(日本|频道|网易|hong kong|游戏|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Roundrobin.png
+url-latency-benchmark=★𓃰♻️自動選擇🌦✈, resource-tag-regex=𓃰“子”🐁✈⋯· · · ·  ·🚴‍♀️, server-tag-regex=(?=.*(东京|公益|(?i)Trojan))^((?!(日本|频道|网易|hong kong|游戏|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Roundrobin.png
 
 static=★𓃰👋手動選擇🌦✈, resource-tag-regex=A||, server-tag-regex=A||, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Clubhouse.png
 
