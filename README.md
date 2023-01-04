@@ -15,7 +15,7 @@ https://v1.mk/5B0AwPa, tag=④, img-url=https://raw.githubusercontent.com/Koolso
 https://u.sylu.cyou/afbFyi, tag=③, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Spark.png, update-interval=172800, opt-parser=true, enabled=true
 https://sub.sharecentre.online/sub, tag=②, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Star_2.png, update-interval=172800, opt-parser=true, enabled=true
 https://pastebin.com/raw/jMDr6TKD, tag=①, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/aaex.png, update-interval=172800, opt-parser=true, enabled=true
-https://gitlab.com/xream/scripts/-/raw/main/check.txt, tag=⓪, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/SK.png, update-interval=172800, opt-parser=true, enabled=true
+https://gitlab.com/xream/scripts/-/raw/main/check.txt, tag=⓪, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/GuGuEX.png, update-interval=172800, opt-parser=true, enabled=true
 http://39.106.12.141:8081/surge/proxies, tag=🦥⑨🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Flamingo.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.fastgit.org/Pawdroid/Free-servers/main/sub, tag=🦥❽🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/WTT.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/ijjhfyuh/-/main/q, tag=🦥❼🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Catnet.png, update-interval=172800, opt-parser=true, enabled=true
