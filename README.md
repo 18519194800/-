@@ -11,12 +11,19 @@ trojan=185.44.76.188:443, password=2e240YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZE
 
 #节点远程订阅，自行添加
 [server_remote]
-https://v1.mk/5B0AwPa, tag=④, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Direct.png, update-interval=172800, opt-parser=true, enabled=true
-https://u.sylu.cyou/afbFyi, tag=③, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Spark.png, update-interval=172800, opt-parser=true, enabled=true
-https://sub.sharecentre.online/sub, tag=②, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Star_2.png, update-interval=172800, opt-parser=true, enabled=true
-https://pastebin.com/raw/jMDr6TKD, tag=①, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/aaex.png, update-interval=172800, opt-parser=true, enabled=true
-https://gitlab.com/xream/scripts/-/raw/main/check.txt, tag=⓪, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/GuGuEX.png, update-interval=172800, opt-parser=true, enabled=true
-http://39.106.12.141:8081/surge/proxies, tag=🦥⑨🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Flamingo.png, update-interval=172800, opt-parser=true, enabled=true
+https://www.ppssqq.com/link/SNPyOf6TndHINNOs?clash=1, tag=⑧, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Auto.png, update-interval=172800, opt-parser=true, enabled=true
+https://xn--mes91r2ng7p4a.com/api/v1/client/subscribe?token=8b3be30f1ee0e715d683794012b213e9&flag=clash, tag=⑦, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Luffy.png, update-interval=172800, opt-parser=true, enabled=true
+https://update-y.download-config-ppy.cyou/link/XNoQrkVpdEdkk4Hr?clash=1, tag=⑥, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Cat.png, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/gitbigg/permalink/main/subscribe, tag=⑤, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Round_Robin.png, update-interval=172800, opt-parser=true, enabled=true
+https://v1.mk/5B0AwPa, tag=④, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Spark.png, update-interval=172800, opt-parser=true, enabled=true
+https://u.sylu.cyou/afbFyi, tag=③, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Star_2.png, update-interval=172800, opt-parser=true, enabled=true
+https://sub.sharecentre.online/sub, tag=②, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Ingress.png, update-interval=172800, opt-parser=true, enabled=true
+https://pastebin.com/raw/jMDr6TKD, tag=①, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Rocket.png, update-interval=172800, opt-parser=true, enabled=true
+https://gitlab.com/xream/scripts/-/raw/main/check.txt, tag=❺, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/GuGuEX.png, update-interval=172800, opt-parser=true, enabled=true
+https://kxswa.tk/v2ray, tag=❹, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Mouse.png, update-interval=172800, opt-parser=true, enabled=true
+https://raw.fastgit.org/ripaojiedian/freenode/main/sub, tag=❸, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Google_Opinion_Rewards.png, update-interval=172800, opt-parser=true, enabled=true
+https://pastebin.com/raw/V8tvmUn1, tag=❷, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Want_Want_Letter.png, update-interval=172800, opt-parser=true, enabled=true
+https://prop.cf/?name=paimon, tag=❶, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/AmyTelecom.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.fastgit.org/Pawdroid/Free-servers/main/sub, tag=🦥❽🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/WTT.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/ijjhfyuh/-/main/q, tag=🦥❼🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Catnet.png, update-interval=172800, opt-parser=true, enabled=true
 https://pastebin.com/raw/dmnL3uAR, tag=🦥❻🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Kafka.png, update-interval=172800, opt-parser=true, enabled=true
@@ -65,7 +72,7 @@ url-latency-benchmark=★🌈肆號🏆機場🧜‍♀️✈, resource-tag-rege
 
 static=★🌈伍號🏆機場🧜‍♀️✈, resource-tag-regex=④, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/PlayStation.png
 
-static=★🌈陸號🏆機場🧜‍♀️✈, resource-tag-regex=🦥❽🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Fries.png
+static=★🌈陸號🏆機場🧜‍♀️✈, resource-tag-regex=⑧, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Fries.png
 
 static=★🌈柒號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“辰”🐉✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/ssLinks.png
 
