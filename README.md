@@ -12,7 +12,7 @@ trojan=185.44.76.188:443, password=2e240YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZE
 #节点远程订阅，自行添加
 [server_remote]
 https://www.ppssqq.com/link/SNPyOf6TndHINNOs?clash=1, tag=⑤, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Auto.png, update-interval=172800, opt-parser=true, enabled=true
-https://update-y.download-config-ppy.cyou/link/XNoQrkVpdEdkk4Hr?clash=1, tag=④, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Cat.png, update-interval=172800, opt-parser=true, enabled=true
+https://update-y.download-config-ppy.cyou/link/XNoQrkVpdEdkk4Hr?clash=1, tag=④, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Panda.png, update-interval=172800, opt-parser=true, enabled=true
 https://v1.mk/5B0AwPa, tag=③, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Spark.png, update-interval=172800, opt-parser=true, enabled=true
 https://u.sylu.cyou/afbFyi, tag=②, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Star_2.png, update-interval=172800, opt-parser=true, enabled=true
 https://sub.sharecentre.online/sub, tag=①, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Ingress.png, update-interval=172800, opt-parser=true, enabled=true
