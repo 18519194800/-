@@ -65,7 +65,7 @@ static=★🌈肆號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“亥”
 
 static=★🌈伍號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“酉”🐔✈⋯· · · ·  ·🚴‍♀️, server-tag-regex=美国|🇺🇸|US|Us|us, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/PlayStation.png
 
-static=★🌈陸號🏆機場🧜‍♀️✈, resource-tag-regex=③, server-tag-regex=美国|🇺🇸|US|Us|us, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Fries.png
+static=★🌈陸號🏆機場🧜‍♀️✈, resource-tag-regex=🦥坎☵水🫵✈⋯· ·💥, server-tag-regex=美国|🇺🇸|US|Us|us, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Fries.png
 
 static=★🌈柒號🏆機場🧜‍♀️✈, resource-tag-regex=②, server-tag-regex=美国|🇺🇸|US|Us|us, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/ssLinks.png
 
