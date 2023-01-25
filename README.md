@@ -12,6 +12,7 @@ trojan=185.44.76.188:443, password=2e240YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZE
 
 #节点远程订阅，自行添加
 [server_remote]
+https://s.yuji2022.eu.org/e4j4WQc, tag=⑤, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/AmyTelecom.png, update-interval=172800, opt-parser=true, enabled=true
 https://sanfen002.xyz/api/v1/client/subscribe?token=2a50ea06fc0220681eec6f969d64219e, tag=④, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Panda.png, update-interval=172800, opt-parser=true, enabled=true
 https://pastebin.com/raw/SUNqDbpL, tag=③, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Direct.png, update-interval=172800, opt-parser=true, enabled=true
 https://nodefree.org/dy/2023/01/20230125.txt, tag=②, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/aaex.png, update-interval=172800, opt-parser=true, enabled=true
