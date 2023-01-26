@@ -12,11 +12,11 @@ trojan=185.44.76.188:443, password=2e240YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZE
 
 #节点远程订阅，自行添加
 [server_remote]
-https://s.yuji2022.eu.org/e4j4WQc, tag=🍟伍🎮, img-url=5.circle.system, update-interval=172800, opt-parser=true, enabled=true
-https://paste.wmlabs.net/raw/d2d4d6ee850f, tag=🍟肆🎮, img-url=4.circle.system, update-interval=172800, opt-parser=true, enabled=true
-https://pastebin.com/raw/SUNqDbpL, tag=🍟叁🎮, img-url=3.circle.system, update-interval=172800, opt-parser=true, enabled=true
-https://nodefree.org/dy/2023/01/20230125.txt, tag=🍟貳🎮, img-url=2.circle.system, update-interval=172800, opt-parser=true, enabled=true
-https://sub.sharecentre.online/sub, tag=🍟壹🎮, img-url=1.circle.system, update-interval=172800, opt-parser=true, enabled=true
+https://s.yuji2022.eu.org/e4j4WQc, tag=🧜‍♀️🍟伍🎮✈⋯·✨, img-url=5.circle.system, update-interval=172800, opt-parser=true, enabled=true
+https://paste.wmlabs.net/raw/d2d4d6ee850f, tag=🧜‍♀️🍟肆🎮✈⋯·✨, img-url=4.circle.system, update-interval=172800, opt-parser=true, enabled=true
+https://pastebin.com/raw/SUNqDbpL, tag=🧜‍♀️🍟叁🎮✈⋯·✨, img-url=3.circle.system, update-interval=172800, opt-parser=true, enabled=true
+https://nodefree.org/dy/2023/01/20230125.txt, tag=🧜‍♀️🍟貳🎮✈⋯·✨, img-url=2.circle.system, update-interval=172800, opt-parser=true, enabled=true
+https://sub.sharecentre.online/sub, tag=🧜‍♀️🍟壹🎮✈⋯·✨, img-url=1.circle.system, update-interval=172800, opt-parser=true, enabled=true
 https://raw.fastgit.org/Pawdroid/Free-servers/main/sub, tag=🦥乾☰天🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/WTT.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/gitbigg/permalink/main/subscribe, tag=🦥坎☵水🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Catnet.png, update-interval=172800, opt-parser=true, enabled=true
 https://pastebin.com/raw/dmnL3uAR, tag=🦥艮☵山🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Kafka.png, update-interval=172800, opt-parser=true, enabled=true
@@ -59,7 +59,7 @@ static=★🌈壹號🏆機場🧜‍♀️✈, server-tag-regex=美国|🇺🇸
 
 url-latency-benchmark=★🌈貳號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“巳”🐍✈⋯· · · ·  ·🚴‍♀️, server-tag-regex=美国|🇺🇸|US|Us, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SaySS.png
 
-static=★🌈叁號🏆機場🧜‍♀️✈, resource-tag-regex=🍟叁🎮, server-tag-regex=美国|🇺🇸|US|Us, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Ywhl.png
+static=★🌈叁號🏆機場🧜‍♀️✈, resource-tag-regex=🧜‍♀️🍟叁🎮✈⋯·✨, server-tag-regex=美国|🇺🇸|US|Us, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Ywhl.png
 
 static=★🌈肆號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“亥”🐗✈⋯· · · ·  ·🚴‍♀️, server-tag-regex=美国|🇺🇸|US|Us|us, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/FRANXX.png
 
@@ -67,9 +67,9 @@ static=★🌈伍號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“酉”
 
 static=★🌈陸號🏆機場🧜‍♀️✈, resource-tag-regex=🦥坎☵水🫵✈⋯· ·💥, server-tag-regex=美国|🇺🇸|US|Us|us, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Fries.png
 
-static=★🌈柒號🏆機場🧜‍♀️✈, resource-tag-regex=🍟貳🎮, server-tag-regex=美国|🇺🇸|US|Us|us, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/ssLinks.png
+static=★🌈柒號🏆機場🧜‍♀️✈, resource-tag-regex=🧜‍♀️🍟貳🎮✈⋯·✨, server-tag-regex=美国|🇺🇸|US|Us|us, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/ssLinks.png
 
-static=★🌈捌號🏆機場🧜‍♀️✈, resource-tag-regex=🍟壹🎮, server-tag-regex=美国|🇺🇸|US|Us|us, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/LiYing.png
+static=★🌈捌號🏆機場🧜‍♀️✈, resource-tag-regex=🧜‍♀️🍟壹🎮✈⋯·✨, server-tag-regex=美国|🇺🇸|US|Us|us, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/LiYing.png
 
 url-latency-benchmark=★𓃰🌏節點選擇🌦✈, 🇬🇧GB_4766, 蜂窝网, WI-FI, check-interval=600, tolerance=4, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Static.png
 
