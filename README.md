@@ -1,4 +1,4 @@
-#🐸井台蛙🐸quantumultX全局配置
+#🐸井沿儿蛙🐸quantumultX全局配置
 #图标备用📮✉️📪📬💫💬💥🔨🥼🚫🔰🙈🍎🎬📺🎱🍐🐝🦁💡🌵🐯🎸💻📽🌏🕹📡🦑🌟🐷🦒🐳🚦📵🎧💊🔓🚦🚥🐼⛔️🈲🌐🎯🖲️🐦🔞🎵📱🚀💳♻️🙈🍱🔂📦🔀⏱
 
 
@@ -12,10 +12,11 @@ trojan=185.44.76.188:443, password=2e240YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZE
 
 #节点远程订阅，自行添加
 [server_remote]
+https://pastebin.com/raw/Nkn2R2WV, tag=🧜‍♀️🍟柒🎮✈⋯·✨, img-url=7.circle.system, update-interval=172800, opt-parser=true, enabled=true
 https://sanfen002.xyz/api/v1/client/subscribe?token=b4bdf26a59161576e08c613c95bdc30d&flag=v2ray, tag=🧜‍♀️🍟陸🎮✈⋯·✨, img-url=6.circle.system, update-interval=172800, opt-parser=true, enabled=true
 https://paste.wmlabs.net/raw/59390c1840cb, tag=🧜‍♀️🍟伍🎮✈⋯·✨, img-url=5.circle.system, update-interval=172800, opt-parser=true, enabled=true
 https://pastebin.com/raw/SUNqDbpL, tag=🧜‍♀️🍟肆🎮✈⋯·✨, img-url=4.circle.system, update-interval=172800, opt-parser=true, enabled=true
-https://nodefree.org/dy/2023/01/20230128.txt, tag=🧜‍♀️🍟叁🎮✈⋯·✨, img-url=3.circle.system, update-interval=172800, opt-parser=true, enabled=true
+https://nodefree.org/dy/2023/01/20230129.txt, tag=🧜‍♀️🍟叁🎮✈⋯·✨, img-url=3.circle.system, update-interval=172800, opt-parser=true, enabled=true
 https://s.yuji2022.eu.org/e4j4WQc, tag=🧜‍♀️🍟貳🎮✈⋯·✨, img-url=2.circle.system, update-interval=172800, opt-parser=true, enabled=true
 https://sub.sharecentre.online/sub, tag=🧜‍♀️🍟壹🎮✈⋯·✨, img-url=1.circle.system, update-interval=172800, opt-parser=true, enabled=true
 https://raw.fastgit.org/Pawdroid/Free-servers/main/sub, tag=🦥乾☰天🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Twitter.png, update-interval=172800, opt-parser=true, enabled=true
