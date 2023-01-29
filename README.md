@@ -12,7 +12,6 @@ trojan=185.44.76.188:443, password=2e240YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZE
 
 #节点远程订阅，自行添加
 [server_remote]
-https://misakafree.ml/api/v1/client/subscribe?token=76ffa54fa02dd68bed9dd9850e54d039, tag=🧜‍♀️🍟柒🎮✈⋯·✨, img-url=7.circle.system, update-interval=172800, opt-parser=true, enabled=true
 https://sanfen002.xyz/api/v1/client/subscribe?token=b4bdf26a59161576e08c613c95bdc30d&flag=v2ray, tag=🧜‍♀️🍟陸🎮✈⋯·✨, img-url=6.circle.system, update-interval=172800, opt-parser=true, enabled=true
 https://paste.wmlabs.net/raw/59390c1840cb, tag=🧜‍♀️🍟伍🎮✈⋯·✨, img-url=5.circle.system, update-interval=172800, opt-parser=true, enabled=true
 https://pastebin.com/raw/SUNqDbpL, tag=🧜‍♀️🍟肆🎮✈⋯·✨, img-url=4.circle.system, update-interval=172800, opt-parser=true, enabled=true
