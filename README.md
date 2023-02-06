@@ -13,12 +13,13 @@ trojan=185.44.76.188:443, password=2e240YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZE
 
 #节点远程订阅，自行添加
 [server_remote]
-https://sub.cloudflare.quest, tag=🧜‍♀️🍟陸🎮✈⋯·✨, img-url=6.circle.system, update-interval=172800, opt-parser=true, enabled=true
-https://paste.gg/p/anonymous/8944cc1cdc4b4043a7f96e94a774d0ca/files/c42221f0fc4345029c20cecfc703d387/raw, tag=🧜‍♀️🍟伍🎮✈⋯·✨, img-url=5.circle.system, update-interval=172800, opt-parser=true, enabled=true
-https://bulink.me/sub/gkp2cz/vm, tag=🧜‍♀️🍟肆🎮✈⋯·✨, img-url=4.circle.system, update-interval=172800, opt-parser=true, enabled=true
-https://nodefree.org/dy/2023/02/20230205.txt, tag=🧜‍♀️🍟叁🎮✈⋯·✨, img-url=3.circle.system, update-interval=172800, opt-parser=true, enabled=true
-https://my5353.com/nuomi, tag=🧜‍♀️🍟貳🎮✈⋯·✨, img-url=2.circle.system, update-interval=172800, opt-parser=true, enabled=true
-https://sub.sharecentre.online/sub, tag=🧜‍♀️🍟壹🎮✈⋯·✨, img-url=1.circle.system, update-interval=172800, opt-parser=true, enabled=true
+https://nuo.jaywsn.top/V2ay, tag=🧜‍♀️🍟柒🎮✈⋯·✨, img-url=h.circle.system, update-interval=172800, opt-parser=true, enabled=true
+https://sub.cloudflare.quest, tag=🧜‍♀️🍟陸🎮✈⋯·✨, img-url=g.circle.system, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/baip01/yhkj/main/v2ray, tag=🧜‍♀️🍟伍🎮✈⋯·✨, img-url=f.circle.system, update-interval=172800, opt-parser=true, enabled=true
+https://bulink.me/sub/gkp2cz/vm, tag=🧜‍♀️🍟肆🎮✈⋯·✨, img-url=d.circle.system, update-interval=172800, opt-parser=true, enabled=true
+https://nodefree.org/dy/2023/02/20230206.txt, tag=🧜‍♀️🍟叁🎮✈⋯·✨, img-url=c.circle.system, update-interval=172800, opt-parser=true, enabled=true
+https://my5353.com/nuomi, tag=🧜‍♀️🍟貳🎮✈⋯·✨, img-url=b.circle.system, update-interval=172800, opt-parser=true, enabled=true
+https://sub.sharecentre.online/sub, tag=🧜‍♀️🍟壹🎮✈⋯·✨, img-url=a.circle.system, update-interval=172800, opt-parser=true, enabled=true
 https://pastebin.com/raw/SUNqDbpL, tag=🦥乾☰天🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/WTT.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/gitbigg/permalink/main/subscribe, tag=🦥坎☵水🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/GuGuEX.png, update-interval=172800, opt-parser=true, enabled=true
 https://pastebin.com/raw/dmnL3uAR, tag=🦥艮☵山🫵✈⋯· ·💥, img-url=swift.system, update-interval=172800, opt-parser=true, enabled=true
@@ -213,7 +214,7 @@ url-latency-benchmark=★𓃰馬來西亞✈, server-tag-regex=(?=.*(?i)(马来�
 
 url-latency-benchmark=★𓃰澳大利亞✈, server-tag-regex=(?=.*(澳大利亚|澳大利亞|🇦🇺|AU|Au|au|Commonwealth of Australia|(?i)Australia))^((?!(专线|🇭🇰|手游|hong kong|游戏|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=5, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Australia.png
 
-url-latency-benchmark=★𓃰巴西聯邦✈, server-tag-regex=(?=.*(巴西|🇧🇷|BR|(?i)Brazil))^((?!(专线|🇭🇰|手游|hong kong|游戏|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Brazil.png
+url-latency-benchmark=★𓃰巴西聯邦✈, server-tag-regex=(?=.*(巴西|🇧🇷|BR|(?i)Brazil))^((?!(专线|🇭🇰|手游|hong kong|游戏|(?i)IPLC|IEPL|🇬🇧|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Brazil.png
 
 
 #规则分流远程订阅
