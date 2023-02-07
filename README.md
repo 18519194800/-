@@ -13,9 +13,11 @@ trojan=185.44.76.188:443, password=2e240YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZE
 
 #节点远程订阅，自行添加
 [server_remote]
+https://v2rayshare.com/wp-content/uploads/2023/02/20230207.txt, tag=🧜每日更新☘️https://t.me/v2rayshare, img-url=sun.haze.system, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx1, tag=🧜‍♀️🍟陸🎮✈⋯·✨, img-url=f.circle.system, update-interval=172800, opt-parser=true, enabled=true
 https://proxy.aries.ovh/api/v1/client/subscribe?token=931037d89498ea7ff6427f0a9f5d6c80, tag=🧜‍♀️🍟伍🎮✈⋯·✨, img-url=e.circle.system, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/baip01/yhkj/main/v2ray, tag=🧜‍♀️🍟肆🎮✈⋯·✨, img-url=d.circle.system, update-interval=172800, opt-parser=true, enabled=true
-https://clashnode.com/wp-content/uploads/2023/02/20230207.txt, tag=🧜‍♀️🍟叁🎮✈⋯·✨, img-url=c.circle.system, update-interval=172800, opt-parser=true, enabled=true
+https://freefq.neocities.org/free.xml, tag=🧜‍♀️🍟叁🎮✈⋯·✨, img-url=c.circle.system, update-interval=172800, opt-parser=true, enabled=true
 https://nuo.jaywsn.top/V2ay, tag=🧜‍♀️🍟貳🎮✈⋯·✨, img-url=b.circle.system, update-interval=172800, opt-parser=true, enabled=true
 https://sub.sharecentre.online/sub, tag=🧜‍♀️🍟壹🎮✈⋯·✨, img-url=a.circle.system, update-interval=172800, opt-parser=true, enabled=true
 https://pastebin.com/raw/SUNqDbpL, tag=🦥乾☰天🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/WTT.png, update-interval=172800, opt-parser=true, enabled=true
@@ -27,9 +29,9 @@ https://v1.mk/Base64-Giao88, tag=🦥離☲火🫵✈⋯· ·💥, img-url=https
 https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2, tag=🦥坤☷地🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/ttwkxcx.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/kxswa/k/k/base64, tag=🦥兑☱澤🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/manga.png, update-interval=172800, opt-parser=true, enabled=true
 https://gitlab.com/ioshkj/quantumultx/-/raw/main/wyy.list, tag=𓃵“網易雲音樂”✈⋯·🔅, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Netease_Music_Unlock.png, update-interval=172800, opt-parser=true, enabled=true
-https://ghproxy.com//raw.githubusercontent.com/yaney01/Yaney01/main/yaney_01, tag=𓃰“上”👆✈⋯· · · ·  ·⛹️‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Xingmeng.png, update-interval=172800, opt-parser=true, enabled=true
+https://ghproxy.com//raw.githubusercontent.com/yaney01/Yaney01/main/yaney_01, tag=𓃰“上”👍✈⋯· · · ·  ·⛹️‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Xingmeng.png, update-interval=172800, opt-parser=true, enabled=true
 https://sub.id9.cc/sub?target=quanx&url=https://pastebin.com/raw/aAB3VrBz&insert=false, tag=𓃰“中”🤝✈⋯· · · ·  ·⛹🏻‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SaySS.png, update-interval=172800, opt-parser=true, inserted-resource=true, enabled=true
-https://raw.fastgit.org/freefq/free/master/v2, tag=𓃰“下”👇✈⋯· · · ·  ·⛹🏼‍♀️, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Media.png, update-interval=172800, opt-parser=true, enabled=true
+https://raw.fastgit.org/freefq/free/master/v2, tag=𓃰“下”👎✈⋯· · · ·  ·⛹🏼‍♀️, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Media.png, update-interval=172800, opt-parser=true, enabled=true
 https://pastebin.com/raw/fpeEqGTn, tag=𓃰“子”🐁✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Naiko.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.fastgit.org/Pawdroid/Free-servers/main/sub, tag=𓃰“醜”🦬✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Ox.png, update-interval=172800, opt-parser=true, enabled=true
 https://proxy.yiun.xyz/vmess/sub, tag=𓃰“寅”🐅✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Ywhl.png, update-interval=86400, opt-parser=true, enabled=true
