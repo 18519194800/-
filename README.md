@@ -13,9 +13,9 @@ trojan=185.44.76.188:443, password=2e240YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZE
 
 #节点远程订阅，自行添加
 [server_remote]
+https://proxy.aries.ovh/api/v1/client/subscribe?token=931037d89498ea7ff6427f0a9f5d6c80, tag=🐲临时🍀, img-url=livephoto.play.system, update-interval=172800, opt-parser=true, enabled=true
 https://v2rayshare.com/wp-content/uploads/2023/02/20230207.txt, tag=🧜每日更新☘️https://t.me/v2rayshare, img-url=sun.haze.system, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx1, tag=🧜‍♀️🍟陸🎮✈⋯·✨, img-url=f.circle.system, update-interval=172800, opt-parser=true, enabled=true
-https://proxy.aries.ovh/api/v1/client/subscribe?token=931037d89498ea7ff6427f0a9f5d6c80, tag=🧜‍♀️🍟伍🎮✈⋯·✨, img-url=e.circle.system, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx1, tag=🧜‍♀️🍟陸🎮✈⋯·✨, img-url=e.circle.system, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/baip01/yhkj/main/v2ray, tag=🧜‍♀️🍟肆🎮✈⋯·✨, img-url=d.circle.system, update-interval=172800, opt-parser=true, enabled=true
 https://freefq.neocities.org/free.xml, tag=🧜‍♀️🍟叁🎮✈⋯·✨, img-url=c.circle.system, update-interval=172800, opt-parser=true, enabled=true
 https://nuo.jaywsn.top/V2ay, tag=🧜‍♀️🍟貳🎮✈⋯·✨, img-url=b.circle.system, update-interval=172800, opt-parser=true, enabled=true
