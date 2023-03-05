@@ -1,4 +1,4 @@
-#🐸井沿儿蛙🐸quantumultX全局配置
+#🦥呆子🐻‍❄️quantumultX全局配置
 
 
 #本地服务器部分
@@ -13,23 +13,18 @@ trojan=185.44.76.188:443, password=2e240YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZE
 
 #节点远程订阅，自行添加
 [server_remote]
-https://pastebin.com/raw/aAB3VrBz, tag=🌈備❺用🌴, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1643998.png, update-interval=172800, opt-parser=true, enabled=true
-https://ghproxy.com/https://raw.githubusercontent.com/kxswa/k/k/base64, tag=🌈備❹用🌴, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/2919780.png, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config.yaml, tag=🌈備❸用🌴, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/pokeball1.png, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/rxsweet/proxies/main/sub/goodfree64.txt, tag=🌈備❷用🌴, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/2920026.png, update-interval=172800, opt-parser=true, enabled=true
-https://sub.cloudflare.quest, tag=🌈備❶用🌴, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1685574.png, update-interval=172800, opt-parser=true, enabled=true
-https://v2rayshare.com/wp-content/uploads/2023/02/20230228.txt, tag=🧜日更☘️https://t.me/v2rayshare, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/in.png, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/baip01/yhkj/main/v2ray, tag=🧜‍♀️🍟叁🎮✈⋯·✨, img-url=c.circle.system, update-interval=172800, opt-parser=true, enabled=true
-https://gitlab.com/api/v4/projects/39360507/repository/files/data%2Fv2ray%2Fyaney.txt/raw?ref=main&private_token=glpat-_xG7s-sYJPRDPgKxAk-c, tag=🧜‍♀️🍟貳🎮✈⋯·✨, img-url=b.circle.system, update-interval=172800, opt-parser=true, enabled=true
-https://sub.sharecentre.online/sub, tag=🧜‍♀️🍟壹🎮✈⋯·✨, img-url=a.circle.system, update-interval=172800, opt-parser=true, enabled=true
-https://pastebin.com/raw/SUNqDbpL, tag=🦥乾☰天🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/WTT.png, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/gitbigg/permalink/main/subscribe, tag=🦥坎☵水🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/GuGuEX.png, update-interval=172800, opt-parser=true, enabled=true
-https://pastebin.com/raw/dmnL3uAR, tag=🦥艮☵山🫵✈⋯· ·💥, img-url=swift.system, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub, tag=🦥震☳雷🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/LiYing.png, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity, tag=🦥巽☴風🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/idkttt.png, update-interval=172800, opt-parser=true, enabled=true
-https://suo.yt/Base64-Giao88, tag=🦥離☲火🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/hoya.png, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2, tag=🦥坤☷地🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/ttwkxcx.png, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/kxswa/k/k/base64, tag=🦥兑☱澤🫵✈⋯· ·💥, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/manga.png, update-interval=172800, opt-parser=true, enabled=true
+https://gitlab.com/api/v4/projects/39360507/repository/files/data%2Fv2ray%2Fyaney.txt/raw?ref=main&private_token=glpat-_xG7s-sYJPRDPgKxAk-c, tag=🧜‍♀️“叁”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1643998.png, update-interval=172800, opt-parser=true, enabled=true
+https://sub.cloudflare.quest, tag=🧜‍♀️“貳”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/2921101.png, update-interval=172800, opt-parser=true, enabled=true
+https://sub.sharecentre.online/sub, tag=🧜‍♀️“壹”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1658318.png, update-interval=172800, opt-parser=true, enabled=true
+https://v2rayshare.com/wp-content/uploads/2023/03/20230305.txt, tag=🧜日更☘️節點✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/2920026.png, update-interval=172800, opt-parser=true, enabled=true
+https://pastebin.com/raw/SUNqDbpL, tag=🦥乾☰天🫵✈⋯· ·✨, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/WTT.png, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/gitbigg/permalink/main/subscribe, tag=🦥坎☵水🫵✈⋯· ·✨, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/GuGuEX.png, update-interval=172800, opt-parser=true, enabled=true
+https://pastebin.com/raw/dmnL3uAR, tag=🦥艮☵山🫵✈⋯· ·✨, img-url=swift.system, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub, tag=🦥震☳雷🫵✈⋯· ·✨, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/LiYing.png, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/baip01/yhkj/main/v2ray, tag=🦥巽☴風🫵✈⋯· ·✨, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/idkttt.png, update-interval=172800, opt-parser=true, enabled=true
+https://suo.yt/Base64-Giao88, tag=🦥離☲火🫵✈⋯· ·✨, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/hoya.png, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2, tag=🦥坤☷地🫵✈⋯· ·✨, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/ttwkxcx.png, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/kxswa/k/k/base64, tag=🦥兑☱澤🫵✈⋯· ·✨, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/manga.png, update-interval=172800, opt-parser=true, enabled=true
 https://gitlab.com/ioshkj/quantumultx/-/raw/main/wyy.list, tag=𓃵“網易雲音樂”✈⋯·🔅, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Netease_Music_Unlock.png, update-interval=172800, opt-parser=true, enabled=true
 https://free.iam7.tk/vmess/sub, tag=𓃰“上”👍✈⋯· · · ·  ·⛹️‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Xingmeng.png, update-interval=172800, opt-parser=true, enabled=true
 https://sub.id9.cc/sub?target=quanx&url=https://pastebin.com/raw/aAB3VrBz&insert=false, tag=𓃰“中”🤝✈⋯· · · ·  ·⛹🏻‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SaySS.png, update-interval=172800, opt-parser=true, inserted-resource=true, enabled=true
@@ -43,7 +38,7 @@ https://sub.pmsub.me/base64, tag=𓃰“巳”🐍✈⋯· · · ·  ·🚴‍�
 https://gitlab.com/univstar1/v2ray/-/raw/main/data/v2ray/general.txt, tag=𓃰“午”🐎✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/Final.png, update-interval=86400, opt-parser=true, enabled=true
 http://101.132.255.205:1234/surge/proxies, tag=𓃰“未”🐑✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/AEX.png, update-interval=86400, opt-parser=true, enabled=true
 http://pi.scntvb.ml:8080/surge/proxies, tag=𓃰“申”🐵✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Enet.png, update-interval=86400, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/wentao883/wxgdyjdy/main/dyljcs, tag=𓃰“酉”🐔✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Filter/Proxy.png, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config.yaml, tag=𓃰“酉”🐔✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Filter/Proxy.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/wentao883/wentao883/main/README.md, tag=𓃰“戌”🦮✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Nucleus.png, update-interval=172800, opt-parser=true, inserted-resource=true, enabled=true
 https://proxy.yugogo.xyz/vmess/sub, tag=𓃰“亥”🐗✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Bubble/Social-Logo/Slack.png, update-interval=86400, opt-parser=true, inserted-resource=true, enabled=true
 
@@ -59,13 +54,13 @@ static=★𓃰⛔️拒絕請求🌦✈, reject, img-url=https://raw.githubuserc
 
 static=★𓃰🚫廣告攔截🌦✈, direct, proxy, 🌈SSID⛈✈, ★𓃰藩劇節點✈, ★𓃵🦥策略選取🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Adblock.png
 
-url-latency-benchmark=★🌈壹號🏆機場🧜‍♀️✈, resource-tag-regex=🌈備❷用🌴, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Star_2.png
+url-latency-benchmark=★🌈壹號🏆機場🧜‍♀️✈, resource-tag-regex=🌈備❶用🌴, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Star_2.png
 
 url-latency-benchmark=★🌈貳號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“巳”🐍✈⋯· · · ·  ·🚴‍♀️, server-tag-regex=(?=.*(?i)(美国|🇺🇸|美國|Us|us|US|States|American))^((?!(?i)(IPLC|IEPL|game|baipiao|专线|手游|游戏|🇧🇩|🇳🇱|🇺🇦|🇱🇺|🇸🇬|🇩🇪|🇫🇮|🏁|🇨🇾|🇫🇷|🇦🇲|🇨🇦|🇧🇿|🇸🇪|🇷🇺|🇦🇺)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SaySS.png
 
 url-latency-benchmark=★🌈叁號🏆機場🧜‍♀️✈, resource-tag-regex=🦥坎☵水🫵✈⋯· ·💥, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Ywhl.png
 
-static=★🌈肆號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“亥”🐗✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/FRANXX.png
+static=★🌈肆號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“未”🐑✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/FRANXX.png
 
 static=★🌈伍號🏆機場🧜‍♀️✈, resource-tag-regex=🦥離☲火🫵✈⋯· ·💥, server-tag-regex=美国|🇺🇸|US|Us|us, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/PlayStation.png
 
@@ -495,7 +490,7 @@ https://raw.githubusercontent.com/bai1zi/shadowrocket-surge-loon-qx/main/YouTube
 https://raw.githubusercontent.com/app2smile/rules/master/module/youtube-qx.conf, tag=YouTube瀑布流, update-interval=172800, opt-parser=true, enabled=true
 
 #YouTube字幕
-https://raw.githubusercontent.com/id77/QuantumultX/master/rewrite/Youtube_CC.conf, tag=YouTube字幕, update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/id77/QuantumultX/master/rewrite/Youtube_CC.conf, tag=YouTube字幕, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/DualSubs/DualSubs-YouTube/main/qxrewrite/DualSubs.YouTube.qxrewrite?raw=true, tag=DualSubs for ▶ YouTube, update-interval=172800, opt-parser=false, enabled=true
 
 #傲软投屏
@@ -547,7 +542,7 @@ https://github.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.quanx
 #醒图
 https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/xt.js, tag=醒图, update-interval=172800, opt-parser=true, enabled=true
 #電信餘量
-https://raw.githubusercontent.com/QGCliveDavis/Module/main/Telecom/Tele_QX.conf, tag=電信餘量, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/QGCliveDavis/Module/main/Telecom/Tele_QX.conf, tag=電信餘量, update-interval=172800, opt-parser=true, enabled=false
 #百度云加速
 https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/BaiduCloud.conf, tag=百度云加速, update-interval=172800, opt-parser=true, enabled=true
 #扫描全能王
@@ -1195,8 +1190,8 @@ https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/backend/sub-store.min
 05 9 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_daily.js, tag=签到与任务, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm.png, enabled=true
 0/5 * 6-23 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/applestore/applestore.js, tag=库存查询, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/applestore/icon/applestore.png, enabled=true
 0 0 * * * https://raw.githubusercontent.com/crossutility/Quantumult-X/master/sample-task.js, tag=Sample, img-url=https://raw.githubusercontent.com/crossutility/Quantumult-X/master/quantumult-x.png, enabled=true
-*/5 * * * * https://raw.githubusercontent.com/QGCliveDavis/Module/main/Telecom/Tele_Cellular_Auto.js, tag=电信余量(自动版), img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/SSID_1.png, enabled=true
-*/5 * * * * https://raw.githubusercontent.com/QGCliveDavis/Module/main/Telecom/Tele_Cellular.js, tag=电信余量, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ULB_1.png, enabled=true
+*/5 * * * * https://raw.githubusercontent.com/QGCliveDavis/Module/main/Telecom/Tele_Cellular_Auto.js, tag=电信余量(自动版), img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/SSID_1.png, enabled=false
+*/5 * * * * https://raw.githubusercontent.com/QGCliveDavis/Module/main/Telecom/Tele_Cellular.js, tag=电信余量, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ULB_1.png, enabled=false
 11 1 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js, tag=抽奖机, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_lotteryMachine.png, enabled=true
 0 * * * * https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_cfd.js, tag=京喜财富岛, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jx_cfd.png, enabled=true
 0 16 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js, tag=腾讯自选股, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/txstockqx.png, enabled=true
