@@ -1,4 +1,4 @@
-#🦥呆子🐻‍❄️quantumultX全局配置
+#🦥憨🍊呆🐻‍❄️quantumultX全局配置
 
 
 #本地服务器部分
