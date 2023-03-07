@@ -13,13 +13,11 @@ trojan=185.44.76.188:443, password=2e240YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZE
 
 #节点远程订阅，自行添加
 [server_remote]
-https://gitlab.com/api/v4/projects/39360507/repository/files/data%2Fv2ray%2Fyaney.txt/raw?ref=main&private_token=glpat-_xG7s-sYJPRDPgKxAk-c, tag=🧜‍♀️“陸”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1643998.png, update-interval=172800, opt-parser=true, enabled=true
-https://9527521.xyz/config/9e5f0r31FIPszHwB, tag=🧜‍♀️“伍”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1814229.png, update-interval=172800, opt-parser=true, enabled=true
-https://ghproxy.com/raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx1, tag=🧜‍♀️“肆”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/audio.png, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/parkerpa/cs/main/v2ray, tag=🧜‍♀️“叁”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/baidu.png, update-interval=172800, opt-parser=true, enabled=true
+https://gitlab.com/api/v4/projects/39360507/repository/files/data%2Fv2ray%2Fyaney.txt/raw?ref=main&private_token=glpat-_xG7s-sYJPRDPgKxAk-c, tag=🧜‍♀️“肆”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1643998.png, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/yxzbp/yxzbp_p/main/yxzbp, tag=🧜‍♀️“叁”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1814752.png, update-interval=172800, opt-parser=true, enabled=true
 https://sub.cloudflare.quest, tag=🧜‍♀️“貳”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/2921101.png, update-interval=172800, opt-parser=true, enabled=true
 https://sub.sharecentre.online/sub, tag=🧜‍♀️“壹”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1658318.png, update-interval=172800, opt-parser=true, enabled=true
-https://clashnode.com/wp-content/uploads/2023/03/20230306.txt, tag=🧜日更🍊節點✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/2920026.png, update-interval=172800, opt-parser=true, enabled=true
+https://v2rayshare.com/wp-content/uploads/2023/03/20230307.txt, tag=🧜日更🍊節點✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/2920026.png, update-interval=172800, opt-parser=true, enabled=true
 https://pastebin.com/raw/SUNqDbpL, tag=🦥乾☰天🫵✈⋯· ·✨, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/WTT.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/gitbigg/permalink/main/subscribe, tag=🦥坎☵水🫵✈⋯· ·✨, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/GuGuEX.png, update-interval=172800, opt-parser=true, enabled=true
 https://pastebin.com/raw/dmnL3uAR, tag=🦥艮☵山🫵✈⋯· ·✨, img-url=swift.system, update-interval=172800, opt-parser=true, enabled=true
