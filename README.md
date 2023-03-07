@@ -13,7 +13,8 @@ trojan=185.44.76.188:443, password=2e240YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZE
 
 #节点远程订阅，自行添加
 [server_remote]
-https://gitlab.com/api/v4/projects/39360507/repository/files/data%2Fv2ray%2Fyaney.txt/raw?ref=main&private_token=glpat-_xG7s-sYJPRDPgKxAk-c, tag=🧜‍♀️“肆”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1643998.png, update-interval=172800, opt-parser=true, enabled=true
+https://gitlab.com/api/v4/projects/39360507/repository/files/data%2Fv2ray%2Fyaney.txt/raw?ref=main&private_token=glpat-_xG7s-sYJPRDPgKxAk-c, tag=🧜‍♀️“伍”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1643998.png, update-interval=172800, opt-parser=true, enabled=true
+https://pastebin.com/raw/4xSzvTCa, tag=🧜‍♀️“肆”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/2919780.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/yxzbp/yxzbp_p/main/yxzbp, tag=🧜‍♀️“叁”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1814752.png, update-interval=172800, opt-parser=true, enabled=true
 https://sub.cloudflare.quest, tag=🧜‍♀️“貳”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/2921101.png, update-interval=172800, opt-parser=true, enabled=true
 https://sub.sharecentre.online/sub, tag=🧜‍♀️“壹”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1658318.png, update-interval=172800, opt-parser=true, enabled=true
@@ -47,7 +48,7 @@ https://proxy.yugogo.xyz/vmess/sub, tag=𓃰“亥”🐗✈⋯· · · ·  ·�
 #策略组
 [policy]
 ssid=🌈SSID⛈✈, ★𓃵🦥策略選取🌦✈, ★𓃵🦥策略選取🌦✈, img-url=https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/SSID.png
-static=★𓃵🦥策略選取🌦✈, ★𓃰🌏節點選擇🌦✈, ★𓃰🟢直接連通🌦✈, ★𓃰⛔️拒絕請求🌦✈, ★𓃰🚫廣告攔截🌦✈, ★🌈壹號🏆機場🧜‍♀️✈, ★🌈貳號🏆機場🧜‍♀️✈, ★🌈叁號🏆機場🧜‍♀️✈, ★🌈肆號🏆機場🧜‍♀️✈, ★🌈伍號🏆機場🧜‍♀️✈, ★🌈陸號🏆機場🧜‍♀️✈, ★🌈柒號🏆機場🧜‍♀️✈, ★🌈捌號🏆機場🧜‍♀️✈, ★𓃰💯負載均衡🌦✈, ★𓃰♨️健康檢測🌦✈, ★𓃰👋手動選擇🌦✈, ★𓃰♻️自動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png
+static=★𓃵🦥策略選取🌦✈, ★🌈壹號🏆機場🧜‍♀️✈, ★🌈貳號🏆機場🧜‍♀️✈, ★🌈叁號🏆機場🧜‍♀️✈, ★🌈肆號🏆機場🧜‍♀️✈, ★🌈伍號🏆機場🧜‍♀️✈, ★🌈陸號🏆機場🧜‍♀️✈, ★🌈柒號🏆機場🧜‍♀️✈, ★🌈捌號🏆機場🧜‍♀️✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png
 
 static=★𓃰🟢直接連通🌦✈, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Direct.png
 
