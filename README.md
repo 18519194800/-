@@ -14,10 +14,10 @@ trojan=185.44.76.188:443, password=2e240YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZE
 #节点远程订阅，自行添加
 [server_remote]
 https://gitlab.com/api/v4/projects/39360507/repository/files/data%2Fv2ray%2Fyaney.txt/raw?ref=main&private_token=glpat-_xG7s-sYJPRDPgKxAk-c, tag=🧜‍♀️“伍”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1643998.png, update-interval=172800, opt-parser=true, enabled=true
-https://pastebin.com/raw/4xSzvTCa, tag=🧜‍♀️“肆”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/2919780.png, update-interval=172800, opt-parser=true, enabled=true
+https://pastebin.com/raw/4xSzvTCa, tag=🧜‍♀️“肆”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Azure.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/yxzbp/yxzbp_p/main/yxzbp, tag=🧜‍♀️“叁”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1814752.png, update-interval=172800, opt-parser=true, enabled=true
-https://sub.cloudflare.quest, tag=🧜‍♀️“貳”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/2921101.png, update-interval=172800, opt-parser=true, enabled=true
-https://sub.sharecentre.online/sub, tag=🧜‍♀️“壹”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1658318.png, update-interval=172800, opt-parser=true, enabled=true
+https://sub.cloudflare.quest, tag=🧜‍♀️“貳”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Catnet.png, update-interval=172800, opt-parser=true, enabled=true
+https://sub.sharecentre.online/sub, tag=🧜‍♀️“壹”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Blackhole.png, update-interval=172800, opt-parser=true, enabled=true
 https://v2rayshare.com/wp-content/uploads/2023/03/20230307.txt, tag=🧜日更🍊節點✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/2920026.png, update-interval=172800, opt-parser=true, enabled=true
 https://pastebin.com/raw/dmnL3uAR, tag=🦥乾☵天🫵✈⋯· ·✨, img-url=swift.system, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/gitbigg/permalink/main/subscribe, tag=🦥坎☵水🫵✈⋯· ·✨, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/GuGuEX.png, update-interval=172800, opt-parser=true, enabled=true
@@ -47,22 +47,22 @@ https://proxy.yugogo.xyz/vmess/sub, tag=𓃰“亥”🐗✈⋯· · · ·  ·�
 
 #策略组
 [policy]
-static=★𓃵🦥策略選取🌦✈, ★🌈壹號🏆機場🧜‍♀️✈, ★🌈貳號🏆機場🧜‍♀️✈, ★🌈叁號🏆機場🧜‍♀️✈, ★🌈肆號🏆機場🧜‍♀️✈, ★🌈伍號🏆機場🧜‍♀️✈, ★🌈陸號🏆機場🧜‍♀️✈, ★🌈柒號🏆機場🧜‍♀️✈, ★🌈捌號🏆機場🧜‍♀️✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png
-url-latency-benchmark=★🌈壹號🏆機場🧜‍♀️✈, resource-tag-regex=🧜‍♀️“貳”🍟✈⋯💥, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Star_2.png
+static=★𓃵🦥策略選取🌦✈, ★🌈壹號🐲機場🧜‍♀️✈, ★🌈貳號🐲機場🧜‍♀️✈, ★🌈叁號🐲機場🧜‍♀️✈, ★🌈肆號🐲機場🧜‍♀️✈, ★🌈伍號🐲機場🧜‍♀️✈, ★🌈陸號🐲機場🧜‍♀️✈, ★🌈柒號🐲機場🧜‍♀️✈, ★🌈捌號🐲機場🧜‍♀️✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png
+url-latency-benchmark=★🌈壹號🐲機場🧜‍♀️✈, resource-tag-regex=🧜‍♀️“貳”🍟✈⋯💥, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Star_2.png
 
-url-latency-benchmark=★🌈貳號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“巳”🐍✈⋯· · · ·  ·🚴‍♀️, server-tag-regex=(?=.*(?i)(美国|🇺🇸|美國|Us|us|US|States|American))^((?!(?i)(IPLC|IEPL|game|baipiao|专线|手游|游戏|🇧🇩|🇳🇱|🇺🇦|🇱🇺|🇸🇬|🇩🇪|🇫🇮|🏁|🇨🇾|🇫🇷|🇦🇲|🇨🇦|🇧🇿|🇸🇪|🇷🇺|🇦🇺)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SaySS.png
+url-latency-benchmark=★🌈貳號🐲機場🧜‍♀️✈, resource-tag-regex=𓃰“巳”🐍✈⋯· · · ·  ·🚴‍♀️, server-tag-regex=(?=.*(?i)(美国|🇺🇸|美國|Us|us|US|States|American))^((?!(?i)(IPLC|IEPL|game|baipiao|专线|手游|游戏|🇧🇩|🇳🇱|🇺🇦|🇱🇺|🇸🇬|🇩🇪|🇫🇮|🏁|🇨🇾|🇫🇷|🇦🇲|🇨🇦|🇧🇿|🇸🇪|🇷🇺|🇦🇺)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SaySS.png
 
-url-latency-benchmark=★🌈叁號🏆機場🧜‍♀️✈, resource-tag-regex=🦥坎☵水🫵✈⋯· ·✨, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Ywhl.png
+url-latency-benchmark=★🌈叁號🐲機場🧜‍♀️✈, resource-tag-regex=🦥坎☵水🫵✈⋯· ·✨, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Ywhl.png
 
-static=★🌈肆號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“未”🐑✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/2921096.png
+static=★🌈肆號🐲機場🧜‍♀️✈, resource-tag-regex=𓃰“未”🐑✈⋯· · · ·  ·🚴‍♀️, server-tag-regex=(?=.*(?i)(美国|🇺🇸|美國|Us|us|US|States|American))^((?!(?i)(IPLC|IEPL|game|baipiao|专线|手游|游戏)).)*$, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/2921096.png
 
-static=★🌈伍號🏆機場🧜‍♀️✈, resource-tag-regex=🦥離☲火🫵✈⋯· ·✨, server-tag-regex=美国|🇺🇸|US|Us|us, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/PlayStation.png
+static=★🌈伍號🐲機場🧜‍♀️✈, resource-tag-regex=𓃰“醜”🦬✈⋯· · · ·  ·🚴‍♀️, server-tag-regex=(?=.*(?i)(美国|🇺🇸|美國|Us|us|US|States|American))^((?!(?i)(IPLC|IEPL|game|baipiao|专线|手游|游戏)).)*$, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/PlayStation.png
 
-static=★🌈陸號🏆機場🧜‍♀️✈, resource-tag-regex=𓃰“下”👎✈⋯· · · ·  ·⛹🏼‍♀️, server-tag-regex=(?=.*(?i)(美国|🇺🇸|美國|Us|us|US|States|American))^((?!(?i)(IPLC|IEPL|game|baipiao|专线|手游|游戏|🇧🇩|🇳🇱|🇺🇦|🇱🇺|🇸🇬|🇩🇪|🇫🇮|🏁|🇨🇾|🇫🇷|🇦🇲|🇨🇦|🇧🇿|🇷🇺|🇦🇺)).)*$, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Fries.png
+static=★🌈陸號🐲機場🧜‍♀️✈, resource-tag-regex=𓃰“下”👎✈⋯· · · ·  ·⛹🏼‍♀️, server-tag-regex=(?=.*(?i)(美国|🇺🇸|美國|Us|us|US|States|American))^((?!(?i)(IPLC|IEPL|game|baipiao|专线|手游|游戏|🇧🇩|🇳🇱|🇺🇦|🇱🇺|🇸🇬|🇩🇪|🇫🇮|🏁|🇨🇾|🇫🇷|🇦🇲|🇨🇦|🇧🇿|🇷🇺|🇦🇺)).)*$, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Fries.png
 
-static=★🌈柒號🏆機場🧜‍♀️✈, resource-tag-regex=🧜‍♀️“壹”🍟✈⋯💥, server-tag-regex=美国|🇺🇸|US|Us|us, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1685557.png
+static=★🌈柒號🐲機場🧜‍♀️✈, resource-tag-regex=🧜‍♀️“壹”🍟✈⋯💥, server-tag-regex=美国|🇺🇸|US|Us|us, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1685557.png
 
-static=★🌈捌號🏆機場🧜‍♀️✈, resource-tag-regex=🦥離☲火🫵✈⋯· ·✨, server-tag-regex=(?=.*(?i)(美国|🇺🇸|美國|Us|us|US|States|American))^((?!(?i)(IPLC|IEPL|game|baipiao|专线|手游|游戏)).)*$, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/LiYing.png
+static=★🌈捌號🐲機場🧜‍♀️✈, resource-tag-regex=🧜‍♀️“肆”🍟✈⋯💥, server-tag-regex=(?=.*(?i)(美国|🇺🇸|美國|Us|us|US|States|American))^((?!(?i)(IPLC|IEPL|game|baipiao|专线|手游|游戏)).)*$, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/LiYing.png
 
 ssid=🌈SSID⛈✈, ★𓃵🦥策略選取🌦✈, ★𓃵🦥策略選取🌦✈, img-url=https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/SSID.png
 
