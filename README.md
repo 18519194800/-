@@ -4,6 +4,13 @@
 #本地服务器部分
 [server_local]
 
+vmess=germany2.yj2022.ga:443, method=aes-128-gcm, password=4b5e4565-322f-4223-a891-78a84f189726, obfs=wss, obfs-uri=/8kH8qnepjkprbsidLrLkmX, tls-verification=true, fast-open=false, udp-relay=false, aead=true, tag=🇺🇸_US_美国_TG：suyucom_84
+
+shadowsocks=14.29.124.168:24009, method=aes-128-cfb, password=QazEdcTgb159@$*, fast-open=false, udp-relay=false, tag=🇨🇳_CN_中国_TG：suyucom_87
+
+trojan=oss-cn-shanghai.westdatacloud.top:20048, password=626351FA-3CA6-8118-FADF-CCDBCD620871, over-tls=true, tls-verification=false, tls-host=oss-cn-shanghai.westdatacloud.top, fast-open=false, udp-relay=false, tag=中国-6.77MB/s(Youtube:不良林)
+
+
 vmess=example.com:443, method=chacha20-poly1305, password=23ad6b10-8d1a-40f7-8ad0-e3e35cd32291, obfs=wss, obfs-uri=/ws, fast-open=false, udp-relay=false, tag=WI-FI
 
 vmess=example.com:443, method=chacha20-poly1305, password=23ad6b10-8d1a-40f7-8ad0-e3e35cd32291, obfs=wss, obfs-uri=/ws, fast-open=false, udp-relay=false, tag=蜂窝网
@@ -51,7 +58,6 @@ https://proxy.yugogo.xyz/vmess/sub, tag=𓃰“亥”🐗✈⋯· · · ·  ·�
 static=★𓃵🦥策略選取🌦✈, ★🌈壹號🐲機場🧜‍♀️✈, ★🌈貳號🐲機場🧜‍♀️✈, ★🌈叁號🐲機場🧜‍♀️✈, ★🌈肆號🐲機場🧜‍♀️✈, ★🌈伍號🐲機場🧜‍♀️✈, ★🌈陸號🐲機場🧜‍♀️✈, ★🌈柒號🐲機場🧜‍♀️✈, ★🌈捌號🐲機場🧜‍♀️✈, ★🌈玖號🐲機場🧜‍♀️✈, ★𓃰🌏節點選擇🌦✈, ★𓃰♨️健康檢測🌦✈, ★𓃰💯負載均衡🌦✈, ★𓃰♻️自動選擇🌦✈, ★𓃰👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png
 url-latency-benchmark=★🌈壹號🐲機場🧜‍♀️✈, resource-tag-regex=𓃰“巳”🐍✈⋯· · · ·  ·🚴‍♀️, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Star_2.png
 url-latency-benchmark=★🌈貳號🐲機場🧜‍♀️✈, resource-tag-regex=🧜‍♀️“伍”🍟✈⋯💥, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SaySS.png
-
 url-latency-benchmark=★🌈叁號🐲機場🧜‍♀️✈, resource-tag-regex=🧜‍♀️“叁”🍟✈⋯💥, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Ywhl.png
 
 url-latency-benchmark=★🌈肆號🐲機場🧜‍♀️✈, resource-tag-regex=𓃰“未”🐑✈⋯· · · ·  ·🚴‍♀️, server-tag-regex=(?=.*(?i)(美国|🇺🇸|美國|Us|us|US|States|American))^((?!(?i)(IPLC|IEPL|game|baipiao|专线|手游|游戏)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1814752.png
@@ -74,7 +80,7 @@ static=★𓃰⛔️拒絕請求🌦✈, reject, img-url=https://raw.githubuserc
 
 static=★𓃰🚫廣告攔截🌦✈, direct, proxy, 🌈SSID⛈✈, ★𓃰藩劇節點✈, ★𓃵🦥策略選取🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Adblock.png
 
-url-latency-benchmark=★𓃰🌏節點選擇🌦✈, 🇬🇧GB_4766, 蜂窝网, WI-FI, check-interval=600, tolerance=4, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Static.png
+url-latency-benchmark=★𓃰🌏節點選擇🌦✈, 🇬🇧GB_4766, 蜂窝网, WI-FI, 🇺🇸_US_美国_TG：suyucom_84, 🇨🇳_CN_中国_TG：suyucom_87, 中国-6.77MB/s(Youtube:不良林), check-interval=600, tolerance=4, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Static.png
 
 dest-hash=★𓃰♨️健康檢測🌦✈, 🇬🇧GB_4766, WI-FI, 蜂窝网, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Available.png
 
@@ -82,7 +88,8 @@ round-robin=★𓃰💯負載均衡🌦✈, 🇬🇧GB_4766, WI-FI, 蜂窝网, i
 
 url-latency-benchmark=★𓃰♻️自動選擇🌦✈, server-tag-regex=(?=.*(?i)(美国|🇺🇸|美國|Us|us|US|States|American))^((?!(?i)(IPLC|IEPL|game|baipiao|专线|🇩🇪|FR|CN|🇻🇳|越南|AM|AU|🇨🇳|🇫🇷|英国|🇭🇰|🇸🇬|ZZ|BZ|🇳🇱|荷兰|CY|手游|游戏)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Roundrobin.png
 
-static=★𓃰👋手動選擇🌦✈, resource-tag-regex=A||, server-tag-regex=A||, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Clubhouse.png
+static=★𓃰👋手動選擇🌦✈, 🇺🇸_US_美国_TG：suyucom_84, 🇨🇳_CN_中国_TG：suyucom_87, 中国-6.77MB/s(Youtube:不良林), img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Clubhouse.png
+
 
 static=★𓃰網易音樂✈, ★𓃰網易雲✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Clubhouse.png
 
