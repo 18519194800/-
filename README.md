@@ -3,6 +3,18 @@
 
 #本地服务器部分
 [server_local]
+vmess=shopify.com:443, method=aes-128-gcm, password=24f9ed57-8ff8-4c7d-fee8-f465d3333ebc, obfs=wss, obfs-host=eu2.isi.lol, obfs-uri=/123, tls-verification=true, fast-open=false, udp-relay=false, aead=true, tag=诺米EU2 请自行更换优选IP
+
+
+vmess=8.218.183.204:59544, method=aes-128-gcm, password=ed617ad5-803e-4dc6-b475-babead4c83e5, obfs=http, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=_HK_香港 8
+
+vmess=8.218.181.75:57408, method=aes-128-gcm, password=a93df277-c3a8-4948-abd1-663722cb32b0, obfs=http, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=_HK_香港 4
+
+shadowsocks=212.102.53.80:443, method=aes-128-gcm, password=shadowsocks, fast-open=false, udp-relay=false, tag=_GB_英国
+
+
+vmess=8.218.183.217:64098, method=aes-128-gcm, password=7243a003-b59a-4686-b460-950fdf61819b, obfs=http, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=_HK_香港 11
+
 
 vmess=germany2.yj2022.ga:443, method=aes-128-gcm, password=4b5e4565-322f-4223-a891-78a84f189726, obfs=wss, obfs-uri=/8kH8qnepjkprbsidLrLkmX, tls-verification=true, fast-open=false, udp-relay=false, aead=true, tag=🇺🇸_US_美国_TG：suyucom_84
 
@@ -20,13 +32,18 @@ trojan=185.44.76.188:443, password=2e240YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZE
 
 #节点远程订阅，自行添加
 [server_remote]
-https://v2rayshare.com/wp-content/uploads/2023/03/20230310.txt, tag=🧜日更🍊節點✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/2920026.png, update-interval=172800, opt-parser=true, enabled=true
-https://tt.vg/freeclash, tag=🧜‍♀️“陸”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1643998.png, update-interval=172800, opt-parser=true, enabled=true
-https://guolicheng.cfd/api/v1/client/subscribe?token=ba29ef48753ff54dd551e805367b88bd&flag=shadowrocket, tag=🧜‍♀️“伍”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1814752.png, update-interval=172800, opt-parser=true, enabled=true
-https://gitlab.com/api/v4/projects/39360507/repository/files/data%2Fv2ray%2Fyaney.txt/raw?ref=main&private_token=glpat-_xG7s-sYJPRDPgKxAk-c, tag=🧜‍♀️“肆”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Flamingo.png, update-interval=172800, opt-parser=true, enabled=true
-https://pastebin.com/raw/LLTyw9Bw, tag=🧜‍♀️“叁”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Cat.png, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/yxzbp/yxzbp_p/main/yxzbp, tag=🧜‍♀️“貳”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Catnet.png, update-interval=172800, opt-parser=true, enabled=true
-https://sub.sharecentre.online/sub, tag=🧜‍♀️“壹”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1658318.png, update-interval=172800, opt-parser=true, enabled=true
+https://v2rayshare.com/wp-content/uploads/2023/03/20230310.txt, tag=🧜日更🍊節點✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1814752.png, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1.yaml, tag=🧜‍♀️“佰”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1643998.png, update-interval=172800, opt-parser=true, enabled=true
+https://gitlab.com/api/v4/projects/35506148/repository/files/data%2Fclash%2Fgeneral.yaml/raw?ref=main&privatetoken=glpat-JmxhQF1PtaKamyyKqV, tag=🧜‍♀️“拾”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/2920026.png, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/wentao883/wxgdyjdy/main/dyljcs, tag=🧜‍♀️“玖”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/2919765.png, update-interval=172800, opt-parser=true, enabled=true
+https://pastebin.com/raw/Nkn2R2WV, tag=🧜‍♀️“捌”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/baidu.png, update-interval=172800, opt-parser=true, enabled=true
+http://nuo.jaywsn.top/nuomi, tag=🧜‍♀️“柒”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1818248.png, update-interval=172800, opt-parser=true, enabled=true
+https://tt.vg/freeclash, tag=🧜‍♀️“陸”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/2919780.png, update-interval=172800, opt-parser=true, enabled=true
+https://guolicheng.cfd/api/v1/client/subscribe?token=ba29ef48753ff54dd551e805367b88bd&flag=shadowrocket, tag=🧜‍♀️“伍”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/2921101.png, update-interval=172800, opt-parser=true, enabled=true
+https://gitlab.com/api/v4/projects/39360507/repository/files/data%2Fv2ray%2Fyaney.txt/raw?ref=main&private_token=glpat-_xG7s-sYJPRDPgKxAk-c, tag=🧜‍♀️“肆”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1658318.png, update-interval=172800, opt-parser=true, enabled=true
+https://pastebin.com/raw/LLTyw9Bw, tag=🧜‍♀️“叁”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1685574.png, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/yxzbp/yxzbp_p/main/yxzbp, tag=🧜‍♀️“貳”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1818299.png, update-interval=172800, opt-parser=true, enabled=true
+https://sub.sharecentre.online/sub, tag=🧜‍♀️“壹”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1818303.png, update-interval=172800, opt-parser=true, enabled=true
 https://free.iam7.tk/vmess/sub, tag=𓃰“上”👍✈⋯· · · ·  ·⛹️‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Xingmeng.png, update-interval=172800, opt-parser=true, enabled=true
 https://sub.id9.cc/sub?target=quanx&url=https://pastebin.com/raw/aAB3VrBz&insert=false, tag=𓃰“中”🤝✈⋯· · · ·  ·⛹🏻‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SaySS.png, update-interval=172800, opt-parser=true, inserted-resource=true, enabled=true
 https://raw.fastgit.org/freefq/free/master/v2, tag=𓃰“下”👎✈⋯· · · ·  ·⛹🏼‍♀️, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Media.png, update-interval=172800, opt-parser=true, enabled=true
@@ -88,7 +105,7 @@ round-robin=★𓃰💯負載均衡🌦✈, 🇬🇧GB_4766, WI-FI, 蜂窝网, i
 
 url-latency-benchmark=★𓃰♻️自動選擇🌦✈, server-tag-regex=(?=.*(?i)(美国|🇺🇸|美國|Us|us|US|States|American))^((?!(?i)(IPLC|IEPL|game|baipiao|专线|🇩🇪|FR|CN|🇻🇳|越南|AM|AU|🇨🇳|🇫🇷|英国|🇭🇰|🇸🇬|ZZ|BZ|🇳🇱|荷兰|CY|手游|游戏)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Roundrobin.png
 
-static=★𓃰👋手動選擇🌦✈, 🇺🇸_US_美国_TG：suyucom_84, 🇨🇳_CN_中国_TG：suyucom_87, 中国-6.77MB/s(Youtube:不良林), img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Clubhouse.png
+static=★𓃰👋手動選擇🌦✈, 🇺🇸_US_美国_TG：suyucom_84, 🇨🇳_CN_中国_TG：suyucom_87, 中国-6.77MB/s(Youtube:不良林), 诺米EU2 请自行更换优选IP, _HK_香港 8, _HK_香港 4, _GB_英国, _HK_香港 11, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Clubhouse.png
 
 
 static=★𓃰網易音樂✈, ★𓃰網易雲✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Clubhouse.png
