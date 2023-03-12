@@ -5,7 +5,6 @@
 [server_local]
 trojan=oss-cn-shanghai.westdatacloud.top:20048, password=626351FA-3CA6-8118-FADF-CCDBCD620871, over-tls=true, tls-verification=false, tls-host=oss-cn-shanghai.westdatacloud.top, fast-open=false, udp-relay=false, tag=上海市+电信
 
-shadowsocks=85.208.108.22:443, method=aes-256-gcm, password=pKEW8JPByTVTLtM, fast-open=false, udp-relay=false, tag=沙特阿拉伯+Arabic+Computer+System+Co.
 
 vmess=shopify.com:443, method=aes-128-gcm, password=24f9ed57-8ff8-4c7d-fee8-f465d3333ebc, obfs=wss, obfs-host=eu2.isi.lol, obfs-uri=/123, tls-verification=true, fast-open=false, udp-relay=false, aead=true, tag=诺米EU2 请自行更换优选IP
 
@@ -13,7 +12,6 @@ vmess=8.218.183.204:59544, method=aes-128-gcm, password=ed617ad5-803e-4dc6-b475-
 
 vmess=8.218.181.75:57408, method=aes-128-gcm, password=a93df277-c3a8-4948-abd1-663722cb32b0, obfs=http, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=_HK_香港 4
 
-vmess=8.218.183.217:64098, method=aes-128-gcm, password=7243a003-b59a-4686-b460-950fdf61819b, obfs=http, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=_HK_香港 11
 
 vmess=germany2.yj2022.ga:443, method=aes-128-gcm, password=4b5e4565-322f-4223-a891-78a84f189726, obfs=wss, obfs-uri=/8kH8qnepjkprbsidLrLkmX, tls-verification=true, fast-open=false, udp-relay=false, aead=true, tag=🇺🇸_US_美国_TG：suyucom_84
 
@@ -50,9 +48,9 @@ https://raw.githubusercontent.com/baip01/yhkj/main/v2ray, tag=🦥巽☴風🌪�
 https://suo.yt/Clash-Giao88, tag=🦥離☲火🔥✈⋯· ·✨, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/hoya.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2, tag=🦥坤☷地🌍✈⋯· ·✨, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/ttwkxcx.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/kxswa/k/k/base64, tag=🦥兑☱澤🏊‍♂️✈⋯· ·✨, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/manga.png, update-interval=172800, opt-parser=true, enabled=true
-https://free.iam7.tk/vmess/sub, tag=𓃗“上”👍✈⋯· · · ·  ·⛹️‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Xingmeng.png, update-interval=172800, opt-parser=true, enabled=true
-https://sub.id9.cc/sub?target=quanx&url=https://pastebin.com/raw/aAB3VrBz&insert=false, tag=𓃗“中”🤝✈⋯· · · ·  ·⛹🏻‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SaySS.png, update-interval=172800, opt-parser=true, inserted-resource=true, enabled=true
-https://raw.fastgit.org/freefq/free/master/v2, tag=𓃗“下”👎✈⋯· · · ·  ·⛹🏼‍♀️, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Media.png, update-interval=172800, opt-parser=true, enabled=true
+https://free.iam7.tk/vmess/sub, tag=𓅿✸上”👍✈⋯· · · ·  ·⛹️‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Xingmeng.png, update-interval=172800, opt-parser=true, enabled=true
+https://sub.id9.cc/sub?target=quanx&url=https://pastebin.com/raw/aAB3VrBz&insert=false, tag=𓅿✸中”🤝✈⋯· · · ·  ·⛹🏻‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SaySS.png, update-interval=172800, opt-parser=true, inserted-resource=true, enabled=true
+https://raw.fastgit.org/freefq/free/master/v2, tag=𓅿✸“下”👎✈⋯· · · ·  ·⛹🏼‍♀️, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Media.png, update-interval=172800, opt-parser=true, enabled=true
 https://pastebin.com/raw/fpeEqGTn, tag=𓃰“子”🐁✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Naiko.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.fastgit.org/Pawdroid/Free-servers/main/sub, tag=𓃰“醜”🦬✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Ox.png, update-interval=172800, opt-parser=true, enabled=true
 https://proxy.yiun.xyz/vmess/sub, tag=𓃰“寅”🐅✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Ywhl.png, update-interval=86400, opt-parser=true, enabled=true
@@ -105,7 +103,7 @@ round-robin=★𓃰💯負載均衡🌦✈, 🇬🇧GB_4766, WI-FI, 蜂窝网, i
 
 url-latency-benchmark=★𓃰♻️自動選擇🌦✈, server-tag-regex=(?=.*(?i)(美国|🇺🇸|美國|Us|us|US|States|American))^((?!(?i)(IPLC|IEPL|game|baipiao|专线|🇩🇪|FR|CN|🇻🇳|越南|AM|AU|🇨🇳|🇫🇷|英国|🇭🇰|🇸🇬|ZZ|BZ|🇳🇱|荷兰|CY|手游|游戏)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Roundrobin.png
 
-static=★𓃰👋手動選擇🌦✈, 中国-6.77MB/s(Youtube:不良林), 诺米EU2 请自行更换优选IP, _HK_香港 4, _HK_香港 11, 沙特阿拉伯+Arabic+Computer+System+Co., img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Clubhouse.png
+static=★𓃰👋手動選擇🌦✈, 中国-6.77MB/s(Youtube:不良林), 诺米EU2 请自行更换优选IP, _HK_香港 4, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Clubhouse.png
 
 static=★𓃰網易音樂✈, ★𓃰網易雲✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Clubhouse.png
 
