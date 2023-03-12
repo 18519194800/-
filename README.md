@@ -5,9 +5,7 @@
 [server_local]
 trojan=oss-cn-shanghai.westdatacloud.top:20048, password=626351FA-3CA6-8118-FADF-CCDBCD620871, over-tls=true, tls-verification=false, tls-host=oss-cn-shanghai.westdatacloud.top, fast-open=false, udp-relay=false, tag=上海市+电信
 
-
 shadowsocks=85.208.108.22:443, method=aes-256-gcm, password=pKEW8JPByTVTLtM, fast-open=false, udp-relay=false, tag=沙特阿拉伯+Arabic+Computer+System+Co.
-
 
 vmess=shopify.com:443, method=aes-128-gcm, password=24f9ed57-8ff8-4c7d-fee8-f465d3333ebc, obfs=wss, obfs-host=eu2.isi.lol, obfs-uri=/123, tls-verification=true, fast-open=false, udp-relay=false, aead=true, tag=诺米EU2 请自行更换优选IP
 
@@ -52,9 +50,9 @@ https://raw.githubusercontent.com/baip01/yhkj/main/v2ray, tag=🦥巽☴風🌪�
 https://suo.yt/Clash-Giao88, tag=🦥離☲火🔥✈⋯· ·✨, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/hoya.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2, tag=🦥坤☷地🌍✈⋯· ·✨, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/ttwkxcx.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/kxswa/k/k/base64, tag=🦥兑☱澤🏊‍♂️✈⋯· ·✨, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/manga.png, update-interval=172800, opt-parser=true, enabled=true
-https://free.iam7.tk/vmess/sub, tag=𓃰“上”👍✈⋯· · · ·  ·⛹️‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Xingmeng.png, update-interval=172800, opt-parser=true, enabled=true
-https://sub.id9.cc/sub?target=quanx&url=https://pastebin.com/raw/aAB3VrBz&insert=false, tag=𓃰“中”🤝✈⋯· · · ·  ·⛹🏻‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SaySS.png, update-interval=172800, opt-parser=true, inserted-resource=true, enabled=true
-https://raw.fastgit.org/freefq/free/master/v2, tag=𓃰“下”👎✈⋯· · · ·  ·⛹🏼‍♀️, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Media.png, update-interval=172800, opt-parser=true, enabled=true
+https://free.iam7.tk/vmess/sub, tag=𓃗“上”👍✈⋯· · · ·  ·⛹️‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Xingmeng.png, update-interval=172800, opt-parser=true, enabled=true
+https://sub.id9.cc/sub?target=quanx&url=https://pastebin.com/raw/aAB3VrBz&insert=false, tag=𓃗“中”🤝✈⋯· · · ·  ·⛹🏻‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SaySS.png, update-interval=172800, opt-parser=true, inserted-resource=true, enabled=true
+https://raw.fastgit.org/freefq/free/master/v2, tag=𓃗“下”👎✈⋯· · · ·  ·⛹🏼‍♀️, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Media.png, update-interval=172800, opt-parser=true, enabled=true
 https://pastebin.com/raw/fpeEqGTn, tag=𓃰“子”🐁✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Naiko.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.fastgit.org/Pawdroid/Free-servers/main/sub, tag=𓃰“醜”🦬✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Ox.png, update-interval=172800, opt-parser=true, enabled=true
 https://proxy.yiun.xyz/vmess/sub, tag=𓃰“寅”🐅✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Ywhl.png, update-interval=86400, opt-parser=true, enabled=true
