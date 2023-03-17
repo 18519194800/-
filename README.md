@@ -3,27 +3,26 @@
 
 #本地服务器部分
 [server_local]
+shadowsocks=45.82.15.87:47073, method=aes-256-gcm, password=lJGaZcRoLY, fast-open=false, udp-relay=false, tag=ilyas-1005432942
+
+vmess=iran.samansah.ir:80, method=aes-128-gcm, password=57d1c9c9-2449-4735-d037-a964fe3087a5, obfs=ws, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=🇺🇸 US 美国 6
+
+trojan=vip.samanss.tk:8080, password=48e72cba-9a6d-4a40-9a88-ca83aeb72033, over-tls=true, tls-verification=false, tls-host=vip.samanss.tk, fast-open=false, udp-relay=false, tag=🇺🇸+US+美国+1
+
+trojan=vip.samanss.tk:8080, password=48e72cba-9a6d-4a40-9a88-ca83aeb72033, over-tls=true, tls-verification=false, tls-host=vip.samanss.tk, fast-open=false, udp-relay=false, tag=🇺🇸+US+美国+2
+
+vmess=vip.samanss.tk:8080, method=aes-128-gcm, password=48e72cba-9a6d-4a40-9a88-ca83aeb72033, obfs=wss, obfs-host=vip.samanss.tk, obfs-uri=/vws, tls-verification=true, fast-open=false, udp-relay=false, aead=true, tag=🇺🇸 US 美国 4
 
 
-vmess=hk80.af49c4e4c2ef.sanfen001.pics:80, method=aes-128-gcm, password=29ac226e-493f-4c64-b244-103b13e6404b, obfs=ws, obfs-host=hk80.af49c4e4c2ef.sanfen001.pics, obfs-uri=/zh-cn/, fast-open=false, udp-relay=false, aead=true, tag=Relay_🇦🇺AU-🇦🇺AU_09 | 3.34Mb
-
-vmess=hk80.af49c4e4c2ef.sanfen001.pics:80, method=aes-128-gcm, password=e7d09c21-31af-4c4b-b9db-ad60d7497a65, obfs=ws, obfs-uri=/zh-cn/, fast-open=false, udp-relay=false, aead=true, tag=Relay_🇦🇺AU-🇦🇺AU_10 | 1.47Mb
-
-shadowsocks=sa.unlimitedtraffic.top:25881, method=chacha20-ietf-poly1305, password=19323732-d371-43f0-a6c1-1833dc68a137, fast-open=false, udp-relay=false, tag=中国-10.07MB/s(Youtube:不良林)
-
-vmess=8.218.178.58:53207, method=aes-128-gcm, password=9930e472-959f-4649-aa19-09354073fabc, obfs=http, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=_HK_香港 6
+shadowsocks=212.102.53.78:443, method=aes-128-gcm, password=shadowsocks, fast-open=false, udp-relay=false, tag=|11.24Mb
 
 vmess=203.30.191.1:443, method=aes-128-gcm, password=56a2188b-2ab7-402c-b9b8-34847fdf0958, obfs=wss, obfs-host=clash1.ssr-free2.xyz, obfs-uri=/5QNROSRV, tls-verification=true, fast-open=false, udp-relay=false, aead=true, tag=v2cross.com
-
-vmess=162.159.58.188:8080, method=aes-128-gcm, password=20f59967-c2e7-4bc9-bc59-d703457f21b9, obfs=ws, obfs-host=jp123.6577617.xyz, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=JP 10Gbps
 
 trojan=oss-cn-shanghai.westdatacloud.top:20048, password=626351FA-3CA6-8118-FADF-CCDBCD620871, over-tls=true, tls-verification=false, tls-host=v12.kwaicdn.com, fast-open=false, udp-relay=false, tag=🇨🇳_定制线路：@QS00008
 
 trojan=oss-cn-shanghai.westdatacloud.top:20048, password=626351FA-3CA6-8118-FADF-CCDBCD620871, over-tls=true, tls-verification=false, tls-host=oss-cn-shanghai.westdatacloud.top, fast-open=false, udp-relay=false, tag=上海市+电信
 
 vmess=8.218.183.204:59544, method=aes-128-gcm, password=ed617ad5-803e-4dc6-b475-babead4c83e5, obfs=http, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=_HK_香港 8
-
-vmess=8.218.181.75:57408, method=aes-128-gcm, password=a93df277-c3a8-4948-abd1-663722cb32b0, obfs=http, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=_HK_香港 4
 
 trojan=oss-cn-shanghai.westdatacloud.top:20048, password=626351FA-3CA6-8118-FADF-CCDBCD620871, over-tls=true, tls-verification=false, tls-host=oss-cn-shanghai.westdatacloud.top, fast-open=false, udp-relay=false, tag=中国-6.77MB/s(Youtube:不良林)
 
@@ -36,12 +35,8 @@ trojan=185.44.76.188:443, password=2e240YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZE
 
 #节点远程订阅，自行添加
 [server_remote]
-https://v2link.org/api/v1/client/subscribe?token=299ea6e9334accfc2754c3b0a7ef7858, tag=Tag-1678941027, update-interval=172800, opt-parser=true, enabled=true
-https://proxy.aries.ovh/api/v1/client/subscribe?token=fae7763101bec8d1f7ab201379968889, tag=🧜备🍊用✈⋯🌟, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Daily.png, update-interval=172800, opt-parser=true, enabled=true
-https://pastebin.com/raw/4xSzvTCa, tag=🧜备🍊用✈⋯🌟, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/China_Map.png, update-interval=172800, opt-parser=true, enabled=true
-https://pastebin.com/raw/V8tvmUn1, tag=🧜备🍊用✈⋯🌟, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Cellular.png, update-interval=172800, opt-parser=true, enabled=true
-https://ghproxy.com/https://raw.githubusercontent.com/yaney01/Yaney01/main/temporary, tag=🧜备🍊用✈⋯🌟, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/CMI.png, update-interval=172800, opt-parser=true, enabled=true
-https://sub.cloudflare.quest, tag=🧜备🍊用✈⋯🌟, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/China_Telecom.png, update-interval=172800, opt-parser=true, enabled=true
+https://paste.gg/p/anonymous/090e0cb209804d15908d7484a057c770/files/df074b9ce5514898b25ed91f01c9c460/raw, tag=🧜备🍊用✈⋯🌟, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/CN2_GIA.png, update-interval=172800, opt-parser=true, enabled=true
+https://pastebin.com/raw/V8tvmUn1, tag=🧜备🍊用✈⋯🌟, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/CMI.png, update-interval=172800, opt-parser=true, enabled=true
 https://xf01.eu.org/j/0314sc.txt, tag=🧜日更🍊節點✈⋯🌟, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/China_Unicom.png, update-interval=172800, opt-parser=true, enabled=true
 https://v2rayshare.com/wp-content/uploads/2023/03/20230316.txt, tag=🧜日更🍊節點✈⋯🌟, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1814752.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1.yaml, tag=🧜‍♀️“玖”🫐✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1643998.png, update-interval=172800, opt-parser=true, enabled=true
@@ -53,7 +48,7 @@ https://gitlab.com/api/v4/projects/39360507/repository/files/data%2Fv2ray%2Fyane
 https://pastebin.com/raw/LLTyw9Bw, tag=🧜‍♀️“叁”🥬✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/pokeball1.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/yxzbp/yxzbp_p/main/yxzbp, tag=🧜‍♀️“貳”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1818299.png, update-interval=172800, opt-parser=true, enabled=true
 https://sub.sharecentre.online/sub, tag=🧜‍♀️“壹”🍀✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1818303.png, update-interval=172800, opt-parser=true, enabled=true
-https://pastebin.com/raw/dmnL3uAR, tag=🦥乾☵天☀️✈⋯· ·✨, img-url=swift.system, update-interval=172800, opt-parser=true, enabled=true
+https://pastebin.com/raw/4xSzvTCa, tag=🦥乾☵天☀️✈⋯· ·✨, img-url=swift.system, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/gitbigg/permalink/main/subscribe, tag=🦥坎☵水🌊✈⋯· ·✨, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/GuGuEX.png, update-interval=172800, opt-parser=true, enabled=true
 https://pastebin.com/raw/SUNqDbpL, tag=🦥艮☰山⛰✈⋯· ·✨, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/WTT.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub, tag=🦥震☳雷🌩✈⋯· ·✨, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/LiYing.png, update-interval=172800, opt-parser=true, enabled=true
@@ -65,18 +60,18 @@ https://gitlab.com/ioshkj/quantumultx/-/raw/main/wyy.list, tag=𓃵“網易雲�
 https://free.iam7.tk/vmess/sub, tag=🦃上”👍✈⋯· · · ·  ·⛹️‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Xingmeng.png, update-interval=172800, opt-parser=true, enabled=true
 https://sub.id9.cc/sub?target=quanx&url=https://pastebin.com/raw/aAB3VrBz&insert=false, tag=🦃中”🤝✈⋯· · · ·  ·⛹🏻‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SaySS.png, update-interval=172800, opt-parser=true, inserted-resource=true, enabled=true
 https://raw.fastgit.org/freefq/free/master/v2, tag=🦃下”👎✈⋯· · · ·  ·⛹🏼‍♀️, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Media.png, update-interval=172800, opt-parser=true, enabled=true
-https://pastebin.com/raw/fpeEqGTn, tag=𓃰“子”🐁✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Naiko.png, update-interval=172800, opt-parser=true, enabled=true
-https://raw.fastgit.org/Pawdroid/Free-servers/main/sub, tag=𓃰“醜”🦬✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Ox.png, update-interval=172800, opt-parser=true, enabled=true
-https://proxy.yiun.xyz/vmess/sub, tag=𓃰“寅”🐅✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Ywhl.png, update-interval=86400, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg, tag=𓃰“卯”🐇✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Kache.png, update-interval=86400, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/ssrsub/ssr/master/V2Ray, tag=𓃰“辰”🐉✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Catnet.png, update-interval=172800, opt-parser=true, enabled=true
-https://sub.pmsub.me/base64, tag=𓃰“巳”🐍✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Area.png, update-interval=86400, opt-parser=true, enabled=true
-https://gitlab.com/univstar1/v2ray/-/raw/main/data/v2ray/general.txt, tag=𓃰“午”🐎✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/Final.png, update-interval=86400, opt-parser=true, enabled=true
-https://sub.pmsub.me/clash.yaml, tag=𓃰“未”🐑✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/AEX.png, update-interval=86400, opt-parser=true, enabled=true
-http://pi.scntvb.ml:8080/surge/proxies, tag=𓃰“申”🐵✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Enet.png, update-interval=86400, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config.yaml, tag=𓃰“酉”🐔✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Filter/Proxy.png, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/wentao883/wentao883/main/README.md, tag=𓃰“戌”🦮✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Nucleus.png, update-interval=172800, opt-parser=true, inserted-resource=true, enabled=true
-https://proxy.yugogo.xyz/vmess/sub, tag=𓃰“亥”🐗✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Bubble/Social-Logo/Slack.png, update-interval=86400, opt-parser=true, inserted-resource=true, enabled=true
+https://pastebin.com/raw/fpeEqGTn, tag=𓆉“子”🐁✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Naiko.png, update-interval=172800, opt-parser=true, enabled=true
+https://raw.fastgit.org/Pawdroid/Free-servers/main/sub, tag=𓆉“醜”🦬✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Ox.png, update-interval=172800, opt-parser=true, enabled=true
+https://proxy.yiun.xyz/vmess/sub, tag=𓆉“寅”🐅✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Ywhl.png, update-interval=86400, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg, tag=𓆉“卯”🐇✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Kache.png, update-interval=86400, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/ssrsub/ssr/master/V2Ray, tag=𓆉“辰”🐉✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Catnet.png, update-interval=172800, opt-parser=true, enabled=true
+https://sub.pmsub.me/base64, tag=𓆉“巳”🐍✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Area.png, update-interval=86400, opt-parser=true, enabled=true
+https://gitlab.com/univstar1/v2ray/-/raw/main/data/v2ray/general.txt, tag=𓆉“午”🐎✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/Final.png, update-interval=86400, opt-parser=true, enabled=true
+https://sub.pmsub.me/clash.yaml, tag=𓆉“未”🐑✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/AEX.png, update-interval=86400, opt-parser=true, enabled=true
+http://pi.scntvb.ml:8080/surge/proxies, tag=𓆉“申”🐵✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Enet.png, update-interval=86400, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config.yaml, tag=𓆉“酉”🐔✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Filter/Proxy.png, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/wentao883/wentao883/main/README.md, tag=𓆉“戌”🦮✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Nucleus.png, update-interval=172800, opt-parser=true, inserted-resource=true, enabled=true
+https://proxy.yugogo.xyz/vmess/sub, tag=𓆉“亥”🐗✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Bubble/Social-Logo/Slack.png, update-interval=86400, opt-parser=true, inserted-resource=true, enabled=true
 
 
 #策略组
@@ -85,17 +80,17 @@ ssid=🌈SSID⛈✈, 𓃵策略選取✈, 𓃵策略選取✈, img-url=https://r
 
 static=𓃵策略選取✈ , 𓃖🎭壹🐲號🦢, 𓃖🎭貳🐲號🦢, 𓃖🎭叁🐲號🦢, 𓃖🎭肆🐲號🦢, 𓃖🎭伍🐲號🦢, 𓃖🎭陸🐲號🦢, 𓃖🎭柒🐲號🦢, 𓃖🎭捌🐲號🦢, 𓃖🎭玖🐲號🦢, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟💯負載均衡🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png
 
-url-latency-benchmark=𓃖🎭壹🐲號🦢, resource-tag-regex=𓃰“巳”🐍✈⋯· · · ·  ·🚴‍♀️, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Star_2.png
+url-latency-benchmark=𓃖🎭壹🐲號🦢, resource-tag-regex=𓆉“巳”🐍✈⋯· · · ·  ·🚴‍♀️, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Star_2.png
 
 url-latency-benchmark=𓃖🎭貳🐲號🦢, resource-tag-regex=🧜备🍊用✈⋯🌟, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SaySS.png
 
 url-latency-benchmark=𓃖🎭叁🐲號🦢, resource-tag-regex=🧜‍♀️“叁”🥬✈⋯💥, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Ywhl.png
 
-url-latency-benchmark=𓃖🎭肆🐲號🦢, resource-tag-regex=𓃰“卯”🐇✈⋯· · · ·  ·🚴‍♀️, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/2921096.png
+url-latency-benchmark=𓃖🎭肆🐲號🦢, resource-tag-regex=𓆉“卯”🐇✈⋯· · · ·  ·🚴‍♀️, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/2921096.png
 
-url-latency-benchmark=𓃖🎭伍🐲號🦢, resource-tag-regex=𓃰“戌”🦮✈⋯· · · ·  ·🚴‍♀️, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/PlayStation.png
+url-latency-benchmark=𓃖🎭伍🐲號🦢, resource-tag-regex=𓆉“戌”🦮✈⋯· · · ·  ·🚴‍♀️, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/PlayStation.png
 
-url-latency-benchmark=𓃖🎭陸🐲號🦢, resource-tag-regex=🦥坎☵水🌊✈⋯· ·✨, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Fries.png
+url-latency-benchmark=𓃖🎭陸🐲號🦢, resource-tag-regex=🦥震☳雷🌩✈⋯· ·✨, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Fries.png
 
 url-latency-benchmark=𓃖🎭柒🐲號🦢, resource-tag-regex=🧜‍♀️“壹”🍀✈⋯💥, server-tag-regex=美国|🇺🇸|US|Us|us, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1685557.png
 
@@ -117,13 +112,13 @@ round-robin=𓃟💯負載均衡🌦✈, 🇬🇧GB_4766, WI-FI, 蜂窝网, img-
 
 url-latency-benchmark=𓃟♻️自動選擇🌦✈, server-tag-regex=(?=.*(?i)(美国|🇺🇸|美國|Us|us|US|States|American))^((?!(?i)(IPLC|IEPL|game|baipiao|专线|🇩🇪|FR|CN|🇻🇳|越南|AM|AU|🇨🇳|🇫🇷|英国|🇭🇰|🇸🇬|ZZ|BZ|🇳🇱|荷兰|CY|手游|游戏)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Roundrobin.png
 
-static=𓃟👋手動選擇🌦✈, 中国-6.77MB/s(Youtube:不良林), 🇨🇳_定制线路：@QS00008, 上海市+电信, _HK_香港 8, v2cross.com, JP 10Gbps, Relay_🇦🇺AU-🇦🇺AU_09 | 3.34Mb, Relay_🇦🇺AU-🇦🇺AU_10 | 1.47Mb, 中国-10.07MB/s(Youtube:不良林), _HK_香港 6, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Clubhouse.png
+static=𓃟👋手動選擇🌦✈, 中国-6.77MB/s(Youtube:不良林), 🇨🇳_定制线路：@QS00008, 上海市+电信, _HK_香港 8, v2cross.com, ilyas-1005432942, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Clubhouse.png
 
-static=𓃰網易音樂✈, 𓃝網易雲✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Clubhouse.png
+static=𓃰網易音樂✈, 𓅿網易雲꧂, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Clubhouse.png
 
-static=𓃰奈飛視頻✈, 𓃝Netflix✈, img-url=https://raw.githubusercontent.com/Orz-3/face/master/Netflix.png
+static=𓃰奈飛視頻✈, 𓅿Netflix꧂, img-url=https://raw.githubusercontent.com/Orz-3/face/master/Netflix.png
 
-static=𓃰港臺番劇✈, 𓃝藩劇節點✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Bili.png
+static=𓃰港臺番劇✈, 𓅿藩劇節點꧂, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Bili.png
 
 static=𓃰QQ✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/QQ.png
 
@@ -201,57 +196,57 @@ static=𓃰PrimeVideo✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接�
 
 static=𓃰DiscoveryPlus✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Discovery.png
 
-url-latency-benchmark=𓃝节点✈, server-tag-regex=(?=.*(A||(?i)A||))^((?!(?i)(IPLC|IEPL|game|🎧|专线|Web|手游|游戏)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Daily.png
+url-latency-benchmark=𓅿藩劇節點꧂, server-tag-regex=(?=.*(香港|TW|🇭🇰|台湾|HK|MO|🇲🇴|Taiwan|(?i)澳門))^((?!(海口|扬州|厦门|翻墙|手游|游戏|天津|武汉|重庆|杭州|上海|深圳|广州|(?i)北京)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AfreecaTV.png
 
-url-latency-benchmark=𓃝網易雲✈, server-tag-regex=网易, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netease_Music_Unlock.png
+url-latency-benchmark=𓅿Netflix꧂, server-tag-regex=(?=.*(Netflix|netflix|NETFLIX|NF|nf|IN|奈飞|网飞|奈飛|解锁流媒体|流媒体|(?i)Netflix))^((?!(专线|手游|🇮🇳|印度|游戏|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netflix.png
 
-url-latency-benchmark=𓃝Netflix✈, server-tag-regex=(?=.*(Netflix|netflix|NETFLIX|NF|nf|IN|奈飞|网飞|奈飛|解锁流媒体|流媒体|(?i)Netflix))^((?!(专线|手游|🇮🇳|印度|游戏|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netflix.png
+url-latency-benchmark=𓅿網易雲꧂, server-tag-regex=网易, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netease_Music_Unlock.png
 
-url-latency-benchmark=𓃝藩劇節點✈, server-tag-regex=(?=.*(香港|TW|🇭🇰|台湾|HK|MO|🇲🇴|Taiwan|(?i)澳門))^((?!(海口|扬州|厦门|翻墙|手游|游戏|天津|武汉|重庆|杭州|上海|深圳|广州|(?i)北京)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AfreecaTV.png
+url-latency-benchmark=𓅿节点꧂, server-tag-regex=(?=.*(A||(?i)A||))^((?!(?i)(IPLC|IEPL|game|🎧|专线|Web|手游|游戏)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Daily.png
 
-url-latency-benchmark=𓃝回國✈, server-tag-regex=(?=.*(回國|中國|中国|🇨🇳|CN|Cn|cn|(?i)China))^((?!(专线|Hong|翻墙|手游|游戏|台湾|Taiwan|hong kong|EG|TW|(?i)IPLC|IEPL|🇺🇸|🇰🇷|🇸🇬|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png
+url-latency-benchmark=𓅿回國꧂, server-tag-regex=(?=.*(回國|中國|中国|🇨🇳|CN|Cn|cn|(?i)China))^((?!(专线|Hong|翻墙|手游|游戏|台湾|Taiwan|hong kong|EG|TW|(?i)IPLC|IEPL|🇺🇸|🇰🇷|🇸🇬|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png
 
-url-latency-benchmark=𓃝韓國✈, resource-tag-regex=A||, server-tag-regex=(?=.*(韩国|韓國|南朝鲜|🇰🇷|한국|KR|Kr|kr|(?i)South Korea))^((?!(?i)(IPLC|IEPL|game|Hong|专线|手游|游戏)).)*$, check-interval=600, tolerance=5, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Korea.png
+url-latency-benchmark=𓅿韓國꧂, resource-tag-regex=A||, server-tag-regex=(?=.*(韩国|韓國|南朝鲜|🇰🇷|한국|KR|Kr|kr|(?i)South Korea))^((?!(?i)(IPLC|IEPL|game|Hong|专线|手游|游戏)).)*$, check-interval=600, tolerance=5, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Korea.png
 
-url-latency-benchmark=𓃝日本✈, resource-tag-regex=A||, server-tag-regex=(?=.*(?i)(日本|🇯🇵|JP|Jp|jp|Japan|Japan))^((?!(专线|Hong|手游|游戏|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=5, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Japan.png
+url-latency-benchmark=𓅿日本꧂, resource-tag-regex=A||, server-tag-regex=(?=.*(?i)(日本|🇯🇵|JP|Jp|jp|Japan|Japan))^((?!(专线|Hong|手游|游戏|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=5, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Japan.png
 
-url-latency-benchmark=𓃝美國✈, resource-tag-regex=A||, server-tag-regex=(?=.*(?i)(美国|🇺🇸|美國|Us|us|US|States|American))^((?!(?i)(IPLC|IEPL|game|baipiao|专线|手游|游戏|🇭🇰|🇬🇧|🇧🇩|🇳🇱|🇺🇦|🇱🇺|🇸🇬|🇩🇪|🇫🇮|🏁|🇨🇾|🇫🇷|🇦🇲|VN|🇻🇳|IN|🇮🇳|🇨🇦|🇧🇿|🇸🇪|ID|🇮🇩|🇷🇺|🇦🇺)).)*$, check-interval=600, tolerance=5, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_States.png
+url-latency-benchmark=𓅿美國꧂, resource-tag-regex=A||, server-tag-regex=(?=.*(?i)(美国|🇺🇸|美國|Us|us|US|States|American))^((?!(?i)(IPLC|IEPL|game|baipiao|专线|手游|游戏|🇭🇰|🇬🇧|🇧🇩|🇳🇱|🇺🇦|🇱🇺|🇸🇬|🇩🇪|🇫🇮|🏁|🇨🇾|🇫🇷|🇦🇲|VN|🇻🇳|IN|🇮🇳|🇨🇦|🇧🇿|🇸🇪|ID|🇮🇩|🇷🇺|🇦🇺)).)*$, check-interval=600, tolerance=5, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_States.png
 
-url-latency-benchmark=𓃝英國✈, server-tag-regex=(?=.*(?i)(英國|英国|🇬🇧|gb|GB|United|United Kingdom))^((?!(?i)(IPLC|IEPL|game|Un|香港|专线|手游|游戏)).)*$, check-interval=600, tolerance=5, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_Kingdom.png
+url-latency-benchmark=𓅿英國꧂, server-tag-regex=(?=.*(?i)(英國|英国|🇬🇧|gb|GB|United|United Kingdom))^((?!(?i)(IPLC|IEPL|game|Un|香港|专线|手游|游戏)).)*$, check-interval=600, tolerance=5, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_Kingdom.png
 
-url-latency-benchmark=𓃝法國✈, server-tag-regex=(?=.*(法|france|fr|FR|Fr|🇫🇷|(?i)French Republic))^((?!(专线|Ga|俄罗斯|菲律宾|韩国|英国|西雅图|马来西亚|手游|游戏|日本|新加坡|台湾|香港|美国|🇭🇰|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/France.png
+url-latency-benchmark=𓅿法國꧂, server-tag-regex=(?=.*(法|france|fr|FR|Fr|🇫🇷|(?i)French Republic))^((?!(专线|Ga|俄罗斯|菲律宾|韩国|英国|西雅图|马来西亚|手游|游戏|日本|新加坡|台湾|香港|美国|🇭🇰|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/France.png
 
-url-latency-benchmark=𓃝德國✈, server-tag-regex=(?=.*(德国|德國|🇩🇪|germany|Deu|DEU|(?i)germany))^((?!(专线|手游|游戏|Hong|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Germany.png
+url-latency-benchmark=𓅿德國꧂, server-tag-regex=(?=.*(德国|德國|🇩🇪|germany|Deu|DEU|(?i)germany))^((?!(专线|手游|游戏|Hong|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Germany.png
 
-url-latency-benchmark=𓃝印度✈, server-tag-regex=(?=.*(印度|🇮🇳|Ln|ln|LN|Lnd|India|भारत गणराज्य|(?i)The Republic of India))^((?!(专线|Hong|United|印度尼西亚|翻墙|手游|游戏|hong kong|EG|TW|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/India.png
+url-latency-benchmark=𓅿印度꧂, server-tag-regex=(?=.*(印度|🇮🇳|Ln|ln|LN|Lnd|India|भारत गणराज्य|(?i)The Republic of India))^((?!(专线|Hong|United|印度尼西亚|翻墙|手游|游戏|hong kong|EG|TW|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/India.png
 
-url-latency-benchmark=𓃝泰國✈, resource-tag-regex=A||, server-tag-regex=(?=.*(?i)(泰国|🇹🇭|曼谷|泰國TH|Th|th))^((?!(?i)(法国|澳大利亚|英国|俄罗斯|日本|德国|罗马尼亚|美国|新加坡|专线|手游|游戏)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Thailand.png
+url-latency-benchmark=𓅿泰國꧂, resource-tag-regex=A||, server-tag-regex=(?=.*(?i)(泰国|🇹🇭|曼谷|泰國TH|Th|th))^((?!(?i)(法国|澳大利亚|英国|俄罗斯|日本|德国|罗马尼亚|美国|新加坡|专线|手游|游戏)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Thailand.png
 
-url-latency-benchmark=𓃝埃及✈, server-tag-regex=(?=.*(埃及|Egypt|EG|🇪🇬|جمهورية مصر العربية‎ |The Arab Republic of Egypt|Eg|eg|(?i)South Korea))^((?!(?i)(IPLC|IEPL|game|Hong|专线|手游|游戏)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Egypt.png
+url-latency-benchmark=𓅿埃及꧂, server-tag-regex=(?=.*(埃及|Egypt|EG|🇪🇬|جمهورية مصر العربية‎ |The Arab Republic of Egypt|Eg|eg|(?i)South Korea))^((?!(?i)(IPLC|IEPL|game|Hong|专线|手游|游戏)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Egypt.png
 
-url-latency-benchmark=𓃝菲利賓✈, server-tag-regex=(?=.*(?i)(菲律宾|🇵🇭|PH|Ph|ph|Philippines|(?i)PH))^((?!(?i)(IPLC|IEPL|game|baipiao|专线|手游|游戏)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Philippines.png
+url-latency-benchmark=𓅿菲利賓꧂, server-tag-regex=(?=.*(?i)(菲律宾|🇵🇭|PH|Ph|ph|Philippines|(?i)PH))^((?!(?i)(IPLC|IEPL|game|baipiao|专线|手游|游戏)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Philippines.png
 
-url-latency-benchmark=𓃝土爾其✈, server-tag-regex=(?=.*(土耳其|🇹🇷|TR|Tr|tr|rus|(?i) Turkey))^((?!(专线|手游|游戏|东京|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Turkey.png
+url-latency-benchmark=𓅿土爾其꧂, server-tag-regex=(?=.*(土耳其|🇹🇷|TR|Tr|tr|rus|(?i) Turkey))^((?!(专线|手游|游戏|东京|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Turkey.png
 
-url-latency-benchmark=𓃝新加坡✈, resource-tag-regex=A||, server-tag-regex=(?=.*(新加坡|🇸🇬|Singapore|usa|singapore|USA|(?i)Singapore))^((?!(专线|手游|游戏|Hong|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=5, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Singapore.png
+url-latency-benchmark=𓅿新加坡꧂, resource-tag-regex=A||, server-tag-regex=(?=.*(新加坡|🇸🇬|Singapore|usa|singapore|USA|(?i)Singapore))^((?!(专线|手游|游戏|Hong|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=5, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Singapore.png
 
-url-latency-benchmark=𓃝加拿大✈, server-tag-regex=(?=.*(加拿大|🇨🇦|CA|Cn|can|CAN|(?i)Canada))^((?!(专线|手游|游戏|Hong|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=5, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Canada.png
+url-latency-benchmark=𓅿加拿大꧂, server-tag-regex=(?=.*(加拿大|🇨🇦|CA|Cn|can|CAN|(?i)Canada))^((?!(专线|手游|游戏|Hong|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=5, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Canada.png
 
-url-latency-benchmark=𓃝俄羅斯✈, server-tag-regex=(?=.*(俄罗斯|俄羅斯|🇷🇺|RU|Ru|ru|Russian|Federation|Rus|rus|(?i) Russian Federation))^((?!(专线|手游|游戏|🇭🇰|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=5, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Russia.png
+url-latency-benchmark=𓅿俄羅斯꧂, server-tag-regex=(?=.*(俄罗斯|俄羅斯|🇷🇺|RU|Ru|ru|Russian|Federation|Rus|rus|(?i) Russian Federation))^((?!(专线|手游|游戏|🇭🇰|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=5, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Russia.png
 
-url-latency-benchmark=𓃝阿根廷✈, server-tag-regex=(?=.*(阿根廷|🇦🇷|AR|(?i)Argentina))^((?!(专线|🇭🇰|手游|hong kong|游戏|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Argentina.png
+url-latency-benchmark=𓅿阿根廷꧂, server-tag-regex=(?=.*(阿根廷|🇦🇷|AR|(?i)Argentina))^((?!(专线|🇭🇰|手游|hong kong|游戏|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Argentina.png
 
-url-latency-benchmark=𓃝澳門特區✈, server-tag-regex=(?=.*(澳门|MO|🇲🇴|Mo|mo|Macao|(?i)Macau))^((?!(专线|Hong|United|翻墙|手游|游戏|hong kong|EG|TW|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Macao.png
+url-latency-benchmark=𓅿澳門特區꧂, resource-tag-regex=(?=.*(澳门|MO|🇲🇴|Mo|mo|Macao|(?i)Macau))^((?!(专线|Hong|United|翻墙|手游|游戏|hong kong|EG|TW|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Macao.png
 
-url-latency-benchmark=𓃝香港特區✈, resource-tag-regex=A||, server-tag-regex=(?=.*(香港|🇭🇰|Hong Kong|hong|kong|HK|Hk|hk|(?i)Hong))^((?!(专线|手游|游戏|NETFLIX|yun|Kong|(?i)IPLC|IEPF|game)).)*$, check-interval=600, tolerance=5, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hong_Kong.png
+url-latency-benchmark=𓅿香港特區꧂, resource-tag-regex=A||, server-tag-regex=(?=.*(香港|🇭🇰|Hong Kong|hong|kong|HK|Hk|hk|(?i)Hong))^((?!(专线|手游|游戏|NETFLIX|yun|Kong|(?i)IPLC|IEPF|game)).)*$, check-interval=600, tolerance=5, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hong_Kong.png
 
-url-latency-benchmark=𓃝臺灣地區✈, resource-tag-regex=A||, server-tag-regex=(?=.*(台湾|台灣|TW|Tw|tw|(?i)Taiwan))^((?!(?i)(IPLC|IEPL|game|Hong Kong|手游|游戏)).)*$, check-interval=600, tolerance=5, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Taiwan.png
+url-latency-benchmark=𓅿臺灣地區꧂, resource-tag-regex=A||, server-tag-regex=(?=.*(台湾|台灣|TW|Tw|tw|(?i)Taiwan))^((?!(?i)(IPLC|IEPL|game|Hong Kong|手游|游戏)).)*$, check-interval=600, tolerance=5, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Taiwan.png
 
-url-latency-benchmark=𓃝馬來西亞✈, server-tag-regex=(?=.*(?i)(马来西亚|Malaysia|🇲🇾|大马|MY|My|my|(?i)Hungary))^((?!(?i)(IPLC|IEPL|game|baipiao|专线|手游|游戏)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Malaysia.png
+url-latency-benchmark=𓅿馬來西亞꧂, server-tag-regex=(?=.*(?i)(马来西亚|Malaysia|🇲🇾|大马|MY|My|my|(?i)Hungary))^((?!(?i)(IPLC|IEPL|game|baipiao|专线|手游|游戏)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Malaysia.png
 
-url-latency-benchmark=𓃝澳大利亞✈, server-tag-regex=(?=.*(澳大利亚|澳大利亞|🇦🇺|AU|Au|au|Commonwealth of Australia|(?i)Australia))^((?!(专线|🇭🇰|手游|hong kong|游戏|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=5, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Australia.png
+url-latency-benchmark=𓅿澳大利亞꧂, server-tag-regex=(?=.*(澳大利亚|澳大利亞|🇦🇺|AU|Au|au|Commonwealth of Australia|(?i)Australia))^((?!(专线|🇭🇰|手游|hong kong|游戏|(?i)IPLC|IEPL|game)).)*$, check-interval=600, tolerance=5, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Australia.png
 
-url-latency-benchmark=𓃝巴西聯邦✈, server-tag-regex=(?=.*(巴西|🇧🇷|BR|(?i)Brazil))^((?!(专线|🇭🇰|手游|hong kong|游戏|(?i)IPLC|IEPL|🇬🇧|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Brazil.png
+url-latency-benchmark=𓅿巴西聯邦꧂, server-tag-regex=(?=.*(巴西|🇧🇷|BR|(?i)Brazil))^((?!(专线|🇭🇰|手游|hong kong|游戏|(?i)IPLC|IEPL|🇬🇧|game)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Brazil.png
 
 
 #规则分流远程订阅
