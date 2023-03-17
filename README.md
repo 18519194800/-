@@ -78,7 +78,7 @@ https://proxy.yugogo.xyz/vmess/sub, tag=𓆉“亥”🐗✈⋯· · · ·  ·�
 [policy]
 ssid=🌈SSID⛈✈, 𓃵策略選取✈, 𓃵策略選取✈, img-url=https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/SSID.png
 
-static=𓃵策略選取✈ , 𓃖🎭壹🐲號🦢, 𓃖🎭貳🐲號🦢, 𓃖🎭叁🐲號🦢, 𓃖🎭肆🐲號🦢, 𓃖🎭伍🐲號🦢, 𓃖🎭陸🐲號🦢, 𓃖🎭柒🐲號🦢, 𓃖🎭捌🐲號🦢, 𓃖🎭玖🐲號🦢, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟💯負載均衡🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png
+static=𓃵策略選取✈ , 𓃖🎭壹🐲號🦢, 𓃖🎭貳🐲號🦢, 𓃖🎭叁🐲號🦢, 𓃖🎭肆🐲號🦢, 𓃖🎭伍🐲號🦢, 𓃖🎭陸🐲號🦢, 𓃖🎭柒🐲號🦢, 𓃖🎭捌🐲號🦢, 𓃖🎭玖🐲號🦢, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂💯負載均衡🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png
 
 url-latency-benchmark=𓃖🎭壹🐲號🦢, resource-tag-regex=𓆉“巳”🐍✈⋯· · · ·  ·🚴‍♀️, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Star_2.png
 
@@ -98,21 +98,21 @@ url-latency-benchmark=𓃖🎭捌🐲號🦢, resource-tag-regex=🧜‍♀️�
 
 url-latency-benchmark=𓃖🎭玖🐲號🦢, server-tag-regex=(?=.*(?i)(美国|🇺🇸|美國|Us|us|US|States|American))^((?!(?i)(IPLC|IEPL|game|baipiao|专线|🇩🇪|FR|CN|🇻🇳|越南|AM|AU|🇨🇳|🇫🇷|英国|🇭🇰|🇸🇬|ZZ|BZ|🇳🇱|荷兰|CY|手游|游戏)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/LiYing.png
 
-static=𓃟🟢直接連通🌦✈, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Direct.png
+static=𓄂🟢直接連通🌦✈, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Direct.png
 
-static=𓃟⛔️拒絕請求🌦✈, reject, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Reject.png
+static=𓄂⛔️拒絕請求🌦✈, reject, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Reject.png
 
-static=𓃟🚫廣告攔截🌦✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Adblock.png
+static=𓄂🚫廣告攔截🌦✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Adblock.png
 
-url-latency-benchmark=𓃟🌏節點選擇🌦✈, 🇬🇧GB_4766, 蜂窝网, WI-FI, check-interval=600, tolerance=4, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Static.png
+url-latency-benchmark=𓄂🌏節點選擇🌦✈, 🇬🇧GB_4766, 蜂窝网, WI-FI, check-interval=600, tolerance=4, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Static.png
 
-dest-hash=𓃟♨️健康檢測🌦✈, 🇬🇧GB_4766, WI-FI, 蜂窝网, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Available.png
+dest-hash=𓄂♨️健康檢測🌦✈, 🇬🇧GB_4766, WI-FI, 蜂窝网, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Available.png
 
-round-robin=𓃟💯負載均衡🌦✈, 🇬🇧GB_4766, WI-FI, 蜂窝网, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SSID.png
+round-robin=𓄂💯負載均衡🌦✈, 🇬🇧GB_4766, WI-FI, 蜂窝网, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SSID.png
 
-url-latency-benchmark=𓃟♻️自動選擇🌦✈, server-tag-regex=(?=.*(?i)(美国|🇺🇸|美國|Us|us|US|States|American))^((?!(?i)(IPLC|IEPL|game|baipiao|专线|🇩🇪|FR|CN|🇻🇳|越南|AM|AU|🇨🇳|🇫🇷|英国|🇭🇰|🇸🇬|ZZ|BZ|🇳🇱|荷兰|CY|手游|游戏)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Roundrobin.png
+url-latency-benchmark=𓄂♻️自動選擇🌦✈, server-tag-regex=(?=.*(?i)(美国|🇺🇸|美國|Us|us|US|States|American))^((?!(?i)(IPLC|IEPL|game|baipiao|专线|🇩🇪|FR|CN|🇻🇳|越南|AM|AU|🇨🇳|🇫🇷|英国|🇭🇰|🇸🇬|ZZ|BZ|🇳🇱|荷兰|CY|手游|游戏)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Roundrobin.png
 
-static=𓃟👋手動選擇🌦✈, 中国-6.77MB/s(Youtube:不良林), 🇨🇳_定制线路：@QS00008, 上海市+电信, _HK_香港 8, v2cross.com, ilyas-1005432942, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Clubhouse.png
+static=𓄂👋手動選擇🌦✈, 中国-6.77MB/s(Youtube:不良林), 🇨🇳_定制线路：@QS00008, 上海市+电信, _HK_香港 8, v2cross.com, ilyas-1005432942, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Clubhouse.png
 
 static=𓃰網易音樂✈, 𓅿網易雲꧂, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Clubhouse.png
 
@@ -120,81 +120,81 @@ static=𓃰奈飛視頻✈, 𓅿Netflix꧂, img-url=https://raw.githubuserconten
 
 static=𓃰港臺番劇✈, 𓅿藩劇節點꧂, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Bili.png
 
-static=𓃰QQ✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/QQ.png
+static=𓃰QQ✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/QQ.png
 
-static=𓃰微信✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/WeChat.png
+static=𓃰微信✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/WeChat.png
 
-static=𓃰百度✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈,  img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/baidu.png
+static=𓃰百度✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈,  img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/baidu.png
 
-static=𓃰微博✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Weibo.png
+static=𓃰微博✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Weibo.png
 
-static=𓃰淘宝✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Taobao.png
+static=𓃰淘宝✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Taobao.png
 
-static=𓃰iCloud✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/asn.png
+static=𓃰iCloud✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/asn.png
 
-static=𓃰爱奇艺✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/iQIYI&bilibili.png
+static=𓃰爱奇艺✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/iQIYI&bilibili.png
 
-static=𓃰腾讯视频✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/WeTV.png
+static=𓃰腾讯视频✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/WeTV.png
 
-static=𓃰蘋果服務✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple.png
+static=𓃰蘋果服務✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple.png
 
-static=𓃰App_Store✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/App_Store.png
+static=𓃰Microsoft✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Microsoft.png
 
-static=𓃰Microsoft✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Microsoft.png
+static=𓃰App_Store✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/App_Store.png
 
-static=𓃰Sling✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Sling_TV.png
+static=𓃰Sling✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Sling_TV.png
 
-static=𓃰NBC✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/NBC.png
+static=𓃰NBC✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/NBC.png
 
-static=𓃰LINE✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Line.png
+static=𓃰LINE✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Line.png
 
-static=𓃰TikTok✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/TikTok.png
+static=𓃰BBC✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/BBC_iPlayer_2.png
 
-static=𓃰BBC✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/BBC_iPlayer_2.png
+static=𓃰HBO✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/HBO_Max.png
 
-static=𓃰HBO✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/HBO_Max.png
+static=𓃰電報✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/wangzaicake/QuantumultX-Icon/master/QX-Icon/Telegram.png
 
-static=𓃰電報✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/wangzaicake/QuantumultX-Icon/master/QX-Icon/Telegram.png
+static=𓃰臉書✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Facebook.png
 
-static=𓃰臉書✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Facebook.png
+static=𓃰推特✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Twitter.png
 
-static=𓃰推特✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Twitter.png
+static=𓃰游戏✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Game.png
 
-static=𓃰游戏✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Game.png
+static=𓃰谷歌✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Google.png
 
-static=𓃰谷歌✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Google.png
+static=𓃰XboX✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Xbox.png
 
-static=𓃰XboX✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Xbox.png
+static=𓃰TikTok✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/TikTok.png
 
-static=𓃰github✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/GitHub.png
+static=𓃰github✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/GitHub.png
 
-static=𓃰𝐏𝐚𝐲𝐏𝐚𝐥✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Paypal.png
+static=𓃰𝐏𝐚𝐲𝐏𝐚𝐥✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Paypal.png
 
-static=𓃰派拉蒙✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Paramount.png
+static=𓃰派拉蒙✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Paramount.png
 
-static=𓃰Youtube✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
+static=𓃰Youtube✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
 
-static=𓃰Discord✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Discord.png
+static=𓃰Discord✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Discord.png
 
-static=𓃰谷歌邮箱✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Gmail.png
+static=𓃰谷歌邮箱✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Gmail.png
 
-static=𓃰聲田音樂✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Spotify.png
+static=𓃰聲田音樂✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Spotify.png
 
-static=𓃰國際媒體✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/ForeignMedia.png
+static=𓃰國際媒體✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/ForeignMedia.png
 
-static=𓃰全球加速✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Area.png
+static=𓃰全球加速✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Area.png
 
-static=𓃰Amazon✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Amazon.png
+static=𓃰Amazon✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Amazon.png
 
-static=𓃰Disney+✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/DisneyPlus.png
+static=𓃰Disney+✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/DisneyPlus.png
 
-static=𓃰𝐏𝐨𝐫𝐧𝐇𝐮𝐛✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Pornhub_2.png
+static=𓃰𝐏𝐨𝐫𝐧𝐇𝐮𝐛✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Pornhub_2.png
 
-static=𓃰Instagram✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Instagram.png
+static=𓃰Instagram✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Instagram.png
 
-static=𓃰PrimeVideo✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Prime_Video_2.png
+static=𓃰PrimeVideo✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Prime_Video_2.png
 
-static=𓃰DiscoveryPlus✈, reject, direct, proxy, 🌈SSID⛈✈, 𓃟🟢直接連通🌦✈, 𓃟🚫廣告攔截🌦✈, 𓃟⛔️拒絕請求🌦✈, 𓃟💯負載均衡🌦✈, 𓃟🌏節點選擇🌦✈, 𓃟♨️健康檢測🌦✈, 𓃟♻️自動選擇🌦✈, 𓃟👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Discovery.png
+static=𓃰DiscoveryPlus✈, reject, direct, proxy, 🌈SSID⛈✈, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Discovery.png
 
 url-latency-benchmark=𓅿藩劇節點꧂, server-tag-regex=(?=.*(香港|TW|🇭🇰|台湾|HK|MO|🇲🇴|Taiwan|(?i)澳門))^((?!(海口|扬州|厦门|翻墙|手游|游戏|天津|武汉|重庆|杭州|上海|深圳|广州|(?i)北京)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AfreecaTV.png
 
@@ -255,11 +255,11 @@ https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Rule/OpenAI.list, tag=
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/BiliBiliIntl/BiliBiliIntl.list, tag=BiliBiliIntl, force-policy=𓃰港臺番劇✈, update-interval=172800, opt-parser=true, enabled=true
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdGuardSDNSFilter/Direct/Direct.list, tag=AdGuardS DNS Filter Direct, force-policy=𓃟🟢直接連通🌦✈, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdGuardSDNSFilter/Direct/Direct.list, tag=AdGuardS DNS Filter Direct, force-policy=𓄂🟢直接連通🌦✈, update-interval=172800, opt-parser=true, enabled=true
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Cloud/AkamaiCloud/AkamaiCloud.list, tag=AkamaiCloud, force-policy=𓃟🟢直接連通🌦✈, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Cloud/AkamaiCloud/AkamaiCloud.list, tag=AkamaiCloud, force-policy=𓄂🟢直接連通🌦✈, update-interval=172800, opt-parser=true, enabled=true
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Lan/Lan.list, tag=本地局域网地址, force-policy=𓃟🟢直接連通🌦✈, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Lan/Lan.list, tag=本地局域网地址, force-policy=𓄂🟢直接連通🌦✈, update-interval=172800, opt-parser=true, enabled=true
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/FindMy/FindMy.list, tag=查找, force-policy=𓃰蘋果服務✈, update-interval=172800, opt-parser=true, enabled=true
 
@@ -279,15 +279,15 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Quant
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Baidu/Baidu.list, tag=百度, force-policy=𓃰百度✈, update-interval=172800, opt-parser=true, enabled=true
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/CCTV/CCTV.list, tag=CCTV, force-policy=𓃟🟢直接連通🌦✈, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/CCTV/CCTV.list, tag=CCTV, force-policy=𓄂🟢直接連通🌦✈, update-interval=172800, opt-parser=true, enabled=true
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaTelecom/ChinaTelecom.list, tag=中国电信, force-policy=𓃟🟢直接連通🌦✈, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaTelecom/ChinaTelecom.list, tag=中国电信, force-policy=𓄂🟢直接連通🌦✈, update-interval=172800, opt-parser=true, enabled=true
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/CaiNiao/CaiNiao.list, tag=菜鸟裹裹, force-policy=𓃟🟢直接連通🌦✈, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/CaiNiao/CaiNiao.list, tag=菜鸟裹裹, force-policy=𓄂🟢直接連通🌦✈, update-interval=172800, opt-parser=true, enabled=true
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/CNNIC/CNNIC.list, tag=中国互联网络信息中心, force-policy=𓃟🟢直接連通🌦✈, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/CNNIC/CNNIC.list, tag=中国互联网络信息中心, force-policy=𓄂🟢直接連通🌦✈, update-interval=172800, opt-parser=true, enabled=true
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/CAS/CAS.list, tag=中国科学院文献情报中心, force-policy=𓃟🟢直接連通🌦✈, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/CAS/CAS.list, tag=中国科学院文献情报中心, force-policy=𓄂🟢直接連通🌦✈, update-interval=172800, opt-parser=true, enabled=true
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/NBC/NBC.list, tag=NBC, force-policy=𓃰NBC✈, update-interval=172800, opt-parser=true, enabled=true
 
@@ -308,7 +308,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Quant
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/JOOX/JOOX.list, tag=joox, force-policy=🌈SSID⛈✈, update-interval=86400, opt-parser=true, enabled=true
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Xbox/Xbox.list, tag=XboX, force-policy=𓃟🟢直接連通🌦✈, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Xbox/Xbox.list, tag=XboX, force-policy=𓄂🟢直接連通🌦✈, update-interval=172800, opt-parser=true, enabled=true
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/NetEase/NetEase.list, tag=网易, force-policy=𓃰網易音樂✈, update-interval=172800, opt-parser=true, enabled=true
 
@@ -398,37 +398,37 @@ https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/Speedte
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Microsoft/Microsoft.list, tag=Microsoft (微软服务), force-policy=𓃰Microsoft✈, update-interval=86400, opt-parser=true, enabled=true
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Direct/Direct.list, tag=直连, force-policy=𓃟🟢直接連通🌦✈, update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Direct/Direct.list, tag=直连, force-policy=𓄂🟢直接連通🌦✈, update-interval=172800, opt-parser=true, enabled=false
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/China/China.list, tag=国内, force-policy=𓃟🟢直接連通🌦✈, update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/China/China.list, tag=国内, force-policy=𓄂🟢直接連通🌦✈, update-interval=172800, opt-parser=true, enabled=false
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaIPs/ChinaIPs.list, tag=国内IP池, force-policy=𓃟🟢直接連通🌦✈, update-interval=86400, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaIPs/ChinaIPs.list, tag=国内IP池, force-policy=𓄂🟢直接連通🌦✈, update-interval=86400, opt-parser=true, enabled=false
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaMedia/ChinaMedia.list, tag=ChinaMedia, force-policy=𓃟🟢直接連通🌦✈, update-interval=86400, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaMedia/ChinaMedia.list, tag=ChinaMedia, force-policy=𓄂🟢直接連通🌦✈, update-interval=86400, opt-parser=true, enabled=false
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaMaxNoIP/ChinaMaxNoIP.list, tag=国内域名合集, force-policy=𓃟🟢直接連通🌦✈, update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaMaxNoIP/ChinaMaxNoIP.list, tag=国内域名合集, force-policy=𓄂🟢直接連通🌦✈, update-interval=172800, opt-parser=true, enabled=false
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaNoMedia/ChinaNoMedia.list, tag=ChinaNoMedia, force-policy=𓃟🟢直接連通🌦✈, update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaNoMedia/ChinaNoMedia.list, tag=ChinaNoMedia, force-policy=𓄂🟢直接連通🌦✈, update-interval=172800, opt-parser=true, enabled=false
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaMax/ChinaMax.list, tag=国内网站/IP合集, force-policy=𓃟🟢直接連通🌦✈, update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaMax/ChinaMax.list, tag=国内网站/IP合集, force-policy=𓄂🟢直接連通🌦✈, update-interval=172800, opt-parser=true, enabled=false
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaMaxNoMedia/ChinaMaxNoMedia.list, tag=ChinaMaxNoMedia, force-policy=𓃟🟢直接連通🌦✈, update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaMaxNoMedia/ChinaMaxNoMedia.list, tag=ChinaMaxNoMedia, force-policy=𓄂🟢直接連通🌦✈, update-interval=172800, opt-parser=true, enabled=false
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingTest/AdvertisingTest.list, tag=测试版去广告, force-policy=𓃟🚫廣告攔截🌦✈, update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingTest/AdvertisingTest.list, tag=测试版去广告, force-policy=𓄂🚫廣告攔截🌦✈, update-interval=172800, opt-parser=true, enabled=false
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Global/Global.list, tag=Global, force-policy=𓃟🚫廣告攔截🌦✈, update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Global/Global.list, tag=Global, force-policy=𓄂🚫廣告攔截🌦✈, update-interval=172800, opt-parser=true, enabled=false
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Privacy/Privacy.list, tag=隐私保护, force-policy=𓃟🚫廣告攔截🌦✈, update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Privacy/Privacy.list, tag=隐私保护, force-policy=𓄂🚫廣告攔截🌦✈, update-interval=172800, opt-parser=true, enabled=false
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/EasyPrivacy/EasyPrivacy.list, tag=EasyPrivacy, force-policy=𓃟🚫廣告攔截🌦✈, update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/EasyPrivacy/EasyPrivacy.list, tag=EasyPrivacy, force-policy=𓄂🚫廣告攔截🌦✈, update-interval=172800, opt-parser=true, enabled=false
 
-https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/AdBlock.list, tag=AdBlock (广告拦截), force-policy=𓃟🚫廣告攔截🌦✈, update-interval=86400, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/AdBlock.list, tag=AdBlock (广告拦截), force-policy=𓄂🚫廣告攔截🌦✈, update-interval=86400, opt-parser=true, enabled=false
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdGuardSDNSFilter/AdGuardSDNSFilter.list, tag=AdGuardSDNSFilter, force-policy=🌈SSID⛈✈, update-interval=172800, opt-parser=true, enabled=false
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Advertising/Advertising.list, tag=去广告, force-policy=𓃟🚫廣告攔截🌦✈, update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Advertising/Advertising.list, tag=去广告, force-policy=𓄂🚫廣告攔截🌦✈, update-interval=172800, opt-parser=true, enabled=false
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingLite/AdvertisingLite.list, tag=去广告精简版, force-policy=𓃟🚫廣告攔截🌦✈, update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingLite/AdvertisingLite.list, tag=去广告精简版, force-policy=𓄂🚫廣告攔截🌦✈, update-interval=172800, opt-parser=true, enabled=false
 
 
 # 本地分流规则
