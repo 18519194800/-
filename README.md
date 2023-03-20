@@ -7,18 +7,6 @@ trojan=152.70.74.66:443, password=d906afe5-7c3c-4ddc-aaa4-61c154a82e5e, over-tls
 
 trojan=152.70.74.66:443, password=d906afe5-7c3c-4ddc-aaa4-61c154a82e5e, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=印度-1.44MB/s(Youtube:不良林)
 
-shadowsocks=eu.unlimitedtraffic.top:25908, method=chacha20-ietf-poly1305, password=8a41b2da-320a-4b75-bc72-c5329c1e8142, fast-open=false, udp-relay=false, tag=中国-5.35MB/s(Youtube:不良林)
-
-shadowsocks=eu.unlimitedtraffic.top:25907, method=chacha20-ietf-poly1305, password=8a41b2da-320a-4b75-bc72-c5329c1e8142, fast-open=false, udp-relay=false, tag=中国-5.17MB/s(Youtube:不良林)
-
-shadowsocks=eu.unlimitedtraffic.top:25907, method=chacha20-ietf-poly1305, password=8a41b2da-320a-4b75-bc72-c5329c1e8142, fast-open=false, udp-relay=false, tag=中国-3.41MB/s(Youtube:不良林)
-
-shadowsocks=sa.unlimitedtraffic.top:25853, method=chacha20-ietf-poly1305, password=8a41b2da-320a-4b75-bc72-c5329c1e8142, fast-open=false, udp-relay=false, tag=中国-6.61MB/s(Youtube:不良林)
-
-shadowsocks=as.unlimitedtraffic.top:25815, method=chacha20-ietf-poly1305, password=8a41b2da-320a-4b75-bc72-c5329c1e8142, fast-open=false, udp-relay=false, tag=中国-695.0KB/s(Youtube:不良林)
-
-shadowsocks=sa.unlimitedtraffic.top:25832, method=chacha20-ietf-poly1305, password=8a41b2da-320a-4b75-bc72-c5329c1e8142, fast-open=false, udp-relay=false, tag=中国-5.73MB/s(Youtube:不良林)
-
 trojan=vip.samanss.tk:8080, password=48e72cba-9a6d-4a40-9a88-ca83aeb72033, over-tls=true, tls-verification=false, tls-host=vip.samanss.tk, fast-open=false, udp-relay=false, tag=🇺🇸+US+美国+1
 
 trojan=vip.samanss.tk:8080, password=48e72cba-9a6d-4a40-9a88-ca83aeb72033, over-tls=true, tls-verification=false, tls-host=vip.samanss.tk, fast-open=false, udp-relay=false, tag=🇺🇸+US+美国+2
@@ -116,7 +104,7 @@ round-robin=𓄂💯負載均衡🌦✈⋯✺, 🇬🇧GB_4766, WI-FI, 蜂窝网
 
 url-latency-benchmark=𓄂♻️自動選擇🌦✈⋯✺, server-tag-regex=(?=.*(?i)(美国|🇺🇸|美國|Us|us|US|States|American))^((?!(🇦🇺🇮🇳|印度尼西亚|🇰🇷|日本|(?i)香港|台湾|浙江|澳大利亚|巴西|🇨🇦|🏁|俄罗斯|丹麦|欧盟|🇸🇬|🇷🇺|更多节点关注|🇭🇰|🇨🇳|🇬🇧|🇯🇵|🇱🇹|🇮🇷|🇪🇸|🇧🇩|🇳🇱|🇺🇦|🇱🇺|🇸🇬|🇩🇪|🇫🇮|🏁|🇨🇾|🇫🇷|🇦🇲|VN|🇻🇳|IN|🇨🇦|🇧🇿|🇸🇪|ID|🇮🇩)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Roundrobin.png
 
-static=𓄂👋手動選擇🌦✈⋯✺, 中国-6.77MB/s(Youtube:不良林), 🇨🇳_定制线路：@QS00008, 上海市+电信, 印度-1.44MB/s(Youtube:不良林), 中国-5.35MB/s(Youtube:不良林), 中国-5.17MB/s(Youtube:不良林), 中国-3.41MB/s(Youtube:不良林), 中国-6.61MB/s(Youtube:不良林), 中国-695.0KB/s(Youtube:不良林), 中国-5.73MB/s(Youtube:不良林), 🇺🇸+US+美国+1, 🇺🇸+US+美国+2, 🇺🇸 US 美国 4, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Clubhouse.png
+static=𓄂👋手動選擇🌦✈⋯✺, 中国-6.77MB/s(Youtube:不良林), 🇨🇳_定制线路：@QS00008, 上海市+电信, 🇺🇸+US+美国+1, 🇺🇸+US+美国+2, 🇺🇸 US 美国 4, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Clubhouse.png
 
 static=𓃰網易音樂𐂂, 𓅿網易雲꧂, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Clubhouse.png
 
@@ -200,7 +188,7 @@ static=𓃰PrimeVideo𐂂, reject, direct, proxy, 𓃰SSID𐂂, 𓄂🟢直接�
 
 static=𓃰DiscoveryPlus𐂂, reject, direct, proxy, 𓃰SSID𐂂, 𓄂🟢直接連通🌦✈⋯✺, 𓄂🚫廣告攔截🌦✈⋯✺, 𓄂⛔️拒絕請求🌦✈⋯✺, 𓄂💯負載均衡🌦✈⋯✺, 𓄂🌏節點選擇🌦✈⋯✺, 𓄂♨️健康檢測🌦✈⋯✺, 𓄂♻️自動選擇🌦✈⋯✺, 𓄂👋手動選擇🌦✈⋯✺, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Discovery.png
 
-url-latency-benchmark=𓅿藩劇節點꧂, server-tag-regex=(?=.*(香港|TW|🇭🇰|台湾|臺灣|台灣|澳门|HK|MO|🇲🇴|Taiwan|(?i)澳門))^((?!(海口|扬州|🇦🇺|厦门|翻墙|手游|游戏|天津|武汉|重庆|杭州|上海|深圳|广州|(?i)北京)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AfreecaTV.png
+url-latency-benchmark=𓅿藩劇節點꧂, server-tag-regex=(?=.*(香港|TW|🇭🇰|台湾|臺灣|台灣|澳门|HK|MO|🇲🇴|Taiwan|(?i)澳門))^((?!(海口|扬州|🇦🇺|🇺🇸|厦门|翻墙|手游|游戏|天津|武汉|重庆|杭州|上海|深圳|广州|(?i)北京)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AfreecaTV.png
 
 url-latency-benchmark=𓅿Netflix꧂, server-tag-regex=(?=.*(Netflix|netflix|NETFLIX|NF|nf|IN|奈飞|网飞|奈飛|解锁流媒体|流媒体|(?i)Netflix))^((?!(🇮🇳|bpzh|印度|glados|游戏(?i)专线|手游)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netflix.png
 
