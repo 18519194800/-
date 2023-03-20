@@ -202,7 +202,7 @@ static=𓃰DiscoveryPlus𐂂, reject, direct, proxy, 𓃰SSID𐂂, 𓄂🟢直�
 
 url-latency-benchmark=𓅿藩劇節點꧂, server-tag-regex=(?=.*(香港|TW|🇭🇰|台湾|臺灣|台灣|澳门|HK|MO|🇲🇴|Taiwan|(?i)澳門))^((?!(海口|扬州|🇦🇺|厦门|翻墙|手游|游戏|天津|武汉|重庆|杭州|上海|深圳|广州|(?i)北京)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AfreecaTV.png
 
-url-latency-benchmark=𓅿Netflix꧂, server-tag-regex=(?=.*(Netflix|netflix|NETFLIX|NF|nf|IN|奈飞|网飞|奈飛|解锁流媒体|流媒体|(?i)Netflix))^((?!(🇮🇳|印度|游戏(?i)专线|手游)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netflix.png
+url-latency-benchmark=𓅿Netflix꧂, server-tag-regex=(?=.*(Netflix|netflix|NETFLIX|NF|nf|IN|奈飞|网飞|奈飛|解锁流媒体|流媒体|(?i)Netflix))^((?!(🇮🇳|bpzh|印度|glados|游戏(?i)专线|手游)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netflix.png
 
 url-latency-benchmark=𓅿網易雲꧂, server-tag-regex=网易, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netease_Music_Unlock.png
 
@@ -246,7 +246,7 @@ url-latency-benchmark=𓅿香港特區꧂, resource-tag-regex=A||, server-tag-re
 
 url-latency-benchmark=𓅿臺灣地區꧂, resource-tag-regex=A||, server-tag-regex=(?=.*(台湾|台灣|TW|Tw|tw|(?i)Taiwan))^((?!(🇦🇺|日本|(?i)🇰🇷|🇸🇬|🇫🇷|🇭🇰|🇨🇳|🇮🇳|🇬🇧)).)*$, check-interval=600, tolerance=5, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Taiwan.png
 
-url-latency-benchmark=𓅿馬來西亞꧂, server-tag-regex=(?=.*(?i)(马来西亚|Malaysia|🇲🇾|大马|MY|My|my|(?i)Hungary))^((?!(🇦🇺|日本|(?i)🇰🇷|🇸🇬|🇫🇷|🇭🇰|🇨🇳|🇮🇳|🇬🇧)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Malaysia.png
+url-latency-benchmark=𓅿馬來西亞꧂, server-tag-regex=(?=.*(?i)(马来西亚|Malaysia|🇲🇾|大马|MY|My|my|(?i)Hungary))^((?!(🇦🇺|🇺🇸|日本|(?i)🇰🇷|🇸🇬|🇫🇷|🇭🇰|🇨🇳|🇮🇳|🇬🇧)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Malaysia.png
 
 url-latency-benchmark=𓅿澳大利亞꧂, server-tag-regex=(?=.*(澳大利亚|澳大利亞|🇦🇺|AU|Au|au|Commonwealth of Australia|(?i)Australia))^((?!(日本|(?i)🇺🇸|🇰🇷|🇭🇰|🇨🇳|🇮🇳|🇬🇧)).)*$, check-interval=600, tolerance=5, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Australia.png
 
