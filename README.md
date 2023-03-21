@@ -3,13 +3,12 @@
 
 #本地服务器部分
 [server_local]
-vmess=43.154.233.89:53038, method=aes-128-gcm, password=2264f24e-d814-4aa6-98c0-ed5a8322a0eb, obfs=wss, obfs-host=hk12.verichains.co, obfs-uri=/hk12/getData, tls-verification=true, fast-open=false, udp-relay=false, aead=false, tag=香港 腾讯云
+
+trojan=sgp-3.fuckjdieng.uk:50316, password=8f7a43a4-dcdb-4fa0-8496-32db0386e0bb, over-tls=true, tls-verification=false, tls-host=sgp-3.fuckjdieng.uk, fast-open=false, udp-relay=false, tag=新加坡-2.81MB/s(Youtube:不良林)
+
+shadowsocks=212.102.53.79:443, method=aes-128-gcm, password=shadowsocks, fast-open=false, udp-relay=false, tag=英国-659.1KB/s(Youtube:不良林)
 
 vmess=203.30.191.1:443, method=aes-128-gcm, password=56a2188b-2ab7-402c-b9b8-34847fdf0958, obfs=wss, obfs-host=clash1.ssr-free2.xyz, obfs-uri=/5QNROSRV, tls-verification=true, fast-open=false, udp-relay=false, aead=true, tag=澳大利亚 Cranbourne Secondary College
-
-vmess=95.179.128.145:2083, method=aes-128-gcm, password=1cf2679f-8ec4-4b07-d758-132573825850, obfs=ws, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=🇳🇱NL_80 |203.03Mb
-
-vmess=95.179.128.145:2083, method=aes-128-gcm, password=1cf2679f-8ec4-4b07-d758-132573825850, obfs=ws, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=🇳🇱_NL_荷兰_TG：@suyucom
 
 vmess=132.226.8.141:18804, method=aes-128-gcm, password=065357ce-74cd-47ef-ad6f-25a9f6d2252d, fast-open=false, udp-relay=false, aead=true, tag=🇯🇵_JP_日本_4
 
@@ -44,7 +43,7 @@ https://xn--04s008m.com/api/v1/client/subscribe?token=20e8947027ea93c3638cdab219
 https://pastebin.com/raw/SUNqDbpL, tag=🧜备🍊壹✈⋯🔆, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/CMI.png, update-interval=172800, opt-parser=true, enabled=true
 https://paste.gg/p/anonymous/090e0cb209804d15908d7484a057c770/files/df074b9ce5514898b25ed91f01c9c460/raw, tag=🧜备🍊用✈⋯🔆, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/CN2_GIA.png, update-interval=172800, opt-parser=true, enabled=true
 https://xf01.eu.org/j/0314sc.txt, tag=🧜日更🍊節點✈⋯🔆, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/China_Unicom.png, update-interval=172800, opt-parser=true, enabled=true
-https://v2rayshare.com/wp-content/uploads/2023/03/20230319.txt, tag=🧜日更🍊節點✈⋯🔆, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1814752.png, update-interval=172800, opt-parser=true, enabled=true
+https://v2rayshare.com/wp-content/uploads/2023/03/20230321.txt, tag=🧜日更🍊節點✈⋯🔆, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1814752.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1.yaml, tag=🧜‍♀️“玖”🫐✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1643998.png, update-interval=172800, opt-parser=true, enabled=true
 https://gitlab.com/api/v4/projects/35506148/repository/files/data%2Fclash%2Fgeneral.yaml/raw?ref=main&privatetoken=glpat-JmxhQF1PtaKamyyKqV, tag=🧜‍♀️“捌”🍇✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/2920026.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/wentao883/wxgdyjdy/main/dyljcs, tag=🧜‍♀️“柒”🫑✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/2919765.png, update-interval=172800, opt-parser=true, enabled=true
@@ -120,7 +119,7 @@ round-robin=𓄂💯負載均衡🌦✈⋯✺, 🇬🇧GB_4766, WI-FI, 蜂窝网
 
 url-latency-benchmark=𓄂♻️自動選擇🌦✈⋯✺, server-tag-regex=(?=.*(?i)(美国|🇺🇸|美國|Us|us|US|States|American))^((?!(🇦🇺|🇮🇳|🇰🇭|🇨🇿|印度尼西亚|日本|(?i)🇰🇷|香港|台湾|浙江|澳大利亚|巴西|🇨🇦|🏁|俄罗斯|丹麦|欧盟|🇸🇬|🇷🇺|更多节点关注|🇭🇰|🇨🇳|🇬🇧|🇯🇵|🇱🇹|🇮🇷|🇪🇸|🇧🇩|🇳🇱|🇺🇦|🇱🇺|🇸🇬|🇩🇪|🇫🇮|🏁|🇨🇾|🇫🇷|🇦🇲|VN|🇻🇳|IN|🇨🇦|🇧🇿|🇸🇪|ID|🇮🇩)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Roundrobin.png
 
-static=𓄂👋手動選擇🌦✈⋯✺, 中国-6.77MB/s(Youtube:不良林), 🇺🇸+US+美国+1, 🇨🇳_定制线路：@QS00008, 🇺🇸+US+美国+2, 🇺🇸 US 美国 4, 澳大利亚 Cranbourne Secondary College, 🇳🇱NL_80 |203.03Mb, 🇳🇱_NL_荷兰_TG：@suyucom, 🇯🇵_JP_日本_4, 🇬🇧_GB_英国_TG：@suyucom, 美国+V2CROSS.COM, 印度-1.44MB/s(Youtube:不良林), 上海市+电信, 香港 腾讯云, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Clubhouse.png
+static=𓄂👋手動選擇🌦✈⋯✺, 上海市+电信, 🇺🇸 US 美国 4, 🇯🇵_JP_日本_4, 🇺🇸+US+美国+1, 🇺🇸+US+美国+2, 🇨🇳_定制线路：@QS00008, 🇬🇧_GB_英国_TG：@suyucom, 中国-6.77MB/s(Youtube:不良林), 印度-1.44MB/s(Youtube:不良林), 新加坡-2.81MB/s(Youtube:不良林), 英国-659.1KB/s(Youtube:不良林), img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Clubhouse.png
 
 static=𓃰網易音樂𐂂, 𓅿網易雲꧂, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Clubhouse.png
 
@@ -224,7 +223,7 @@ url-latency-benchmark=𓅿英國꧂, server-tag-regex=(?=.*(?i)(英國|英国|�
 
 url-latency-benchmark=𓅿法國꧂, server-tag-regex=(?=.*(法|france|fr|FR|Fr|🇫🇷|(?i)French Republic))^((?!(🇦🇺|TLS|更多免费|沙特阿拉伯|🇸🇦|🇮🇳|🇨🇾|🇲🇾|🇦🇲|德国|🇧🇿|荷兰|印度|广东|中国|印度尼西亚|卢森堡|安徽|波兰|日本|(?i)🇰🇷|香港|台湾|浙江|澳大利亚|巴西|🇨🇦|🏁|俄罗斯|丹麦|欧盟|🇸🇬|美国|更多节点关注|🇺🇸|🇨🇳|🇬🇧)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/France.png
 
-url-latency-benchmark=𓅿德國꧂, server-tag-regex=(?=.*(德国|德國|🇩🇪|germany|Deu|DEU|(?i)germany))^((?!(🇦🇺|印度尼西亚|日本|(?i)🇰🇷|🏁|🇮🇷|香港|台湾|浙江|澳大利亚|巴西|俄罗斯|丹麦|欧盟|🇸🇬|🇫🇷|美国|更多节点关注|🇺🇸|🇨🇳|🇬🇧)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Germany.png
+url-latency-benchmark=𓅿德國꧂, server-tag-regex=(?=.*(德国|德國|🇩🇪|germany|Deu|DEU|(?i)germany))^((?!(🇦🇺|🇦🇹|印度尼西亚|日本|(?i)🇰🇷|🏁|🇮🇷|香港|台湾|浙江|澳大利亚|巴西|俄罗斯|丹麦|欧盟|🇸🇬|🇫🇷|美国|更多节点关注|🇺🇸|🇨🇳|🇬🇧)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Germany.png
 
 url-latency-benchmark=𓅿印度꧂, server-tag-regex=(?=.*(印度|🇮🇳|Ln|ln|LN|Lnd|India|भारत गणराज्य|(?i)The Republic of India))^((?!(🇦🇺|SCP|印度尼西亚|日本|(?i)🇰🇷|香港|台湾|浙江|澳大利亚|巴西|俄罗斯|丹麦|欧盟|🇸🇬|🇫🇷|美国|更多节点关注|🇺🇸|🇨🇳|🇬🇧)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/India.png
 
@@ -244,7 +243,7 @@ url-latency-benchmark=𓅿俄羅斯꧂, server-tag-regex=(?=.*(俄罗斯|俄羅�
 
 url-latency-benchmark=𓅿阿根廷꧂, server-tag-regex=(?=.*(阿根廷|🇦🇷|AR|(?i)Argentina))^((?!(🇦🇺|日本|(?i)🇰🇷|🇸🇬|🇫🇷|🇺🇸|🇨🇳|🇮🇳|🇬🇧)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Argentina.png
 
-url-latency-benchmark=𓅿澳門特區꧂, server-tag-regex=(?=.*(澳门|MO|🇲🇴|Mo|mo|Macao|(?i)Macau))^((?!(🇦🇺|日本|(?i)🇰🇷|🇸🇬|🇫🇷|🇺🇸|🇨🇳|🇮🇳|🇬🇧)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Macao.png
+url-latency-benchmark=𓅿澳門特區꧂, server-tag-regex=(?=.*(澳門|MO|澳门🇲🇴|Mo|mo|Macao|(?i)Macau))^((?!(🇦🇺|日本|(?i)🇰🇷|🇫🇷|🇺🇸|🇨🇳|🇮🇳|🇬🇧)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Macao.png
 
 url-latency-benchmark=𓅿香港特區꧂, resource-tag-regex=A||, server-tag-regex=(?=.*(香港|🇭🇰|Hong Kong|hong|kong|HK|Hk|hk|(?i)Hong))^((?!(🇦🇺|🇺🇦|日本|(?i)🇰🇷|🇸🇬|🇫🇷|🇷🇴|🇺🇸|🇨🇳|🇮🇳|🇬🇧)).)*$, check-interval=600, tolerance=5, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hong_Kong.png
 
