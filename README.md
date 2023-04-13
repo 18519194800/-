@@ -4,23 +4,17 @@
 #本地服务器部分
 [server_local]
 
-shadowsocks=wz.safetelescope.cc:10020, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=韩国_R_311
+trojan=8.218.142.179:8082, password=9d1bb718-f429-40eb-9373-3e6d588ff78c, over-tls=true, tls-verification=false, tls-host=www.baidu.com, fast-open=true, udp-relay=false, tag=电信
 
-shadowsocks=hn-01.cctelescope.xyz:30003, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=韩国_R_310
-
-shadowsocks=wz.safetelescope.cc:62307, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=阿联酋_R_575
+shadowsocks=csg02.sglink.store:20285, method=chacha20, password=Jy9iu3, ssr-protocol=auth_aes128_md5, ssr-protocol-param=120677:09NPOy, obfs=http_simple, obfs-host=c29e730795.microsoft.com, fast-open=false, udp-relay=false, tag=SG
 
 shadowsocks=iepl-hn.cctelescope.xyz:21563, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=阿根廷_R_555
-
-shadowsocks=hn-01.cctelescope.xyz:45705, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=菲律宾_R_399
 
 shadowsocks=iepl-hn.cctelescope.xyz:21293, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=菲律宾_R_196
 
 shadowsocks=iepl-zh.safetelescope.cc:11658, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=美国_R_370
 
 shadowsocks=iepl-hn.cctelescope.xyz:21632, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=美国_R_335
-
-shadowsocks=hn-01.cctelescope.xyz:40678, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=美国_R_273
 
 shadowsocks=sh163.safetelescope.cc:62306, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=美国_R_21
 
@@ -29,8 +23,6 @@ shadowsocks=iepl-hn.cctelescope.xyz:21099, method=aes-256-cfb, password=hGkQ6915
 shadowsocks=ieplszhk-sz.cctelescope.xyz:50058, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=爱沙尼亚_R_453
 
 shadowsocks=iepl-zh.safetelescope.cc:11919, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=澳大利亚_R_560
-
-shadowsocks=hn-01.cctelescope.xyz:29404, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=泰国_R_558
 
 shadowsocks=iepl-zh.safetelescope.cc:11799, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=泰国_R_557
 
@@ -44,33 +36,15 @@ shadowsocks=iepl-hn.cctelescope.xyz:21078, method=aes-256-cfb, password=hGkQ6915
 
 shadowsocks=wz.safetelescope.cc:10019, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=日本_R_22
 
-shadowsocks=wz.safetelescope.cc:46562, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=新加坡_R_522
-
 shadowsocks=ieplszhk-sz.cctelescope.xyz:50306, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=新加坡_R_441
 
 shadowsocks=iepl-zh.safetelescope.cc:11600, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=新加坡_R_434
 
-shadowsocks=hn-01.cctelescope.xyz:20002, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=新加坡_R_135
-
 shadowsocks=iepl-hn.cctelescope.xyz:21319, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=捷克_R_506
-
-shadowsocks=sh163.safetelescope.cc:62301, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=德国_R_523
 
 shadowsocks=ieplszhk-sz.cctelescope.xyz:50354, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=尼日利亚_R_514
 
 shadowsocks=iepl-hn.cctelescope.xyz:21565, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=土耳其_R_458
-
-shadowsocks=wz.safetelescope.cc:62308, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=哈萨克斯坦_R_571
-
-shadowsocks=iepl-hn.cctelescope.xyz:21399, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=台湾_R_337
-
-shadowsocks=iepl-zh.safetelescope.cc:11802, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=台湾_R_318
-
-shadowsocks=ieplszhk-sz.cctelescope.xyz:50802, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=台湾_R_314
-
-shadowsocks=hn-01.cctelescope.xyz:30002, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=台湾_R_269
-
-shadowsocks=wz.safetelescope.cc:10007, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=台湾_R_25
 
 shadowsocks=ieplszhk-sz.cctelescope.xyz:50578, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=印度尼西亚_R_521
 
@@ -80,17 +54,11 @@ shadowsocks=iepl-hn.cctelescope.xyz:21164, method=aes-256-cfb, password=hGkQ6915
 
 shadowsocks=wz.safetelescope.cc:62302, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=加拿大_R_339
 
-shadowsocks=hn-01.cctelescope.xyz:62401, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=冰岛_R_569
-
-shadowsocks=wz.safetelescope.cc:62101, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=保加利亚_R_572
-
 shadowsocks=ieplszhk-sz.cctelescope.xyz:50568, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=俄罗斯_R_577
 
-shadowsocks=sh163.safetelescope.cc:62305, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=俄罗斯_R_543
-
-shadowsocks=hn-01.cctelescope.xyz:26096, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=俄罗斯_R_324
-
 shadowsocks=ieplszhk-sz.cctelescope.xyz:50326, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=227010:S6mN239vRU, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=以色列_R_456
+
+trojan=116.192.171.97:8443, password=5505f6ba-cd37-30ce-8f92-be4120c83d7f, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=上海市
 
 trojan=oss-cn-shanghai.westdatacloud.top:20048, password=626351FA-3CA6-8118-FADF-CCDBCD620871, over-tls=true, tls-verification=false, tls-host=v12.kwaicdn.com, fast-open=false, udp-relay=false, tag=🇨🇳_定制线路：@QS00008
 
@@ -102,18 +70,21 @@ vmess=example.com:443, method=chacha20-poly1305, password=23ad6b10-8d1a-40f7-8ad
 
 trojan=185.44.76.188:443, password=2e240YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZEc1I3QVZ2, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇬🇧GB_4766
 
-
 [server_remote]
-https://xn--04s008m.com/api/v1/client/subscribe?token=7dd8744d04a1acc00bdae0f567b245b9, tag=Tag-1681015047, update-interval=172800, opt-parser=true, enabled=true
-https://v2rayshare.com/wp-content/uploads/2023/04/20230408.txt, tag=🧜日更🍊節點✈⋯🔆, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/China_Unicom.png, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1.yaml, tag=🧜‍♀️“陸”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1814752.png, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config.yaml, tag=🧜‍♀️“伍”🫑✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/2919765.png, update-interval=172800, opt-parser=true, enabled=true
-https://tt.vg/freeclash, tag=🧜‍♀️“肆”🍑✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/2919780.png, update-interval=172800, opt-parser=true, enabled=true
-https://paste.wmlabs.net/raw/1d37394c1bdf, tag=🧜‍♀️“叁”🥬✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1643998.png, update-interval=172800, opt-parser=true, enabled=true
+https://pastebin.com/raw/LLTyw9Bw, tag=🧜日更🍊節點✈⋯🔆, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/CMI.png, update-interval=172800, opt-parser=true, enabled=true
+https://paste.wmlabs.net/raw/34d813780dda, tag=🧜日更🍊節點✈⋯🔆, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/China_Telecom.png, update-interval=172800, opt-parser=true, enabled=true
+https://clashnode.com/wp-content/uploads/2023/04/20230411.txt, tag=🧜日更🍊節點✈⋯🔆, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/China_Unicom.png, update-interval=172800, opt-parser=true, enabled=true
+https://raw.fastgit.org/Pawdroid/Free-servers/main/sub, tag=🧜‍♀️“玖”🍇✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1818299.png, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/yxzbp/yxzbp_p/main/yxzbp, tag=🧜‍♀️“捌”🍓✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1818303.png, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/wentao883/wxgdyjdy/main/dyljcs, tag=🧜‍♀️“柒”🌽✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1643998.png, update-interval=172800, opt-parser=true, enabled=true
+http://proxies.haisto.cn/vmess/sub, tag=🧜‍♀️“陸”🍑✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1819062.png, update-interval=172800, opt-parser=true, enabled=true
+https://pre.paimon.gq/base64, tag=🧜‍♀️“伍”🥦✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/apple.png, update-interval=172800, opt-parser=true, enabled=true
+https://proxy.yugogo.xyz/vmess/sub, tag=🧜‍♀️“肆”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1685574.png, update-interval=172800, opt-parser=true, enabled=true
+https://paste.wmlabs.net/raw/1d37394c1bdf, tag=🧜‍♀️“叁”🥬✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1814752.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/hkaa0/permalink/main/proxy/V2ray, tag=🧜‍♀️“貳”🍓✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1658318.png, update-interval=172800, opt-parser=true, enabled=true
 https://sub.sharecentre.online/sub, tag=🧜‍♀️“壹”🍀✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/2920026.png, update-interval=172800, opt-parser=true, enabled=true
 https://qxnav.top/rules/QuantumultX/gz/wyy.list, tag=𓄄(網易雲音樂)✈⋯·✵, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Netease_Music.png, update-interval=172800, opt-parser=true, enabled=true
-https://sub.pmsub.me/clash.yaml, tag=🦥乾☵天☀️✈⋯· ·✨, img-url=swift.system, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config.yaml, tag=🦥乾☵天☀️✈⋯· ·✨, img-url=swift.system, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/gitbigg/permalink/main/subscribe, tag=🦥坎☵水🌊✈⋯· ·✨, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/GuGuEX.png, update-interval=172800, opt-parser=true, enabled=true
 https://paste.gg/p/anonymous/090e0cb209804d15908d7484a057c770/files/df074b9ce5514898b25ed91f01c9c460/raw, tag=🦥艮☰山⛰✈⋯· ·✨, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/WTT.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub, tag=🦥震☳雷🌩✈⋯· ·✨, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/LiYing.png, update-interval=172800, opt-parser=true, enabled=true
@@ -131,10 +102,10 @@ https://proxy.yiun.xyz/vmess/sub, tag=𓆉“寅”🐅✈⋯· · · ·  ·🚴
 https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg, tag=𓆉“卯”🐇✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Kache.png, update-interval=86400, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/ssrsub/ssr/master/V2Ray, tag=𓆉“辰”🐉✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Catnet.png, update-interval=172800, opt-parser=true, enabled=true
 https://sub.pmsub.me/base64, tag=𓆉“巳”🐍✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Area.png, update-interval=86400, opt-parser=true, enabled=true
-https://gitlab.com/univstar1/v2ray/-/raw/main/data/v2ray/general.txt, tag=𓆉“午”🐎✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/Final.png, update-interval=86400, opt-parser=true, enabled=true
+https://tt.vg/freeclash, tag=𓆉“午”🐎✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/Final.png, update-interval=86400, opt-parser=true, enabled=true
 https://proxy.yugogo.xyz/clash/proxies, tag=𓆉“未”🐑✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/AEX.png, update-interval=86400, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity, tag=𓆉“申”🐵✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Enet.png, update-interval=86400, opt-parser=true, enabled=true
-https://openit-fq.ml/long, tag=𓆉“酉”🐔✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Filter/Proxy.png, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1.yaml, tag=𓆉“酉”🐔✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Filter/Proxy.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/wentao883/wentao883/main/README.md, tag=𓆉“戌”🦮✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Nucleus.png, update-interval=172800, opt-parser=true, enabled=true
 https://free.iam7.tk/vmess/sub, tag=𓆉“亥”🐗✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Bubble/Social-Logo/Slack.png, update-interval=86400, opt-parser=true, enabled=true
 
@@ -167,7 +138,7 @@ static=𓄂⛔️拒絕請求🌦✈, reject, img-url=https://raw.githubusercont
 
 static=𓄂🚫廣告攔截🌦✈, reject, direct, proxy, 𓃰:SSID𐂂, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Adblock.png
 
-url-latency-benchmark=𓄂🌏節點選擇🌦✈, 以色列_R_456, 🇨🇳_定制线路：@QS00008, 上海市+电信, 阿根廷_R_555, 美国_R_370, 美国_R_335, 瑞典_R_362, 爱沙尼亚_R_453, 法国_R_372, 土耳其_R_458, 捷克_R_506, 加拿大_R_365, 加拿大_R_339, check-interval=600, tolerance=4, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Static.png
+url-latency-benchmark=𓄂🌏節點選擇🌦✈, 以色列_R_456, 🇨🇳_定制线路：@QS00008, 上海市+电信, 阿根廷_R_555, 瑞典_R_362, 爱沙尼亚_R_453, 法国_R_372, 土耳其_R_458, 捷克_R_506, 加拿大_R_365, 加拿大_R_339, SG, 上海市, check-interval=600, tolerance=4, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Static.png
 
 dest-hash=𓄂♨️健康檢測🌦✈, 🇬🇧GB_4766, WI-FI, 蜂窝网, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Available.png
 
@@ -175,7 +146,7 @@ round-robin=𓄂💯負載均衡🌦✈, 🇬🇧GB_4766, WI-FI, 蜂窝网, img-
 
 url-latency-benchmark=𓄂♻️自動選擇🌦✈, server-tag-regex=(?=.*(?i)(美国|🇺🇸|美國|Us|us|US|States|American))^((?!(🇹🇷|土耳其|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Roundrobin.png
 
-static=𓄂👋手動選擇🌦✈, 🇨🇳_定制线路：@QS00008, 上海市+电信, 阿根廷_R_555, 美国_R_370, 美国_R_335, 瑞典_R_362, 爱沙尼亚_R_453, 法国_R_372, 捷克_R_506, 土耳其_R_458, 加拿大_R_365, 加拿大_R_339, 以色列_R_456, 新加坡_R_522, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Clubhouse.png
+static=𓄂👋手動選擇🌦✈, 🇨🇳_定制线路：@QS00008, 上海市+电信, 阿根廷_R_555, 瑞典_R_362, 爱沙尼亚_R_453, 法国_R_372, 捷克_R_506, 土耳其_R_458, 加拿大_R_365, 加拿大_R_339, 以色列_R_456, 美国_R_370, 美国_R_335, 美国_R_21, 菲律宾_R_196, 澳大利亚_R_560, 泰国_R_557, 泰国_R_520, 日本_R_510, 日本_R_498, 日本_R_22, 新加坡_R_434, 尼日利亚_R_514, 新加坡_R_441, 印度_R_361, 印度尼西亚_R_521, 俄罗斯_R_577, 上海市, 电信, SG, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Clubhouse.png
 
 static=𓃰網易音樂𐂂, 𓅿網易雲꧂, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Clubhouse.png
 
@@ -261,7 +232,7 @@ static=𓃰DiscoveryPlus𐂂, reject, direct, proxy, 𓃰:SSID𐂂, 𓄂🟢直�
 
 url-latency-benchmark=𓅿藩劇節點꧂, server-tag-regex=(?=.*(🇭🇰|香港|HK|台湾|臺灣|台灣|TW|Taiwan|🇲🇴|澳门|澳門(?i)|MO))^((?!(🇲🇾|马来西亚|🇸🇬|新加坡|🇬🇧|英国|🇺🇸|美国(?i)|海口|扬州|厦门|翻墙|手游|游戏|天津|武汉|重庆|杭州|上海|深圳|广州|北京)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AfreecaTV.png
 
-url-latency-benchmark=𓅿Netflix꧂, server-tag-regex=(?=.*(Netflix|NETFLIX|NF|nf|奈飞|网飞|奈飛|解锁流媒体|流媒体|(?i)netflix))^((?!(🇮🇳|印度|IN|bpzh|glados|游戏(?i)专线|手游)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netflix.png
+url-latency-benchmark=𓅿Netflix꧂, server-tag-regex=(?=.*(Netflix|NETFLIX|NF|奈飞|网飞|奈飛|解锁流媒体|流媒体|(?i)netflix))^((?!(🇮🇳|印度|IN|bpzh|glados|游戏(?i)专线|手游)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netflix.png
 
 url-latency-benchmark=𓅿網易雲꧂, server-tag-regex=网易, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netease_Music_Unlock.png
 
@@ -277,7 +248,7 @@ url-latency-benchmark=𓅿美國꧂, resource-tag-regex=A||, server-tag-regex=(?
 
 url-latency-benchmark=𓅿英國꧂, server-tag-regex=(?=.*(?i)(英國|英国|🇬🇧|gb|GB|United|United Kingdom))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇹🇷|土耳其|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇺🇸|美国|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$, check-interval=600, tolerance=5, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_Kingdom.png
 
-url-latency-benchmark=𓅿法國꧂, server-tag-regex=(?=.*(法|france|fr|FR|Fr|🇫🇷|(?i)French Republic))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇹🇷|土耳其|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇺🇸|美国|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/France.png
+url-latency-benchmark=𓅿法國꧂, server-tag-regex=(?=.*(法|france|fr|FR|Fr|🇫🇷|(?i)French Republic))^((?!(🇩🇰|丹麦|🇸🇦|沙特阿拉伯|🇿🇦|南非|🇹🇷|土耳其|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇺🇸|美国|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/France.png
 
 url-latency-benchmark=𓅿德國꧂, server-tag-regex=(?=.*(德国|德國|🇩🇪|germany|Deu|DEU|(?i)germany))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇹🇷|土耳其|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇺🇸|美国|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Germany.png
 
@@ -1293,8 +1264,6 @@ https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/backend/sub-store.min
 05 9 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_daily.js, tag=签到与任务, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm.png, enabled=true
 0/5 * 6-23 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/applestore/applestore.js, tag=库存查询, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/applestore/icon/applestore.png, enabled=true
 0 0 * * * https://raw.githubusercontent.com/crossutility/Quantumult-X/master/sample-task.js, tag=Sample, img-url=https://raw.githubusercontent.com/crossutility/Quantumult-X/master/quantumult-x.png, enabled=true
-*/5 * * * * https://raw.githubusercontent.com/QGCliveDavis/Module/main/Telecom/Tele_Cellular_Auto.js, tag=电信余量(自动版), img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/SSID_1.png, enabled=false
-*/5 * * * * https://raw.githubusercontent.com/QGCliveDavis/Module/main/Telecom/Tele_Cellular.js, tag=电信余量, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ULB_1.png, enabled=false
 11 1 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js, tag=抽奖机, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_lotteryMachine.png, enabled=true
 0 * * * * https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_cfd.js, tag=京喜财富岛, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jx_cfd.png, enabled=true
 0 16 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js, tag=腾讯自选股, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/txstockqx.png, enabled=true
