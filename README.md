@@ -10,19 +10,22 @@ vmess=example.com:443, method=chacha20-poly1305, password=23ad6b10-8d1a-40f7-8ad
 vmess=example.com:443, method=chacha20-poly1305, password=23ad6b10-8d1a-40f7-8ad0-e3e35cd32291, obfs=wss, obfs-uri=/ws, fast-open=false, udp-relay=false, tag=蜂窝网
 
 [server_remote]
+https://sub.cm/sfMHcJR, tag=𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥, img-url=https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/zishi-cs/zs15.png, update-interval=172800, opt-parser=true, enabled=true
+https://peland.top/api/v1/client/subscribe?token=51135994696877b082940199ea8a00dd, tag=𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥, img-url=https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/zishi-cs/zs19.png, update-interval=172800, opt-parser=true, enabled=true
+https://peland.top/api/v1/client/subscribe?token=21487e73539270b3d373113885468181, tag=𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥, img-url=https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/zishi-cs/zs6.png, update-interval=172800, opt-parser=true, enabled=true
+https://liulangid.eu.org/api/v1/client/subscribe?token=7e7e72b97aee900579ef69c7f6cc0532, tag=𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥, img-url=https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/zishi-cs/zs3.png, update-interval=172800, opt-parser=true, enabled=true
+https://sub1.timeneverchanges.com/api/v1/client/subscribe?token=7dca89b888bdbc72a21e5178a55d5ac2, tag=𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥, img-url=https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/zishi-cs/zs1.png, update-interval=172800, opt-parser=true, enabled=true
 https://subs.danhu.ml/base64?token=063zG7ho0xjx3Da7, tag=𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥, img-url=https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/zishi-cs/zs22.png, update-interval=172800, opt-parser=true, enabled=true
-https://free.dsdog.tk/trojan/sub, tag=𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥, img-url=https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/zishi-cs/zs34.png, update-interval=172800, opt-parser=true, enabled=true
-https://gist.github.com/yewuque15/b90196a6c57f47ee0e0542d7a6bb2266, tag=𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥, img-url=https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/zishi-cs/zs5.png, update-interval=172800, opt-parser=true, enabled=true
-https://djjc.cfd/api/v1/client/subscribe?token=478ce46a691ff8b73d203be527a84c0b, tag=𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥, img-url=https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/zishi-cs/zs1.png, update-interval=172800, opt-parser=true, enabled=true
-https://v2rayshare.com/wp-content/uploads/2023/06/20230604.txt, tag=🦥節🧜點✈⋯  ·  ☀︎  🔅   🔆, img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/EiffelTower.png, update-interval=172800, opt-parser=true, enabled=true
-https://clashnode.com/wp-content/uploads/2023/06/20230604.txt, tag=🦥節🧜點✈⋯ ·   ☀︎  🔅   🔆, img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Category_Bike.png, update-interval=172800, opt-parser=true, enabled=true
+https://gist.github.com/yewuque15/b90196a6c57f47ee0e0542d7a6bb2266, tag=𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥, img-url=https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/zishi-cs/zs12.png, update-interval=172800, opt-parser=true, enabled=true
+https://v2rayshare.com/wp-content/uploads/2023/06/20230616.txt, tag=🦥節🧜點✈⋯  ·  ☀︎  🔅   🔆, img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/EiffelTower.png, update-interval=172800, opt-parser=true, enabled=true
+https://clashnode.com/wp-content/uploads/2023/06/20230616.txt, tag=🦥節🧜點✈⋯ ·   ☀︎  🔅   🔆, img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Category_Bike.png, update-interval=172800, opt-parser=true, enabled=true
 https://pastebin.com/raw/aAB3VrBz, tag=🧜‍♀️“陸”🫐✈⋯💥, img-url=https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/rocket(2).png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/ssrsub/ssr/master/trojan, tag=🧜‍♀️“伍”🌽✈⋯💥, img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_SpringLoaded.png, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1, tag=🧜‍♀️“肆”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Category_News.png, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1, tag=🧜‍♀️“肆”🍟✈⋯💥, img-url=https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/Icons/Dingdangamo.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.fastgit.org/Pawdroid/Free-servers/main/sub, tag=🧜‍♀️“叁”🥬✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1814752.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/hkaa0/permalink/main/proxy/V2ray, tag=🧜‍♀️“貳”🍓✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1658318.png, update-interval=172800, opt-parser=true, enabled=true
 https://sub.sharecentre.online/sub, tag=🧜‍♀️“壹”🍀✈⋯💥, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/2920026.png, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config.yaml, tag=🦥乾☵天☀️✈⋯· ·✨, img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/Twoandz9/AMY.png, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config.yaml, tag=🦥乾☵天☀️✈⋯· ·✨, img-url=https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/Icons/Jiji.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/gitbigg/permalink/main/subscribe, tag=🦥坎☵水🌊✈⋯· ·✨, img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/Twoandz9/Xianyu13.png, update-interval=172800, opt-parser=true, enabled=true
 https://drive.google.com/uc?id=137ITbQU7A-Q3FFsPv3lInszWqTjcWlkF&export=download, tag=🦥艮☰山⛰✈⋯· ·✨, img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/Twoandz9/Xiaoheizi.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub, tag=🦥震☳雷🌩✈⋯· ·✨, img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/Twoandz9/Sese.png, update-interval=172800, opt-parser=true, enabled=true
@@ -31,9 +34,9 @@ https://pastebin.com/raw/Rrm3EabH, tag=🦥離☲火🔥✈⋯· ·✨, img-url=
 https://pastebin.com/raw/LLTyw9Bw, tag=🦥坤☷地🌍✈⋯· ·✨, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/ttwkxcx.png, update-interval=172800, opt-parser=true, enabled=true
 https://pastebin.com/raw/SUNqDbpL, tag=🦥兑☱澤🏊‍♂️✈⋯· ·✨, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/manga.png, update-interval=172800, opt-parser=true, enabled=true
 https://gitlab.com/ioshkj/quantumultx/-/raw/main/wyy.list, tag=𓃵“網易雲音樂”✈⋯·💦, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Netease_Music_Unlock.png, update-interval=172800, opt-parser=true, enabled=true
-https://paste.gg/p/anonymous/0ce9a53d83e54c6688e098fee3d1d32c/files/4cd975cc432b4c6480bd153381c4eb1e/raw, tag=🦃上”👍✈⋯· · · ·  ·⛹️‍♀️, img-url=https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/maomi/mm23.png, update-interval=172800, opt-parser=true, enabled=true
-https://sub.id9.cc/sub?target=quanx&url=https://pastebin.com/raw/aAB3VrBz&insert=false, tag=🦃中”🤝✈⋯· · · ·  ·⛹🏻‍♀️, img-url=https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/maomi/mm11.png, update-interval=172800, opt-parser=true, inserted-resource=true, enabled=true
-https://raw.fastgit.org/freefq/free/master/v2, tag=🦃下”👎✈⋯· · · ·  ·⛹🏼‍♀️, img-url=https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/maomi/mm1.png, update-interval=172800, opt-parser=true, enabled=true
+https://paste.gg/p/anonymous/0ce9a53d83e54c6688e098fee3d1d32c/files/4cd975cc432b4c6480bd153381c4eb1e/raw, tag=🦃上”👍✈⋯· · · ·  ·⛹️‍♀️, img-url=https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/zishi-cs/zs14.png, update-interval=172800, opt-parser=true, enabled=true
+https://sub.id9.cc/sub?target=quanx&url=https://pastebin.com/raw/aAB3VrBz&insert=false, tag=🦃中”🤝✈⋯· · · ·  ·⛹🏻‍♀️, img-url=https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/zishi-cs/zs5.png, update-interval=172800, opt-parser=true, inserted-resource=true, enabled=true
+https://raw.fastgit.org/freefq/free/master/v2, tag=🦃下”👎✈⋯· · · ·  ·⛹🏼‍♀️, img-url=https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/zishi-cs/zs34.png, update-interval=172800, opt-parser=true, enabled=true
 https://proxypool.link/trojan/sub, tag=𓆉“子”🐁✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Naiko.png, update-interval=172800, opt-parser=true, enabled=true
 http://proxies.haisto.cn/trojan/sub, tag=𓆉“醜”🦬✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Ox.png, update-interval=172800, opt-parser=true, enabled=true
 https://proxy.yiun.xyz/trojan/sub, tag=𓆉“寅”🐅✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Ywhl.png, update-interval=86400, opt-parser=true, enabled=true
@@ -43,7 +46,7 @@ https://sub.pmsub.me/base64, tag=𓆉“巳”🐍✈⋯· · · ·  ·🚴‍�
 https://tt.vg/freeclash, tag=𓆉“午”🐎✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/Final.png, update-interval=86400, opt-parser=true, enabled=true
 https://too.st/Cnb38, tag=𓆉“未”🐑✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/AEX.png, update-interval=86400, opt-parser=true, enabled=true
 https://api.sublink.dev/sub?target=clash&url=https://raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx2, tag=𓆉“申”🐵✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Enet.png, update-interval=86400, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1.yaml, tag=𓆉“酉”🐔✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Filter/Proxy.png, update-interval=172800, opt-parser=true, enabled=true
+https://free.dsdog.tk/trojan/sub, tag=𓆉“酉”🐔✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Filter/Proxy.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/wentao883/TG-wxgqlfx_BYDY/main/pdyjdy_BYDY, tag=𓆉“戌”🦮✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Nucleus.png, update-interval=172800, opt-parser=true, enabled=true
 https://proxy.yugogo.xyz/trojan/sub, tag=𓆉“亥”🐗✈⋯· · · ·  ·🚴‍♀️, img-url=https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Bubble/Social-Logo/Slack.png, update-interval=86400, opt-parser=true, enabled=true
 
@@ -54,7 +57,6 @@ static=𓃵策略選取✄⋯❀, 𓄄🎭壹🐲號:𓅿₍₁₈₅₁₉₁�
 url-latency-benchmark=𓄄🎭壹🐲號:𓅿₍₁₈₅₁₉₁₉₄₈₀₀₎𓆃, resource-tag-regex=𓆉“巳”🐍✈⋯· · · ·  ·🚴‍♀️, server-tag-regex=(?=.*(?i)(美国|🇺🇸|美國|Us|us|US|States|American))^((?!(🇹🇷|土耳其|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Star_2.png
 url-latency-benchmark=𓄄🎭貳🐲號:𓅿₍₁₅₃₁₃₃₄₈₈₆₈₎𓆃, resource-tag-regex=科学上网, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SaySS.png
 url-latency-benchmark=𓄄🎭叁🐲號:𓅿₍₁₈₅₁₉₁₉₄₈₀₀₎𓆃, resource-tag-regex=🧜‍♀️“叁”🥬✈⋯💥, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Ywhl.png
-
 url-latency-benchmark=𓄄🎭肆🐲號:𓅿₍₁₅₃₁₃₃₄₈₈₆₈₎𓆃, resource-tag-regex=𓆉“卯”🐇✈⋯· · · ·  ·🚴‍♀️, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Kache.png
 
 url-latency-benchmark=𓄄🎭伍🐲號:𓅿₍₁₈₅₁₉₁₉₄₈₀₀₎𓆃, resource-tag-regex=𓆉“戌”🦮✈⋯· · · ·  ·🚴‍♀️, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/warp.png
@@ -89,7 +91,7 @@ static=𓃰網易音樂𐂂, 𓅿網易雲꧂, img-url=https://raw.githubusercon
 
 static=𓃰奈飛視頻𐂂, 𓅿Netflix꧂, img-url=https://raw.githubusercontent.com/Orz-3/face/master/Netflix.png
 
-static=𓃰港臺番劇𐂂, 𓅿藩劇節點꧂, img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/BiliBiliTV.png
+static=𓃰港臺番劇𐂂, 𓅿藩劇節點꧂, img-url=https://raw.githubusercontent.com/code170202/emby-icon/main/pilipili/round.png
 
 static=𓃰QQ𐂂, reject, direct, proxy, 𓃰:SSID𐂂, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/QQ.png
 
@@ -112,8 +114,6 @@ static=𓃰腾讯视频𐂂, reject, direct, proxy, 𓃰:SSID𐂂, 𓄂🟢直�
 static=𓃰蘋果服務𐂂, reject, direct, proxy, 𓃰:SSID𐂂, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple.png
 
 static=𓃰Microsoft𐂂, reject, direct, proxy, 𓃰:SSID𐂂, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Microsoft.png
-
-static=百度网盘国际版, proxy, direct, reject, 𓃰:SSID𐂂, 𓄂🟢直接連通🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂💯負載均衡🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Baiduyun2.png
 
 static=𓃰App_Store𐂂, reject, direct, proxy, 𓃰:SSID𐂂, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/App_Store.png
 
@@ -165,7 +165,7 @@ static=𓃰Amazon𐂂, reject, direct, proxy, 𓃰:SSID𐂂, 𓄂🟢直接連�
 
 static=𓃰Disney+𐂂, reject, direct, proxy, 𓃰:SSID𐂂, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/DisneyPlus.png
 
-static=𓃰𝐏𝐨𝐫𝐧𝐇𝐮𝐛𐂂, reject, direct, proxy, 𓃰:SSID𐂂, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Pornhub_2.png
+static=𓃰𝐏𝐨𝐫𝐧𝐇𝐮𝐛𐂂, reject, direct, proxy, 𓃰:SSID𐂂, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Porn1.png
 
 static=𓃰Instagram𐂂, reject, direct, proxy, 𓃰:SSID𐂂, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Instagram.png
 
@@ -173,7 +173,11 @@ static=𓃰PrimeVideo𐂂, reject, direct, proxy, 𓃰:SSID𐂂, 𓄂🟢直接�
 
 static=𓃰google drive𐂂, proxy, direct, reject, 𓃰:SSID𐂂, 𓄂🟢直接連通🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂💯負載均衡🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Gcp.png
 
+static=𓃰Googlevoice𐂂, 🇨🇳_定制线路：@QS00008, 上海市+电信, 🇬🇧GB_4766, WI-FI, img-url=https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Googlevoice.png
+
 static=𓃰DiscoveryPlus𐂂, reject, direct, proxy, 𓃰:SSID𐂂, 𓄂🟢直接連通🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂💯負載均衡🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Discovery.png
+
+static=𓃰百度网盘国际版𐂂, proxy, direct, reject, 𓃰:SSID𐂂, 𓄂🟢直接連通🌦✈, 𓄂⛔️拒絕請求🌦✈, 𓄂🚫廣告攔截🌦✈, 𓄂🌏節點選擇🌦✈, 𓄂♨️健康檢測🌦✈, 𓄂💯負載均衡🌦✈, 𓄂♻️自動選擇🌦✈, 𓄂👋手動選擇🌦✈, img-url=https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Baiduyun2.png
 
 url-latency-benchmark=𓅿藩劇節點꧂, server-tag-regex=(?=.*(🇭🇰|香港|HK|台湾|臺灣|台灣|TW|Taiwan|🇲🇴|澳门|澳門(?i)|MO))^((?!(🇲🇾|马来西亚|🇸🇬|新加坡|🇬🇧|英国|🇺🇸|美国(?i)|海口|扬州|厦门|翻墙|手游|游戏|天津|武汉|重庆|杭州|上海|深圳|广州|北京)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AfreecaTV.png
 
@@ -236,8 +240,9 @@ url-latency-benchmark=𓅿芬蘭共和國꧂, server-tag-regex=(?=.*(?i)(🇫�
 
 #规则分流远程订阅
 [filter_remote]
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/GoogleVoice/GoogleVoice.list, tag=GoogleVoice, force-policy=𓃰Googlevoice𐂂, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/wgetnz/chatgpt-openclash/main/chatgpt.list, tag=Chatgpt, force-policy=𓃰Chatgpt𐂂, update-interval=172800, opt-parser=true, enabled=true
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/QuantumultX/Dubox/Dubox.list, tag=百度网盘国际版, force-policy=百度网盘国际版, update-interval=172800, opt-parser=true, enabled=true
+https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/QuantumultX/Dubox/Dubox.list, tag=百度网盘国际版, force-policy=𓃰百度网盘国际版𐂂, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Zhihu/Zhihu.list, tag=知乎, force-policy=𓃰知乎𐂂, update-interval=172800, opt-parser=true, enabled=true
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/JOOX/JOOX.list, tag=joox, force-policy=𓃰:SSID𐂂, update-interval=86400, opt-parser=true, enabled=true
@@ -430,6 +435,15 @@ final, 𓃰:SSID𐂂
 
 #复写远程订阅
 [rewrite_remote]
+https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Bili_Auto_Regions.js, tag=哔哩哔哩(白图标外区版), update-interval=172800, opt-parser=true, enabled=true
+https://yfamily.ml/rewrite/youtube.conf, tag=Youtube去广告, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/yqc007/QuantumultX/master/NeteaseMusicVipCrack.js, tag=网易云音乐, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/WeiRen0/Scripts/main/FD.js, tag=by-伟人,樊登读书, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/WeiRen0/Scripts/main/LanRen.js, tag=by伟人-懒人听书, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/WeiRen0/Scripts/main/QDVIP.js, tag=by伟人-起点读书, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/WeiRen0/Scripts/main/ZHVIP.js, tag=by-伟人,知乎SVIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/WeiRen0/Free1/main/Lsp.conf, tag=by-伟人LSP🚗库, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/WeiRen0/Scripts/main/XMVIPTY.js, tag=by-伟人,喜马拉雅VIP(体验1), update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/app2smile/rules/master/js/spotify-lyric.js, tag=Spotify歌词翻译, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/Bilibili.conf, tag=bilibili, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/DualSubs/DualSubs-YouTube/releases/v0.5.16/qxrewrite/DualSubs.YouTube.qxrewrite?raw=true, tag=DualSubs for ▶ YouTube字幕, update-interval=172800, opt-parser=false, enabled=true
@@ -463,61 +477,50 @@ https://raw.githubusercontent.com/89996462/Quantumult-X/main/Eric.conf, tag=Eric
 https://raw.githubusercontent.com/Crazy-Z7/AdGuard/main/Ad.conf, tag=屏蔽开屏广告, update-interval=172800, opt-parser=true, enabled=true
 
 #哔哩哔哩去广告❹
-https://raw.githubusercontent.com/chengkongyiban/shadowrocket/main/Block/bilibili.module, tag=哔哩哔哩去广告❹, update-interval=172800, opt-parser=true, enabled=false
 
 #哔哩哔哩去广告❸
-https://raw.githubusercontent.com/bai1zi/shadowrocket-surge-loon-qx/main/bilibili.sgmodule, tag=哔哩哔哩去广告❸, update-interval=172800, opt-parser=true, enabled=false
 
 #哔哩哔哩去广告❷
-https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/biliad.conf, tag=哔哩哔哩去广告❷, update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/bili-region.module, tag=bilibili自动换区, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/biliad.conf, tag=哔哩哔哩去广告, update-interval=172800, opt-parser=true, enabled=false
 
 #哔哩哔哩去广告❶
-https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/biliad.module, tag=哔哩哔哩去广告❶, update-interval=172800, opt-parser=true, enabled=true
 
 #bilibili自动换区
-https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/bili-region.module, tag=bilibili自动换区, update-interval=172800, opt-parser=true, enabled=true
 
 #APP启动页去广告
 https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/startingad.conf, tag=APP启动页去广告, update-interval=172800, opt-parser=true, enabled=false
 
 #开屏去广告
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.sgmodule, tag=开屏去广告, update-interval=172800, opt-parser=true, enabled=false
 
 https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/StartUp.conf, tag=去开屏广告, update-interval=172800, opt-parser=true, enabled=false
 
 #广告屏蔽
-https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/AdBlock.conf, tag=广告屏蔽, update-interval=172800, opt-parser=true, enabled=true
 
 https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/YoutubeAds.conf, tag=油管去广告, update-interval=172800, opt-parser=true, enabled=false
 
 #新版YouTube去广告
-https://raw.githubusercontent.com/Orz-3/QuantumultX/master/YouTube.conf, tag=新版YouTube去广告, update-interval=172800, opt-parser=true, enabled=false
 
 #YouTube去广告(>=iOS15)
-https://raw.githubusercontent.com/app2smile/rules/master/module/youtube.sgmodule, tag=YouTube去广告(>=iOS15), update-interval=172800, opt-parser=true, enabled=false
 
 #YouTube去广告❻
-https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/YouTubeAds.conf, tag=YouTube去广告❻, update-interval=172800, opt-parser=false, enabled=false
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/YouTubeAds.conf, tag=YouTube去广告❷, update-interval=172800, opt-parser=false, enabled=false
 
 #youtube去广告❺
-https://raw.githubusercontent.com/pomelosea/QuantumultX/main/YouTube.conf, tag=youtube去广告❺, update-interval=172800, opt-parser=true, inserted-resource=true, enabled=false
+https://raw.githubusercontent.com/pomelosea/QuantumultX/main/YouTube.conf, tag=youtube去广告❶, update-interval=172800, opt-parser=true, inserted-resource=true, enabled=false
+https://raw.githubusercontent.com/Orz-3/QuantumultX/master/YouTube.conf, tag=新版YouTube去广告, update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/AdBlock.conf, tag=广告屏蔽, update-interval=172800, opt-parser=true, enabled=true
 
 #YouToube去广告❸
-https://raw.githubusercontent.com/chengkongyiban/shadowrocket/main/Block/YTADBlocker.module, tag=YouToube去广告❸, update-interval=172800, opt-parser=true, enabled=false
 
 #YouBube去广告❷
-https://raw.githubusercontent.com/Maasea/sgmodule/master/YoutubeAds.sgmodule, tag=YouBube去广告❷, update-interval=172800, opt-parser=true, enabled=true
 
 #YouBube去广告❶
-https://raw.githubusercontent.com/bai1zi/shadowrocket-surge-loon-qx/main/YouTubeads.sgmodule, tag=YouTube去广告❶, update-interval=172800, opt-parser=true, enabled=false
 
 #YouTube瀑布流
-https://raw.githubusercontent.com/app2smile/rules/master/module/youtube-qx.conf, tag=YouTube瀑布流, update-interval=172800, opt-parser=true, enabled=true
 
 #YouTube字幕
-https://raw.githubusercontent.com/id77/QuantumultX/master/rewrite/Youtube_CC.conf, tag=YouTube字幕, update-interval=172800, opt-parser=true, enabled=false
 
-https://raw.githubusercontent.com/DualSubs/DualSubs-YouTube/main/qxrewrite/DualSubs.YouTube.qxrewrite?raw=true, tag=DualSubs for ▶ YouTube字幕, update-interval=172800, opt-parser=false, enabled=false
 
 #傲软投屏
 https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/artp.conf, tag=傲软投屏, update-interval=172800, opt-parser=true, enabled=true
@@ -956,6 +959,7 @@ https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/backend/sub-store.min
 
 
 [task_local]
+0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js, tag=爱奇艺会员签到, enabled=true
 13 12 * * * https://raw.githubusercontent.com/crossutility/Quantumult-X/master/sample-task.js, tag=远程示范(点击缓存/更新脚本), img-url=https://raw.githubusercontent.com/crossutility/Quantumult-X/master/quantumult-x.png, enabled=true
 0 5 * * * * https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/check_in/wechatsubs/sydwzp.js, tag=事业单位招聘监控, img-url=https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/picture/sydw.png, enabled=true
 5 0 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/wechatsubs/wechatsubs.js, tag=公众号监控, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/WeChat.png, enabled=true
