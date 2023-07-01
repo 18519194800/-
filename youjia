@@ -18,7 +18,7 @@
 
 const $ = new Env("查询油价");
 // 默认福建
-var region = $.getdata("地区") || "fujian";
+var region = $.getdata("地区") || "beijing";
 
 const query_addr = `http://m.qiyoujiage.com/${region}.shtml`;
 
