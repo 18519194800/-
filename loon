@@ -87,9 +87,10 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 
 # 策略组
 [Proxy Group]
-📱SSID = ssid,default=★♻️自動🌦✈,cellular=★♻️自動🌦✈,"★♻️自動🌤✈"=★♻️自動🌦✈,img-url = https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/SSID.png
+📱SSID = ssid,default=𓃵策略選取✄,cellular=𓃵策略選取✄,"𓃵策略選取✄"=𓃵策略選取✄,img-url = https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/SSID.png
+𓃵策略選取✄ = select,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png
 
-★💯負載🌦✈ = load-balance,𓆉“震”🌩✈⋯· ·  ·   ·⛹️‍♀️,url = http://www.gstatic.com/generate_204,interval = 360,max-timeout = 3000,algorithm = pcc,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png
+★💯負載🌦✈ = load-balance,𓆉“震”🌩✈⋯· ·  ·   ·⛹️‍♀️,url = http://www.gstatic.com/generate_204,interval = 360,max-timeout = 3000,algorithm = pcc,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Static.png
 
 ★♻️自動🌦✈ = url-test,𓃰“巳”🐍✈,url = http://www.qualcomm.cn/generate_204,interval = 120,tolerance = 30,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Roundrobin.png
 
@@ -103,128 +104,130 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤 = select,📱SSID,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Adblock.png
 
 🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭 = select,📱SSID,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/wangzaicake/QuantumultX-Icon/master/QX-Icon/Speedtest.png
+🎭壹🐲號 = select,🇯🇵日本,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Doraemon/Doraemon-1048.png
+🎭貳🐲號 = select,🇰🇭臺灣,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-chan/Shin-chan-1036.png
+🎭叁🐲號 = select,🇰🇷韓國,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Tom-Jerry/Tom-Jerry-1036.png
+🎭肆🐲號 = select,🇸🇬新加坡,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-Miya/Shin-Miya-1027.png
+🎭伍🐲號 = select,🇻🇮蕃劇節點,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1015.png
 
-游戏 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Game.png
+游戏 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Game.png
 
-快手 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/kuaishou.png
+快手 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/kuaishou.png
 
-闲鱼 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/xianyu.png
+闲鱼 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/xianyu.png
 
-豆瓣 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/douban.png
+豆瓣 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/douban.png
 
-飞猪 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Feizhu.png
+飞猪 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Feizhu.png
 
-联通 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/liantong(0).png
+联通 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/liantong(0).png
 
-电信 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/dianxin.png
+电信 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/dianxin.png
 
-移动 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/yidong(1).png
+移动 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/yidong(1).png
 
-知乎 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/zhihu.png
+知乎 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/zhihu.png
 
-百度 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/baidu.png
+百度 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/baidu.png
 
-微博 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/weibo(1).png
+微博 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/weibo(1).png
 
-微信 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/wechat.png
+微信 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/wechat.png
 
-美团 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/meituan.png
+美团 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/meituan.png
 
-bing = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/bing(3).png
-𝐀𝐩𝐩𝐥𝐞 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/Apple.png
-github = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/GitHub.png
-小红书 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/xiaohongshu(1).png
+bing = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/bing(3).png
+𝐀𝐩𝐩𝐥𝐞 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/Apple.png
+github = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/GitHub.png
+小红书 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/xiaohongshu(1).png
 
-拼多多 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/pinduoduo.png
+拼多多 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/pinduoduo.png
 
-派拉蒙 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Paramount.png
+派拉蒙 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Paramount.png
 
-爱奇艺 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/iQIYI&bilibili.png
+爱奇艺 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/iQIYI&bilibili.png
 
-QQ腾讯 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/QQ.png
+QQ腾讯 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/QQ.png
 
-腾讯视频 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/WeTV.png
+腾讯视频 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/WeTV.png
 
-哔哩哔哩 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🇻🇮蕃劇節點,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/bilibili_3.png
+哔哩哔哩 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,🇻🇮蕃劇節點,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/bilibili_3.png
 
-巴哈姆特 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Bahamut.png
+巴哈姆特 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Bahamut.png
 
-百度贴吧 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/tieba.png
+百度贴吧 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/tieba.png
 
-馨田音乐 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Spotify.png
+馨田音乐 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Spotify.png
 
-喜马拉雅 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/ximalaya.png
+喜马拉雅 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/ximalaya.png
 
-谷歌邮箱 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Gmail.png
+谷歌邮箱 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Gmail.png
 
-Microsoft = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/xingren2020/github_blackmatrix7_ios_rule_script/master/icon/color/Microsoft.png
-App_Store = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/App_Store.png
-AppleMusic = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Music_Enhance.png
-什么值得买 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/Twoandz9/Xingjiabi.png
+Microsoft = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/xingren2020/github_blackmatrix7_ios_rule_script/master/icon/color/Microsoft.png
+
+App_Store = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/App_Store.png
+
+AppleMusic = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Music_Enhance.png
+
+什么值得买 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/Twoandz9/Xingjiabi.png
+
 𝐍𝐞𝐭𝐞𝐚𝐬𝐞𝐌𝐮𝐬𝐢𝐜 = url-test,𓃵“馨”🎵✈⋯· ·  ·   ·🎻,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netease_Music_Unlock.png
+
 𝐍𝐞𝐭𝐟𝐥𝐢𝐱 = url-test,🇿🇦Netflix奈飛,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Bubble/Social-Logo/Netflix.png
 
-Fox = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/FOX.png
+Fox = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/FOX.png
 
-BBC = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/BBC_iPlayer_2.png
+BBC = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/BBC_iPlayer_2.png
 
-Sling = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Sling_TV.png
+Sling = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Sling_TV.png
 
+LINE = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Line.png
 
-LINE = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Line.png
+HBO = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/HBO.png
 
-HBO = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/HBO.png
+XboX = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Xbox.png
 
-XboX = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Xbox.png
+Vimeo = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Vimeo.png
 
-Vimeo = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Vimeo.png
+Steam = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Steam.png
 
-Steam = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Steam.png
+𝐓𝐢𝐤𝐓𝐨𝐤 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TikTok.png
 
+𝐏𝐚𝐲𝐏𝐚𝐥 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/PayPal.png
 
+Deezer = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/deezer.png
 
-𝐓𝐢𝐤𝐓𝐨𝐤 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TikTok.png
+Discord = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Discord.png
 
-𝐏𝐚𝐲𝐏𝐚𝐥 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/PayPal.png
+Amazon = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Amazon.png
 
+Disney+ = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/DisneyPlus.png
 
+ChatGPT = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/ChatGPT.png
 
-Deezer = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/deezer.png
+𝐘𝐨𝐮𝐓𝐮𝐛𝐞 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
 
-Discord = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Discord.png
+𝐏𝐨𝐫𝐧𝐇𝐮𝐛 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/cai23511/yex/master/services/PORNHUB3.png
 
-Amazon = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Amazon.png
+𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Telegram_X.png
 
-Disney+ = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/DisneyPlus.png
+Facebook = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/Facebook.png
 
-ChatGPT = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/ChatGPT.png
+whatsapp = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/whatsapp(1).png
 
-𝐘𝐨𝐮𝐓𝐮𝐛𝐞 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
+KakaoTalk = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/KakaoTalk.png
 
-𝐏𝐨𝐫𝐧𝐇𝐮𝐛 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/cai23511/yex/master/services/PORNHUB3.png
+PrimeVideo = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Prime_Video_2.png
 
-𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Telegram_X.png
+Twitter推特 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Twitter.png
 
-Facebook = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/Facebook.png
+Google谷歌 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Google_Search.png
 
-whatsapp = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/whatsapp(1).png
+Googlevoice = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Googlevoice.png
 
-KakaoTalk = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/KakaoTalk.png
+YouTubeMusic = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube_Music.png
 
-
-
-PrimeVideo = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Prime_Video_2.png
-
-Twitter推特 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Twitter.png
-
-Google谷歌 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Google_Search.png
-
-Googlevoice = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Googlevoice.png
-
-
-YouTubeMusic = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube_Music.png
-
-DiscoveryPlus = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Discovery.png
+DiscoveryPlus = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🎭壹🐲號,🎭貳🐲號,🎭叁🐲號,🎭肆🐲號,🎭伍🐲號,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Discovery.png
 
 
 #主办
