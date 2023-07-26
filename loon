@@ -4,58 +4,34 @@
 SSR = ShadowsocksR,45.8.158.230,30085,rc4,"lncn.org ld9",protocol=origin,obfs=plain,fast-open=false,udp=false
 HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,21830,skip-cert-verify=true,"tls-name=www.chrome-helper.cc",tls-name=www.chrome-helper.cc
 一键连  Via @daidaiwww-520094369 = HTTPS,jc.ap.fastqvpn.com,29980,442993652168396800,"2ef91648-089f-4c81-b34d-06f072ec51dd",tls-name=jc.ap.fastqvpn.com
+SSR = ShadowsocksR,45.8.158.230,30085,rc4,"lncn.org ld9",protocol=origin,obfs=plain,fast-open=false,udp=false
+HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,21830,skip-cert-verify=true,"tls-name=www.chrome-helper.cc",tls-name=www.chrome-helper.cc
+一键连  Via @daidaiwww-520094369 = HTTPS,jc.ap.fastqvpn.com,29980,442993652168396800,"2ef91648-089f-4c81-b34d-06f072ec51dd",tls-name=jc.ap.fastqvpn.com
 
 #别名=订阅節點URL
 [Remote Proxy]
-
-🦥“上”👍✈⋯· ·  ·   ·🪂 = https://ghproxy.com//raw.githubusercontent.com/yaney01/Yaney01/main/yaney_01,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/sydneyoperahouse.png
-
-🦫“左”✋✈⋯· ·  ·   ·🪂 = https://raw.githubusercontent.com/yxzbp/yxzbp_p/main/yxzbp,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/thefederalassembly.png
-
-🦃“右”🤚✈⋯· ·  ·   ·🪂 = https://pastebin.com/raw/SUNqDbpL,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/saintbasilscathedral.png
-
-🐿“下”👎✈⋯· ·  ·   ·🪂 = https://raw.fastgit.org/freefq/free/master/v2,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/gyeongbokgungpalace.png
-
+🦥“上”👍✈⋯· ·  ·   ·🪂 = https://ghproxy.com//raw.githubusercontent.com/yaney01/Yaney01/main/yaney_01,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/gyeongbokgungpalace.png
+🐿“下”👎✈⋯· ·  ·   ·🪂 = https://pastebin.com/raw/SUNqDbpL,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/saintbasilscathedral.png
 𓃵“馨”🎵✈⋯· ·  ·   ·🎻 = https://git.io/JfNq3,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Bubble/Social-Logo/NeteaseMusic.png
-
-𓆉“乾”☀️✈⋯· ·  ·   ·⛹️‍♀️ = https://raw.fastgit.org/Pawdroid/Free-servers/main/sub,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/silenceo111/Quantumult/master/X/Iconset/JAVA.png
-
+𓆉“乾”☀️✈⋯· ·  ·   ·⛹️‍♀️ = https://raw.githubusercontent.com/yxzbp/yxzbp_p/main/yxzbp,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/silenceo111/Quantumult/master/X/Iconset/JAVA.png
 𓆉“坎”🌊✈⋯· ·  ·   ·⛹️‍♀️ = https://sub.sharecentre.online/sub,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Bamboo.png
-
 𓆉“艮”⛰✈⋯· ·  ·   ·⛹️‍♀️ = https://ghproxy.com/raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx2,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Catnet.png
-
 𓆉“震”🌩✈⋯· ·  ·   ·⛹️‍♀️ = https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Kache.png
-
 𓆉“巽”🌪✈⋯· ·  ·   ·⛹️‍♀️ = https://raw.githubusercontent.com/yxzbp/yxzbp_p/main/yxzbp,udp=false,fast-open=false,vmess-aead=false,enabled=true,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Spark.png
-
 𓆉“离”🔥✈⋯· ·  ·   ·⛹️‍♀️ = https://v1.mk/Base64-Giao88,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Available.png
-
 𓆉“坤”🌍✈⋯· ·  ·   ·⛹️‍♀️ = https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Ox.png
-
 𓆉“兑”🏊‍♂️✈⋯· ·  ·   ·⛹️‍♀️ = https://free.iam7.tk/vmess/sub,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Cellular.png
-
 𓃰“子”🐁✈⋯··· ·  ·🚴‍♂️ = https://pastebin.com/raw/fpeEqGTn,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/WiFi.png
-
 𓃰“醜”🦬✈⋯··· ·  ·🚴‍♂️ = https://raw.githubusercontent.com/hkaa0/permalink/main/proxy/V2ray,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Infuse.png
-
 𓃰“寅”🐯✈⋯··· ·  ·🚴‍♂️ = https://proxy.yiun.xyz/vmess/sub,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Want_Want.png
-
 𓃰“卯”🐇✈⋯··· ·  ·🚴‍♂️ = https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/WeChat.png
-
 𓃰“辰”🐉✈⋯··· ·  ·🚴‍♂️ = https://raw.githubusercontent.com/ssrsub/ssr/master/V2Ray,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/QQ.png
-
 𓃰“巳”🐍✈⋯··· ·  ·🚴‍♂️ = https://sub.pmsub.me/base64,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/WeTV.png
-
 𓃰“午”🐎✈⋯··· ·  ·🚴‍♂️ = https://gitlab.com/univstar1/v2ray/-/raw/main/data/v2ray/general.txt,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Taobao.png
-
 𓃰“未”🐏✈⋯··· ·  ·🚴‍♂️ = https://ghproxy.com/https://raw.githubusercontent.com/yaney01/Yaney01/main/temporary,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Puzzle.png
-
 𓃰“申”🐵✈⋯··· ·  ·🚴‍♂️ = https://ghproxy.com/raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx1,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SaySS.png
-
 𓃰“酉”🐓✈⋯··· ·  ·🚴‍♂️ = https://raw.githubusercontent.com/wentao883/TG-wxgqlfx_BYDY/main/pdyjdy_BYDY,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/NBC.png
-
 𓃰“戌”🐶✈⋯··· ·  ·🚴‍♂️ = https://v1.mk/R3AZOFt,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/iQIYI%26bilibili.png
-
 𓃰“亥”🐖✈⋯··· ·  ·🚴‍♂️ = https://proxy.yugogo.xyz/vmess/sub,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Bubble/Social-Logo/Slack.png
 
 
@@ -143,7 +119,7 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤 = select,📱SSID,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Adblock.png
 
 🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭 = select,📱SSID,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/wangzaicake/QuantumultX-Icon/master/QX-Icon/Speedtest.png
-ChatGPT = select,📱SSID,img-url = https://gitlab.com/lodepuly/iconlibrary/-/raw/master/Website_icon/80px/OpenAI.png
+ChatGPT = select,📱SSID,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/ChatGPT.png
 
 🎧𝐍𝐞𝐭𝐞𝐚𝐬𝐞𝐌𝐮𝐬𝐢𝐜 = url-test,𓃵“馨”🎵✈⋯· ·  ·   ·🎻,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netease_Music_Unlock.png
 
@@ -171,7 +147,7 @@ ChatGPT = select,📱SSID,img-url = https://gitlab.com/lodepuly/iconlibrary/-/ra
 🎬𝐘𝐨𝐮𝐓𝐮𝐛𝐞 = select,📱SSID,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
 
 🔞𝐏𝐨𝐫𝐧𝐇𝐮𝐛 = select,📱SSID,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/cai23511/yex/master/services/PORNHUB3.png
-📺哔哩哔哩 = select,🇭🇰香港Hk,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Bahamut.png
+📺哔哩哔哩 = select,🇭🇰香港Hk,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/bilibili_3.png
 📹Spotify馨田音乐 = select,📱SSID,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Spotify.png
 
 
@@ -333,7 +309,6 @@ https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Script.conf, t
 
 #普遍的
 [General]
-geoip-url = https://github.com/Masaiki/GeoIP2-CN/raw/release/Country.mmdb
 
 resource-parser = https://gitlab.com/lodepuly/vpn_tool/-/raw/main/resource/script/sub-store/sub-store-parser_for_loon.js
 
