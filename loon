@@ -41,65 +41,49 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 
 ⏱节点 = NameRegex, FilterKey = "(?=.*(A||(?i)A||))^((?!(?i)(🎧|网易)).)*$"
 
+🇨🇳回國 = NameRegex, FilterKey = "(?=.*(回國|中國|中国|🇨🇳|CN|Cn|(?i)China))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇹🇷|土耳其|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇺🇸|美国|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|香港|🇭🇰|台湾|更多节点关注)).)*$"
+
 🌿数字 = NameRegex, FilterKey = "(?=.*(2 2|3 2|4 2|5 2|6 2|7 2|8 2|9 2|(?i)0 2))^((?!(专线|Hong|翻墙|手游|游戏|台湾|Taiwan|hong kong|不定时|TW|(?i)IPLC|IEPL|game)).)*$"
-🇲🇴澳门 = NameRegex, FilterKey = "(?=.*(澳门|MO|🇲🇴|Mo|mo|Macao|(?i)Macau))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇹🇷|土耳其|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇸|美国|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
 
-🇸🇪瑞典Se = NameRegex, FilterKey = "(?=.*(瑞典|SE|🇸🇪|Se|se|Konungariket Sverige|(?i)Sverige))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇹🇷|土耳其|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇸|美国|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
+🇲🇴澳门 = NameRegex, FilterKey = "(?=.*(澳門|MO|澳门🇲🇴|Mo|Macao|(?i)Macau))^((?!(🇲🇳|蒙古|🇸🇦|沙特阿拉伯|🇿🇦|南非|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🇨🇦|加拿大|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
 
-🇩🇰丹麦Dk = NameRegex, FilterKey = "(?=.*(丹麦|DK|🇩🇰|Dk|dk|(?i)Kongeriget Danmark))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇹🇷|土耳其|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇸|美国|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
+🇮🇳印度 = NameRegex, FilterKey = "(?=.*(印度|🇮🇳|IN|In|India|भारत गणराज्य|(?i)The Republic of India))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇹🇷|土耳其|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇺🇸|美国|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
 
-🇮🇳印度Lnd = NameRegex, FilterKey = "(?=.*(印度|🇮🇳|Ln|ln|LN|Lnd|India|भारत गणराज्य|(?i)The Republic of India))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇹🇷|土耳其|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇺🇸|美国|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
+🇰🇷韓國 = NameRegex, FilterKey = "(?=.*(韩国|韓國|南朝鲜|🇰🇷|한국|KR|Kr|kr|(?i)South Korea))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇹🇷|土耳其|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇺🇸|美国|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
 
-🇰🇷韓國Kr = NameRegex, FilterKey = "(?=.*(韩国|韓國|南朝鲜|🇰🇷|한국|KR|Kr|kr|(?i)South Korea))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇹🇷|土耳其|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇺🇸|美国|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
+🇳🇱荷蘭 = NameRegex, FilterKey = "(?=.*(荷兰|🇳🇱|nl|NL|(?i)Holland))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇹🇷|土耳其|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇺🇸|美国|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
 
-🇳🇱荷蘭Nl = NameRegex, FilterKey = "(?=.*(荷兰|🇳🇱|nl|NL|(?i)Holland))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇹🇷|土耳其|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇺🇸|美国|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
+🇫🇷法國 = NameRegex, FilterKey = "(?=.*(法|france|fr|FR|Fr|🇫🇷|(?i)French Republic))^((?!(🇩🇰|丹麦|🇸🇦|沙特阿拉伯|🇿🇦|南非|🇹🇷|土耳其|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇺🇸|美国|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
 
-🇫🇷法國Fr = NameRegex, FilterKey = "(?=.*(法|france|fr|FR|Fr|🇫🇷|(?i)French Republic))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇹🇷|土耳其|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇺🇸|美国|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
+🇬🇧英國 = NameRegex, FilterKey = "(?=.*(?i)(英國|英国|🇬🇧|gb|GB|United|United Kingdom))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇹🇷|土耳其|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇺🇸|美国|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|频道|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
 
-🇬🇧英國Gb = NameRegex, FilterKey = "(?=.*(?i)(英國|英国|🇬🇧|gb|GB|United|United Kingdom))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇹🇷|土耳其|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇺🇸|美国|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
+🇭🇰香港 = NameRegex, FilterKey = "(?=.*(香港|🇭🇰|Hong Kong|hong|kong|HK|Hk|(?i)Hong))^((?!(🇹🇩|乍得|🇸🇦|沙特阿拉伯|🇿🇦|南非|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇺🇸|美国|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🇨🇦|加拿大|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|台湾|广东|浙江|更多节点关注)).)*$"
 
-🇨🇳回國Cn = NameRegex, FilterKey = "(?=.*(回國|中國|中国|🇨🇳|CN|Cn|cn|(?i)China))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇹🇷|土耳其|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇺🇸|美国|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|香港|🇭🇰|台湾|更多节点关注)).)*$"
+🇰🇭臺灣 = NameRegex, FilterKey = "(?=.*(台湾|台灣|TW|Tw|(?i)Taiwan))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇺🇸|美国|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🇨🇦|加拿大|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|香港|🇭🇰|广东|浙江|更多节点关注)).)*$"
 
-🇭🇰香港Hk = NameRegex, FilterKey = "(?=.*(香港|🇭🇰|Hong Kong|hong|kong|HK|Hk|hk|(?i)Hong))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇺🇸|美国|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🇨🇦|加拿大|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|台湾|广东|浙江|更多节点关注)).)*$"
-🇰🇭臺灣Tw = NameRegex, FilterKey = "(?=.*(台湾|台灣|TW|Tw|tw|(?i)Taiwan))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇺🇸|美国|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🇨🇦|加拿大|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|香港|🇭🇰|广东|浙江|更多节点关注)).)*$"
+🇯🇵日本 = NameRegex, FilterKey = "(?=.*(?i)(日本|🇯🇵|JP|Jp|jp|Japan|Japan))^((?!(🇦🇶|🇸🇦|沙特阿拉伯|🇿🇦|南非|🇹🇷|土耳其|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇺🇸|美国|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
 
-🇯🇵日本Jp = NameRegex, FilterKey = "(?=.*(?i)(日本|🇯🇵|JP|Jp|jp|Japan|Japan))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇹🇷|土耳其|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇺🇸|美国|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
+🇺🇸美國 = NameRegex, FilterKey = "(?=.*(?i)(美国|🇺🇸|美國|Us|US|States|American))^((?!(🇲🇴|澳门|🇸🇦|沙特阿拉伯|🇿🇦|南非|🇹🇷|土耳其|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
 
-🇺🇸美國Us = NameRegex, FilterKey = "(?=.*(?i)(美国|🇺🇸|美國|Us|us|US|States|American))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇹🇷|土耳其|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
+🇩🇪德国 = NameRegex, FilterKey = "(?=.*(德国|德國|🇩🇪|germany|Deu|DEU|(?i)germany))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇹🇷|土耳其|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇺🇸|美国|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
 
-🇩🇪德国Deu = NameRegex, FilterKey = "(?=.*(德国|德國|🇩🇪|germany|Deu|DEU|(?i)germany))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇹🇷|土耳其|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇺🇸|美国|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
+🇹🇷土耳其 = NameRegex, FilterKey = "(?=.*(土耳其|🇹🇷|TR|Tr|rus|(?i) Turkey))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇺🇸|美国|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
 
-🇹🇷土耳其 = NameRegex, FilterKey = "(?=.*(土耳其|🇹🇷|TR|Tr|tr|rus|(?i) Turkey))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇺🇸|美国|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
+🇨🇦加拿大 = NameRegex, FilterKey = "(?=.*(加拿大|🇨🇦|CA|Cn|CAN|(?i)Canada))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇧🇿|伯利兹|🇸🇪|瑞典|🇺🇸|美国|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
 
-🇨🇦加拿大Ca = NameRegex, FilterKey = "(?=.*(加拿大|🇨🇦|CA|Cn|can|CAN|(?i)Canada))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇧🇿|伯利兹|🇸🇪|瑞典|🇺🇸|美国|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
+🇵🇭菲律宾 = NameRegex, FilterKey = "(?=.*(?i)(菲律宾|🇵🇭|PH|Ph|Philippines|(?i)PH))^((?!(本机|🇸🇦|沙特阿拉伯|🇿🇦|南非|🇹🇷|土耳其|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇺🇸|美国|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
 
-🇦🇪阿联酋Ae = NameRegex, FilterKey = "(?=.*(阿联酋|The United Arab Emirates |🇦🇪|Uae|AE|Ae|ae|(?i)Austria))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇹🇷|土耳其|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇸|美国|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
+🇸🇬新加坡 = NameRegex, FilterKey = "(?=.*(新加坡|🇸🇬|Singapore|usa|singapore|USA|(?i)Singapore))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇺🇸|美国|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
 
-🇵🇭菲律宾Se = NameRegex, FilterKey = "(?=.*(?=.*(菲律宾|🇵🇭|PH|Ph|ph|Philippines|(?i)PHI))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇹🇷|土耳其|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇸|美国|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
+🇷🇺俄羅斯 = NameRegex, FilterKey = "(?=.*(俄罗斯|俄羅斯|🇷🇺|RU|Ru|Russian|Federation|Rus|rus|(?i) Russian Federation))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇺🇸|美国|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🇨🇦|加拿大|🏁|ZZ|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
+🇻🇮蕃劇節點 = NameRegex, FilterKey = "(?=.*(🇭🇰|香港|HK|台湾|臺灣|台灣|TW|Taiwan|🇲🇴|澳门|澳門(?i)|MO))^((?!(🇲🇾|马来西亚|🇸🇬|新加坡|🇬🇧|英国|🇺🇸|美国(?i)|海口|扬州|厦门|翻墙|手游|游戏|天津|武汉|重庆|杭州|上海|深圳|广州|北京)).)*$"
 
-🇭🇺匈牙利Hu = NameRegex, FilterKey = "(?=.*(匈牙利|Magyarország|🇭🇺|HU|Hu|hu|(?i)Hungary))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇹🇷|土耳其|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇸|美国|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
+🇲🇾马来西亚 = NameRegex, FilterKey = "(?=.*(?i)(马来西亚|Malaysia|🇲🇾|馬來西亞|大马|MY|My|my|(?i)Hungary))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇦🇹|奥地利|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇺🇸|美国|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🇨🇦|加拿大|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
 
-🇧🇪比利时Be = NameRegex, FilterKey = "(?=.*(比利时|🇧🇪|BE|The Kingdom of Belgium|(?i)Belgique))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇹🇷|土耳其|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇸|美国|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
+🇦🇺澳大利亚 = NameRegex, FilterKey = "(?=.*(澳大利亚|澳大利亞|🇦🇺|AU|Au|Commonwealth of Australia|(?i)Australia))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇺🇸|美国|🇮🇩|印度尼西亚|🇧🇷|巴西|🇨🇦|加拿大|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
 
-🇦🇹奥地利At = NameRegex, FilterKey = "(?=.*(奥地利|Austria|🇦🇹|AT|At|at|(?i)Austria))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇹🇷|土耳其|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇸|美国|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
+🇿🇦Netflix奈飛 = NameRegex, FilterKey = "(?=.*(Netflix|NETFLIX|NF|奈飞|网飞|奈飛|解锁流媒体|流媒体|(?i)netflix))^((?!(🇮🇳|印度|IN|bpzh|glados|游戏(?i)专线|手游)).)*$"
 
-🇸🇬新加坡Usa = NameRegex, FilterKey = "(?=.*(新加坡|🇸🇬|Singapore|usa|singapore|USA|(?i)Singapore))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇺🇸|美国|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
-
-🇭🇷克罗地亚Hr = NameRegex, FilterKey = "(?=.*(克罗地亚|Republika Hrvatska|🇭🇷|HR|Hr|hr|(?i)Croatia))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇹🇷|土耳其|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇸|美国|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
-
-🇷🇺俄羅斯Rus = NameRegex, FilterKey = "(?=.*(俄罗斯|俄羅斯|🇷🇺|RU|Ru|ru|Russian|Federation|Rus|rus|(?i) Russian Federation))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇺🇸|美国|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🇨🇦|加拿大|🏁|ZZ|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
-
-🇱🇻拉脫維亞Lv = NameRegex, FilterKey = "(?=.*(?i)(拉脫維亞|拉脱维亚|🇱🇻|LV|Lv|Latvia))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇹🇷|土耳其|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇸|美国|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
-
-🇧🇬保加利亚Bg = NameRegex, FilterKey = "(?=.*(保加利亚|The Republic of Bulgaria|🇧🇬|BG|Bg|bg|(?i)Bulgaria))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇹🇷|土耳其|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇸|美国|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
-
-🇲🇾马来西亚My = NameRegex, FilterKey = "(?=.*(?i)(马来西亚|Malaysia|🇲🇾|馬來西亞|大马|MY|My|my|(?i)Hungary))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇦🇹|奥地利|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇺🇸|美国|🇮🇩|印度尼西亚|🇦🇺|澳大利亚|🇧🇷|巴西|🇨🇦|加拿大|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
-
-🇦🇺澳大利亚Au = NameRegex, FilterKey = "(?=.*(澳大利亚|澳大利亞|🇦🇺|AU|Au|au|Commonwealth of Australia|(?i)Australia))^((?!(🇸🇦|沙特阿拉伯|🇿🇦|南非|🇦🇹|奥地利|🇲🇾|马来西亚|🇳🇿|新西兰|🇮🇳|印度|🇹🇭|泰国|🇵🇭|菲律宾|🇦🇷|阿根廷|🇪🇬|埃及|🇰🇭|柬埔寨|🇨🇿|捷克|🇬🇧|英国|🇯🇵|日本|🇱🇹|立陶宛|🇮🇷|伊朗|🇪🇸|西班牙|🇧🇩|孟加拉|🇳🇱|荷兰|🇺🇦|乌克兰|🇱🇺|卢森堡|🇩🇪|德国|🇫🇮|芬兰|🇨🇾|塞浦路斯|🇫🇷|法国|🇦🇲|亚美尼亚|🇻🇳|越南|🇨🇦|加拿大|🇧🇿|伯利兹|🇸🇪|瑞典|🇺🇸|美国|🇮🇩|印度尼西亚|🇧🇷|巴西|🇨🇦|加拿大|🏁|ZZ|🇷🇺|俄罗斯|🇸🇬|新加坡|🇰🇷|韩国(?i)|中国|🇨🇳|香港|🇭🇰|台湾|广东|浙江|更多节点关注)).)*$"
-
-🇿🇦Netflix奈飛 = NameRegex, FilterKey = "(?=.*(Netflix|NETFLIX|NF|nf|奈飞|网飞|奈飛|解锁流媒体|流媒体|(?i)netflix))^((?!(🇮🇳|印度|IN|bpzh|glados|游戏(?i)专线|手游)).)*$"
-
-🏁全部節點數 = NameRegex, FilterKey = "A||"
 
 # 策略组
 [Proxy Group]
@@ -110,45 +94,137 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 ★♻️自動🌦✈ = url-test,𓃰“巳”🐍✈,url = http://www.qualcomm.cn/generate_204,interval = 120,tolerance = 30,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Roundrobin.png
 
 ★👋手動🌦✈ = select,𓃰“亥”🐖✈⋯··· ·  ·🚴‍♂️,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Clubhouse.png
-★♨️檢測🌦✈ = fallback,🇷🇺俄羅斯Rus,url = http://www.qualcomm.cn/generate_204,interval = 180,max-timeout = 8000,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Auto.png
+★♨️檢測🌦✈ = fallback,🇷🇺俄羅斯,url = http://www.qualcomm.cn/generate_204,interval = 180,max-timeout = 8000,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Auto.png
 
-🎯𝐃𝐢𝐫𝐞𝐜𝐭 = select,DIRECT,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Direct.png
+🟢𝐃𝐢𝐫𝐞𝐜𝐭 = select,DIRECT,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Direct.png
 
 ⛔️𝐑𝐞𝐣𝐞𝐜𝐭 = select,REJECT,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Reject.png
 
 🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤 = select,📱SSID,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Adblock.png
 
 🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭 = select,📱SSID,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/wangzaicake/QuantumultX-Icon/master/QX-Icon/Speedtest.png
-ChatGPT = select,📱SSID,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/ChatGPT.png
 
-🎧𝐍𝐞𝐭𝐞𝐚𝐬𝐞𝐌𝐮𝐬𝐢𝐜 = url-test,𓃵“馨”🎵✈⋯· ·  ·   ·🎻,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netease_Music_Unlock.png
+游戏 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Game.png
 
-🖥𝐍𝐞𝐭𝐟𝐥𝐢𝐱 = url-test,🇿🇦Netflix奈飛,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Bubble/Social-Logo/Netflix.png
+快手 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/kuaishou.png
+
+闲鱼 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/xianyu.png
+
+豆瓣 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/douban.png
+
+飞猪 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Feizhu.png
+
+联通 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/liantong(0).png
+
+电信 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/dianxin.png
+
+移动 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/yidong(1).png
+
+知乎 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/zhihu.png
+
+百度 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/baidu.png
+
+微博 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/weibo(1).png
+
+微信 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/wechat.png
+
+美团 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/meituan.png
+
+bing = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/bing(3).png
+𝐀𝐩𝐩𝐥𝐞 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/Apple.png
+github = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/GitHub.png
+小红书 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/xiaohongshu(1).png
+
+拼多多 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/pinduoduo.png
+
+派拉蒙 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Paramount.png
+
+爱奇艺 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/iQIYI&bilibili.png
+
+QQ腾讯 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/QQ.png
+
+腾讯视频 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/WeTV.png
+
+哔哩哔哩 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,🇻🇮蕃劇節點,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/bilibili_3.png
+
+巴哈姆特 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Bahamut.png
+
+百度贴吧 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/tieba.png
+
+馨田音乐 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Spotify.png
+
+喜马拉雅 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/ximalaya.png
+
+谷歌邮箱 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Gmail.png
+
+Microsoft = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/xingren2020/github_blackmatrix7_ios_rule_script/master/icon/color/Microsoft.png
+App_Store = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/App_Store.png
+AppleMusic = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Music_Enhance.png
+什么值得买 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/Twoandz9/Xingjiabi.png
+𝐍𝐞𝐭𝐞𝐚𝐬𝐞𝐌𝐮𝐬𝐢𝐜 = url-test,𓃵“馨”🎵✈⋯· ·  ·   ·🎻,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netease_Music_Unlock.png
+𝐍𝐞𝐭𝐟𝐥𝐢𝐱 = url-test,🇿🇦Netflix奈飛,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Bubble/Social-Logo/Netflix.png
+
+Fox = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/FOX.png
+
+BBC = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/BBC_iPlayer_2.png
+
+Sling = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Sling_TV.png
 
 
-🦵Twitter推特 = select,📱SSID,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Twitter.png
+LINE = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Line.png
 
-🦴Google谷歌 = select,📱SSID,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Google_Search.png
+HBO = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/HBO.png
 
-🫁Facebook = select,📱SSID,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/Facebook.png
+XboX = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Xbox.png
 
-🐸Microsoft = select,🎯𝐃𝐢𝐫𝐞𝐜𝐭,📱SSID,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/xingren2020/github_blackmatrix7_ios_rule_script/master/icon/color/Microsoft.png
+Vimeo = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Vimeo.png
 
-🐢github = select,📱SSID,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/GitHub.png
+Steam = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Steam.png
 
-🎵𝐓𝐢𝐤𝐓𝐨𝐤 = select,📱SSID,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TikTok.png
 
-💳𝐏𝐚𝐲𝐏𝐚𝐥 = select,📱SSID,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/PayPal.png
 
-🍏𝐀𝐩𝐩𝐥𝐞 = select,🎯𝐃𝐢𝐫𝐞𝐜𝐭,📱SSID,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/Apple.png
+𝐓𝐢𝐤𝐓𝐨𝐤 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TikTok.png
 
-📱𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 = select,📱SSID,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Telegram_X.png
+𝐏𝐚𝐲𝐏𝐚𝐥 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/PayPal.png
 
-🎬𝐘𝐨𝐮𝐓𝐮𝐛𝐞 = select,📱SSID,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
 
-🔞𝐏𝐨𝐫𝐧𝐇𝐮𝐛 = select,📱SSID,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/cai23511/yex/master/services/PORNHUB3.png
-📺哔哩哔哩 = select,🇭🇰香港Hk,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/bilibili_3.png
-📹Spotify馨田音乐 = select,📱SSID,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Spotify.png
+
+Deezer = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/deezer.png
+
+Discord = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Discord.png
+
+Amazon = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Amazon.png
+
+Disney+ = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/DisneyPlus.png
+
+ChatGPT = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/ChatGPT.png
+
+𝐘𝐨𝐮𝐓𝐮𝐛𝐞 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
+
+𝐏𝐨𝐫𝐧𝐇𝐮𝐛 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/cai23511/yex/master/services/PORNHUB3.png
+
+𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Telegram_X.png
+
+Facebook = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/Facebook.png
+
+whatsapp = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/whatsapp(1).png
+
+KakaoTalk = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/KakaoTalk.png
+
+
+
+PrimeVideo = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Prime_Video_2.png
+
+Twitter推特 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Twitter.png
+
+Google谷歌 = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Google_Search.png
+
+Googlevoice = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Googlevoice.png
+
+
+YouTubeMusic = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube_Music.png
+
+DiscoveryPlus = select,📱SSID,🟢𝐃𝐢𝐫𝐞𝐜𝐭,⛔️𝐑𝐞𝐣𝐞𝐜𝐭,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Discovery.png
 
 
 #主办
@@ -158,98 +234,127 @@ ChatGPT = select,📱SSID,img-url = https://raw.githubusercontent.com/Toperlock/
 [Rule]
 FINAL,DIRECT
 # 𝐍𝐞𝐭𝐞𝐚𝐬𝐞𝐌𝐮𝐬𝐢𝐜
-DOMAIN-SUFFIX,music.126.net,🎧𝐍𝐞𝐭𝐞𝐚𝐬𝐞𝐌𝐮𝐬𝐢𝐜
-DOMAIN-SUFFIX,music.163.com,🎧𝐍𝐞𝐭𝐞𝐚𝐬𝐞𝐌𝐮𝐬𝐢𝐜
+DOMAIN-SUFFIX,music.126.net,𝐍𝐞𝐭𝐞𝐚𝐬𝐞𝐌𝐮𝐬𝐢𝐜
+DOMAIN-SUFFIX,music.163.com,𝐍𝐞𝐭𝐞𝐚𝐬𝐞𝐌𝐮𝐬𝐢𝐜
 # GeoIP China
-GEOIP,CN,🎯𝐃𝐢𝐫𝐞𝐜𝐭
+GEOIP,CN,🟢𝐃𝐢𝐫𝐞𝐜𝐭
 FINAL,📱SSID
 
 
 # 订阅规则
 [Remote Rule]
-https://gitlab.com/lodepuly/anti-ad/-/raw/master/anti-ad-surge.txt, policy=📱SSID, tag=anti-ad-surge.txt, parser-enable=true, enabled=true
-https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Rule/OpenAI.list, policy=📱SSID, tag=OpenAI&ChatGPT分流规则, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/BiliBili/BiliBili.list, policy=📺哔哩哔哩, tag=哔哩哔哩, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaMaxNoIP/ChinaMaxNoIP.list, policy=📱SSID, tag=🧸 国内域名合集, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaMax/ChinaMax.list, policy=📱SSID, tag=🧸 国内网站/IP合集, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Privacy/Privacy.list, policy=📱SSID, tag=🧸 隐私保护, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Direct/Direct.list, policy=📱SSID, tag=🧸 直连, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Advertising/Advertising.list, policy=📱SSID, tag=🧸 去广告, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingLite/AdvertisingLite.list, policy=📱SSID, tag=🧸 去广告精简版, enabled=true
-
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/NetEaseMusic/NetEaseMusic.list, policy=🎧𝐍𝐞𝐭𝐞𝐚𝐬𝐞𝐌𝐮𝐬𝐢𝐜, tag=网易云音乐, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/CaiNiao/CaiNiao.list, policy=📱SSID, tag=菜鸟裹裹, parser-enable=true, enabled=true
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/CNNIC/CNNIC.list, policy=📱SSID, tag=中国互联网络信息中心, parser-enable=true, enabled=true
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/CAS/CAS.list, policy=📱SSID, tag=中国科学院文献情报中心, parser-enable=true, enabled=true
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Microsoft/Microsoft.list, policy=🐸Microsoft, tag=Microsoft, parser-enable=true, enabled=true
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/GitHub/GitHub.list, policy=🐢github, tag=GitHub, parser-enable=true, enabled=true
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Facebook/Facebook.list, policy=🫁Facebook, tag=Facebook, parser-enable=true, enabled=true
-
-https://raw.githubusercontent.com/Semporia/Loon/master/Rule/TikTok.list, policy=🎵𝐓𝐢𝐤𝐓𝐨𝐤, tag=TikTok, enabled=true
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingTest/AdvertisingTest_Domain.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤, tag=去广告, parser-enable=true, enabled=true
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Microsoft/Microsoft.list, policy=🐸Microsoft, tag=微软, parser-enable=true, enabled=true
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaIPs/ChinaIPs.list, policy=REJECT, tag=ChinaIPs, parser-enable=true, enabled=true
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/YouTube/YouTube.list, policy=🎬𝐘𝐨𝐮𝐓𝐮𝐛𝐞, tag=Youtube, parser-enable=true, enabled=true
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/YouTubeMusic/YouTubeMusic.list, policy=🎬𝐘𝐨𝐮𝐓𝐮𝐛𝐞, tag=YouTubeMusic, parser-enable=true, enabled=true
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Spotify/Spotify.list, policy=📹Spotify馨田音乐, tag=Spotify, parser-enable=true, enabled=true
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Netflix/Netflix.list, policy=🖥𝐍𝐞𝐭𝐟𝐥𝐢𝐱, tag=Netflix, parser-enable=true, enabled=true
-
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Twitter/Twitter.list, policy=🦵Twitter推特, tag=Twitter, parser-enable=true, enabled=true
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Telegram/Telegram.list, policy=📱𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦, tag=telegram, parser-enable=true, enabled=true
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/PayPal/PayPal.list, policy=💳𝐏𝐚𝐲𝐏𝐚𝐥, tag=paypal, parser-enable=true, enabled=true
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Mail/Mail.list, policy=📱SSID, tag=Mail, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Google/Google.list, policy=🦴Google谷歌, tag=google, parser-enable=true, enabled=true
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/GoogleDrive/GoogleDrive.list, policy=🦴Google谷歌, tag=GoogleDrive, parser-enable=true, enabled=true
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/GlobalMedia/GlobalMedia.list, policy=📱SSID, tag=GlobalMedia, parser-enable=true, enabled=true
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Global/Global.list, policy=📱SSID, tag=Global, parser-enable=true, enabled=true
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Speedtest/Speedtest.list, policy=🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭, tag=Speedtest, enabled=true
-
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AnTianKeJi/AnTianKeJi.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤, tag=Antirevoke, parser-enable=true, enabled=true
-
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/FOXPlus/FOXPlus.list, policy=Fox, tag=FOX, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/HBO/HBO.list, policy=HBO, tag=HBO, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Xbox/Xbox.list, policy=XboX, tag=Xbox, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/BBC/BBC.list, policy=BBC, tag=BBC, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Sling/Sling.list, policy=Sling, tag=Sling, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Line/Line.list, policy=LINE, tag=LINE, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/Semporia/Loon/master/Rule/TikTok.list, policy=𝐓𝐢𝐤𝐓𝐨𝐤, tag=TikTok, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Vimeo/Vimeo.list, policy=Vimeo, tag=Vimeo, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Steam/Steam.list, policy=Steam, tag=Steam, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Netflix/Netflix.list, policy=𝐍𝐞𝐭𝐟𝐥𝐢𝐱, tag=Netflix, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/PayPal/PayPal.list, policy=𝐏𝐚𝐲𝐏𝐚𝐥, tag=paypal, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Disney/Disney.list, policy=Disney+, tag=Disney, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Deezer/Deezer.list, policy=Deezer, tag=Deezer, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Google/Google.list, policy=Google谷歌, tag=google, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/GitHub/GitHub.list, policy=github, tag=GitHub, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Twitter/Twitter.list, policy=Twitter推特, tag=Twitter, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Spotify/Spotify.list, policy=馨田音乐, tag=Spotify, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Discord/Discord.list, policy=Discord, tag=Discord, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Amazon/Amazon.list, policy=Amazon, tag=Amazon, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/YouTube/YouTube.list, policy=𝐘𝐨𝐮𝐓𝐮𝐛𝐞, tag=Youtube, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaIPs/ChinaIPs.list, policy=ChatGPT, tag=ChinaIPs, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AppStore/AppStore.list, policy=App_Store, tag=AppStore, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Telegram/Telegram.list, policy=𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦, tag=telegram, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Microsoft/Microsoft.list, policy=Microsoft, tag=Microsoft, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Facebook/Facebook.list, policy=Facebook, tag=Facebook, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Bloomberg/Bloomberg.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤, tag=BlockOTA, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/KakaoTalk/KakaoTalk.list, policy=KakaoTalk, tag=KakaoTalk, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Whatsapp/Whatsapp.list, policy=whatsapp, tag=Whatsapp, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Speedtest/Speedtest.list, policy=🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭, tag=Speedtest, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AnTianKeJi/AnTianKeJi.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤, tag=Antirevoke, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/PrimeVideo/PrimeVideo.list, policy=PrimeVideo, tag=PrimeVideo, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AppleMusic/AppleMusic.list, policy=AppleMusic, tag=AppleMusic, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AsianMedia/AsianMedia.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭, tag=AsianMedia, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/GlobalMedia/GlobalMedia.list, policy=谷歌邮箱, tag=GlobalMedia, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/GoogleDrive/GoogleDrive.list, policy=Googlevoice, tag=GoogleDrive, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/GoogleVoice/GoogleVoice.list, policy=Googlevoice, tag=GoogleVoice, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/DiscoveryPlus/DiscoveryPlus.list, policy=DiscoveryPlus, tag=DiscoveryPlus, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ParamountPlus/ParamountPlus.list, policy=派拉蒙, tag=ParamountPlus, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/YouTubeMusic/YouTubeMusic.list, policy=YouTubeMusic, tag=YouTubeMusic, parser-enable=true, enabled=true
+https://gitlab.com/lodepuly/anti-ad/-/raw/master/anti-ad-surge.txt, policy=📱SSID, tag=anti-ad-surge.txt, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/Game.list, policy=游戏, tag=游戏, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Zhihu/Zhihu.list, policy=知乎, tag=知乎, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/XianYu/XianYu.list, policy=闲鱼, tag=闲鱼, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/FeiZhu/FeiZhu.list, policy=飞猪, tag=飞猪, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Weibo/Weibo.list, policy=微博, tag=微博, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Baidu/Baidu.list, policy=百度, tag=百度, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/KuaiShou/KuaiShou.list, policy=快手, tag=快手, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/DouBan/DouBan.list, policy=豆瓣, tag=豆瓣, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/MeiTuan/MeiTuan.list, policy=美团, tag=美团, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Bing/Bing.list, policy=bing, tag=必应, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Tencent/Tencent.list, policy=QQ腾讯, tag=腾讯, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/WeChat/WeChat.list, policy=微信, tag=微信, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Direct/Direct.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭, tag=直连, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingTest/AdvertisingTest_Domain.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤, tag=去广告, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Advertising/Advertising.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭, tag=去广告, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/XiaoHongShu/XiaoHongShu.list, policy=小红书, tag=小红书, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Pinduoduo/Pinduoduo.list, policy=拼多多, tag=拼多多, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/iQIYI/iQIYI.list, policy=爱奇艺, tag=爱奇艺, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Privacy/Privacy.list, policy=⛔️𝐑𝐞𝐣𝐞𝐜𝐭, tag=隐私保护, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/TencentVideo/TencentVideo.list, policy=腾讯视频, tag=腾讯视频, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/BaiDuTieBa/BaiDuTieBa.list, policy=百度贴吧, tag=百度贴吧, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Bahamut/Bahamut.list, policy=巴哈姆特, tag=巴哈姆特, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Himalaya/Himalaya.list, policy=喜马拉雅, tag=喜马拉雅, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/BiliBili/BiliBili.list, policy=哔哩哔哩, tag=哔哩哔哩, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaTelecom/ChinaTelecom.list, policy=电信, tag=中国电信, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaUnicom/ChinaUnicom.list, policy=联通, tag=中国联通, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaMobile/ChinaMobile.list, policy=移动, tag=中国移动, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/SMZDM/SMZDM.list, policy=什么值得买, tag=什么值的买, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/NetEaseMusic/NetEaseMusic.list, policy=𝐍𝐞𝐭𝐞𝐚𝐬𝐞𝐌𝐮𝐬𝐢𝐜, tag=网易云音乐, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingLite/AdvertisingLite.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤, tag=去广告精简版, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaMaxNoIP/ChinaMaxNoIP.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭, tag=国内域名合集, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaMax/ChinaMax.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭, tag=国内网站/IP合集, parser-enable=true, enabled=true
+https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Rule/OpenAI.list, policy=ChatGPT, tag=ChatGPT分流规则, parser-enable=true, enabled=true
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AppStore/AppStore.list, policy=🍎𝐀𝐩𝐩𝐥𝐞, tag=AppStore, enabled=true
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Apple/Apple.list, policy=🍎𝐀𝐩𝐩𝐥𝐞, tag=Apple, enabled=true
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AppleDaily/AppleDaily.list, policy=🍎𝐀𝐩𝐩𝐥𝐞, tag=AppleDaily, parser-enable=true, enabled=true
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AppleMail/AppleMail.list, policy=🍎𝐀𝐩𝐩𝐥𝐞, tag=AppleMail, parser-enable=true, enabled=true
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AppleMusic/AppleMusic.list, policy=🍎𝐀𝐩𝐩𝐥𝐞, tag=AppleMusic, parser-enable=true, enabled=true
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AppleNews/AppleNews.list, policy=🍎𝐀𝐩𝐩𝐥𝐞, tag=AppleNews, parser-enable=true, enabled=true
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AppleProxy/AppleProxy.list, policy=🍎𝐀𝐩𝐩𝐥𝐞, tag=AppleProxy, parser-enable=true, enabled=true
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AppleTV/AppleTV.list, policy=🍎𝐀𝐩𝐩𝐥𝐞, tag=AppleTV, parser-enable=true, enabled=true
 
 
 
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AsianMedia/AsianMedia.list, policy=🎯𝐃𝐢𝐫𝐞𝐜𝐭, tag=AsianMedia, parser-enable=true, enabled=true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -342,6 +447,7 @@ host = 127.0.0.1
 
 #插件
 [Plugin]
+https://raw.githubusercontent.com/deezertidal/private/main/youtube.plugin, tag=YouTube去广告, enabled=true
 https://github.com/VirgilClyne/Cloudflare/raw/bca4d4bbfb570f3c68f90001d997e6409148b8ff/plugin/Cloudflare.1.1.1.1.beta.plugin, enabled=true
 https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/BaiduSearchWebpage_remove_ads.plugin, tag=百度搜索网页去广告, enabled=true
 https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/Daily_remove_ads.plugin, enabled=true
@@ -554,14 +660,14 @@ https://raw.githubusercontent.com/deezertidal/private/main/qj.plugin, enabled=tr
 
 https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/JD_Price.plugin, enabled=true
 
-https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/YouTube_remove_ads_plan_b.plugin, tag=YouTube去广告（B方案）, enabled=true
+https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/YouTube_remove_ads_plan_b.plugin, tag=YouTube去广告（B方案）, enabled=false
 
 https://github.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.loon.plugin, enabled=true
 https://raw.githubusercontent.com/GeQ1an/Rules/master/Loon/Rewrite/Rewrite.plugin, enabled=true
 
 https://raw.githubusercontent.com/ipuppet/Profiles/master/Loon/Plugin/BoxJs.plugin, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/box.png, enabled=true
 
-https://raw.githubusercontent.com/aico267/rule_for_quantumultX/master/Loon/Plugin/YouTube.plugin, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png, enabled=true
+https://raw.githubusercontent.com/aico267/rule_for_quantumultX/master/Loon/Plugin/YouTube.plugin, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png, enabled=false
 
 https://raw.githubusercontent.com/deezertidal/private/main/startingad.plugin, enabled=true
 
@@ -593,7 +699,7 @@ https://raw.githubusercontent.com/DualSubs/DualSubs/main/plugin/DualSubs.plugin,
 
 https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/MediaCheck.plugin, enabled=true
 
-https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Block/YouTubeAds.plugin, enabled=true
+https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Block/YouTubeAds.plugin, enabled=false
 
 https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Block/WeiboAds.plugin, enabled=true
 
@@ -641,7 +747,7 @@ https://raw.githubusercontent.com/NobyDa/Script/master/Loon/Loon_TF_Account.plug
 
 https://raw.githubusercontent.com/NobyDa/Script/master/Loon/Loon_TF_Download.plugin, enabled=true
 
-https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/YouTube_remove_ads.plugin, tag=YouTube瀑布流, enabled=true
+https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/YouTube_remove_ads.plugin, tag=YouTube瀑布流, enabled=false
 
 https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/News.plugin, tag=天气, enabled=true
 
@@ -655,7 +761,7 @@ https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.re
 
 https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Loon.plugin, tag=Sub-Store, enabled=true
 
-https://raw.githubusercontent.com/mymoonyue/Loon/master/Plugin/For-own-use.plugin, policy=🖥𝐍𝐞𝐭𝐟𝐥𝐢𝐱, tag=奈飞, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netflix.png, enabled=true
+https://raw.githubusercontent.com/mymoonyue/Loon/master/Plugin/For-own-use.plugin, policy=𝐍𝐞𝐭𝐟𝐥𝐢𝐱, tag=奈飞, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netflix.png, enabled=true
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/Advertising/Advertising.plugin, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤, tag=复写去广告, enabled=true
 
