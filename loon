@@ -11,6 +11,7 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 
 #别名=订阅節點URL
 [Remote Proxy]
+𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥４ = https://xn--4gqx1h.xyz/api/v1/client/subscribe?token=746c455cbb74d3f5130761b8789376e8,udp=false,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-chan/Shin-chan-1036.png
 𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥3 = https://v1.mk/KyAyXlD,parser-enabled = true,udp=false,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1052.png
 𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥2 = https://bigairport.party/api/v1/client/subscribe?token=8cba55c63966379d8025f833abec4f22,parser-enabled = true,udp=false,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Tom-Jerry/Tom-Jerry-1019.png
 𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥1 = https://dy.xhj1002.link/xhj1006,parser-enabled = true,udp=false,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-chan/Shin-chan-1001.png
@@ -69,7 +70,7 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 🎭壹🐲號🌦✈⋯· ☀︎💥 = url-test,𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥1,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Doraemon/Doraemon-1048.png
 🎭貳🐲號🌦✈⋯· ☀︎💥 = url-test,𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥2,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-chan/Shin-chan-1036.png
 🎭叁🐲號🌦✈⋯· ☀︎💥 = url-test,𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥3,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Tom-Jerry/Tom-Jerry-1036.png
-🎭肆🐲號🌦✈⋯· ☀︎💥 = url-test,𓆉“巽”🌪✈⋯· ·  ·   ·⛹️‍♀️,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-Miya/Shin-Miya-1027.png
+🎭肆🐲號🌦✈⋯· ☀︎💥 = url-test,𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥４,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-Miya/Shin-Miya-1027.png
 🎭伍🐲號🌦✈⋯· ☀︎💥 = url-test,🇻🇮蕃劇節點,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1015.png
 𓃰SSID𐂂 = ssid,default=𓃵策略選取✄,cellular=𓃵策略選取✄,"𓃵策略選取✄"=𓃵策略選取✄,img-url = https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/SSID.png
 🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬 = select,DIRECT,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Direct.png
@@ -114,6 +115,7 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 𓃰巴哈姆特💘 = select,🇻🇮蕃劇節點,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Bahamut.png
 𓃰𝐍𝐞𝐭𝐟𝐥𝐢𝐱💘 = url-test,🇿🇦Netflix奈飛,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Bubble/Social-Logo/Netflix.png
 𓃰Fox🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/FOX.png
+𓃰PBS🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★👋手動🌦✈,★♨️檢測🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/PBS.png
 𓃰BVT🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★👋手動🌦✈,★♨️檢測🌦✈,★♻️自動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TVB.png
 𓃰NBC🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★👋手動🌦✈,★♨️檢測🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/NBC.png
 𓃰BBC🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/BBC_iPlayer_2.png
@@ -130,12 +132,14 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 𓃰Discord🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Discord.png
 𓃰Amazon🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Amazon.png
 𓃰Disney+🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/DisneyPlus.png
+𓃰Pandora🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★👋手動🌦✈,★♨️檢測🌦✈,★♻️自動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Pandora.png
 𓃰𝐏𝐨𝐫𝐧𝐇𝐮𝐛🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/cai23511/yex/master/services/PORNHUB3.png
 𓃰ChatGPT🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/ChatGPT.png
 𓃰Youtube🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
 𓃰𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Telegram_X.png
 𓃰Facebook🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/Facebook.png
 𓃰谷歌邮箱🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Gmail.png
+𓃰lnstagram🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★👋手動🌦✈,★♨️檢測🌦✈,★♻️自動🌦✈,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/instagram(2).png
 𓃰KakaoTalk🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/KakaoTalk.png
 𓃰whatsapp🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/whatsapp(1).png
 𓃰PrimeVideo🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Prime_Video_2.png
@@ -198,6 +202,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/BiliBili/BiliBili.list, policy=𓃰哔哩哔哩💘, tag=哔哩哔哩, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Bahamut/Bahamut.list, policy=𓃰巴哈姆特💘, tag=巴哈姆特, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/FOXPlus/FOXPlus.list, policy=𓃰Fox🌟, tag=FOX, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/PBS/PBS.list, policy=𓃰PBS🌟, tag=PBS, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Netflix/Netflix.list, policy=𓃰𝐍𝐞𝐭𝐟𝐥𝐢𝐱💘, tag=Netflix, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/TVB/TVB.list, policy=𓃰BVT🌟, tag=BVT, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/BBC/BBC.list, policy=𓃰BBC🌟, tag=BBC, parser-enable=true, enabled=true
@@ -218,10 +223,12 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Discord/Discord.list, policy=𓃰Discord🌟, tag=Discord, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Amazon/Amazon.list, policy=𓃰Amazon🌟, tag=Amazon, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/YouTube/YouTube.list, policy=𓃰Youtube🌟, tag=Youtube, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Pandora/Pandora.list, policy=𓃰Pandora🌟, tag=Pandora, enabled=true
 https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Rule/OpenAI.list, policy=𓃰ChatGPT🌟, tag=ChatGPT, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Telegram/Telegram.list, policy=𓃰𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦🌟, tag=telegram, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Facebook/Facebook.list, policy=𓃰Facebook🌟, tag=Facebook, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/KakaoTalk/KakaoTalk.list, policy=𓃰KakaoTalk🌟, tag=KakaoTalk, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Instagram/Instagram.list, policy=𓃰lnstagram🌟, tag=Instagram, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Whatsapp/Whatsapp.list, policy=𓃰whatsapp🌟, tag=Whatsapp, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/PrimeVideo/PrimeVideo.list, policy=𓃰PrimeVideo🌟, tag=PrimeVideo, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/GoogleDrive/GoogleDrive.list, policy=𓃰GoogleDrive🌟, tag=GoogleDrive, parser-enable=true, enabled=true
@@ -323,7 +330,7 @@ host = 127.0.0.1
 
 #插件
 [Plugin]
-https://raw.githubusercontent.com/deezertidal/private/main/youtube.plugin, tag=YouTube去广告, enabled=true
+https://yfamily.vercel.app/module/YouTubeAd.sgmodule, tag=youtube, enabled=true
 https://github.com/VirgilClyne/Cloudflare/raw/bca4d4bbfb570f3c68f90001d997e6409148b8ff/plugin/Cloudflare.1.1.1.1.beta.plugin, tag=☁️ 1.1.1.1 by Cloudflare with WARP 客户端配置管理, enabled=true
 https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/BaiduSearchWebpage_remove_ads.plugin, tag=百度搜索网页去广告, enabled=true
 https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/Daily_remove_ads.plugin, enabled=true
@@ -535,7 +542,7 @@ https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/JD_Price.plugin
 https://github.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.loon.plugin, enabled=true
 https://raw.githubusercontent.com/GeQ1an/Rules/master/Loon/Rewrite/Rewrite.plugin, enabled=true
 https://raw.githubusercontent.com/ipuppet/Profiles/master/Loon/Plugin/BoxJs.plugin, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/box.png, enabled=true
-https://raw.githubusercontent.com/aico267/rule_for_quantumultX/master/Loon/Plugin/YouTube.plugin, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png, enabled=true
+https://raw.githubusercontent.com/aico267/rule_for_quantumultX/master/Loon/Plugin/YouTube.plugin, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/main/startingad.plugin, enabled=true
 https://raw.githubusercontent.com/NobyDa/Script/master/Loon/Loon_GetCookie.plugin, enabled=true
 https://raw.githubusercontent.com/deezertidal/private/main/NodeLinkCheck.plugin, enabled=true
@@ -550,7 +557,7 @@ https://raw.githubusercontent.com/deezertidal/private/main/Ratings.plugin, enabl
 https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.tf.plugin, enabled=true
 https://raw.githubusercontent.com/DualSubs/DualSubs/main/plugin/DualSubs.plugin, enabled=true
 https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/MediaCheck.plugin, enabled=true
-https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Block/YouTubeAds.plugin, enabled=true
+https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Block/YouTubeAds.plugin, enabled=false
 https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Block/WeiboAds.plugin, enabled=true
 https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Block/ZhiHu.plugin, enabled=true
 https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/skip-proxy.plugin, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Frog.png, enabled=true
@@ -574,14 +581,14 @@ https://raw.githubusercontent.com/deezertidal/private/main/wscsds.plugin, enable
 https://raw.githubusercontent.com/deezertidal/private/main/wsgj.plugin, enabled=true
 https://raw.githubusercontent.com/NobyDa/Script/master/Loon/Loon_TF_Account.plugin, enabled=true
 https://raw.githubusercontent.com/NobyDa/Script/master/Loon/Loon_TF_Download.plugin, enabled=true
-https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/YouTube_remove_ads.plugin, tag=YouTube瀑布流, enabled=true
+https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/YouTube_remove_ads.plugin, tag=YouTube瀑布流, enabled=false
 https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/News.plugin, policy=★♻️自動🌦✈, tag=天气, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/Upgrade/Upgrade.plugin, policy=𓃰SSID𐂂, tag=更新检查, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/GetCookie/GetCookie.plugin, policy=𓃰SSID𐂂, tag=签到脚本, enabled=true
 https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Historical%20Price.plugin, tag=Historical Price, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png, enabled=true
 https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.plugin, tag=BoxJs, enabled=true
 https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Loon.plugin, tag=Sub-Store, enabled=true
-https://raw.githubusercontent.com/mymoonyue/Loon/master/Plugin/For-own-use.plugin, policy=𓃰𝐍𝐞𝐭𝐟𝐥𝐢𝐱💘, tag=奈飞, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netflix.png, enabled=true
+https://raw.githubusercontent.com/mymoonyue/Loon/master/Plugin/For-own-use.plugin, policy=𓃰𝐍𝐞𝐭𝐟𝐥𝐢𝐱💘, tag=奈飞, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netflix.png, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/Advertising/Advertising.plugin, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=复写去广告, enabled=true
 
 
