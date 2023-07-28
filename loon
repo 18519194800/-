@@ -68,30 +68,30 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 
 # 策略组
 [Proxy Group]
-𓃵策略選取✄ = select,🎭壹🐲號🌦✈⋯· ☀︎💥,🎭貳🐲號🌦✈⋯· ☀︎💥,🎭叁🐲號🌦✈⋯· ☀︎💥,🎭肆🐲號🌦✈⋯· ☀︎💥,🎭伍🐲號🌦✈⋯· ☀︎💥,節點🏴‍☠️,中国🇨🇳,臺灣 🇰🇭,香港🇭🇰,日本🇯🇵,韓國🇰🇷,澳門🇲🇴,印度🇮🇳,歐盟🇪🇺,英國🇬🇧,美國🇺🇸,德國🇩🇪,法國🇫🇷,新加坡🇸🇬,土耳其🇹🇷,加拿大🇨🇦,俄羅斯🇷🇺,澳大利亞🇨🇦,img-url = https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/applehome.png
+𓃵策略選取✄ = select,🎭壹🐲號🌦✈⋯· ☀︎💥,🎭貳🐲號🌦✈⋯· ☀︎💥,🎭叁🐲號🌦✈⋯· ☀︎💥,🎭肆🐲號🌦✈⋯· ☀︎💥,🎭伍🐲號🌦✈⋯· ☀︎💥,全部節點🏴‍☠️,臺灣地區🇰🇭,歐洲聯盟🇪🇺,大韓民國🇰🇷,倭奴日本國🇯🇵,印度共和國🇮🇳,加拿大聯邦🇨🇦,俄羅斯聯邦🇷🇺,美利堅合眾國🇺🇸,土耳其共和國🇹🇷,新加坡共和國🇸🇬,澳大利亞聯邦🇨🇦,法蘭西共和國🇫🇷,中華人民共和國🇨🇳,香港特別行政區🇭🇰,澳門特別行政區🇲🇴,德意志聯邦共和國🇩🇪,大不列顛及北愛爾蘭聯合王國🇬🇧,img-url = https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/applehome.png
 🎭壹🐲號🌦✈⋯· ☀︎💥 = url-test,𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥1,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Doraemon/Doraemon-1048.png
 🎭貳🐲號🌦✈⋯· ☀︎💥 = url-test,𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥2,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-chan/Shin-chan-1036.png
 🎭叁🐲號🌦✈⋯· ☀︎💥 = url-test,𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥3,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Tom-Jerry/Tom-Jerry-1036.png
 🎭肆🐲號🌦✈⋯· ☀︎💥 = url-test,𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥４,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-Miya/Shin-Miya-1027.png
 🎭伍🐲號🌦✈⋯· ☀︎💥 = url-test,𓃰“卯”🐇✈⋯··· ·  ·🚴‍♂️,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1015.png
-節點🏴‍☠️ = select,⏱節點,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/XD.png
-中国🇨🇳 = select,🇨🇳回國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png
-臺灣 🇰🇭 = select,🇰🇭臺灣,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Taiwan.png
-香港🇭🇰 = select,🇭🇰香港,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hong_Kong.png
-日本🇯🇵 = select,🇯🇵日本,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Japan.png
-韓國🇰🇷 = select,🇰🇷韓國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Korea.png
-澳門🇲🇴 = select,🇲🇴澳門,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Macao.png
-印度🇮🇳 = select,🇮🇳印度,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/India.png
-歐盟🇪🇺 = select,🇪🇺歐盟,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/European_Union.png
-英國🇬🇧 = select,🇬🇧英國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_Kingdom.png
-美國🇺🇸 = select,🇺🇸美國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_States.png
-德國🇩🇪 = select,🇩🇪德國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Germany.png
-法國🇫🇷 = select,🇫🇷法國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/France.png
-新加坡🇸🇬 = select,🇸🇬新加坡,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Singapore.png
-土耳其🇹🇷 = select,🇹🇷土耳其,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Turkey.png
-加拿大🇨🇦 = select,🇨🇦加拿大,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Canada.png
-俄羅斯🇷🇺 = select,🇷🇺俄羅斯,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Russia.png
-澳大利亞🇨🇦 = select,🇦🇺澳大利亞,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Australia.png
+全部節點🏴‍☠️ = select,⏱節點,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/XD.png
+臺灣地區🇰🇭 = select,🇰🇭臺灣,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Taiwan.png
+歐洲聯盟🇪🇺 = select,🇪🇺歐盟,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/European_Union.png
+大韓民國🇰🇷 = select,🇰🇷韓國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Korea.png
+倭奴日本國🇯🇵 = select,🇯🇵日本,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Japan.png
+印度共和國🇮🇳 = select,🇮🇳印度,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/India.png
+加拿大聯邦🇨🇦 = select,🇨🇦加拿大,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Canada.png
+俄羅斯聯邦🇷🇺 = select,🇷🇺俄羅斯,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Russia.png
+美利堅合眾國🇺🇸 = select,🇺🇸美國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_States.png
+土耳其共和國🇹🇷 = select,🇹🇷土耳其,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Turkey.png
+新加坡共和國🇸🇬 = select,🇸🇬新加坡,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Singapore.png
+澳大利亞聯邦🇨🇦 = select,🇦🇺澳大利亞,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Australia.png
+法蘭西共和國🇫🇷 = select,🇫🇷法國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/France.png
+中華人民共和國🇨🇳 = select,🇨🇳回國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png
+香港特別行政區🇭🇰 = select,🇭🇰香港,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hong_Kong.png
+澳門特別行政區🇲🇴 = select,🇲🇴澳門,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Macao.png
+德意志聯邦共和國🇩🇪 = select,🇩🇪德國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Germany.png
+大不列顛及北愛爾蘭聯合王國🇬🇧 = select,🇬🇧英國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_Kingdom.png
 𓃰SSID𐂂 = ssid,default=𓃵策略選取✄,cellular=𓃵策略選取✄,"𓃵策略選取✄"=𓃵策略選取✄,img-url = https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/SSID.png
 🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬 = select,DIRECT,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Direct.png
 ⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬 = select,REJECT,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Reject.png
