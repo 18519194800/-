@@ -11,6 +11,9 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 
 #别名=订阅節點URL
 [Remote Proxy]
+𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥8 = https://free.iam7.tk/trojan/sub,udp=false,fast-open=false,vmess-aead=true,enabled=true,img-url=https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/applegamecenter.png
+𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥7 = https://proxypool.link/trojan/sub,udp=false,fast-open=false,vmess-aead=true,enabled=true,img-url=https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/applespringloaded.png
+𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥6 = https://flycnb.tk/sub?token=F9F9zZcllpdyN5TluF9F9zZF9F9zZ11EEfx0g&tag=mixed,udp=false,fast-open=false,vmess-aead=true,enabled=true,img-url=https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/warp.png
 𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥5 = https://paste.gg/p/anonymous/78dfd92903f14063a0b69ba20990820b/files/2ecc9c39262e43ae9d8bbf36f7585739/raw,udp=false,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Doraemon/Doraemon-1028.png
 𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥４ = https://ghproxy.com/raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx1,udp=false,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/012.png
 𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥3 = https://v1.mk/KyAyXlD,parser-enabled = true,udp=false,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1052.png
@@ -68,28 +71,28 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 
 # 策略组
 [Proxy Group]
-𓃵策略選取✄ = select,🎭壹🐲號🌦✈⋯· ☀︎💥,🎭貳🐲號🌦✈⋯· ☀︎💥,🎭叁🐲號🌦✈⋯· ☀︎💥,🎭肆🐲號🌦✈⋯· ☀︎💥,🎭伍🐲號🌦✈⋯· ☀︎💥,全部節點🏴‍☠️,臺灣地區🇰🇭,歐洲聯盟🇪🇺,大韓民國🇰🇷,倭奴日本國🇯🇵,印度共和國🇮🇳,加拿大聯邦🇨🇦,俄羅斯聯邦🇷🇺,美利堅合眾國🇺🇸,土耳其共和國🇹🇷,新加坡共和國🇸🇬,澳大利亞聯邦🇨🇦,法蘭西共和國🇫🇷,中華人民共和國🇨🇳,香港特別行政區🇭🇰,澳門特別行政區🇲🇴,德意志聯邦共和國🇩🇪,大不列顛及北愛爾蘭聯合王國🇬🇧,img-url = https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/applehome.png
+𓃵策略選取✄ = select,🎭壹🐲號🌦✈⋯· ☀︎💥,🎭貳🐲號🌦✈⋯· ☀︎💥,🎭叁🐲號🌦✈⋯· ☀︎💥,🎭肆🐲號🌦✈⋯· ☀︎💥,🎭伍🐲號🌦✈⋯· ☀︎💥,節點🏴‍☠️,倭奴國🇯🇵,世界牆國🇨🇳,中共野爹🇷🇺,西亞病毒🇹🇷,高麗棒子🇰🇷,歐洲聯盟🇪🇺,開賭場的🇲🇴,趙家洗錢的🇭🇰,印度共和國🇮🇳,加拿大聯邦🇨🇦,中華民主地區🇰🇭,美利堅合眾國🇺🇸,新加坡共和國🇸🇬,澳大利亞聯邦🇨🇦,法蘭西共和國🇫🇷,德意志聯邦共和國🇩🇪,大不列顛及北愛爾蘭聯合王國🇬🇧,img-url = https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/applehome.png
 🎭壹🐲號🌦✈⋯· ☀︎💥 = url-test,𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥1,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Doraemon/Doraemon-1048.png
 🎭貳🐲號🌦✈⋯· ☀︎💥 = url-test,𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥2,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-chan/Shin-chan-1036.png
 🎭叁🐲號🌦✈⋯· ☀︎💥 = url-test,𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥3,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Tom-Jerry/Tom-Jerry-1036.png
 🎭肆🐲號🌦✈⋯· ☀︎💥 = url-test,𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥４,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-Miya/Shin-Miya-1027.png
 🎭伍🐲號🌦✈⋯· ☀︎💥 = url-test,𓃰“卯”🐇✈⋯··· ·  ·🚴‍♂️,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1015.png
-全部節點🏴‍☠️ = select,⏱節點,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/XD.png
-臺灣地區🇰🇭 = select,🇰🇭臺灣,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Taiwan.png
+節點🏴‍☠️ = select,⏱節點,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/XD.png
+倭奴國🇯🇵 = select,🇯🇵日本,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Japan.png
+世界牆國🇨🇳 = select,🇨🇳回國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png
+中共野爹🇷🇺 = select,🇷🇺俄羅斯,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Russia.png
+西亞病毒🇹🇷 = select,🇹🇷土耳其,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Turkey.png
+高麗棒子🇰🇷 = select,🇰🇷韓國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Korea.png
 歐洲聯盟🇪🇺 = select,🇪🇺歐盟,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/European_Union.png
-大韓民國🇰🇷 = select,🇰🇷韓國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Korea.png
-倭奴日本國🇯🇵 = select,🇯🇵日本,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Japan.png
+開賭場的🇲🇴 = select,🇲🇴澳門,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Macao.png
+趙家洗錢的🇭🇰 = select,🇭🇰香港,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hong_Kong.png
 印度共和國🇮🇳 = select,🇮🇳印度,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/India.png
 加拿大聯邦🇨🇦 = select,🇨🇦加拿大,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Canada.png
-俄羅斯聯邦🇷🇺 = select,🇷🇺俄羅斯,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Russia.png
+中華民主地區🇰🇭 = select,🇰🇭臺灣,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Taiwan.png
 美利堅合眾國🇺🇸 = select,🇺🇸美國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_States.png
-土耳其共和國🇹🇷 = select,🇹🇷土耳其,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Turkey.png
 新加坡共和國🇸🇬 = select,🇸🇬新加坡,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Singapore.png
 澳大利亞聯邦🇨🇦 = select,🇦🇺澳大利亞,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Australia.png
 法蘭西共和國🇫🇷 = select,🇫🇷法國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/France.png
-中華人民共和國🇨🇳 = select,🇨🇳回國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png
-香港特別行政區🇭🇰 = select,🇭🇰香港,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hong_Kong.png
-澳門特別行政區🇲🇴 = select,🇲🇴澳門,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Macao.png
 德意志聯邦共和國🇩🇪 = select,🇩🇪德國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Germany.png
 大不列顛及北愛爾蘭聯合王國🇬🇧 = select,🇬🇧英國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_Kingdom.png
 𓃰SSID𐂂 = ssid,default=𓃵策略選取✄,cellular=𓃵策略選取✄,"𓃵策略選取✄"=𓃵策略選取✄,img-url = https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/SSID.png
