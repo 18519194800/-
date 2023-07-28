@@ -96,8 +96,8 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 𓃰𝐀𝐩𝐩𝐥𝐞💚 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/Apple.png
 𓃰github💚 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/GitHub.png
 𓃰acfun💚 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★👋手動🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★💯負載🌦✈,img-url = https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/acfun.png
-𓃰支付寶💚 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★👋手動🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★💯負載🌦✈,img-url = https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/alipay.png
 𓃰小紅書💚 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/xiaohongshu.png
+𓃰支付寶💚 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★👋手動🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★💯負載🌦✈,img-url = https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/alipay.png
 𓃰拼多多💚 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/pinduoduo.png
 𓃰愛奇藝💚 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/iQIYI&bilibili.png
 𓃰QQ騰訊💚 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/QQ.png
@@ -306,6 +306,7 @@ https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Script.conf, t
 
 #普遍的
 [General]
+sni-sniffing = true
 mitm-on-wifi-access = false
 disable-stun = true
 resource-parser = https://gitlab.com/lodepuly/vpn_tool/-/raw/main/resource/script/sub-store/sub-store-parser_for_loon.js
@@ -338,6 +339,26 @@ host = 127.0.0.1
 
 #插件
 [Plugin]
+https://raw.githubusercontent.com/deezertidal/private/master/plugallery/caixin.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/master/plugallery/BaiduCloud.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/master/plugallery/bdwk.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/master/plugallery/baimiao.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/master/plugallery/arpdfbj.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/master/plugallery/artp.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/master/plugallery/amj.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/master/plugallery/aliyun.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/master/plugallery/absqgs.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/master/plugallery/7dong.plugin, enabled=true
+https://raw.githubusercontent.com/sub-store-org/Sub-Store/master/config/Loon.plugin, enabled=true
+https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/PersistentPolicy/persistent-policy.plugin, enabled=true
+https://raw.githubusercontent.com/Peng-YM/QuanX/master/Rewrites/GithubPrivate/github-private-repo.plugin, enabled=true
+https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/AutoPolicy/auto-policy.plugin, enabled=true
+https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/RunningMode/running-mode.plugin, enabled=true
+https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/PlaneFinder/PlaneFinder.Loon.plugin, enabled=true
+https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/LiuLiShuoYueDu/LiuLiShuoYueDu.Loon.plugin, enabled=true
+https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/KuWoMusic/KuWoMusic.Loon.plugin, enabled=true
+https://raw.githubusercontent.com/DualSubs/YouTube/main/modules/DualSubs.YouTube.plugin, enabled=true
+https://raw.githubusercontent.com/DualSubs/Netflix/main/modules/DualSubs.Netflix.plugin, enabled=true
 https://raw.githubusercontent.com/deezertidal/private/master/plugallery/youtube.plugin, enabled=true
 https://raw.githubusercontent.com/deezertidal/private/master/plugallery/NodeLinkCheck.plugin, enabled=true
 https://raw.githubusercontent.com/deezertidal/private/master/plugallery/GeoLocation.plugin, enabled=true
@@ -365,7 +386,6 @@ https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/Daily_remove_ad
 https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/Replace_baidu_search_user-agent.plugin, enabled=true
 https://raw.githubusercontent.com/mw418/Loon/main/plugin/Bing_rewards.plugin, enabled=true
 https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/BingAI.plugin, enabled=true
-https://raw.githubusercontent.com/DualSubs/DualSubs-YouTube/main/plugin/DualSubs.YouTube.feat.ADs.plugin, enabled=true
 https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/Weixin_Official_Accounts_remove_ads.plugin, enabled=true
 https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/smzdm_remove_ads.plugin, enabled=true
 https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/Bilibili_remove_ads.plugin, enabled=true
