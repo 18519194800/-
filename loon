@@ -144,7 +144,6 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 𓃰Youtube🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
 𓃰𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Telegram_X.png
 𓃰Facebook🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/Facebook.png
-𓃰谷歌邮箱🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Gmail.png
 𓃰Speedtest🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★👋手動🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★💯負載🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Speedtest.png
 𓃰lnstagram🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★👋手動🌦✈,★♨️檢測🌦✈,★♻️自動🌦✈,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/instagram(2).png
 𓃰KakaoTalk🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/KakaoTalk.png
@@ -227,7 +226,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/PayPal/PayPal.list, policy=𓃰𝐏𝐚𝐲𝐏𝐚𝐥🌟, tag=paypal, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Disney/Disney.list, policy=𓃰Disney+🌟, tag=Disney, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Deezer/Deezer.list, policy=𓃰Deezer🌟, tag=Deezer, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Google/Google.list, policy=𓃰谷歌邮箱🌟, tag=google, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Google/Google.list, policy=𓃰Google谷歌🌟, tag=google, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Twitter/Twitter.list, policy=𓃰Twitter推特🌟, tag=Twitter, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Spotify/Spotify.list, policy=𓃰Spotify🌟, tag=Spotify, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Discord/Discord.list, policy=𓃰Discord🌟, tag=Discord, parser-enable=true, enabled=true
@@ -265,7 +264,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Lan/Lan.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=本地局域网地址, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaMax/ChinaMax.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=国内网站/IP合集, parser-enable=true, enabled=true
 
-
 #地址重写
 [URL Rewrite]
 enable = false
@@ -284,19 +282,16 @@ enable = false
 ^https?:\/\/[\w-]+\.amemv\.com\/aweme\/v\d\/hot/search\/video\/list\/ header https://aweme.snssdk.com/aweme/v1/hot/search/video/list/
 enable = true
 
-
 #订阅重写 
 [Remote Rewrite]
 https://raw.githubusercontent.com/eHpo1/Rules/master/Loon/Rewrite.conf, tag=eHpo, enabled=true
 https://raw.githubusercontent.com/nzw9314/Loon/master/Q-Search_All_in_one.conf, tag=Q-Search_All_in_one, enabled=true
-
 
 # 本地脚本
 [Script]
 enable = false
 enable = true
 cron "0 12 * * *" script-path=https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/scripts/cron-sync-artifacts.js, timeout=300, tag=Sub-Store 自动同步
-
 
 # 远程脚本
 [Remote Script]
@@ -311,6 +306,7 @@ https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Script.conf, t
 
 #普遍的
 [General]
+# [DNS] => DNS 服务器，如果只在中国大陆境内使用，可以删除 1.0.0.1 和 8.8.8.8 两个 DNS（推荐）
 sni-sniffing = true
 mitm-on-wifi-access = false
 disable-stun = true
@@ -331,7 +327,6 @@ test-timeout = 3
 ipv6 = true
 skip-proxy = 192.168.0.0/16,172.16.0.0/12,127.0.0.0/8,100.64.0.0/10,17.0.0.0/8,10.0.0.0/8,localhost,*.local,e.crashlynatics.com
 bypass-tun = 10.0.0.0/8,100.64.0.0/10,127.0.0.0/8,169.254.0.0/16,172.16.0.0/12,192.0.0.0/24,192.0.2.0/24,192.88.99.0/24,192.168.0.0/16,198.18.0.0/15,198.51.100.0/24,203.0.113.0/24,224.0.0.0/4,255.255.255.255/32
-# [DNS] => DNS 服务器，如果只在中国大陆境内使用，可以删除 1.0.0.1 和 8.8.8.8 两个 DNS（推荐）
 dns-server = system,178.79.131.110,199.91.73.222,208.67.220.220,208.67.222.222,9.9.9.9,8.8.4.4,8.8.8.8,140.207.198.6,123.125.81.6,218.30.118.6,101.226.4.6,52.80.66.66,117.50.11.11,210.2.4.8,1.2.4.8,119.29.29.29,180.76.76.76,223.6.6.6,223.5.5.5,114.114.115.115,114.114.114.114,119.29.29.29,223.5.5.5
 allow-wifi-access = true
 wifi-access-http-port = 7222
