@@ -11,6 +11,7 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 
 #别名=订阅節點URL
 [Remote Proxy]
+7 = https://www.xn--30q31nc3o033b.com/api/v1/client/subscribe?token=36b5aeed83443011987a251df1218f61,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true
 𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥⑧ = https://free.iam7.tk/trojan/sub,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-Miya/Shin-Miya-1023.png
 𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥⑥ = https://proxypool.link/trojan/sub,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1008.png
 𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥⑤ = https://flycnb.tk/sub?token=F9F9zZcllpdyN5TluF9F9zZF9F9zZ11EEfx0g&tag=mixed,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-Miya/Shin-Miya-1027.png
@@ -366,15 +367,21 @@ host = 127.0.0.1
 #插件
 [Plugin]
 https://yfamily.vercel.app/plugin/GeoLocation.plugin, enabled=true
+https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/Node_detection_tool.plugin, enabled=true
 https://yfamily.vercel.app/plugin/youtube.plugin, enabled=true
 https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/LoonGallery.plugin, policy=𓃰SSID𐂂, enabled=true
 https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.plugin, policy=𓃰SSID𐂂, tag=BoxJs, enabled=true
-https://yfamily.vercel.app/plugin/NodeLinkCheck.plugin, enabled=false
-https://yfamily.vercel.app/plugin/aliyun.plugin, enabled=false
-https://yfamily.vercel.app/plugin/multisearch.plugin, enabled=false
+https://yfamily.vercel.app/plugin/recover.plugin, enabled=true
+https://yfamily.vercel.app/plugin/Running-Mode.plugin, enabled=true
+https://yfamily.vercel.app/plugin/cp.plugin, enabled=true
+https://yfamily.vercel.app/plugin/ytbdualsub.plugin, enabled=true
 https://raw.githubusercontent.com/deezertidal/private/master/plugallery/GeoLocation.plugin, enabled=false
+https://yfamily.vercel.app/plugin/MediaChecker.plugin, enabled=false
+https://yfamily.vercel.app/plugin/NodeLinkCheck.plugin, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/main/NodeLinkCheck.plugin, enabled=false
 https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/NodeLinkCheck.Plugin, enabled=false
+https://yfamily.vercel.app/plugin/multisearch.plugin, enabled=false
+https://yfamily.vercel.app/plugin/aliyun.plugin, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/master/plugallery/caixin.plugin, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/master/plugallery/BaiduCloud.plugin, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/master/plugallery/bdwk.plugin, enabled=false
@@ -429,11 +436,9 @@ https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/QQMusic_remove_
 https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/IThome_remove_ads.plugin, enabled=false
 https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/BaiduNetDisk_remove_ads.plugin, enabled=false
 https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/Amap_remove_ads.plugin, enabled=false
-https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/Sub-Store.plugin, enabled=false
 https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/TestFlight.plugin, enabled=false
 https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/Weixin_external_links_unlock.plugin, enabled=false
 https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/Fileball_mount.plugin, enabled=false
-https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/Node_detection_tool.plugin, enabled=true
 https://gitlab.com/lodepuly/vpn_tool/raw/main/Tool/Loon/Plugin/Weixin_external_links_unlock.plugin, enabled=false
 https://raw.githubusercontent.com/VirgilClyne/Cloudflare/beta/plugin/Cloudflare.1.1.1.1.beta.plugin, enabled=false
 https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/Cainiao_remove_ads.plugin, enabled=false
@@ -589,7 +594,6 @@ https://raw.githubusercontent.com/deezertidal/private/main/bsxm.plugin, enabled=
 https://raw.githubusercontent.com/deezertidal/private/main/memrise.plugin, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/main/duitang.plugin, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/main/aptv.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/cp.plugin, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/main/cxs.plugin, tag=长相思, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/main/dzqj.plugin, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/main/hyxj.plugin, tag=黄油相机, enabled=false
@@ -612,13 +616,10 @@ https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/TestFlight.plug
 https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/Weibo_remove_ads.plugin, tag=微博去广告, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/main/qj.plugin, enabled=false
 https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/JD_Price.plugin, enabled=false
-https://github.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.loon.plugin, policy=𓃰SSID𐂂, enabled=false
 https://raw.githubusercontent.com/GeQ1an/Rules/master/Loon/Rewrite/Rewrite.plugin, enabled=false
-https://raw.githubusercontent.com/ipuppet/Profiles/master/Loon/Plugin/BoxJs.plugin, tag=BoxJs, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/box.png, enabled=false
 https://raw.githubusercontent.com/aico267/rule_for_quantumultX/master/Loon/Plugin/YouTube.plugin, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/main/startingad.plugin, enabled=false
 https://raw.githubusercontent.com/NobyDa/Script/master/Loon/Loon_GetCookie.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/Running-Mode.plugin, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/main/kuwo-unlock.plugin, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/main/BaiduCloud.plugin, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/main/CamScanner.plugin, enabled=false
@@ -626,9 +627,7 @@ https://raw.githubusercontent.com/deezertidal/private/main/KuwoVip.plugin, enabl
 https://raw.githubusercontent.com/deezertidal/private/main/Price.plugin, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/main/AdBlock.plugin, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/main/Ratings.plugin, enabled=false
-https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.tf.plugin, policy=𓃰SSID𐂂, enabled=false
 https://raw.githubusercontent.com/DualSubs/DualSubs/main/plugin/DualSubs.plugin, enabled=false
-https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/MediaCheck.plugin, enabled=false
 https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Block/YouTubeAds.plugin, enabled=false
 https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Block/ZhiHu.plugin, enabled=false
 https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/skip-proxy.plugin, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Frog.png, enabled=false
@@ -647,13 +646,10 @@ https://raw.githubusercontent.com/deezertidal/private/main/nfc.plugin, enabled=f
 https://raw.githubusercontent.com/deezertidal/private/main/https.plugin, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/main/rq.plugin, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/main/aqc.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/wscsds.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/wsgj.plugin, enabled=false
 https://raw.githubusercontent.com/NobyDa/Script/master/Loon/Loon_TF_Account.plugin, enabled=false
 https://raw.githubusercontent.com/NobyDa/Script/master/Loon/Loon_TF_Download.plugin, enabled=false
 https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/YouTube_remove_ads.plugin, tag=YouTube瀑布流, enabled=false
 https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/News.plugin, policy=𓃵策略選取✄, tag=天气, enabled=false
-https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Loon.plugin, policy=𓃵策略選取✄, tag=Sub-Store, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/AllInOne/AllInOne.plugin, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/Upgrade/Upgrade.plugin, policy=𓃰SSID𐂂, tag=更新检查, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/GetCookie/GetCookie.plugin, policy=𓃰SSID𐂂, tag=签到脚本, enabled=false
