@@ -183,6 +183,7 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 
 #主办
 [Host]
+
 # 本地规则
 [Rule]
 FINAL,DIRECT
@@ -629,7 +630,6 @@ https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.re
 https://raw.githubusercontent.com/DualSubs/DualSubs/main/plugin/DualSubs.plugin, enabled=false
 https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/MediaCheck.plugin, enabled=false
 https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Block/YouTubeAds.plugin, enabled=false
-https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Block/WeiboAds.plugin, enabled=false
 https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Block/ZhiHu.plugin, enabled=false
 https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/skip-proxy.plugin, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Frog.png, enabled=false
 https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/Weather.plugin, enabled=false
@@ -642,8 +642,7 @@ https://raw.githubusercontent.com/deezertidal/private/main/colorweather.plugin, 
 https://raw.githubusercontent.com/deezertidal/private/main/meituxx.plugin, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/main/xmind.plugin, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/main/wechatad.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/biliad.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/biliad.plugin, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/biliad.plugin, tag=哔哩哔哩去广告, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/main/nfc.plugin, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/main/https.plugin, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/main/rq.plugin, enabled=false
@@ -653,9 +652,8 @@ https://raw.githubusercontent.com/deezertidal/private/main/wsgj.plugin, enabled=
 https://raw.githubusercontent.com/NobyDa/Script/master/Loon/Loon_TF_Account.plugin, enabled=false
 https://raw.githubusercontent.com/NobyDa/Script/master/Loon/Loon_TF_Download.plugin, enabled=false
 https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/YouTube_remove_ads.plugin, tag=YouTube瀑布流, enabled=false
-https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/News.plugin, policy=★♻️自動🌦✈, tag=天气, enabled=false
-https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Historical%20Price.plugin, tag=Historical Price, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png, enabled=false
-https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Loon.plugin, tag=Sub-Store, enabled=false
+https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/News.plugin, policy=𓃵策略選取✄, tag=天气, enabled=false
+https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Loon.plugin, policy=𓃵策略選取✄, tag=Sub-Store, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/AllInOne/AllInOne.plugin, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/Upgrade/Upgrade.plugin, policy=𓃰SSID𐂂, tag=更新检查, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/GetCookie/GetCookie.plugin, policy=𓃰SSID𐂂, tag=签到脚本, enabled=false
