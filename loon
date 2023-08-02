@@ -555,42 +555,42 @@ https://raw.githubusercontent.com/deezertidal/private/main/lsdyw.plugin, enabled
 https://raw.githubusercontent.com/deezertidal/private/main/ywqpy.plugin, tag=语文趣配音, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/main/zhitiao.plugin, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/main/smwd.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/meipian.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/lightroom.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/calm.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/stsq.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/ssa.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/xxyq.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/hyxc.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/jsgx.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/prettyup.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/cubox.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/pandora.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/wechatread.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/ly.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/xzj.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/notboring.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/ceo.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/fileball.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/1blocker.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/ai.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/proknockout.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/qnhb.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/faintv.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/wxts.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/rmrb.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/wxds.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/chic.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/ydcd.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/efekt.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/doc.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/mksp.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/absqgs.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/collart.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/bsxm.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/memrise.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/duitang.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/aptv.plugin, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/meipian.plugin, tag=美篇, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/lightroom.plugin, tag=LightRoom, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/calm.plugin, tag=Calm解锁限制, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/stsq.plugin, tag=搜图神器, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/ssa.plugin, tag=SSA丝社, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/xxyq.plugin, tag=小小优趣, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/hyxc.plugin, tag=幻影相册, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/jsgx.plugin, tag=精塾国学, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/prettyup.plugin, tag=PrettyUp, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/cubox.plugin, tag=Cubox, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/pandora.plugin, tag=Pandora订阅管理, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/wechatread.plugin, tag=微信自动阅读, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/ly.plugin, tag=来音智能陪练, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/xzj.plugin, tag=熊掌记, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/notboring.plugin, tag=Notboring套装, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/ceo.plugin, tag=CEO周课, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/fileball.plugin, tag=Fileball, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/1blocker.plugin, tag=1blocker, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/ai.plugin, tag=AI换脸秀, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/proknockout.plugin, tag=proKnockout, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/qnhb.plugin, tag=青柠海报, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/faintv.plugin, tag=FainTV, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/wxts.plugin, tag=微信听书, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/rmrb.plugin, tag=人民日报去广告, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/wxds.plugin, tag=微信读书, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/chic.plugin, tag=Chic, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/ydcd.plugin, tag=有道词典, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/efekt.plugin, tag=EFEKT美易, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/doc.plugin, tag=WPS稻壳会员, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/mksp.plugin, tag=米克锁屏, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/absqgs.plugin, tag=阿布睡前故事, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/collart.plugin, tag=Collart, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/bsxm.plugin, tag=博商小麦, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/memrise.plugin, tag=Memrise, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/duitang.plugin, tag=堆糖, enabled=false
+https://raw.githubusercontent.com/deezertidal/private/main/aptv.plugin, tag=APTV, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/main/cxs.plugin, tag=长相思, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/main/dzqj.plugin, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/main/hyxj.plugin, tag=黄油相机, enabled=false
@@ -605,7 +605,7 @@ https://raw.githubusercontent.com/deezertidal/private/main/jssmy.plugin, enabled
 https://raw.githubusercontent.com/deezertidal/private/main/zjbj.plugin, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/main/agenda.plugin, enabled=false
 https://github.com/VirgilClyne/GetSomeFries/blob/main/plugin/Disney%2B.plugin?raw=true, enabled=false
-https://github.com/VirgilClyne/GetSomeFries/blob/main/plugin/General.plugin?raw=true, enabled=false
+https://github.com/VirgilClyne/GetSomeFries/blob/main/plugin/General.plugin?raw=true, tag=🍟 Fries: 🌐 General Enhanced, enabled=false
 https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/plugin/DNS.plugin, enabled=false
 https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/Siri.plugin, enabled=false
 https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/TV.plugin, enabled=false
