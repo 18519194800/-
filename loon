@@ -11,10 +11,14 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 
 #别名=订阅節點URL
 [Remote Proxy]
-𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥④ = https://sub1.smallstrawberry.com/api/v1/client/subscribe?token=5ec909f6d853a669c344dc660ed71f4d,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-Miya/Shin-Miya-1027.png
-𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥③ = https://free.jingfu.cf/vmess/sub,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/012.png
-𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥② = https://raw.fgit.cf/Pawdroid/Free-servers/main/sub,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Tom-Jerry/Tom-Jerry-1036.png
-𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥① = https://pastebin.com/raw/xWWAYfeq,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/chxm1023/Script_X/main/icon/dlam.png
+𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥⑧ = https://raw.githubusercontent.com/zdyzsb/zdyzsb/main/ZDYZ2,parser-enabled = true,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/xiaohongshu.png
+𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥⑦ = https://jiang.netlify.app,parser-enabled = true,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_GameCenter.png
+𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥⑥ = https://free.jingfu.cf/trojan/sub,parser-enabled = true,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/black2c7/TheMagic-Icons/main/Icons/Qingning.png
+𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥⑤ = https://raw.githubusercontent.com/freefq/free/master/v2,parser-enabled = true,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/black2c7/TheMagic-Icons/main/Icons/EF.png
+𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥④ = https://sub1.smallstrawberry.com/api/v1/client/subscribe?token=5ec909f6d853a669c344dc660ed71f4d,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-Miya/Shin-Miya-1027.png
+𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥③ = https://free.jingfu.cf/vmess/sub,parser-enabled = true,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/012.png
+𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥② = https://raw.fgit.cf/Pawdroid/Free-servers/main/sub,parser-enabled = true,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Tom-Jerry/Tom-Jerry-1036.png
+𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥① = https://pastebin.com/raw/xWWAYfeq,parser-enabled = true,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/chxm1023/Script_X/main/icon/dlam.png
 🦥“上”👍✈⋯· ·  ·   ·🪂 = https://flycnb.tk/sub?token=F9F9zZcllpdyN5TluF9F9zZF9F9zZ11EEfx0g&tag=mixed,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/saintbasilscathedral.png
 🦥“中”🤝✈⋯· ·  ·   ·🪂 = https://ghproxy.com/raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx1,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/chiangkaishekmemorialhouse.png
 🦥“下”👎✈⋯· ·  ·   ·🪂 = https://free.iam7.tk/trojan/sub,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/gyeongbokgungpalace.png
@@ -23,7 +27,7 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 𓆉“坎”🌊✈⋯· ·  ·   ·⛹️‍♀️ = https://clashe.eu.org/trojan/sub,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Bamboo.png
 𓆉“艮”⛰✈⋯· ·  ·   ·⛹️‍♀️ = https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Catnet.png
 𓆉“震”🌩✈⋯· ·  ·   ·⛹️‍♀️ = https://raw.githubusercontent.com/ssrsub/ssr/master/V2Ray,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Kache.png
-𓆉“巽”🌪✈⋯· ·  ·   ·⛹️‍♀️ = https://sub.pmsub.me/base64,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Spark.png
+𓆉“巽”🌪✈⋯· ·  ·   ·⛹️‍♀️ = https://paste.gg/p/anonymous/0ce9a53d83e54c6688e098fee3d1d32c/files/4cd975cc432b4c6480bd153381c4eb1e/raw,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Spark.png
 𓆉“离”🔥✈⋯· ·  ·   ·⛹️‍♀️ = https://ghproxy.com/raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx2,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Available.png
 𓆉“坤”🌍✈⋯· ·  ·   ·⛹️‍♀️ = https://raw.githubusercontent.com/ssrsub/ssr/master/trojan,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Ox.png
 𓆉“兑”🏊‍♂️✈⋯· ·  ·   ·⛹️‍♀️ = https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Cellular.png
@@ -69,8 +73,8 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 # 策略组
 [Proxy Group]
 𓃵策略選取✄ = select,🎭壹🐲號🌦✈⋯· ☀︎💥,🎭貳🐲號🌦✈⋯· ☀︎💥,🎭叁🐲號🌦✈⋯· ☀︎💥,🎭肆🐲號🌦✈⋯· ☀︎💥,🎭伍🐲號🌦✈⋯· ☀︎💥,節點🏴‍☠️,倭奴國🇯🇵,牆國霧霾區🇨🇳,共匪野爹🇷🇺,西亞病毒🇹🇷,高麗棒子🇰🇷,歐洲聯盟🇪🇺,開賭場地🇲🇴,販毒洗錢地🇭🇰,崑崙奴國🇮🇳,加拿大聯邦🇨🇦,中華自由地區🇰🇭,美利堅強盜國🇺🇸,新加坡共和國🇸🇬,澳大利亞聯邦🇦🇺,法蘭西共和國🇫🇷,德意志聯邦共和國🇩🇪,大不列顛及北愛爾蘭聯合王國🇬🇧,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png
-🎭壹🐲號🌦✈⋯· ☀︎💥 = url-test,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Doraemon/Doraemon-1048.png
-🎭貳🐲號🌦✈⋯· ☀︎💥 = url-test,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-chan/Shin-chan-1036.png
+🎭壹🐲號🌦✈⋯· ☀︎💥 = url-test,𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥②,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Doraemon/Doraemon-1048.png
+🎭貳🐲號🌦✈⋯· ☀︎💥 = url-test,𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥①,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-chan/Shin-chan-1036.png
 🎭叁🐲號🌦✈⋯· ☀︎💥 = url-test,𓆉“坎”🌊✈⋯· ·  ·   ·⛹️‍♀️,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Tom-Jerry/Tom-Jerry-1036.png
 🎭肆🐲號🌦✈⋯· ☀︎💥 = url-test,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-Miya/Shin-Miya-1027.png
 🎭伍🐲號🌦✈⋯· ☀︎💥 = url-test,🦥“下”👎✈⋯· ·  ·   ·🪂,🦥“中”🤝✈⋯· ·  ·   ·🪂,🦥“上”👍✈⋯· ·  ·   ·🪂,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1015.png
@@ -379,7 +383,7 @@ https://yfamily.vercel.app/plugin/recover.plugin, enabled=true
 https://yfamily.vercel.app/plugin/Running-Mode.plugin, enabled=true
 https://yfamily.vercel.app/plugin/cp.plugin, enabled=true
 https://raw.githubusercontent.com/deezertidal/private/master/plugallery/GeoLocation.plugin, enabled=false
-https://yfamily.vercel.app/plugin/MediaChecker.plugin, enabled=false
+https://yfamily.vercel.app/plugin/MediaChecker.plugin, enabled=true
 https://yfamily.vercel.app/plugin/NodeLinkCheck.plugin, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/main/NodeLinkCheck.plugin, enabled=false
 https://yfamily.vercel.app/plugin/multisearch.plugin, enabled=false
@@ -389,7 +393,6 @@ https://raw.githubusercontent.com/deezertidal/private/master/plugallery/bdwk.plu
 https://raw.githubusercontent.com/deezertidal/private/master/plugallery/baimiao.plugin, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/master/plugallery/arpdfbj.plugin, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/master/plugallery/artp.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/master/plugallery/amj.plugin, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/master/plugallery/aliyun.plugin, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/master/plugallery/absqgs.plugin, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/master/plugallery/7dong.plugin, enabled=false
@@ -522,7 +525,6 @@ https://raw.githubusercontent.com/deezertidal/private/main/rrsp.plugin, enabled=
 https://raw.githubusercontent.com/deezertidal/private/main/qmxs.plugin, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/main/mht.plugin, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/main/notability.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/amj.plugin, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/main/baimiao.plugin, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/main/oldroll.plugin, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/main/sndd.plugin, enabled=false
