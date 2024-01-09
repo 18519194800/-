@@ -11,8 +11,9 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 
 #别名=订阅節點URL
 [Remote Proxy]
+𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥⑧ = https://tt.vg/freeclash,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/black2c7/TheMagic-Icons/main/Icons/Flybird.png
 𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥⑦ = https://jiang.netlify.app,parser-enabled = true,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_GameCenter.png
-𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥⑥ = https://free.jingfu.cf/trojan/sub,parser-enabled = true,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/black2c7/TheMagic-Icons/main/Icons/Qingning.png
+𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥⑥ = https://free.jingfu.cf/trojan/sub,parser-enabled = true,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/black2c7/TheMagic-Icons/main/Icons/TNTV2.png
 𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥⑤ = https://raw.githubusercontent.com/freefq/free/master/v2,parser-enabled = true,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/black2c7/TheMagic-Icons/main/Icons/EF.png
 𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥④ = https://sub1.smallstrawberry.com/api/v1/client/subscribe?token=5ec909f6d853a669c344dc660ed71f4d,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-Miya/Shin-Miya-1027.png
 𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥③ = https://free.jingfu.cf/vmess/sub,parser-enabled = true,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/012.png
@@ -75,26 +76,8 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 🎭壹🐲號🌦✈⋯· ☀︎💥 = url-test,𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥②,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Doraemon/Doraemon-1048.png
 🎭貳🐲號🌦✈⋯· ☀︎💥 = url-test,𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥①,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-chan/Shin-chan-1036.png
 🎭叁🐲號🌦✈⋯· ☀︎💥 = url-test,𓆉“坎”🌊✈⋯· ·  ·   ·⛹️‍♀️,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Tom-Jerry/Tom-Jerry-1036.png
-🎭肆🐲號🌦✈⋯· ☀︎💥 = url-test,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-Miya/Shin-Miya-1027.png
+🎭肆🐲號🌦✈⋯· ☀︎💥 = url-test,𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥⑧,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-Miya/Shin-Miya-1027.png
 🎭伍🐲號🌦✈⋯· ☀︎💥 = url-test,🦥“下”👎✈⋯· ·  ·   ·🪂,🦥“中”🤝✈⋯· ·  ·   ·🪂,🦥“上”👍✈⋯· ·  ·   ·🪂,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1015.png
-節點🏴‍☠️ = select,⏱節點,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Pirate_Nation.png
-倭奴國🇯🇵 = select,🇯🇵日本,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Japan.png
-共匪野爹🇷🇺 = select,🇷🇺俄羅斯,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Russia.png
-西亞病毒🇹🇷 = select,🇹🇷土耳其,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Turkey.png
-高麗棒子🇰🇷 = select,🇰🇷韓國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Korea.png
-歐洲聯盟🇪🇺 = select,🇪🇺歐盟,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/European_Union.png
-開賭場地🇲🇴 = select,🇲🇴澳門,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Macao.png
-崑崙奴國🇮🇳 = select,🇮🇳印度,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/India.png
-販毒洗錢地🇭🇰 = select,🇭🇰香港,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hong_Kong.png
-牆國霧霾區🇨🇳 = select,🇨🇳回國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png
-加拿大聯邦🇨🇦 = select,🇨🇦加拿大,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Canada.png
-中華自由地區🇰🇭 = select,🇰🇭臺灣,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Taiwan.png
-美利堅強盜國🇺🇸 = select,🇺🇸美國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_States.png
-新加坡共和國🇸🇬 = select,🇸🇬新加坡,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Singapore.png
-澳大利亞聯邦🇦🇺 = select,🇦🇺澳大利亞,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Australia.png
-法蘭西共和國🇫🇷 = select,🇫🇷法國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/France.png
-德意志聯邦共和國🇩🇪 = select,🇩🇪德國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Germany.png
-大不列顛及北愛爾蘭聯合王國🇬🇧 = select,🇬🇧英國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_Kingdom.png
 𓃰SSID𐂂 = ssid,default=𓃵策略選取✄,cellular=𓃵策略選取✄,"𓃵策略選取✄"=𓃵策略選取✄,img-url = https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/SSID.png
 🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬 = select,DIRECT,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Direct.png
 ⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬 = select,REJECT,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Reject.png
@@ -189,6 +172,24 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 𓃰YouTubeMusic🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube_Music.png
 𓃰DiscoveryPlus🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Discovery.png
 𓃰ParamountPlus🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Paramount.png
+節點🏴‍☠️ = select,⏱節點,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Pirate_Nation.png
+倭奴國🇯🇵 = select,🇯🇵日本,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Japan.png
+共匪野爹🇷🇺 = select,🇷🇺俄羅斯,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Russia.png
+西亞病毒🇹🇷 = select,🇹🇷土耳其,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Turkey.png
+高麗棒子🇰🇷 = select,🇰🇷韓國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Korea.png
+歐洲聯盟🇪🇺 = select,🇪🇺歐盟,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/European_Union.png
+開賭場地🇲🇴 = select,🇲🇴澳門,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Macao.png
+崑崙奴國🇮🇳 = select,🇮🇳印度,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/India.png
+販毒洗錢地🇭🇰 = select,🇭🇰香港,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hong_Kong.png
+牆國霧霾區🇨🇳 = select,🇨🇳回國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png
+加拿大聯邦🇨🇦 = select,🇨🇦加拿大,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Canada.png
+中華自由地區🇰🇭 = select,🇰🇭臺灣,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Taiwan.png
+美利堅強盜國🇺🇸 = select,🇺🇸美國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_States.png
+新加坡共和國🇸🇬 = select,🇸🇬新加坡,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Singapore.png
+澳大利亞聯邦🇦🇺 = select,🇦🇺澳大利亞,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Australia.png
+法蘭西共和國🇫🇷 = select,🇫🇷法國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/France.png
+德意志聯邦共和國🇩🇪 = select,🇩🇪德國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Germany.png
+大不列顛及北愛爾蘭聯合王國🇬🇧 = select,🇬🇧英國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_Kingdom.png
 
 #主办
 [Host]
