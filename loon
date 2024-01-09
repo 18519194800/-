@@ -11,7 +11,6 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 
 #别名=订阅節點URL
 [Remote Proxy]
-𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥⑧ = https://raw.githubusercontent.com/zdyzsb/zdyzsb/main/ZDYZ2,parser-enabled = true,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/xiaohongshu.png
 𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥⑦ = https://jiang.netlify.app,parser-enabled = true,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_GameCenter.png
 𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥⑥ = https://free.jingfu.cf/trojan/sub,parser-enabled = true,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/black2c7/TheMagic-Icons/main/Icons/Qingning.png
 𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥⑤ = https://raw.githubusercontent.com/freefq/free/master/v2,parser-enabled = true,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/black2c7/TheMagic-Icons/main/Icons/EF.png
@@ -33,7 +32,7 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 𓆉“兑”🏊‍♂️✈⋯· ·  ·   ·⛹️‍♀️ = https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Cellular.png
 𓃰“子”🐁✈⋯··· ·  ·🚴‍♂️ = https://sub.sharecentre.online/sub,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/WiFi.png
 𓃰“醜”🦬✈⋯··· ·  ·🚴‍♂️ = https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Infuse.png
-𓃰“寅”🐯✈⋯··· ·  ·🚴‍♂️ = https://dy.xhj1002.link/xhj1006,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Want_Want.png
+𓃰“寅”🐯✈⋯··· ·  ·🚴‍♂️ = https://raw.githubusercontent.com/zdyzsb/zdyzsb/main/ZDYZ2,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Want_Want.png
 𓃰“卯”🐇✈⋯··· ·  ·🚴‍♂️ = https://raw.githubusercontent.com/yxzbp/yxzbp_p/main/yxzbp,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/WeChat.png
 𓃰“辰”🐉✈⋯··· ·  ·🚴‍♂️ = https://pastebin.com/raw/fpeEqGTn,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/QQ.png
 𓃰“巳”🐍✈⋯··· ·  ·🚴‍♂️ = https://gitlab.com/univstar1/v2ray/-/raw/main/data/v2ray/general.txt,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/WeTV.png
