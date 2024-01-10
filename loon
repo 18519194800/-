@@ -11,10 +11,10 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 
 #别名=订阅節點URL
 [Remote Proxy]
-𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥⑧ = https://tt.vg/freeclash,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/ql.png
-𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥⑦ = https://jiang.netlify.app,parser-enabled = true,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_GameCenter.png
-𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥⑥ = https://free.jingfu.cf/trojan/sub,parser-enabled = true,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/black2c7/TheMagic-Icons/main/Icons/TNTV2.png
-𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥⑤ = https://raw.githubusercontent.com/freefq/free/master/v2,parser-enabled = true,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/black2c7/TheMagic-Icons/main/Icons/EF.png
+𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥⑧ = https://tt.vg/freeclash,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/ql_logo.png
+𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥⑦ = https://jiang.netlify.app,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_GameCenter.png
+𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥⑥ = https://free.jingfu.cf/trojan/sub,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/black2c7/TheMagic-Icons/main/Icons/TNTV2.png
+𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥⑤ = https://raw.githubusercontent.com/freefq/free/master/v2,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/black2c7/TheMagic-Icons/main/Icons/EF.png
 𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥④ = https://sub1.smallstrawberry.com/api/v1/client/subscribe?token=5ec909f6d853a669c344dc660ed71f4d,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-Miya/Shin-Miya-1027.png
 𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥③ = https://free.jingfu.cf/vmess/sub,parser-enabled = true,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/012.png
 𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥② = https://raw.fgit.cf/Pawdroid/Free-servers/main/sub,parser-enabled = true,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Tom-Jerry/Tom-Jerry-1036.png
@@ -72,7 +72,7 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 
 # 策略组
 [Proxy Group]
-𓃵策略選取✄ = select,🎭壹🐲號🌦✈⋯· ☀︎💥,🎭貳🐲號🌦✈⋯· ☀︎💥,🎭叁🐲號🌦✈⋯· ☀︎💥,🎭肆🐲號🌦✈⋯· ☀︎💥,🎭伍🐲號🌦✈⋯· ☀︎💥,節點總數🏴‍☠️,矮奴倭國🇯🇵,牆國霧霾區🇨🇳,赤匪野爹🇷🇺,西亞病夫🇹🇷,高麗棒子🇰🇷,歐洲聯盟🇪🇺,開賭場的🇲🇴,販毒洗錢的🇭🇰,崑崙奴國🇮🇳,加拿大聯邦🇨🇦,中華自由地區🇰🇭,美利堅強盜國🇺🇸,新加坡共和國🇸🇬,澳大利亞聯邦🇦🇺,法蘭西共和國🇫🇷,德意志聯邦共和國🇩🇪,大不列顛及北愛爾蘭聯合王國🇬🇧,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png
+𓃵策略選取✄ = select,🎭壹🐲號🌦✈⋯· ☀︎💥,🎭貳🐲號🌦✈⋯· ☀︎💥,🎭叁🐲號🌦✈⋯· ☀︎💥,🎭肆🐲號🌦✈⋯· ☀︎💥,🎭伍🐲號🌦✈⋯· ☀︎💥,節點總數🏴‍☠️,矮奴倭國🇯🇵,獨裁淪陷區🇨🇳,赤匪野爹🇷🇺,西亞病夫🇹🇷,高麗棒子🇰🇷,歐陸聯盟🇪🇺,開賭場的🇲🇴,販毒洗錢的🇭🇰,崑崙奴場🇮🇳,加拿大聯邦🇨🇦,中華自由地區🇰🇭,美利堅強盜國🇺🇸,新加坡共和國🇸🇬,澳大利亞聯邦🇦🇺,法蘭西共和國🇫🇷,德意志聯邦共和國🇩🇪,大不列顛及北愛爾蘭聯合王國🇬🇧,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png
 🎭壹🐲號🌦✈⋯· ☀︎💥 = url-test,𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥②,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Doraemon/Doraemon-1048.png
 🎭貳🐲號🌦✈⋯· ☀︎💥 = url-test,𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥①,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-chan/Shin-chan-1036.png
 🎭叁🐲號🌦✈⋯· ☀︎💥 = url-test,𓆉“坎”🌊✈⋯· ·  ·   ·⛹️‍♀️,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Tom-Jerry/Tom-Jerry-1036.png
@@ -177,11 +177,11 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 赤匪野爹🇷🇺 = select,🇷🇺俄羅斯,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Russia.png
 西亞病夫🇹🇷 = select,🇹🇷土耳其,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Turkey.png
 高麗棒子🇰🇷 = select,🇰🇷韓國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Korea.png
-歐洲聯盟🇪🇺 = select,🇪🇺歐盟,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/European_Union.png
+歐陸聯盟🇪🇺 = select,🇪🇺歐盟,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/European_Union.png
 開賭場的🇲🇴 = select,🇲🇴澳門,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Macao.png
-崑崙奴國🇮🇳 = select,🇮🇳印度,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/India.png
+崑崙奴場🇮🇳 = select,🇮🇳印度,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/India.png
 販毒洗錢的🇭🇰 = select,🇭🇰香港,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hong_Kong.png
-牆國霧霾區🇨🇳 = select,🇨🇳回國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png
+獨裁淪陷區🇨🇳 = select,🇨🇳回國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png
 加拿大聯邦🇨🇦 = select,🇨🇦加拿大,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Canada.png
 中華自由地區🇰🇭 = select,🇰🇭臺灣,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Taiwan.png
 美利堅強盜國🇺🇸 = select,🇺🇸美國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_States.png
@@ -624,7 +624,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Lo
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/Advertising/Advertising.plugin, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=复写去广告, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/Redirect/Redirect.plugin, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin, enabled=false
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/AdvertisingScript/AdvertisingScript.plugin, enabled=false
 
 [MITM]
 skip-server-cert-verify = false
