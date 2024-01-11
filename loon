@@ -149,6 +149,7 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 𓃰FuboTV🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★👋手動🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★💯負載🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/fuboTV.png
 𓃰Deezer🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/deezer.png
 𓃰Discord🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Discord.png
+𓃰TeraBox🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★👋手動🌦✈,★♻️自動🌦✈,★💯負載🌦✈,★♨️檢測🌦✈,img-url = https://raw.githubusercontent.com/black2c7/TheMagic-Icons/main/Icons/Wd1.png
 𓃰Amazon🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Amazon.png
 𓃰Disney+🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/DisneyPlus.png
 𓃰Pandora🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★👋手動🌦✈,★♨️檢測🌦✈,★♻️自動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Pandora.png
@@ -211,181 +212,189 @@ FINAL,𓃰SSID𐂂
 # 订阅规则
 [Remote Rule]
 https://whatshub.top/rule/DingTalk.list, policy=𓃰釘釘💚, tag=钉钉, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/DingTalk/DingTalk.list, policy=𓃰釘釘💚, tag=釘釘, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/Game.list, policy=𓃰遊戲💚, tag=遊戲, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/DingTalk/DingTalk.list, policy=𓃰釘釘💚, tag=釘釘, enabled=false
+https://whatshub.top/rule/2KGames.list, policy=𓃰遊戲💚, tag=游戏, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/Game.list, policy=𓃰遊戲💚, tag=遊戲, parser-enable=true, enabled=false
 https://whatshub.top/rule/Zhihu.list, policy=𓃰知乎💚, tag=知乎, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Zhihu/Zhihu.list, policy=𓃰知乎💚, tag=知乎, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Zhihu/Zhihu.list, policy=𓃰知乎💚, tag=知乎, parser-enable=true, enabled=false
 https://whatshub.top/rule/XianYu.list, policy=𓃰閒魚💚, tag=闲鱼, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/XianYu/XianYu.list, policy=𓃰閒魚💚, tag=閒魚, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/XianYu/XianYu.list, policy=𓃰閒魚💚, tag=閒魚, parser-enable=true, enabled=false
 https://whatshub.top/rule/Weibo.list, policy=𓃰微博💚, tag=微博, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Weibo/Weibo.list, policy=𓃰微博💚, tag=微博, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Weibo/Weibo.list, policy=𓃰微博💚, tag=微博, parser-enable=true, enabled=false
 https://whatshub.top/rule/FeiZhu.list, policy=𓃰飛豬💚, tag=飞猪, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/FeiZhu/FeiZhu.list, policy=𓃰飛豬💚, tag=飛豬, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/FeiZhu/FeiZhu.list, policy=𓃰飛豬💚, tag=飛豬, parser-enable=true, enabled=false
 https://whatshub.top/rule/Baidu.list, policy=𓃰百度💚, tag=百度, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Baidu/Baidu.list, policy=𓃰百度💚, tag=百度, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Baidu/Baidu.list, policy=𓃰百度💚, tag=百度, parser-enable=true, enabled=false
 https://whatshub.top/rule/KuaiShou.list, policy=𓃰快手💚, tag=快手, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/KuaiShou/KuaiShou.list, policy=𓃰快手💚, tag=快手, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/KuaiShou/KuaiShou.list, policy=𓃰快手💚, tag=快手, parser-enable=true, enabled=false
 https://whatshub.top/rule/JingDong.list, policy=𓃰京東💚, tag=京东, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/JingDong/JingDong.list, policy=𓃰京東💚, tag=京東, enabled=false
 https://whatshub.top/rule/DouBan.list, policy=𓃰豆瓣💚, tag=豆瓣, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/DouBan/DouBan.list, policy=𓃰豆瓣💚, tag=豆瓣, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/DouBan/DouBan.list, policy=𓃰豆瓣💚, tag=豆瓣, parser-enable=true, enabled=false
 https://whatshub.top/rule/MeiTuan.list, policy=𓃰美團💚, tag=美团, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/MeiTuan/MeiTuan.list, policy=𓃰美團💚, tag=美團, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/MeiTuan/MeiTuan.list, policy=𓃰美團💚, tag=美團, parser-enable=true, enabled=false
 https://whatshub.top/rule/Bing.list, policy=𓃰必應💚, tag=必应, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Bing/Bing.list, policy=𓃰必應💚, tag=必應, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Bing/Bing.list, policy=𓃰必應💚, tag=必應, parser-enable=true, enabled=false
 https://whatshub.top/rule/WeChat.list, policy=𓃰微信💚, tag=微信, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/WeChat/WeChat.list, policy=𓃰微信💚, tag=微信, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/WeChat/WeChat.list, policy=𓃰微信💚, tag=微信, parser-enable=true, enabled=false
 https://whatshub.top/rule/Tencent.list, policy=𓃰騰訊QQ💚, tag=腾讯, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Tencent/Tencent.list, policy=𓃰騰訊QQ💚, tag=騰訊, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Tencent/Tencent.list, policy=𓃰騰訊QQ💚, tag=騰訊, parser-enable=true, enabled=false
 https://whatshub.top/rule/AppleID.list, policy=𓃰Apple💚, tag=Apple, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Apple/Apple.list, policy=𓃰Apple💚, tag=Apple, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Apple/Apple.list, policy=𓃰Apple💚, tag=Apple, parser-enable=true, enabled=false
 https://whatshub.top/rule/AcFun.list, policy=𓃰acfun💚, tag=AcFun, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AcFun/AcFun.list, policy=𓃰acfun💚, tag=AcFun, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AcFun/AcFun.list, policy=𓃰acfun💚, tag=AcFun, enabled=false
 https://whatshub.top/rule/XiaoHongShu.list, policy=𓃰小紅書💚, tag=小红书, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/XiaoHongShu/XiaoHongShu.list, policy=𓃰小紅書💚, tag=小紅書, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/XiaoHongShu/XiaoHongShu.list, policy=𓃰小紅書💚, tag=小紅書, parser-enable=true, enabled=false
 https://whatshub.top/rule/AliPay.list, policy=𓃰支付寶💚, tag=支付宝, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AliPay/AliPay.list, policy=𓃰支付寶💚, tag=支付寶, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AliPay/AliPay.list, policy=𓃰支付寶💚, tag=支付寶, enabled=false
 https://whatshub.top/rule/Pinduoduo.list, policy=𓃰拼多多💚, tag=拼多多, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Pinduoduo/Pinduoduo.list, policy=𓃰拼多多💚, tag=拼多多, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Pinduoduo/Pinduoduo.list, policy=𓃰拼多多💚, tag=拼多多, parser-enable=true, enabled=false
 https://whatshub.top/rule/iQIYI.list, policy=𓃰愛奇藝💚, tag=爱奇艺, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/iQIYI/iQIYI.list, policy=𓃰愛奇藝💚, tag=愛奇藝, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/iQIYI/iQIYI.list, policy=𓃰愛奇藝💚, tag=愛奇藝, parser-enable=true, enabled=false
 https://whatshub.top/rule/Alibaba.list, policy=𓃰阿里巴巴💚, tag=阿里巴巴, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Alibaba/Alibaba.list, policy=𓃰阿里巴巴💚, tag=阿里巴巴, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Alibaba/Alibaba.list, policy=𓃰阿里巴巴💚, tag=阿里巴巴, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Cloud/TencentCloud/TencentCloud.list, policy=𓃰阿里雲盤💚, tag=阿里雲盤, enabled=true
 https://whatshub.top/rule/TencentVideo.list, policy=𓃰騰訊視頻💚, tag=腾讯视频, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/TencentVideo/TencentVideo.list, policy=𓃰騰訊視頻💚, tag=騰訊視頻, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/TencentVideo/TencentVideo.list, policy=𓃰騰訊視頻💚, tag=騰訊視頻, parser-enable=true, enabled=false
 https://whatshub.top/rule/BaiDuTieBa.list, policy=𓃰百度貼吧💚, tag=百度贴吧, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/BaiDuTieBa/BaiDuTieBa.list, policy=𓃰百度貼吧💚, tag=百度貼吧, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/BaiDuTieBa/BaiDuTieBa.list, policy=𓃰百度貼吧💚, tag=百度貼吧, parser-enable=true, enabled=false
 https://whatshub.top/rule/ChinaTelecom.list, policy=𓃰中國電信💚, tag=中国电信, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaTelecom/ChinaTelecom.list, policy=𓃰中國電信💚, tag=中國電信, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaTelecom/ChinaTelecom.list, policy=𓃰中國電信💚, tag=中國電信, parser-enable=true, enabled=false
 https://whatshub.top/rule/ChinaUnicom.list, policy=𓃰中國聯通💚, tag=中国联通, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaUnicom/ChinaUnicom.list, policy=𓃰中國聯通💚, tag=中國聯通, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaUnicom/ChinaUnicom.list, policy=𓃰中國聯通💚, tag=中國聯通, parser-enable=true, enabled=false
 https://whatshub.top/rule/ChinaMobile.list, policy=𓃰中國移動💚, tag=中国移动, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaMobile/ChinaMobile.list, policy=𓃰中國移動💚, tag=中國移動, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaMobile/ChinaMobile.list, policy=𓃰中國移動💚, tag=中國移動, parser-enable=true, enabled=false
 https://whatshub.top/rule/Himalaya.list, policy=𓃰喜馬拉雅💚, tag=喜马拉雅, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Himalaya/Himalaya.list, policy=𓃰喜馬拉雅💚, tag=喜馬拉雅, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Himalaya/Himalaya.list, policy=𓃰喜馬拉雅💚, tag=喜馬拉雅, parser-enable=true, enabled=false
 https://whatshub.top/rule/AppleMail.list, policy=𓃰AppleMail💚, tag=AppleMail, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AppleMail/AppleMail.list, policy=𓃰AppleMail💚, tag=AppleMail, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AppleMail/AppleMail.list, policy=𓃰AppleMail💚, tag=AppleMail, enabled=false
 https://whatshub.top/rule/MicrosoftEdge.list, policy=𓃰Microsoft💚, tag=Microsoft, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Microsoft/Microsoft.list, policy=𓃰Microsoft💚, tag=Microsoft, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Microsoft/Microsoft.list, policy=𓃰Microsoft💚, tag=Microsoft, parser-enable=true, enabled=false
 https://whatshub.top/rule/AppStore.list, policy=𓃰App_Store💚, tag=AppStore, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AppStore/AppStore.list, policy=𓃰App_Store💚, tag=AppStore, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AppStore/AppStore.list, policy=𓃰App_Store💚, tag=AppStore, parser-enable=true, enabled=false
 https://whatshub.top/rule/SMZDM.list, policy=𓃰什麼值得買💚, tag=什么值得买, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/SMZDM/SMZDM.list, policy=𓃰什麼值得買💚, tag=什麼值得買, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/SMZDM/SMZDM.list, policy=𓃰什麼值得買💚, tag=什麼值得買, parser-enable=true, enabled=false
 https://whatshub.top/rule/AppleMusic.list, policy=𓃰 AppleMusic💚, tag=AppleMusic, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AppleMusic/AppleMusic.list, policy=𓃰 AppleMusic💚, tag=AppleMusic, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AppleMusic/AppleMusic.list, policy=𓃰 AppleMusic💚, tag=AppleMusic, parser-enable=true, enabled=false
 https://whatshub.top/rule/NetEaseMusic.list, policy=𓃰NeteaseMusic💘, tag=网易云音乐, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/NetEaseMusic/NetEaseMusic.list, policy=𓃰NeteaseMusic💘, tag=网易云音乐, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/NetEaseMusic/NetEaseMusic.list, policy=𓃰NeteaseMusic💘, tag=网易云音乐, parser-enable=true, enabled=false
 https://whatshub.top/rule/BiliBili.list, policy=𓃰嗶哩嗶哩💚, tag=哔哩哔哩, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/BiliBili/BiliBili.list, policy=𓃰嗶哩嗶哩💚, tag=嗶哩嗶哩, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/BiliBili/BiliBili.list, policy=𓃰嗶哩嗶哩💚, tag=嗶哩嗶哩, enabled=false
 https://whatshub.top/rule/Bahamut.list, policy=𓃰巴哈姆特💚, tag=巴哈姆特, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Bahamut/Bahamut.list, policy=𓃰巴哈姆特💚, tag=巴哈姆特, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Bahamut/Bahamut.list, policy=𓃰巴哈姆特💚, tag=巴哈姆特, parser-enable=true, enabled=false
 https://whatshub.top/rule/Netflix.list, policy=𓃰Netflix🌟, tag=Netflix, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Netflix/Netflix.list, policy=𓃰Netflix🌟, tag=Netflix, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Netflix/Netflix.list, policy=𓃰Netflix🌟, tag=Netflix, parser-enable=true, enabled=false
 https://whatshub.top/rule/Fox.list, policy=𓃰Fox🌟, tag=Fox, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/FOXPlus/FOXPlus.list, policy=𓃰Fox🌟, tag=FOX, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/FOXPlus/FOXPlus.list, policy=𓃰Fox🌟, tag=FOX, parser-enable=true, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/All4/All4.list, policy=𓃰All4🌟, tag=All4, parser-enable=true, enabled=true
-https://whatshub.top/rule/All4.list, policy=𓃰All4🌟, tag=All4, parser-enable=true, enabled=true
+https://whatshub.top/rule/All4.list, policy=𓃰All4🌟, tag=All4, parser-enable=true, enabled=false
 https://whatshub.top/rule/PBS.list, policy=𓃰PBS🌟, tag=PBS, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/PBS/PBS.list, policy=𓃰PBS🌟, tag=PBS, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/TVB/TVB.list, policy=𓃰BVT🌟, tag=BVT, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/PBS/PBS.list, policy=𓃰PBS🌟, tag=PBS, enabled=false
+https://whatshub.top/rule/EncoreTVB.list, policy=𓃰BVT🌟, tag=TVB, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/TVB/TVB.list, policy=𓃰BVT🌟, tag=TVB, enabled=false
 https://whatshub.top/rule/BBC.list, policy=𓃰BBC🌟, tag=BBC, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/BBC/BBC.list, policy=𓃰BBC🌟, tag=BBC, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/BBC/BBC.list, policy=𓃰BBC🌟, tag=BBC, parser-enable=true, enabled=false
 https://whatshub.top/rule/NBC.list, policy=𓃰NBC🌟, tag=NBC, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/NBC/NBC.list, policy=𓃰NBC🌟, tag=NBC, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/NBC/NBC.list, policy=𓃰NBC🌟, tag=NBC, parser-enable=true, enabled=false
 https://whatshub.top/rule/HBO.list, policy=𓃰HBO🌟, tag=HBO, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/HBO/HBO.list, policy=𓃰HBO🌟, tag=HBO, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/HBO/HBO.list, policy=𓃰HBO🌟, tag=HBO, parser-enable=true, enabled=false
 https://whatshub.top/rule/Line.list, policy=𓃰LINE🌟, tag=Line, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Line/Line.list, policy=𓃰LINE🌟, tag=LINE, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Line/Line.list, policy=𓃰LINE🌟, tag=LINE, enabled=false
 https://whatshub.top/rule/Slack.list, policy=𓃰Slack🌟, tag=Slack, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Slack/Slack.list, policy=𓃰Slack🌟, tag=Slack, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Slack/Slack.list, policy=𓃰Slack🌟, tag=Slack, enabled=false
 https://whatshub.top/rule/Xbox.list, policy=𓃰XboX🌟, tag=Xbox, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Xbox/Xbox.list, policy=𓃰XboX🌟, tag=Xbox, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Xbox/Xbox.list, policy=𓃰XboX🌟, tag=Xbox, parser-enable=true, enabled=false
 https://whatshub.top/rule/Sling.list, policy=𓃰Sling🌟, tag=Sling, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Sling/Sling.list, policy=𓃰Sling🌟, tag=Sling, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Sling/Sling.list, policy=𓃰Sling🌟, tag=Sling, parser-enable=true, enabled=false
 https://whatshub.top/rule/WeTV.list, policy=𓃰WeTV_Letter 🌟, tag=WeTV, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/WeTV/WeTV.list, policy=𓃰WeTV_Letter 🌟, tag=WeTV, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/WeTV/WeTV.list, policy=𓃰WeTV_Letter 🌟, tag=WeTV, enabled=false
 https://whatshub.top/rule/ViuTV.list, policy=𓃰ViuTV🌟, tag=ViuTV, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ViuTV/ViuTV.list, policy=𓃰ViuTV🌟, tag=ViuTV, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ViuTV/ViuTV.list, policy=𓃰ViuTV🌟, tag=ViuTV, enabled=false
 https://whatshub.top/rule/TikTok.list, policy=𓃰TikTok🌟, tag=TikTok, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/Semporia/Loon/master/Rule/TikTok.list, policy=𓃰TikTok🌟, tag=TikTok, enabled=true
+https://raw.githubusercontent.com/Semporia/Loon/master/Rule/TikTok.list, policy=𓃰TikTok🌟, tag=TikTok, enabled=false
 https://whatshub.top/rule/Global.list, policy=𓃰全球加速🌟, tag=Global, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Global/Global.list, policy=𓃰全球加速🌟, tag=Global, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Global/Global.list, policy=𓃰全球加速🌟, tag=Global, parser-enable=true, enabled=false
 https://whatshub.top/rule/Vimeo.list, policy=𓃰Vimeo🌟, tag=Vimeo, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Vimeo/Vimeo.list, policy=𓃰Vimeo🌟, tag=Vimeo, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Vimeo/Vimeo.list, policy=𓃰Vimeo🌟, tag=Vimeo, parser-enable=true, enabled=false
 https://whatshub.top/rule/Steam.list, policy=𓃰Steam🌟, tag=Steam, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Steam/Steam.list, policy=𓃰Steam🌟, tag=Steam, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Steam/Steam.list, policy=𓃰Steam🌟, tag=Steam, parser-enable=true, enabled=false
 https://whatshub.top/rule/PayPal.list, policy=𓃰PayPal🌟, tag=PayPal, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/PayPal/PayPal.list, policy=𓃰PayPal🌟, tag=paypal, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/PayPal/PayPal.list, policy=𓃰PayPal🌟, tag=paypal, parser-enable=true, enabled=false
 https://whatshub.top/rule/Disney.list, policy=𓃰Disney+🌟, tag=Disney, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Disney/Disney.list, policy=𓃰Disney+🌟, tag=Disney, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Disney/Disney.list, policy=𓃰Disney+🌟, tag=Disney, parser-enable=true, enabled=false
 https://whatshub.top/rule/Deezer.list, policy=𓃰Deezer🌟, tag=Deezer, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Deezer/Deezer.list, policy=𓃰Deezer🌟, tag=Deezer, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Deezer/Deezer.list, policy=𓃰Deezer🌟, tag=Deezer, parser-enable=true, enabled=false
 https://whatshub.top/rule/GitHub.list, policy=𓃰github🌟, tag=GitHub, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/GitHub/GitHub.list, policy=𓃰github🌟, tag=GitHub, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/GitHub/GitHub.list, policy=𓃰github🌟, tag=GitHub, parser-enable=true, enabled=false
 https://whatshub.top/rule/Google.list, policy=𓃰Google🌟, tag=Google, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Google/Google.list, policy=𓃰Google🌟, tag=google, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Google/Google.list, policy=𓃰Google🌟, tag=google, parser-enable=true, enabled=false
 https://whatshub.top/rule/Twitter.list, policy=𓃰Twitter🌟, tag=Twitter, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Twitter/Twitter.list, policy=𓃰Twitter🌟, tag=Twitter, parser-enable=true, enabled=true
-https://whatshub.top/rule/Spotify.list, policy=𓃰Spotify🌟, tag=Spotify, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Spotify/Spotify.list, policy=𓃰Spotify🌟, tag=Spotify, parser-enable=true, enabled=true
-https://whatshub.top/rule/Discord.list, policy=𓃰Discord🌟, tag=Discord, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Discord/Discord.list, policy=𓃰Discord🌟, tag=Discord, parser-enable=true, enabled=true
-https://whatshub.top/rule/AmazonIP.list, policy=𓃰Amazon🌟, tag=Amazon, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Amazon/Amazon.list, policy=𓃰Amazon🌟, tag=Amazon, parser-enable=true, enabled=true
-https://whatshub.top/rule/YouTube.list, policy=𓃰Youtube🌟, tag=Youtube, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/YouTube/YouTube.list, policy=𓃰Youtube🌟, tag=Youtube, parser-enable=true, enabled=true
-https://whatshub.top/rule/Pandora.list, policy=𓃰PornHub🌟, tag=Pandora, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Pandora/Pandora.list, policy=𓃰Pandora🌟, tag=Pandora, enabled=true
-https://whatshub.top/rule/ChatGPT.list, policy=𓃰ChatGPT🌟, tag=ChatGPT, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/Haidaishaoyu/ChatGPT-List/main/chatgpt.list, policy=𓃰ChatGPT🌟, tag=ChatGPT, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Telegram/Telegram.list, policy=𓃰Telegram🌟, tag=telegram, parser-enable=true, enabled=true
-https://whatshub.top/rule/Facebook.list, policy=𓃰Facebook🌟, tag=Facebook, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Facebook/Facebook.list, policy=𓃰Facebook🌟, tag=Facebook, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Twitter/Twitter.list, policy=𓃰Twitter🌟, tag=Twitter, parser-enable=true, enabled=false
 https://whatshub.top/rule/Twitch.list, policy=𓃰Twitch🌟, tag=Twitch, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Twitch/Twitch.list, policy=𓃰Twitch🌟, tag=Twitch, enabled=true
-https://whatshub.top/rule/KakaoTalk.list, policy=𓃰KakaoTalk🌟, tag=KakaoTalk, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/KakaoTalk/KakaoTalk.list, policy=𓃰KakaoTalk🌟, tag=KakaoTalk, parser-enable=true, enabled=true
-https://whatshub.top/rule/Instagram.list, policy=𓃰lnstagram🌟, tag=Instagram, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Instagram/Instagram.list, policy=𓃰lnstagram🌟, tag=Instagram, parser-enable=true, enabled=true
-https://whatshub.top/rule/Speedtest.list, policy=𓃰Speedtest🌟, tag=Speedtest, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Speedtest/Speedtest.list, policy=𓃰Speedtest🌟, tag=Speedtest, enabled=true
-https://whatshub.top/rule/Whatsapp.list, policy=𓃰whatsapp🌟, tag=Whatsapp, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Whatsapp/Whatsapp.list, policy=𓃰whatsapp🌟, tag=Whatsapp, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Twitch/Twitch.list, policy=𓃰Twitch🌟, tag=Twitch, enabled=false
+https://whatshub.top/rule/Spotify.list, policy=𓃰Spotify🌟, tag=Spotify, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Spotify/Spotify.list, policy=𓃰Spotify🌟, tag=Spotify, parser-enable=true, enabled=false
 https://whatshub.top/rule/FuboTV.list, policy=𓃰FuboTV🌟, tag=FuboTV, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/FuboTV/FuboTV.list, policy=𓃰FuboTV🌟, tag=FuboTV, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/FuboTV/FuboTV.list, policy=𓃰FuboTV🌟, tag=FuboTV, enabled=false
+https://whatshub.top/rule/Discord.list, policy=𓃰Discord🌟, tag=Discord, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Discord/Discord.list, policy=𓃰Discord🌟, tag=Discord, parser-enable=true, enabled=false
+https://whatshub.top/rule/TeraBox.rule, policy=𓃰TeraBox🌟, tag=TeraBox, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/TeraBox/TeraBox.list, policy=𓃰TeraBox🌟, tag=TeraBox, enabled=false
+https://whatshub.top/rule/AmazonIP.list, policy=𓃰Amazon🌟, tag=Amazon, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Amazon/Amazon.list, policy=𓃰Amazon🌟, tag=Amazon, parser-enable=true, enabled=false
+https://whatshub.top/rule/YouTube.list, policy=𓃰Youtube🌟, tag=Youtube, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/YouTube/YouTube.list, policy=𓃰Youtube🌟, tag=Youtube, parser-enable=true, enabled=false
+https://whatshub.top/rule/Pandora.list, policy=𓃰PornHub🌟, tag=Pandora, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Pandora/Pandora.list, policy=𓃰Pandora🌟, tag=Pandora, enabled=false
+https://whatshub.top/rule/ChatGPT.list, policy=𓃰ChatGPT🌟, tag=ChatGPT, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaTest/ChinaTest.list, policy=𓃰ChatGPT🌟, tag=ChatGPT, parser-enable=true, enabled=false
+https://whatshub.top/rule/Telegram.list, policy=𓃰Telegram🌟, tag=Telegram, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Telegram/Telegram.list, policy=𓃰Telegram🌟, tag=telegram, parser-enable=true, enabled=false
+https://whatshub.top/rule/Facebook.list, policy=𓃰Facebook🌟, tag=Facebook, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Facebook/Facebook.list, policy=𓃰Facebook🌟, tag=Facebook, parser-enable=true, enabled=false
+https://whatshub.top/rule/KakaoTalk.list, policy=𓃰KakaoTalk🌟, tag=KakaoTalk, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/KakaoTalk/KakaoTalk.list, policy=𓃰KakaoTalk🌟, tag=KakaoTalk, parser-enable=true, enabled=false
+https://whatshub.top/rule/Instagram.list, policy=𓃰lnstagram🌟, tag=Instagram, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Instagram/Instagram.list, policy=𓃰lnstagram🌟, tag=Instagram, parser-enable=true, enabled=false
+https://whatshub.top/rule/Speedtest.list, policy=𓃰Speedtest🌟, tag=Speedtest, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Speedtest/Speedtest.list, policy=𓃰Speedtest🌟, tag=Speedtest, enabled=false
+https://whatshub.top/rule/Whatsapp.list, policy=𓃰whatsapp🌟, tag=Whatsapp, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Whatsapp/Whatsapp.list, policy=𓃰whatsapp🌟, tag=Whatsapp, parser-enable=true, enabled=false
 https://whatshub.top/rule/PrimeVideo.list, policy=𓃰PrimeVideo🌟, tag=PrimeVideo, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/PrimeVideo/PrimeVideo.list, policy=𓃰PrimeVideo🌟, tag=PrimeVideo, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/PrimeVideo/PrimeVideo.list, policy=𓃰PrimeVideo🌟, tag=PrimeVideo, parser-enable=true, enabled=false
 https://whatshub.top/rule/GlobalMedia.list, policy=𓃰國際媒體🌟, tag=GlobalMedia, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/GlobalMedia/GlobalMedia.list, policy=𓃰國際媒體🌟, tag=GlobalMedia, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/GlobalMedia/GlobalMedia.list, policy=𓃰國際媒體🌟, tag=GlobalMedia, parser-enable=true, enabled=false
 https://whatshub.top/rule/GoogleDrive.list, policy=𓃰GoogleDrive🌟, tag=GoogleDrive, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/GoogleDrive/GoogleDrive.list, policy=𓃰GoogleDrive🌟, tag=GoogleDrive, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/GoogleDrive/GoogleDrive.list, policy=𓃰GoogleDrive🌟, tag=GoogleDrive, parser-enable=true, enabled=false
 https://whatshub.top/rule/GoogleVoice.list, policy=𓃰Googlevoice🌟, tag=GoogleVoice, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/GoogleVoice/GoogleVoice.list, policy=𓃰Googlevoice🌟, tag=GoogleVoice, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/GoogleVoice/GoogleVoice.list, policy=𓃰Googlevoice🌟, tag=GoogleVoice, parser-enable=true, enabled=false
 https://whatshub.top/rule/Duckduckgo.list, policy=𓃰Duckduckgo🌟, tag=Duckduckgo, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Duckduckgo/Duckduckgo.list, policy=𓃰Duckduckgo 🌟, tag=Duckduckgo, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Duckduckgo/Duckduckgo.list, policy=𓃰Duckduckgo 🌟, tag=Duckduckgo, parser-enable=true, enabled=false
 https://whatshub.top/rule/DiscoveryPlus.list, policy=𓃰DiscoveryPlus🌟, tag=DiscoveryPlus, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/DiscoveryPlus/DiscoveryPlus.list, policy=𓃰DiscoveryPlus 🌟, tag=DiscoveryPlus, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/DiscoveryPlus/DiscoveryPlus.list, policy=𓃰DiscoveryPlus 🌟, tag=DiscoveryPlus, parser-enable=true, enabled=false
 https://whatshub.top/rule/YouTubeMusic.list, policy=𓃰YouTubeMusic🌟, tag=YouTubeMusic, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/YouTubeMusic/YouTubeMusic.list, policy=𓃰YouTubeMusic 🌟, tag=YouTubeMusic, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/YouTubeMusic/YouTubeMusic.list, policy=𓃰YouTubeMusic 🌟, tag=YouTubeMusic, parser-enable=true, enabled=false
 https://whatshub.top/rule/ParamountPlus.list, policy=𓃰ParamountPlus🌟, tag=ParamountPlus, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ParamountPlus/ParamountPlus.list, policy=𓃰ParamountPlus🌟, tag=ParamountPlus, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingTest/AdvertisingTest_Domain.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=去廣告, parser-enable=true, enabled=false
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ParamountPlus/ParamountPlus.list, policy=𓃰ParamountPlus🌟, tag=ParamountPlus, parser-enable=true, enabled=false
+https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=Filter（过滤器）, parser-enable=true, enabled=false
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingTest/AdvertisingTest_Domain.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=去廣告, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Privacy/Privacy.list, policy=⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬, tag=隐私保护, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/BlockHttpDNS/BlockHttpDNS.list, policy=⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬, tag=BlockHttpDNS, parser-enable=true, enabled=false
+https://whatshub.top/rule/ChinaIPs.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=ChinaIPs, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaIPs/ChinaIPs.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=ChinaIPs, parser-enable=true, enabled=false
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Bloomberg/Bloomberg.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=BlockOTA, parser-enable=true, enabled=false
+https://whatshub.top/rule/Bloomberg.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=Bloomberg, enabled=false
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Bloomberg/Bloomberg.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=Bloomberg, parser-enable=true, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AnTianKeJi/AnTianKeJi.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=Antirevoke, parser-enable=true, enabled=false
 https://easylist-downloads.adblockplus.org/easyprivacy.txt, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=EasyPrivacy, parser-enable=true, enabled=false
-https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=AdGuardSDNSFilter, parser-enable=true, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingLite/AdvertisingLite.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=去广告精简版, parser-enable=true, enabled=false
 https://whatshub.top/rule/China.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=直连, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Direct/Direct.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=直連, parser-enable=true, enabled=false
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdGuardSDNSFilter/Direct/Direct.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=DIRECT, parser-enable=true, enabled=false
 https://whatshub.top/rule/AntiAD.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=去廣告, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Advertising/Advertising.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=去廣告, parser-enable=true, enabled=false
 https://whatshub.top/rule/ChinaDNS.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=中国DNS, parser-enable=true, enabled=false
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaDNS/ChinaDNS.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=中國DNS, enabled=false
 https://whatshub.top/rule/ChinaMaxNoIP.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=国内域名合集, parser-enable=true, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaMaxNoIP/ChinaMaxNoIP.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=國內域名合集, parser-enable=true, enabled=false
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/BlockHttpDNS/BlockHttpDNS.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=BlockHttpDNS, parser-enable=true, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Lan/Lan.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=本地局域網, parser-enable=true, enabled=false
 https://whatshub.top/rule/ChinaMax.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=国内网站/IP合集, parser-enable=true, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaMax/ChinaMax.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=國內網站/IP合集, parser-enable=true, enabled=false
