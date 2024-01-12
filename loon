@@ -135,7 +135,7 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 𓃰Slack🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★👋手動🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★💯負載🌦✈,img-url = https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Bubble/Social-Logo/Slack.png
 𓃰XboX🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Xbox.png
 𓃰BoxJs 🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★👋手動🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★💯負載🌦✈,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/BoxJS.png
-𓃰Netflix🌟 = url-test,🇿🇦Netflix奈飛,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Bubble/Social-Logo/Netflix.png
+𓃰Netflix🌟 = url-test,🇿🇦Netflix奈飛,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Bubble/Social-Logo/Netflix.png
 𓃰Twitch🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★👋手動🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★💯負載🌦✈,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/twitch.png
 𓃰Twitter🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Twitter.png
 𓃰Steam🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Steam.png
@@ -172,24 +172,24 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 𓃰YouTubeMusic🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube_Music.png
 𓃰DiscoveryPlus🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Discovery.png
 𓃰ParamountPlus🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Paramount.png
-節點總數🏴‍☠️ = url-test,⏱節點,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Pirate_Nation.png
-矮奴倭國🇯🇵 = url-test,🇯🇵日本,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Japan.png
-赤匪野爹🇷🇺 = url-test,🇷🇺俄羅斯,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Russia.png
-西亞病夫🇹🇷 = url-test,🇹🇷土耳其,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Turkey.png
-高麗棒子🇰🇷 = url-test,🇰🇷韓國,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Korea.png
-歐陸聯盟🇪🇺 = url-test,🇪🇺歐盟,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/European_Union.png
-開賭場的🇲🇴 = url-test,🇲🇴澳門,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Macao.png
-崑崙奴場🇮🇳 = url-test,🇮🇳印度,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/India.png
-販毒洗錢的🇭🇰 = url-test,🇭🇰香港,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hong_Kong.png
-獨裁淪陷區🇨🇳 = url-test,🇨🇳回國,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png
-加拿大聯邦🇨🇦 = url-test,🇨🇦加拿大,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Canada.png
-中華自由地區🇰🇭 = url-test,🇰🇭臺灣,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Taiwan.png
-美利堅強盜國🇺🇸 = url-test,🇺🇸美國,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_States.png
-新加坡共和國🇸🇬 = url-test,🇸🇬新加坡,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Singapore.png
-澳大利亞聯邦🇦🇺 = url-test,🇦🇺澳大利亞,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Australia.png
-法蘭西共和國🇫🇷 = url-test,🇫🇷法國,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/France.png
-德意志聯邦共和國🇩🇪 = url-test,🇩🇪德國,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Germany.png
-大不列顛及北愛爾蘭聯合王國🇬🇧 = url-test,🇬🇧英國,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_Kingdom.png
+節點總數🏴‍☠️ = url-test,⏱節點,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Pirate_Nation.png
+矮奴倭國🇯🇵 = url-test,🇯🇵日本,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Japan.png
+赤匪野爹🇷🇺 = url-test,🇷🇺俄羅斯,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Russia.png
+西亞病夫🇹🇷 = url-test,🇹🇷土耳其,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Turkey.png
+高麗棒子🇰🇷 = url-test,🇰🇷韓國,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Korea.png
+歐陸聯盟🇪🇺 = url-test,🇪🇺歐盟,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/European_Union.png
+開賭場的🇲🇴 = url-test,🇲🇴澳門,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Macao.png
+崑崙奴場🇮🇳 = url-test,🇮🇳印度,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/India.png
+販毒洗錢的🇭🇰 = url-test,🇭🇰香港,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hong_Kong.png
+獨裁淪陷區🇨🇳 = url-test,🇨🇳回國,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png
+加拿大聯邦🇨🇦 = url-test,🇨🇦加拿大,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Canada.png
+中華自由地區🇰🇭 = url-test,🇰🇭臺灣,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Taiwan.png
+美利堅強盜國🇺🇸 = url-test,🇺🇸美國,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_States.png
+新加坡共和國🇸🇬 = url-test,🇸🇬新加坡,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Singapore.png
+澳大利亞聯邦🇦🇺 = url-test,🇦🇺澳大利亞,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Australia.png
+法蘭西共和國🇫🇷 = url-test,🇫🇷法國,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/France.png
+德意志聯邦共和國🇩🇪 = url-test,🇩🇪德國,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Germany.png
+大不列顛及北愛爾蘭聯合王國🇬🇧 = url-test,🇬🇧英國,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_Kingdom.png
 
 #主办
 [Host]
@@ -237,9 +237,9 @@ https://whatshub.top/rule/WeChat.list, policy=𓃰微信💚, tag=微信, parser
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/WeChat/WeChat.list, policy=𓃰微信💚, tag=微信, parser-enable=true, enabled=false
 https://whatshub.top/rule/Tencent.list, policy=𓃰騰訊QQ💚, tag=腾讯, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Tencent/Tencent.list, policy=𓃰騰訊QQ💚, tag=騰訊, parser-enable=true, enabled=false
-https://whatshub.top/rule/AppleID.list, policy=𓃰Apple💚, tag=Apple, parser-enable=true, enabled=true
+https://whatshub.top/rule/AppleID.list, policy=𓃰Apple💚, tag=apple, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Apple/Apple.list, policy=𓃰Apple💚, tag=Apple, parser-enable=true, enabled=false
-https://whatshub.top/rule/AcFun.list, policy=𓃰acfun💚, tag=AcFun, parser-enable=true, enabled=true
+https://whatshub.top/rule/AcFun.list, policy=𓃰acfun💚, tag=acfun, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AcFun/AcFun.list, policy=𓃰acfun💚, tag=AcFun, enabled=false
 https://whatshub.top/rule/XiaoHongShu.list, policy=𓃰小紅書💚, tag=小红书, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/XiaoHongShu/XiaoHongShu.list, policy=𓃰小紅書💚, tag=小紅書, parser-enable=true, enabled=false
@@ -374,11 +374,11 @@ https://whatshub.top/rule/YouTubeMusic.list, policy=𓃰YouTubeMusic🌟, tag=yo
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/YouTubeMusic/YouTubeMusic.list, policy=𓃰YouTubeMusic 🌟, tag=YouTubeMusic, parser-enable=true, enabled=false
 https://whatshub.top/rule/ParamountPlus.list, policy=𓃰ParamountPlus🌟, tag=paramountplus, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ParamountPlus/ParamountPlus.list, policy=𓃰ParamountPlus🌟, tag=ParamountPlus, parser-enable=true, enabled=false
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Hijacking/Hijacking.list, policy=⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬, tag=反劫持, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingTest/AdvertisingTest_Domain.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=去廣告, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Privacy/Privacy.list, policy=⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬, tag=隱私保護, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Hijacking/Hijacking.list, policy=⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬, tag=反劫持, enabled=false
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingTest/AdvertisingTest_Domain.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=去廣告, parser-enable=true, enabled=false
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Privacy/Privacy.list, policy=⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬, tag=隱私保護, parser-enable=true, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingTest/AdvertisingTest.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=去廣告測試, parser-enable=true, enabled=false
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ZhihuAds/ZhihuAds.list, policy=𓃰知乎💚, tag=知乎廣告攔截, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ZhihuAds/ZhihuAds.list, policy=𓃰知乎💚, tag=知乎廣告攔截, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingLite/AdvertisingLite.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=去廣告精簡版, parser-enable=true, enabled=false
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=Filter（過濾器）, parser-enable=true, enabled=false
 https://whatshub.top/rule/ChinaIPs.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=chinaips, enabled=false
@@ -392,9 +392,9 @@ https://whatshub.top/rule/China.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, t
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Direct/Direct.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=直連, parser-enable=true, enabled=false
 https://whatshub.top/rule/AntiAD.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=去廣告, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Advertising/Advertising.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=去廣告, parser-enable=true, enabled=false
-https://whatshub.top/rule/ChinaDNS.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=中国DNS, parser-enable=true, enabled=true
+https://whatshub.top/rule/ChinaDNS.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=中国DNS, parser-enable=true, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaDNS/ChinaDNS.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=中國DNS, enabled=false
-https://whatshub.top/rule/ChinaMaxNoIP.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=国内域名合集, parser-enable=true, enabled=true
+https://whatshub.top/rule/ChinaMaxNoIP.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=国内域名合集, parser-enable=true, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaMaxNoIP/ChinaMaxNoIP.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=國內域名合集, parser-enable=true, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Lan/Lan.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=本地局域網, parser-enable=true, enabled=false
 https://whatshub.top/rule/ChinaMax.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=国内网站/IP合集, parser-enable=true, enabled=false
