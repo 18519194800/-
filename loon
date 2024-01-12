@@ -11,7 +11,7 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 
 #别名=订阅節點URL
 [Remote Proxy]
-𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥⑧ = https://tt.vg/freeclash,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Ads.png
+𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥⑧ = https://v2ray.neocities.org/v2ray.txt,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Ads.png
 𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥⑦ = https://jiang.netlify.app,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_GameCenter.png
 𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥⑥ = https://free.jingfu.cf/trojan/sub,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/taiwan(1).png
 𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥⑤ = https://raw.githubusercontent.com/freefq/free/master/v2,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/black2c7/TheMagic-Icons/main/Icons/EF.png
@@ -135,7 +135,7 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 𓃰Slack🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★👋手動🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★💯負載🌦✈,img-url = https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Bubble/Social-Logo/Slack.png
 𓃰XboX🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Xbox.png
 𓃰BoxJs 🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★👋手動🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★💯負載🌦✈,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/BoxJS.png
-𓃰Netflix🌟 = select,🇿🇦Netflix奈飛,img-url = https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Bubble/Social-Logo/Netflix.png
+𓃰Netflix🌟 = url-test,🇿🇦Netflix奈飛,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Bubble/Social-Logo/Netflix.png
 𓃰Twitch🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★👋手動🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★💯負載🌦✈,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/twitch.png
 𓃰Twitter🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Twitter.png
 𓃰Steam🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Steam.png
@@ -172,24 +172,24 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 𓃰YouTubeMusic🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube_Music.png
 𓃰DiscoveryPlus🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Discovery.png
 𓃰ParamountPlus🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,★💯負載🌦✈,★♻️自動🌦✈,★♨️檢測🌦✈,★👋手動🌦✈,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Paramount.png
-節點總數🏴‍☠️ = select,⏱節點,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Pirate_Nation.png
-矮奴倭國🇯🇵 = select,🇯🇵日本,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Japan.png
-赤匪野爹🇷🇺 = select,🇷🇺俄羅斯,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Russia.png
-西亞病夫🇹🇷 = select,🇹🇷土耳其,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Turkey.png
-高麗棒子🇰🇷 = select,🇰🇷韓國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Korea.png
-歐陸聯盟🇪🇺 = select,🇪🇺歐盟,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/European_Union.png
-開賭場的🇲🇴 = select,🇲🇴澳門,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Macao.png
-崑崙奴場🇮🇳 = select,🇮🇳印度,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/India.png
-販毒洗錢的🇭🇰 = select,🇭🇰香港,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hong_Kong.png
-獨裁淪陷區🇨🇳 = select,🇨🇳回國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png
-加拿大聯邦🇨🇦 = select,🇨🇦加拿大,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Canada.png
-中華自由地區🇰🇭 = select,🇰🇭臺灣,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Taiwan.png
-美利堅強盜國🇺🇸 = select,🇺🇸美國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_States.png
-新加坡共和國🇸🇬 = select,🇸🇬新加坡,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Singapore.png
-澳大利亞聯邦🇦🇺 = select,🇦🇺澳大利亞,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Australia.png
-法蘭西共和國🇫🇷 = select,🇫🇷法國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/France.png
-德意志聯邦共和國🇩🇪 = select,🇩🇪德國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Germany.png
-大不列顛及北愛爾蘭聯合王國🇬🇧 = select,🇬🇧英國,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_Kingdom.png
+節點總數🏴‍☠️ = url-test,⏱節點,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Pirate_Nation.png
+矮奴倭國🇯🇵 = url-test,🇯🇵日本,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Japan.png
+赤匪野爹🇷🇺 = url-test,🇷🇺俄羅斯,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Russia.png
+西亞病夫🇹🇷 = url-test,🇹🇷土耳其,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Turkey.png
+高麗棒子🇰🇷 = url-test,🇰🇷韓國,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Korea.png
+歐陸聯盟🇪🇺 = url-test,🇪🇺歐盟,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/European_Union.png
+開賭場的🇲🇴 = url-test,🇲🇴澳門,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Macao.png
+崑崙奴場🇮🇳 = url-test,🇮🇳印度,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/India.png
+販毒洗錢的🇭🇰 = url-test,🇭🇰香港,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hong_Kong.png
+獨裁淪陷區🇨🇳 = url-test,🇨🇳回國,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png
+加拿大聯邦🇨🇦 = url-test,🇨🇦加拿大,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Canada.png
+中華自由地區🇰🇭 = url-test,🇰🇭臺灣,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Taiwan.png
+美利堅強盜國🇺🇸 = url-test,🇺🇸美國,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_States.png
+新加坡共和國🇸🇬 = url-test,🇸🇬新加坡,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Singapore.png
+澳大利亞聯邦🇦🇺 = url-test,🇦🇺澳大利亞,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Australia.png
+法蘭西共和國🇫🇷 = url-test,🇫🇷法國,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/France.png
+德意志聯邦共和國🇩🇪 = url-test,🇩🇪德國,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Germany.png
+大不列顛及北愛爾蘭聯合王國🇬🇧 = url-test,🇬🇧英國,url = http://www.qualcomm.cn/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_Kingdom.png
 
 #主办
 [Host]
@@ -275,7 +275,8 @@ https://whatshub.top/rule/AppleMusic.list, policy=𓃰 AppleMusic💚, tag=Apple
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AppleMusic/AppleMusic.list, policy=𓃰 AppleMusic💚, tag=AppleMusic, parser-enable=true, enabled=false
 https://whatshub.top/rule/NetEaseMusic.list, policy=𓃰NeteaseMusic💘, tag=网易云音乐, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/NetEaseMusic/NetEaseMusic.list, policy=𓃰NeteaseMusic💘, tag=網易雲音樂, parser-enable=true, enabled=false
-https://whatshub.top/rule/BiliBili.list, policy=𓃰嗶哩嗶哩💚, tag=哔哩哔哩, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Bilibili.list, policy=𓃰嗶哩嗶哩💚, tag=哔哩哔哩, enabled=true
+https://whatshub.top/rule/BiliBili.list, policy=𓃰嗶哩嗶哩💚, tag=哔哩哔哩, parser-enable=true, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/BiliBili/BiliBili.list, policy=𓃰嗶哩嗶哩💚, tag=嗶哩嗶哩, enabled=false
 https://whatshub.top/rule/Bahamut.list, policy=𓃰巴哈姆特💚, tag=巴哈姆特, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Bahamut/Bahamut.list, policy=𓃰巴哈姆特💚, tag=巴哈姆特, parser-enable=true, enabled=false
@@ -376,7 +377,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Hijacking/Hijacking.list, policy=⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬, tag=反劫持, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingTest/AdvertisingTest_Domain.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=去廣告, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Privacy/Privacy.list, policy=⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬, tag=隱私保護, parser-enable=true, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingTest/AdvertisingTest.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=去廣告測試, parser-enable=true, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingTest/AdvertisingTest.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=去廣告測試, parser-enable=true, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ZhihuAds/ZhihuAds.list, policy=𓃰知乎💚, tag=知乎廣告攔截, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingLite/AdvertisingLite.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=去廣告精簡版, parser-enable=true, enabled=false
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=Filter（過濾器）, parser-enable=true, enabled=false
@@ -391,9 +392,9 @@ https://whatshub.top/rule/China.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, t
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Direct/Direct.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=直連, parser-enable=true, enabled=false
 https://whatshub.top/rule/AntiAD.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=去廣告, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Advertising/Advertising.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=去廣告, parser-enable=true, enabled=false
-https://whatshub.top/rule/ChinaDNS.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=中国DNS, parser-enable=true, enabled=false
+https://whatshub.top/rule/ChinaDNS.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=中国DNS, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaDNS/ChinaDNS.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=中國DNS, enabled=false
-https://whatshub.top/rule/ChinaMaxNoIP.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=国内域名合集, parser-enable=true, enabled=false
+https://whatshub.top/rule/ChinaMaxNoIP.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=国内域名合集, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaMaxNoIP/ChinaMaxNoIP.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=國內域名合集, parser-enable=true, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Lan/Lan.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=本地局域網, parser-enable=true, enabled=false
 https://whatshub.top/rule/ChinaMax.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=国内网站/IP合集, parser-enable=true, enabled=false
@@ -470,26 +471,57 @@ host = 127.0.0.1
 
 #插件
 [Plugin]
-https://whatshub.top/plugin/crypto.plugin, tag=汇率.加密货币, enabled=true
-https://whatshub.top/plugin/rates.plugin, tag=今日汇率, enabled=true
-https://whatshub.top/plugin/oil.plugin, tag=今日油价, enabled=true
-https://whatshub.top/plugin/appsdoor.plugin, tag=限免app, enabled=true
-https://whatshub.top/plugin/hotoday.plugin, tag=今日平台热榜, enabled=true
-https://whatshub.top/plugin/rumors.plugin, tag=今日辟谣, enabled=true
-https://yfamily.vercel.app/plugin/SpotifyPremium.plugin, tag=spotify会员解锁, enabled=true
-https://yfamily.vercel.app/plugin/Price.plugin, tag=历史价格, enabled=true
-https://yfamily.vercel.app/plugin/GeoLocation.plugin, enabled=true
-https://yfamily.vercel.app/plugin/youtube.plugin, enabled=true
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/YouTube_remove_ads.plugin, tag=Youtube去廣告, enabled=true
+https://yfamily.vercel.app/plugin/GeoLocation.plugin, tag=GeoLocation, enabled=true
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Node_detection_tool.plugin, tag=節電檢測工具, enabled=true
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Bilibili_remove_ads.plugin, tag=bilibili去廣告, enabled=true
 https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.plugin, policy=𓃰SSID𐂂, tag=BoxJs, enabled=true
-https://yfamily.vercel.app/plugin/recover.plugin, enabled=true
-https://yfamily.vercel.app/plugin/Running-Mode.plugin, enabled=true
-https://yfamily.vercel.app/plugin/cp.plugin, enabled=true
-https://yfamily.vercel.app/plugin/MediaChecker.plugin, enabled=true
+https://whatshub.top/plugin/oil.plugin, tag=今日油价, enabled=true
+https://yfamily.vercel.app/plugin/youtube.plugin, tag=Youtube去广告, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/CoolApk_remove_ads.plugin, tag=酷安去廣告, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Umetrip_remove_ads.plugin, tag=航旅縱橫去廣告, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/PiPiXia_remove_ads.plugin, tag=皮皮蝦去廣告, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/BabyTree_remove_ads.plugin, tag=寶寶樹孕育去廣告, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/NeteaseNews_remove_ads.plugin, tag=網易新聞去廣告, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/JD_Price.plugin, tag=京東比價, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Weibo_remove_ads.plugin, tag=微博去廣告, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/QQMusic_remove_ads.plugin, tag=QQ音樂去廣告, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Tieba_remove_ads.plugin, tag=百度貼吧去廣告, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Zhihu_remove_ads.plugin, tag=知乎去廣告, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Himalaya_remove_ads.plugin, tag=喜馬拉雅去廣告, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Amap_remove_ads.plugin, tag=高德地圖去廣告, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/RedPaper_remove_ads.plugin, tag=小紅書去廣告, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/NeteaseCloudMusic_remove_ads.plugin, tag=網易雲音樂去廣告, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Cainiao_remove_ads.plugin, tag=菜鳥去廣告, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/raw/master/Tool/Loon/Plugin/Weixin_external_links_unlock.plugin, tag=微信外部連接解鎖, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Weibo_intl_remove_ads.plugin, tag=微博國際版去廣告, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/iQiYi_Video_remove_ads.plugin, tag=愛奇藝去廣告, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/YouKu_Video_remove_ads.plugin, tag=優酷去廣告, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Tencent_Video_remove_ads.plugin, tag=騰訊去廣告, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Mango_Viedo_remove_ads.plugin, tag=芒果TV去廣告, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/DragonRead_remove_ads.plugin, tag=番茄去廣告, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Taobao_remove_ads.plugin, tag=淘寶去廣告, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/CaixinMedia_remove_ads.plugin, tag=財新去廣告, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/UnionPay_remove_ads_with_ssl_unpinning.plugin, tag=雲閃付去廣告, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/SevenCat_remove_ads_with_ssl_unpinning.plugin, tag=七貓小貓去廣告, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/smzdm_remove_ads.plugin, tag=什麼值得買, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/QQ_Redirect.plugin, tag=QQ連結解鎖, enabled=false
+https://whatshub.top/plugin/crypto.plugin, tag=汇率.加密货币, enabled=false
+https://whatshub.top/plugin/rates.plugin, tag=今日汇率, enabled=false
+https://whatshub.top/plugin/appsdoor.plugin, tag=限免app, enabled=false
+https://whatshub.top/plugin/hotoday.plugin, tag=今日平台热榜, enabled=false
+https://whatshub.top/plugin/rumors.plugin, tag=今日辟谣, enabled=false
+https://yfamily.vercel.app/plugin/SpotifyPremium.plugin, tag=spotify会员解锁, enabled=false
+https://yfamily.vercel.app/plugin/Price.plugin, tag=历史价格, enabled=false
+https://yfamily.vercel.app/plugin/recover.plugin, tag=keep yfamily, enabled=false
+https://yfamily.vercel.app/plugin/Running-Mode.plugin, tag=Running Mode, enabled=false
+https://yfamily.vercel.app/plugin/cp.plugin, tag=菜谱大全&香哈菜谱, enabled=false
+https://yfamily.vercel.app/plugin/MediaChecker.plugin, tag=流媒体解锁查询, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/master/plugallery/GeoLocation.plugin, enabled=false
-https://yfamily.vercel.app/plugin/NodeLinkCheck.plugin, enabled=false
+https://yfamily.vercel.app/plugin/NodeLinkCheck.plugin, tag=NodeLinkCheck, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/main/NodeLinkCheck.plugin, enabled=false
-https://yfamily.vercel.app/plugin/multisearch.plugin, enabled=false
-https://yfamily.vercel.app/plugin/aliyun.plugin, enabled=false
+https://yfamily.vercel.app/plugin/multisearch.plugin, tag=MultiSearch, enabled=false
+https://yfamily.vercel.app/plugin/aliyun.plugin, tag=阿里云盘签到, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/master/plugallery/caixin.plugin, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/master/plugallery/bdwk.plugin, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/master/plugallery/baimiao.plugin, enabled=false
