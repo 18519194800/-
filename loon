@@ -75,7 +75,7 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 
 # 策略组
 [Proxy Group]
-𓃵策略選取✄ = select,🎭壹🐲號🌦✈⋯· ☀︎💥,🎭貳🐲號🌦✈⋯· ☀︎💥,🎭叁🐲號🌦✈⋯· ☀︎💥,🎭肆🐲號🌦✈⋯· ☀︎💥,🎭伍🐲號🌦✈⋯· ☀︎💥,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,👋手動🌦✈,♻️自動🌦✈,♨️檢測🌦✈,⚖️負載🌦✈,𓄂節點總數🏴‍☠️,𓄂倭奴牲口🇯🇵,𓄂獨裁淪陷區🇨🇳,𓄂赤匪野爹🇷🇺,𓄂西亞病夫🇹🇷,𓄂高麗棒子🇰🇷,𓄂歐村聯盟🇪🇺,𓄂開賭場的🇲🇴,𓄂販毒洗錢🇭🇰,𓄂奴隸市場🇮🇳,𓄂加拿大聯邦🇨🇦,𓄂中華自由區🇼🇸,𓄂美利堅強盜國🇺🇸,𓄂新加坡共和國🇸🇬,𓄂澳大利亞聯邦🇦🇺,𓄂法蘭西共和國🇫🇷,𓄂德意志聯邦共和國🇩🇪,𓄂大不列顛及北愛爾蘭聯合王國🇬🇧,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png
+𓃵策略選取✄ = select,🎭壹🐲號🌦✈⋯· ☀︎💥,🎭貳🐲號🌦✈⋯· ☀︎💥,🎭叁🐲號🌦✈⋯· ☀︎💥,🎭肆🐲號🌦✈⋯· ☀︎💥,🎭伍🐲號🌦✈⋯· ☀︎💥,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,👋手動🌦✈,♻️自動🌦✈,♨️檢測🌦✈,⚖️負載🌦✈,𓄂節點總數🏴‍☠️,𓄂倭奴牲口🇯🇵,𓄂獨裁淪陷區🇨🇳,𓄂赤匪野爹🇷🇺,𓄂西亞病夫🇹🇷,𓄂高麗棒子🇰🇷,𓄂歐村聯盟🇪🇺,𓄂賭場高利貸🇲🇴,𓄂洗錢販毒🇭🇰,𓄂奴隸市場🇮🇳,𓄂加拿大聯邦🇨🇦,𓄂中華自由區🇼🇸,𓄂美利堅強盜國🇺🇸,𓄂新加坡共和國🇸🇬,𓄂澳大利亞聯邦🇦🇺,𓄂法蘭西共和國🇫🇷,𓄂德意志聯邦共和國🇩🇪,𓄂大不列顛及北愛爾蘭聯合王國🇬🇧,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png
 🎭壹🐲號🌦✈⋯· ☀︎💥 = url-test,𓆉“巽”🌪✈⋯· ·  ·   ·⛹️‍♀️,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Doraemon/Doraemon-1048.png
 🎭貳🐲號🌦✈⋯· ☀︎💥 = url-test,𓃰“午”🐎✈⋯··· ·  ·🚴‍♂️,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-chan/Shin-chan-1036.png
 🎭叁🐲號🌦✈⋯· ☀︎💥 = url-test,𓃰“巳”🐍✈⋯··· ·  ·🚴‍♂️,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Tom-Jerry/Tom-Jerry-1036.png
@@ -98,9 +98,9 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 🐗飛豬🟢 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,⚖️負載🌦✈,♻️自動🌦✈,♨️檢測🌦✈,👋手動🌦✈,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Feizhu.png
 🕳️京東🟢 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,👋手動🌦✈,♻️自動🌦✈,⚖️負載🌦✈,♨️檢測🌦✈,img-url = https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/jd.png
 🔨微博🟢 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,⚖️負載🌦✈,♻️自動🌦✈,♨️檢測🌦✈,👋手動🌦✈,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lpl/144px/WBG.png
+🥣美團🟢 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,⚖️負載🌦✈,♻️自動🌦✈,♨️檢測🌦✈,👋手動🌦✈,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/meituan(1).png
 🎓必應🟢 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,⚖️負載🌦✈,♻️自動🌦✈,♨️檢測🌦✈,👋手動🌦✈,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/bing(3).png
 🥢快手🟢 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,⚖️負載🌦✈,♻️自動🌦✈,♨️檢測🌦✈,👋手動🌦✈,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/kuaishou.png
-🥣美團🟢 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,⚖️負載🌦✈,♻️自動🌦✈,♨️檢測🌦✈,👋手動🌦✈,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/meituan(1).png
 🥚百度🟢 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,⚖️負載🌦✈,♻️自動🌦✈,♨️檢測🌦✈,👋手動🌦✈,img-url = https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/baidu.png
 🆕微信🟢 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,⚖️負載🌦✈,♻️自動🌦✈,♨️檢測🌦✈,👋手動🌦✈,img-url = https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/wechat.png
 🍎Apple🟢 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,⚖️負載🌦✈,♻️自動🌦✈,♨️檢測🌦✈,👋手動🌦✈,img-url = https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/applewwdc23.png
@@ -178,7 +178,6 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 𓄂港奧臺番劇節點🎥 = url-test,🇻🇮蕃劇節點,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AfreecaTV.png
 𓄂節點總數🏴‍☠️ = url-test,⏱節點,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Pirate_Nation.png
 𓄂奈飛節點📽 = url-test,🇿🇦Netflix奈飛,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/netflix(old).png
-𓄂開賭場的🇲🇴 = url-test,🇲🇴澳門,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Macao.png
 𓄂歐村聯盟🇪🇺 = url-test,🇪🇺歐盟,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/European_Union.png
 𓄂倭奴牲口🇯🇵 = url-test,🇯🇵日本,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/FlagGif/japan.gif
 𓄂赤匪野爹🇷🇺 = url-test,🇷🇺俄羅斯,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/FlagGif/russia.gif
@@ -186,7 +185,9 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 𓄂高麗棒子🇰🇷 = url-test,🇰🇷韓國,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/FlagGif/south-korea.gif
 𓄂奴隸市場🇮🇳 = url-test,🇮🇳印度,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/FlagGif/india.gif
 𓄂世界農民🇦🇷 = select,🇦🇷阿根廷,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/FlagGif/argentina.gif
-𓄂販毒洗錢🇭🇰 = url-test,🇭🇰香港,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/FlagGif/hong-kong.gif
+𓄂洗錢販毒🇭🇰 = url-test,🇭🇰香港,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/FlagGif/hong-kong.gif
+𓄂賭場高利貸🇲🇴 = url-test,🇲🇴澳門,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Macao.png
+𓄂海上馬車夫🇳🇱 = url-test,🇳🇱荷蘭,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/FlagGif/netherlands.gif
 𓄂地中海鞋匠🇮🇹 = url-test,🇮🇹義大利,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/FlagGif/italy.gif
 𓄂獨裁淪陷區🇨🇳 = url-test,🇨🇳回國,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/FlagGif/china.gif
 𓄂加拿大聯邦🇨🇦 = url-test,🇨🇦加拿大,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/FlagGif/canada.gif
@@ -217,18 +218,15 @@ FINAL,𓃰SSID𐂂
 
 # 订阅规则
 [Remote Rule]
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/JOOX/JOOX.list, policy=𓃰BoxJs 🌟, tag=boox, enabled=true
 https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/JOOX.list, policy=𓃰BoxJs 🌟, tag=JOOX, enabled=false
-https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/ChinaDownloadCDN.list, policy=🎮遊戲🟢, tag=游戏平台下载, enabled=false
-https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/TelegramUS.list, policy=𓄂美利堅強盜國🇺🇸, tag=美国, enabled=false
-https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/TelegramSG.list, policy=𓄂新加坡共和國🇸🇬, tag=新国, enabled=false
-https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/TelegramNL.list, policy=𓄂歐村聯盟🇪🇺, tag=荷兰, enabled=false
-https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/TelegramALL.list, policy=𓄂新加坡共和國🇸🇬, tag=新加坡, enabled=false
 https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/Copilot.list, policy=𓃰SSID𐂂, tag=copilot, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Copilot/Copilot.list, policy=𓃰SSID𐂂, tag=Copilot, enabled=false
 https://whatshub.top/rule/DingTalk.list, policy=🕊釘釘🟢, tag=钉钉, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/DingTalk/DingTalk.list, policy=🕊釘釘🟢, tag=釘釘, enabled=false
 https://whatshub.top/rule/2KGames.list, policy=🎮遊戲🟢, tag=游戏, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/Game.list, policy=🎮遊戲🟢, tag=遊戲, parser-enable=true, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/ChinaDownloadCDN.list, policy=🎮遊戲🟢, tag=游戏平台下载, enabled=false
 https://whatshub.top/rule/Zhihu.list, policy=🚁知乎🟢, tag=知乎, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Zhihu/Zhihu.list, policy=🚁知乎🟢, tag=知乎, parser-enable=true, enabled=false
 https://whatshub.top/rule/XianYu.list, policy=🐠閒魚🟢, tag=闲鱼, parser-enable=true, enabled=true
@@ -415,7 +413,11 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Lan/Lan.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=本地局域網, parser-enable=true, enabled=false
 https://whatshub.top/rule/ChinaMax.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=国内网站/IP合集, parser-enable=true, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaMax/ChinaMax.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=國內網站/IP合集, parser-enable=true, enabled=false
-https://gitlab.com/Loon0x00/loon_data/-/raw/main/default_rule.list, policy=DIRECT, tag=Loon, enabled=false
+https://gitlab.com/Loon0x00/loon_data/-/raw/main/default_rule.list, policy=REJECT, tag=Loon, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/TelegramUS.list, policy=𓄂美利堅強盜國🇺🇸, tag=美国, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/TelegramNL.list, policy=𓄂海上馬車夫🇳🇱, tag=荷兰, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/TelegramSG.list, policy=𓄂新加坡共和國🇸🇬, tag=新国, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/TelegramALL.list, policy=𓄂新加坡共和國🇸🇬, tag=新加坡, enabled=false
 
 #地址重写
 [URL Rewrite]
@@ -494,7 +496,7 @@ https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Node_detectio
 https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Bilibili_remove_ads.plugin, tag=bilibili去廣告, enabled=true
 https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/YouTube_remove_ads.plugin, tag=Youtube去廣告, enabled=true
 https://whatshub.top/plugin/oil.plugin, tag=今日油价, enabled=true
-https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Spotify_lyrics_translation.plugin, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Spotify_lyrics_translation.plugin, enabled=true
 https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Baidu_input_method_remove_ads.plugin, enabled=false
 https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/BaiduSearchWebpage_remove_ads.plugin, enabled=false
 https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Fileball_mount.plugin, enabled=false
