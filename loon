@@ -2,9 +2,10 @@
 
 # 本地节点
 [Proxy] 
-SSR = ShadowsocksR,45.8.158.230,30085,rc4,"lncn.org ld9",protocol=origin,obfs=plain,fast-open=false,udp=false
-HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,21830,skip-cert-verify=true,"tls-name=www.chrome-helper.cc",tls-name=www.chrome-helper.cc
-一键连  Via @daidaiwww-520094369 = HTTPS,jc.ap.fastqvpn.com,29980,442993652168396800,"2ef91648-089f-4c81-b34d-06f072ec51dd",tls-name=jc.ap.fastqvpn.com
+VlESS = VLESS,185.109.21.24,443,"none:376b9861-2fc6-4647-959c-18185cd9c95a",transport=tcp,path=/fflsws,over-tls=false
+不跌的 = VLESS,185.109.21.24,443,"none:376b9861-2fc6-4647-959c-18185cd9c95a",transport=tcp,path=/fflsws,over-tls=false
+不跌的 = VLESS,185.109.21.24,443,"none:376b9861-2fc6-4647-959c-18185cd9c95a",transport=tcp,path=/fflsws,over-tls=false
+不跌的 = VLESS,185.109.21.24,443,"none:376b9861-2fc6-4647-959c-18185cd9c95a",transport=tcp,path=/fflsws,over-tls=false
 SSR = ShadowsocksR,45.8.158.230,30085,rc4,"lncn.org ld9",protocol=origin,obfs=plain,fast-open=false,udp=false
 HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,21830,skip-cert-verify=true,"tls-name=www.chrome-helper.cc",tls-name=www.chrome-helper.cc
 一键连  Via @daidaiwww-520094369 = HTTPS,jc.ap.fastqvpn.com,29980,442993652168396800,"2ef91648-089f-4c81-b34d-06f072ec51dd",tls-name=jc.ap.fastqvpn.com
@@ -12,7 +13,7 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 #别名=订阅節點URL
 [Remote Proxy]
 𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥⑥ = https://ghproxy.com/raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx2,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_GameCenter.png
-𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥⑤ = https://sub1.smallstrawberry.com/api/v1/client/subscribe?token=5ec909f6d853a669c344dc660ed71f4d,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/black2c7/TheMagic-Icons/main/Icons/EF.png
+𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥⑤ = https://sub1.smallstrawberry.com/api/v1/client/subscribe?token=5ec909f6d853a669c344dc660ed71f4d,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/menhera/Sticker_1231.png
 𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥④ = https://raw.githubusercontent.com/freefq/free/master/v2,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-Miya/Shin-Miya-1027.png
 𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥③ = https://raw.fgit.cf/Pawdroid/Free-servers/main/sub,parser-enabled = true,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/012.png
 𓄂(⚈͒ʷ̣̫⚈͒)科学上网•̥② = https://raw.githubusercontent.com/hkaa0/permalink/main/proxy/V2ray,parser-enabled = true,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Tom-Jerry/Tom-Jerry-1036.png
@@ -84,7 +85,7 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬 = select,DIRECT,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Direct.png
 ⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬 = select,REJECT,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Reject.png
 🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬 = select,𓃰SSID𐂂,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Adblock.png
-👋手動🌦✈ = select,𓃰“亥”🐖✈⋯··· ·  ·🚴‍♂️,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Clubhouse.png
+👋手動🌦✈ = select,VlESS,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Clubhouse.png
 ♻️自動🌦✈ = url-test,🇸🇬新加坡,url = http://www.qualcomm.cn/generate_204,interval = 120,tolerance = 30,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Roundrobin.png
 ⚖️負載🌦✈ = load-balance,𓆉“震”⚡️✈⋯· ·  ·   ·⛹️‍♀️,url = http://www.gstatic.com/generate_204,interval = 360,max-timeout = 3000,algorithm = pcc,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Static.png
 ♨️檢測🌦✈ = fallback,🇷🇺俄羅斯,url = http://www.qualcomm.cn/generate_204,interval = 180,max-timeout = 8000,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Auto.png
@@ -487,23 +488,23 @@ host = 127.0.0.1
 
 #插件
 [Plugin]
-https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Spotify_lyrics_translation.plugin, enabled=true
-https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Baidu_input_method_remove_ads.plugin, enabled=true
-https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/BaiduSearchWebpage_remove_ads.plugin, enabled=true
-https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Fileball_mount.plugin, enabled=true
-https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/BaiduNetDisk_remove_ads.plugin, enabled=true
-https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/IThome_remove_ads.plugin, enabled=true
-https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/BingAI.plugin, enabled=true
-https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/WexinMiniPrograms_Remove_ads.plugin, enabled=true
-https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/TubeMax_remove_ads.plugin, enabled=true
-https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/QiDian_remove_ads.plugin, enabled=true
-https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/VVebo_repair.plugin, enabled=true
-https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/YouTube_remove_ads.plugin, tag=Youtube去廣告, enabled=true
+https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.plugin, policy=𓃰SSID𐂂, tag=BoxJs, enabled=true
 https://yfamily.vercel.app/plugin/GeoLocation.plugin, tag=GeoLocation, enabled=true
 https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Node_detection_tool.plugin, tag=節電檢測工具, enabled=true
 https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Bilibili_remove_ads.plugin, tag=bilibili去廣告, enabled=true
-https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.plugin, policy=𓃰SSID𐂂, tag=BoxJs, enabled=true
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/YouTube_remove_ads.plugin, tag=Youtube去廣告, enabled=true
 https://whatshub.top/plugin/oil.plugin, tag=今日油价, enabled=true
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Spotify_lyrics_translation.plugin, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Baidu_input_method_remove_ads.plugin, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/BaiduSearchWebpage_remove_ads.plugin, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Fileball_mount.plugin, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/BaiduNetDisk_remove_ads.plugin, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/IThome_remove_ads.plugin, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/BingAI.plugin, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/WexinMiniPrograms_Remove_ads.plugin, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/TubeMax_remove_ads.plugin, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/QiDian_remove_ads.plugin, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/VVebo_repair.plugin, enabled=false
 https://yfamily.vercel.app/plugin/youtube.plugin, tag=Youtube去广告, enabled=false
 https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/CoolApk_remove_ads.plugin, tag=酷安去廣告, enabled=false
 https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Soul_remove_ads.plugin, enabled=false
