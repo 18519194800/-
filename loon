@@ -480,6 +480,7 @@ host = 127.0.0.1
 
 #插件
 [Plugin]
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Line_remove_ads.plugin, enabled=true
 https://whatshub.top/plugin/oil.plugin, enabled=true
 https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/WARP_Node_Query.plugin, enabled=true
 https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/1.1.1.1.plugin, enabled=true
