@@ -17,6 +17,9 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 
 #别名=订阅節點URL
 [Remote Proxy]
+𓄂臨͒🎮時͒✈︎⋯⋯✺͒ʷ̣̫✺͒ = https://9527521.xyz/config/dl3ZLE1KuBOrFvf9,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_GameCenter.png
+🦥牆̥͒🔞國̥͒✄⋯¹🤾‍♀️💥🕳️🦔 = https://clashgithub.com/wp-content/uploads/rss/20240428.txt,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/black2c7/TheMagic-Icons/main/Icons/TNTV2.png
+𓄄𓀢⓪𓀣🌬⋯· ☀︎  ✷ 💨 = https://sub.tgzdyz2.xyz/sub,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/black2c7/TheMagic-Icons/main/Icons/EF.png
 𓃵“馨”🎵✈⋯· ·  ·   ·🎻 = https://git.io/JfNq3,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Bubble/Social-Logo/NeteaseMusic.png
 𓃰“子”🐁✈⋯··· ·  ·🚴‍♂️ = https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/WiFi.png
 𓃰“醜”🦬✈⋯··· ·  ·🚴‍♂️ = https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Infuse.png
@@ -480,7 +483,6 @@ host = 127.0.0.1
 
 #插件
 [Plugin]
-https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Line_remove_ads.plugin, enabled=true
 https://whatshub.top/plugin/oil.plugin, enabled=true
 https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/WARP_Node_Query.plugin, enabled=true
 https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/1.1.1.1.plugin, enabled=true
@@ -495,6 +497,7 @@ https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Node_detectio
 https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Bilibili_remove_ads.plugin, tag=bilibili去廣告, enabled=true
 https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Spotify_lyrics_translation.plugin, enabled=true
 https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.plugin, policy=𓃰SSID𐂂, tag=BoxJs, enabled=true
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Line_remove_ads.plugin, enabled=false
 https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/YouTubeSubtitlesTranslation.plugin, enabled=false
 https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Reddit_remove_ads.plugin, enabled=false
 https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/HUPU_remove_ads.plugin, enabled=false
