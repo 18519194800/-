@@ -18,7 +18,7 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 #别名=订阅節點URL
 [Remote Proxy]
 𓄂臨͒🎮時͒✈︎⋯⋯✺͒ʷ̣̫✺͒ = https://9527521.xyz/config/dl3ZLE1KuBOrFvf9,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_GameCenter.png
-🦥牆̥͒🔞國̥͒✄⋯¹🤾‍♀️💥🕳️🦔 = https://clashgithub.com/wp-content/uploads/rss/20240428.txt,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/black2c7/TheMagic-Icons/main/Icons/TNTV2.png
+🦥牆̥͒🔞國̥͒✄⋯¹🤾‍♀️💥🕳️🦔 = https://clashgithub.com/wp-content/uploads/rss/20240514.txt,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/black2c7/TheMagic-Icons/main/Icons/TNTV2.png
 𓄄𓀢①𓀣🌬⋯· ☀︎  ✷ 💨 = https://raw.githubusercontent.com/kkkouo/kkkouo.github.io/main/kkfsl,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Discovery.png
 𓄄𓀢⓪𓀣🌬⋯· ☀︎  ✷ 💨 = https://sub.tgzdyz2.xyz/sub,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/black2c7/TheMagic-Icons/main/Icons/EF.png
 𓃵“馨”🎵✈⋯· ·  ·   ·🎻 = https://git.io/JfNq3,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Bubble/Social-Logo/NeteaseMusic.png
@@ -31,7 +31,7 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 𓃰“午”🐎✈⋯··· ·  ·🚴‍♂️ = https://v2ray.neocities.org/v2ray.txt,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Taobao.png
 𓃰“未”🐏✈⋯··· ·  ·🚴‍♂️ = https://raw.githubusercontent.com/wentao883/TG-wxgqlfx_BYDY/main/pdyjdy_BYDY,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Puzzle.png
 𓃰“申”🐵✈⋯··· ·  ·🚴‍♂️ = https://raw.githubusercontent.com/hkaa0/permalink/main/proxy/V2ray.txt,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SaySS.png
-𓃰“酉”🐓✈⋯··· ·  ·🚴‍♂️ = https://urls.freedonscf.cfd/HappyHour,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/NBC.png
+𓃰“酉”🐓✈⋯··· ·  ·🚴‍♂️ = https://url.happyhour.lol/Happyhour,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/NBC.png
 𓃰“戌”🐶✈⋯··· ·  ·🚴‍♂️ = https://ghproxy.com/https://raw.githubusercontent.com/yaney01/Yaney01/main/temporary,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/iQIYI%26bilibili.png
 𓃰“亥”🐖✈⋯··· ·  ·🚴‍♂️ = https://proxypool.link/trojan/sub,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Bubble/Social-Logo/Slack.png
 
@@ -214,7 +214,7 @@ https://whatshub.top/rule/DingTalk.list, policy=🕊釘釘🟢, tag=钉钉, pars
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/DingTalk/DingTalk.list, policy=🕊釘釘🟢, tag=釘釘, enabled=false
 https://whatshub.top/rule/2KGames.list, policy=🎮遊戲🟢, tag=游戏, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/Game.list, policy=🎮遊戲🟢, tag=遊戲, parser-enable=true, enabled=false
-https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/ChinaDownloadCDN.list, policy=🎮遊戲🟢, tag=游戏平台下载, enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/ChinaDownloadCDN.list, policy=🎮遊戲🟢, tag=游戏平台下载, enabled=true
 https://whatshub.top/rule/Zhihu.list, policy=🚁知乎🟢, tag=知乎, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Zhihu/Zhihu.list, policy=🚁知乎🟢, tag=知乎, parser-enable=true, enabled=false
 https://whatshub.top/rule/XianYu.list, policy=🐠閒魚🟢, tag=闲鱼, parser-enable=true, enabled=true
@@ -381,19 +381,19 @@ https://whatshub.top/rule/YouTubeMusic.list, policy=𓃰YouTubeMusic🌟, tag=yo
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/YouTubeMusic/YouTubeMusic.list, policy=𓃰YouTubeMusic 🌟, tag=YouTubeMusic, parser-enable=true, enabled=false
 https://whatshub.top/rule/ParamountPlus.list, policy=𓃰ParamountPlus🌟, tag=paramountplus, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ParamountPlus/ParamountPlus.list, policy=𓃰ParamountPlus🌟, tag=ParamountPlus, parser-enable=true, enabled=false
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Hijacking/Hijacking.list, policy=⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬, tag=反劫持, enabled=false
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Hijacking/Hijacking.list, policy=⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬, tag=反劫持, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingTest/AdvertisingTest_Domain.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=去廣告, parser-enable=true, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Privacy/Privacy.list, policy=⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬, tag=隱私保護, parser-enable=true, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingTest/AdvertisingTest.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=去廣告測試, parser-enable=true, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ZhihuAds/ZhihuAds.list, policy=🚁知乎🟢, tag=知乎廣告攔截, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingLite/AdvertisingLite.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=去廣告精簡版, parser-enable=true, enabled=false
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingLite/AdvertisingLite.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=去廣告精簡版, parser-enable=true, enabled=true
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=Filter（過濾器）, parser-enable=true, enabled=false
 https://whatshub.top/rule/ChinaIPs.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=chinaips, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaIPs/ChinaIPs.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=ChinaIPs, parser-enable=true, enabled=false
 https://whatshub.top/rule/Bloomberg.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=bloomberg, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Bloomberg/Bloomberg.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=Bloomberg, parser-enable=true, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AnTianKeJi/AnTianKeJi.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=Antirevoke, parser-enable=true, enabled=false
-https://easylist-downloads.adblockplus.org/easyprivacy.txt, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=Easyprivacy, parser-enable=true, enabled=true
+https://easylist-downloads.adblockplus.org/easyprivacy.txt, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=Easyprivacy, parser-enable=true, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/BlockHttpDNS/BlockHttpDNS.list, policy=⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬, tag=BlockHttpDNS, parser-enable=true, enabled=false
 https://whatshub.top/rule/China.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=直连, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Direct/Direct.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=直連, parser-enable=true, enabled=false
@@ -484,6 +484,7 @@ host = 127.0.0.1
 
 #插件
 [Plugin]
+https://napi.ltd/script/Worker/KuWo.js, tag=酷我音乐, enabled=true
 https://whatshub.top/plugin/oil.plugin, enabled=true
 https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/WARP_Node_Query.plugin, enabled=true
 https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/1.1.1.1.plugin, enabled=true
