@@ -2,23 +2,21 @@
 
 # 本地节点
 [Proxy] 
-在 = WireGuard,interface-ip=172.16.0.2,private-key="IOEw9PNsX/Uzyg+XhYaOpWOAX+vtfBQUmk7UH+nXa3E=",mtu=1280,dns=1.1.1.1,keepalive=30,peers=[{public-key="bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",allowed-ips="::/0",endpoint=188.114.99.110:945}],udp=false
-2 = WireGuard,interface-ip=172.16.0.2,private-key="IOEw9PNsX/Uzyg+XhYaOpWOAX+vtfBQUmk7UH+nXa3E=",mtu=1280,dns=1.1.1.1,keepalive=30,peers=[{public-key="bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",allowed-ips="::/0",endpoint=162.159.192.25:942}]
+肆 = WireGuard,interface-ip=172.16.0.2,private-key="IOEw9PNsX/Uzyg+XhYaOpWOAX+vtfBQUmk7UH+nXa3E=",mtu=1280,dns=1.1.1.1,keepalive=30,peers=[{public-key="bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",allowed-ips="::/0",endpoint=188.114.99.110:945}],udp=false
+叁 = WireGuard,interface-ip=172.16.0.2,private-key="IOEw9PNsX/Uzyg+XhYaOpWOAX+vtfBQUmk7UH+nXa3E=",mtu=1280,dns=1.1.1.1,keepalive=30,peers=[{public-key="bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",allowed-ips="::/0",endpoint=162.159.192.25:942}]
 2 = WireGuard,interface-ip=172.16.0.2,private-key="IOEw9PNsX/Uzyg+XhYaOpWOAX+vtfBQUmk7UH+nXa3E=",mtu=1280,dns=1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001,keepalive=30,peers=[{public-key="bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",allowed-ips="::/0",endpoint=162.159.192.25:942}]
-1 = WireGuard,interface-ip=172.16.0.2,private-key="IOEw9PNsX/Uzyg+XhYaOpWOAX+vtfBQUmk7UH+nXa3E=",mtu=1280,dns=1.1.1.1,keepalive=30,peers=[{public-key="bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",allowed-ips="::/0",endpoint=188.114.96.90:880}]
-06801e4498711e083e3f965b17494b00 = WireGuard,interface-ip=172.16.0.2,private-key="IOEw9PNsX/Uzyg+XhYaOpWOAX+vtfBQUmk7UH+nXa3E=",mtu=1280,dns=1.1.1.1,keepalive=30,peers=[{public-key="bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",allowed-ips="::/0",endpoint=188.114.96.90:880}],udp=false
+貳 = WireGuard,interface-ip=172.16.0.2,private-key="IOEw9PNsX/Uzyg+XhYaOpWOAX+vtfBQUmk7UH+nXa3E=",mtu=1280,dns=1.1.1.1,keepalive=30,peers=[{public-key="bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",allowed-ips="::/0",endpoint=188.114.96.90:880}]
+壹 = WireGuard,interface-ip=172.16.0.2,private-key="IOEw9PNsX/Uzyg+XhYaOpWOAX+vtfBQUmk7UH+nXa3E=",mtu=1280,dns=1.1.1.1,keepalive=30,peers=[{public-key="bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",allowed-ips="::/0",endpoint=188.114.96.90:880}],udp=false
 VlESS = VLESS,185.109.21.24,443,"none:376b9861-2fc6-4647-959c-18185cd9c95a",transport=tcp,path=/fflsws,over-tls=false
 不跌的 = VLESS,185.109.21.24,443,"none:376b9861-2fc6-4647-959c-18185cd9c95a",transport=tcp,path=/fflsws,over-tls=false
 不跌的 = VLESS,185.109.21.24,443,"none:376b9861-2fc6-4647-959c-18185cd9c95a",transport=tcp,path=/fflsws,over-tls=false
-不跌的 = VLESS,185.109.21.24,443,"none:376b9861-2fc6-4647-959c-18185cd9c95a",transport=tcp,path=/fflsws,over-tls=false
-SSR = ShadowsocksR,45.8.158.230,30085,rc4,"lncn.org ld9",protocol=origin,obfs=plain,fast-open=false,udp=false
 HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,21830,skip-cert-verify=true,"tls-name=www.chrome-helper.cc",sni=www.chrome-helper.cc
 一键连  Via @daidaiwww-520094369 = HTTPS,jc.ap.fastqvpn.com,29980,442993652168396800,"2ef91648-089f-4c81-b34d-06f072ec51dd",sni=jc.ap.fastqvpn.com
 
 #别名=订阅節點URL
 [Remote Proxy]
-𓄂臨͒🎮時͒✈︎⋯⋯✺͒ʷ̣̫✺͒ = https://9527521.xyz/config/dl3ZLE1KuBOrFvf9,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_GameCenter.png
-🦥牆̥͒🔞國̥͒✄⋯¹🤾‍♀️💥🕳️🦔 = https://clashgithub.com/wp-content/uploads/rss/20240514.txt,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/black2c7/TheMagic-Icons/main/Icons/TNTV2.png
+𓄂臨͒🎮時͒✈︎⋯⋯✺͒ʷ̣̫✺͒ = https://9527521.xyz/config/5RCVp0Px2XHkUqnE,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_GameCenter.png
+🦥牆̥͒🔞國̥͒✄⋯¹🤾‍♀️💥🕳️🦔 = https://clashgithub.com/wp-content/uploads/rss/20240521.txt,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/black2c7/TheMagic-Icons/main/Icons/TNTV2.png
 𓄄𓀢①𓀣🌬⋯· ☀︎  ✷ 💨 = https://raw.githubusercontent.com/kkkouo/kkkouo.github.io/main/kkfsl,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Discovery.png
 𓄄𓀢⓪𓀣🌬⋯· ☀︎  ✷ 💨 = https://sub.tgzdyz2.xyz/sub,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/black2c7/TheMagic-Icons/main/Icons/EF.png
 𓃵“馨”🎵✈⋯· ·  ·   ·🎻 = https://git.io/JfNq3,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Bubble/Social-Logo/NeteaseMusic.png
@@ -450,6 +448,7 @@ https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/JD.conf, tag=�
 
 #普遍的
 [General]
+disconnect-on-policy-change = true
 # [DNS] => DNS 服务器，如果只在中国大陆境内使用，可以删除 1.0.0.1 和 8.8.8.8 两个 DNS（推荐）
 sni-sniffing = true
 mitm-on-wifi-access = false
