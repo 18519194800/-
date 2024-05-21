@@ -540,7 +540,6 @@ https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/DragonRead_re
 https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Taobao_remove_ads.plugin, tag=淘寶去廣告, enabled=false
 https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/CaixinMedia_remove_ads.plugin, tag=財新去廣告, enabled=false
 https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/UnionPay_remove_ads_with_ssl_unpinning.plugin, tag=雲閃付去廣告, enabled=false
-https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/SevenCat_remove_ads_with_ssl_unpinning.plugin, tag=七貓小貓去廣告, enabled=false
 https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/smzdm_remove_ads.plugin, tag=什麼值得買, enabled=false
 https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/QQ_Redirect.plugin, tag=QQ連結解鎖, enabled=false
 https://whatshub.top/plugin/crypto.plugin, tag=汇率.加密货币, enabled=false
