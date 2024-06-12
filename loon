@@ -13,8 +13,9 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 
 #别名=订阅節點URL
 [Remote Proxy]
-𓄂臨͒🎮時͒✈︎⋯⋯✺͒ʷ̣̫✺͒ = https://9527521.xyz/config/5RCVp0Px2XHkUqnE,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_GameCenter.png
-🦥牆̥͒🔞國̥͒✄⋯¹🤾‍♀️💥🕳️🦔 = https://clashgithub.com/wp-content/uploads/rss/20240521.txt,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/black2c7/TheMagic-Icons/main/Icons/TNTV2.png
+🇸🇨𓄄𓀢⓪𓀣🌬⋯· ☀︎  ✷ 💨 = https://clashe.eu.org/trojan/sub,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-chan/Shin-chan-1036.png
+𓄂臨͒🎮時͒✈︎⋯⋯✺͒ʷ̣̫✺͒ = https://9527521.xyz/config/HOagIxnSeUKJoc9d,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_GameCenter.png
+🦥牆̥͒🔞國̥͒✄⋯¹🤾‍♀️💥🕳️🦔 = https://raw.githubusercontent.com/Huibq/TrojanLinks/master/links/ssr,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/black2c7/TheMagic-Icons/main/Icons/TNTV2.png
 𓄄𓀢①𓀣🌬⋯· ☀︎  ✷ 💨 = https://raw.githubusercontent.com/kkkouo/kkkouo.github.io/main/kkfsl,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Discovery.png
 𓄄𓀢⓪𓀣🌬⋯· ☀︎  ✷ 💨 = https://sub.tgzdyz2.xyz/sub,udp=true,fast-open=false,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/black2c7/TheMagic-Icons/main/Icons/EF.png
 𓃵“馨”🎵✈⋯· ·  ·   ·🎻 = https://git.io/JfNq3,parser-enabled = true,udp=true,fast-open=true,vmess-aead=true,enabled=true,img-url=https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Bubble/Social-Logo/NeteaseMusic.png
@@ -441,6 +442,7 @@ enable = true
 
 # 远程脚本
 [Remote Script]
+https://raw.githubusercontent.com/NobyDa/Script/master/Loon/Loon_Daily_bonus.plugin, tag=Loon_Daily_bonus.plugin, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/AdvertisingScript/AdvertisingScript.plugin, tag=去广告脚本, enabled=true
 https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/JD.conf, tag=京东, enabled=true
 
