@@ -53,7 +53,7 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 𓆉“戌”🐕✈⋯· · · · 🚴‍♀️ = https://proxypool.link/clash/proxies,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=true,img-url=https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/zishi-cs/zs2.png
 𓆉“亥”🐖✈⋯· · · · 🚴‍♀️ = https://raw.githubusercontent.com/hkaa0/permalink/main/proxy/V2ray.txt,parser-enabled = true,udp=true,block-quic=true,fast-open=true,vmess-aead=true,skip-cert-verify=default,enabled=true,flexible-sni=true,img-url=https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/zishi-cs/zs1.png
 𓃰乾̥͒“🏆”壹̥͒☰✈⋯·₁❤️ = https://raw.githubusercontent.com/wentao883/TG-wxgqlfx_BYDY/main/pdyjdy_BYDY,parser-enabled = true,udp=true,block-quic=true,fast-open=true,vmess-aead=true,skip-cert-verify=default,enabled=true,flexible-sni=true,img-url=https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/maomi/mm22.png
-𓃰坎̥͒“🏆”貳̥͒☵✈⋯·₂🧡 = https://sub.danhu.dpdns.org/paste/TG@FProxies260328OuXf65J/base64,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=false,img-url=https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/maomi/mm14.png
+𓃰坎̥͒“🏆”貳̥͒☵✈⋯·₂🧡 = https://sub.danhu.dpdns.org/paste/TG@FProxies260418lS7REjs/base64,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=false,img-url=https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/maomi/mm14.png
 𓃰艮̥͒“🏆”叁̥͒☶✈⋯·₃💚 = https://mxlsub.qzz.io/free,parser-enabled = true,udp=true,block-quic=false,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=false,img-url=https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/maomi/mm1.png
 𓃰震̥͒“🏆”肆̥͒☳✈⋯·₄💙 = https://raw.githubusercontent.com/XQFXS/mfjd/refs/heads/main/小七分享社节点分享,parser-enabled = true,udp=true,block-quic=true,fast-open=true,vmess-aead=true,skip-cert-verify=default,enabled=true,flexible-sni=true,img-url=https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/maomi/mm16.png
 𓃰巽̥͒“🏆”伍̥͒☴✈⋯·₅💜 = https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt,parser-enabled = true,udp=true,block-quic=true,fast-open=false,vmess-aead=true,skip-cert-verify=default,enabled=true,flexible-sni=true,img-url=https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/maomi/mm5.png
@@ -465,6 +465,11 @@ https://raw.githubusercontent.com/nzw9314/Loon/master/Q-Search_All_in_one.conf, 
 
 # 本地脚本
 [Script]
+
+http-request ^https:\/\/www\.iios\.fun\/api\/user\/info script-path=https://raw.githubusercontent.com/ZenmoFeiShi/Qx/refs/heads/main/iios_checkin.js, timeout=20, tag=iiostoken
+
+cron "5 0 * * *" script-path=https://raw.githubusercontent.com/ZenmoFeiShi/Qx/refs/heads/main/iios_checkin.js, timeout=300, tag=iios签到
+
 cron "15 0 * * *" script-path=https://raw.githubusercontent.com/Alex0510/Eric/master/surge/Script/SLVPN.js, timeout=60, tag=瞬连VPN试用申请
 http-response ^https:\/\/ap(p|i)\.bili(bili|api)\.(com|net)\/(pgc\/view\/v\d\/app\/season|x\/offline\/version)\? script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Bili_Auto_Regions.js, requires-body=true, timeout=10, tag=bili自动地区
 #可选, 适用于搜索指定地区的番剧
@@ -485,7 +490,7 @@ disconnect-on-policy-change = true
 sni-sniffing = true
 mitm-on-wifi-access = false
 disable-stun = true
-resource-parser = https://raw.githubusercontent.com/sub-store-org/Sub-Store/release/sub-store-parser.loon.min.js
+resource-parser = https://raw.githubusercontent.com/mc2u/Loon/main/Scripts/resource-parser/loon_resource_parser.js
 dns-server = system,
 allow-wifi-access = true
 wifi-access-http-port = 7222
