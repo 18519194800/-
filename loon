@@ -3,19 +3,28 @@
 
 # 本地节点
 [Proxy] 
+Super4-LosAngeles#5846 = vmess,82.198.246.233,180,aes-128-gcm,"d13fc2f5-3e05-4795-81eb-44143a09e552",transport=tcp,alterId=0,path=/,host=icloud.com,udp=true,block-quic=false,over-tls=false
+Super4-LosAngeles#5849 = vmess,82.198.246.37,180,aes-128-gcm,"d13fc2f5-3e05-4795-81eb-44143a09e552",transport=tcp,alterId=0,path=/,host=icloud.com,udp=true,block-quic=false,over-tls=false
+TG@wzmfjd 香港 09 = vmess,efan.dnsefan04881.com,7754,auto,"009e558d-3cf4-49d8-b5e4-82c9e14fe1a4",transport=tcp,alterId=0,udp=true,block-quic=false,over-tls=false
+HK|优选反代|59ms = VLESS,104.26.7.124,443,"none:a30b1851-6b6f-4512-8627-71731ae70570",transport=ws,path=/,host=wahaha2026.us.ci,udp=true,block-quic=false,over-tls=true,sni=wahaha2026.us.ci
+🇺🇸 US備用⑧ˣ⁶𝕋𝔾myFreeNodeChat = Hysteria2,104.168.104.80,18912,"9de223f6-86ac-4bf9-85b5-fabc62ddd7d9",skip-cert-verify=true
+🇰🇷 KR 備用④ˣ⁶𝕋𝔾myFreeNodeChat = vmess,217.142.138.61,80,auto,"ac1b933d-afff-4487-93ef-f57130a55dff",transport=http,alterId=0,path=/,udp=true,block-quic=false,over-tls=false
+21 ~ 164746 优选节点 = VLESS,108.162.198.96,443,":e5cc16a6-ea42-46b2-82ae-ad2157e1641b",transport=ws,path=/,host=hhlfy.twiladaphne.ndjp.net,udp=true,block-quic=false,over-tls=true,sni=hhlfy.twiladaphne.ndjp.net
+21 ~ 164746 优选节点 = VLESS,108.162.198.96,443,":e5cc16a6-ea42-46b2-82ae-ad2157e1641b",transport=ws,path=/,host=hhlfy.twiladaphne.ndjp.net,udp=true,block-quic=false,over-tls=true,sni=hhlfy.twiladaphne.ndjp.net
+Super4-LosAngeles#5848 = vmess,82.198.246.214,180,aes-128-gcm,"d13fc2f5-3e05-4795-81eb-44143a09e552",transport=tcp,alterId=0,path=/,host=icloud.com,udp=true,block-quic=false,over-tls=false
+Super4-LosAngeles#5847 = vmess,82.198.246.9,180,aes-128-gcm,"d13fc2f5-3e05-4795-81eb-44143a09e552",transport=tcp,alterId=0,path=/,host=icloud.com,udp=true,block-quic=false,over-tls=false
 
-水灵🐚扇贝 = Shadowsocks,15.237.216.164,21901,aes-256-gcm,"G4DPowVnRz",fast-open=false,udp=false,block-quic=false
 美国🌰提取 = vmess,n1761372455.kzxds.cn,443,auto,"5e6150fc-b561-4c14-b6d2-d52ffc1165a4",transport=ws,alterId=0,path=/,host=n1761372455.kzxds.cn,udp=true,block-quic=false,over-tls=true
 🌰坚果提取 = vmess,n1761372461.xlxzzx.com,443,none,"8e826d0c-4e10-4e14-879b-dae649a14318",transport=ws,alterId=0,udp=true,block-quic=false,over-tls=true,skip-cert-verify=true
 🍟🇨🇦CA-2🐓 = Shadowsocks,callis.carrollis.club,12656,chacha20-ietf-poly1305,"Pudding4242",obfs-name=http,obfs-uri=/,fast-open=false,udp=false,block-quic=false
-HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,21830,skip-cert-verify=true,"tls-name=www.chrome-helper.cc",sni=www.chrome-helper.cc
-一键连  Via @daidaiwww-520094369 = HTTPS,jc.ap.fastqvpn.com,29980,442993652168396800,"2ef91648-089f-4c81-b34d-06f072ec51dd",sni=jc.ap.fastqvpn.com
 
 #别名=订阅節點URL
 [Remote Proxy]
 𓃵“網易雲音樂”✈⋯·☀︎💦 = https://git.io/JfNq3,parser-enabled = true,udp=true,block-quic=true,fast-open=true,vmess-aead=true,skip-cert-verify=default,enabled=true,flexible-sni=true,img-url=https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Bubble/Social-Logo/NeteaseMusic.png
-𓄄慟̥͒🏆禮̥͒✈︎⋯··✨ = https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=false,img-url=https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/NutBit(1).png
 𓄄機̥͒🍟動̥͒✈︎⋯··✨ = https://xmxosfepggzm.503403.xyz,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=false,img-url=https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/SYN.png
+𓄄慟̥͒🏆禮̥͒✈︎⋯··✨ = https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=false,img-url=https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/NutBit(1).png
+𓄄慟̥͒🏆機̥͒✈︎⋯··✨ = https://freeproxy.20101103.xyz/MENG?b64&v=,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=false,img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1024.png
+𓄄奪̥͒🧩勁̥͒✈︎⋯··✨ = https://bpfxs.ccwu.cc/sub?token=48840c5487d15ac6a32dae6ec4dd19ddead9d8b198249d9dd2b55e8f53bcb922,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=false,img-url=https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/pandaTV.png
 𓄄叠̥͒🎭㙓̥͒✈︎⋯··✨ = https://s.vip54.dpdns.org/nlDtrSaT,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=false,img-url=https://raw.githubusercontent.com/shoujiqiyuan/PVSZforQuanX/master/IconSet/P2201.png
 𓄂(豹̥͒)⚈͒.̫⚈͒🌬 ⋯· · ☀︎  ✷ 💨 = https://www.xrayvip.com/free.txt,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=true,img-url=https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/lyrebirdqinniao(2)-emby.png
 𓄂(虎̥͒)⚈͒.̫⚈͒🌬 ⋯· · ☀︎  ✷ 💨 = https://SOS.CMLiussss.net/auto,parser-enabled = true,udp=true,block-quic=true,fast-open=true,vmess-aead=true,skip-cert-verify=default,enabled=true,flexible-sni=true,img-url=https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/kendeji(1).png
@@ -100,7 +109,7 @@ HK-HTTPS-三网优化 0x  无限流量HTTPS节点 = HTTPS,www.chrome-helper.cc,2
 🎭肆🐲號🌦✈⋯· ☀︎💥 = url-test,𓆉“未”🐏✈⋯· · · · 🚴‍♀️,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1007.png
 🎭伍🐲號🌦✈⋯· ☀︎💥 = url-test,𓆉“戌”🐕✈⋯· · · · 🚴‍♀️,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1015.png
 🎭陸🐲號🌦✈⋯· ☀︎💥 = url-test,𓄄𓀢⑨𓀣🌬⋯· ·ⓘ  (壬̥͒),interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1010.png
-🎭柒🐲號🌦✈⋯· ☀︎💥 = url-test,水灵🐚扇贝,美国🌰提取,🌰坚果提取,🍟🇨🇦CA-2🐓,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1059.png
+🎭柒🐲號🌦✈⋯· ☀︎💥 = url-test,美国🌰提取,🌰坚果提取,🍟🇨🇦CA-2🐓,Super4-LosAngeles#5846,Super4-LosAngeles#5849,TG@wzmfjd 香港 09,HK|优选反代|59ms,🇺🇸 US備用⑧ˣ⁶𝕋𝔾myFreeNodeChat,🇰🇷 KR 備用④ˣ⁶𝕋𝔾myFreeNodeChat,21 ~ 164746 优选节点,Super4-LosAngeles#5848,Super4-LosAngeles#5847,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1059.png
 🎭捌🐲號🌦✈⋯· ☀︎💥 = url-test,𓃰離̥͒“🏆”陸̥͒☲✈⋯·₆🖤,🦥(山̥͒🪲地̥͒)✈︎⋯🦢 •:✺͒ʷ̣̫✺͒:•,𓄄𓀢⑧𓀣🌬⋯· ·ⓗ  (辛̥͒),𓆉“寅”🐯✈⋯· · · · 🚴‍♀️,interval = 600,img-url = https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Alpha.png
 𓃰SSID𐂂 = ssid,default=𓃵策略選取✄,cellular=𓃵策略選取✄,"𓃵策略選取✄"=𓃵策略選取✄,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/SSID.png
 🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬 = select,DIRECT,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Direct.png
@@ -520,6 +529,8 @@ host = 127.0.0.1
 
 #插件
 [Plugin]
+https://raw.githubusercontent.com/chxm1023/Script_X/main/Collections.plugin, tag=APP解锁合集, enabled=true
+
 https://kelee.one/Tool/Loon/Lpx/Block_HTTPDNS.lpx, pin=true, enabled=true
 https://kelee.one/Tool/Loon/Lpx/BlockAdvertisers.lpx, pin=true, enabled=true
 https://kelee.one/Tool/Loon/Lpx/QuickSearch.lpx, enabled=true
