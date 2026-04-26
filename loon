@@ -24,7 +24,6 @@ Super4-LosAngeles#5847 = vmess,82.198.246.9,180,aes-128-gcm,"d13fc2f5-3e05-4795-
 𓄄機̥͒🍟動̥͒✈︎⋯··✨ = https://xmxosfepggzm.503403.xyz,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=false,img-url=https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/SYN.png
 𓄄慟̥͒🏆禮̥͒✈︎⋯··✨ = https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=false,img-url=https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/NutBit(1).png
 𓄄慟̥͒🏆機̥͒✈︎⋯··✨ = https://freeproxy.20101103.xyz/MENG?b64&v=,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=false,img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1024.png
-𓄄奪̥͒🧩勁̥͒✈︎⋯··✨ = https://bpfxs.ccwu.cc/sub?token=48840c5487d15ac6a32dae6ec4dd19ddead9d8b198249d9dd2b55e8f53bcb922,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=false,img-url=https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/pandaTV.png
 𓄄叠̥͒🎭㙓̥͒✈︎⋯··✨ = https://s.vip54.dpdns.org/nlDtrSaT,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=false,img-url=https://raw.githubusercontent.com/shoujiqiyuan/PVSZforQuanX/master/IconSet/P2201.png
 𓄂(豹̥͒)⚈͒.̫⚈͒🌬 ⋯· · ☀︎  ✷ 💨 = https://www.xrayvip.com/free.txt,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=true,img-url=https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/lyrebirdqinniao(2)-emby.png
 𓄂(虎̥͒)⚈͒.̫⚈͒🌬 ⋯· · ☀︎  ✷ 💨 = https://SOS.CMLiussss.net/auto,parser-enabled = true,udp=true,block-quic=true,fast-open=true,vmess-aead=true,skip-cert-verify=default,enabled=true,flexible-sni=true,img-url=https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/kendeji(1).png
@@ -706,249 +705,237 @@ https://whatshub.top/plugin/youtube.plugin, enabled=true
 https://kelee.one/Tool/Loon/Lpx/Script-Hub.lpx, enabled=true
 https://kelee.one/Tool/Loon/Lpx/Remove_ads_by_keli.lpx, enabled=true
 https://kelee.one/Tool/Loon/Lpx/QuickSearch.lpx, enabled=true
-https://kelee.one/Tool/Loon/Lpx/Prevent_DNS_Leaks.lpx, enabled=true
 https://kelee.one/Tool/Loon/Lpx/LoonGallery.lpx, policy=𓃵策略選取✄, enabled=true
 https://kelee.one/Tool/Loon/Lpx/BoxJs.lpx, enabled=true
 https://kelee.one/Tool/Loon/Lpx/12306_remove_ads.lpx, enabled=true
 https://kelee.one/Tool/Loon/Lpx/YouTubeSubtitlesTranslation.lpx, enabled=true
 https://kelee.one/Tool/Loon/Lpx/YouTube_remove_ads.lpx, enabled=true
 https://kelee.one/Tool/Loon/Lpx/NodeLinkCheck.lpx, enabled=true
-https://kelee.one/Tool/Loon/Lpx/Node_detection_tool.lpx, enabled=true
 https://kelee.one/Tool/Loon/Lpx/1.1.1.1.lpx, enabled=true
-https://kelee.one/Tool/Loon/Lpx/Block_HTTPDNS.lpx, enabled=true
-https://kelee.one/Tool/Loon/Lpx/BlockAdvertisers.lpx, enabled=true
 https://whatshub.top/plugin/oil.plugin, enabled=true
-https://whatshub.top/plugin/crypto.plugin, tag=汇率.加密货币, enabled=false
-https://whatshub.top/plugin/rates.plugin, tag=今日汇率, enabled=false
-https://whatshub.top/plugin/appsdoor.plugin, tag=限免app, enabled=false
-https://whatshub.top/plugin/hotoday.plugin, tag=今日平台热榜, enabled=false
-https://whatshub.top/plugin/rumors.plugin, tag=今日辟谣, enabled=false
-https://yfamily.vercel.app/plugin/Running-Mode.plugin, tag=Running Mode, enabled=false
-https://yfamily.vercel.app/plugin/cp.plugin, tag=菜谱大全&香哈菜谱, enabled=false
-https://yfamily.vercel.app/plugin/MediaChecker.plugin, tag=流媒体解锁查询, enabled=false
+https://whatshub.top/plugin/crypto.plugin, tag=汇率.加密货币, enabled=true
+https://whatshub.top/plugin/rates.plugin, tag=今日汇率, enabled=true
+https://whatshub.top/plugin/appsdoor.plugin, tag=限免app, enabled=true
+https://whatshub.top/plugin/hotoday.plugin, tag=今日平台热榜, enabled=true
+https://whatshub.top/plugin/rumors.plugin, tag=今日辟谣, enabled=true
+https://yfamily.vercel.app/plugin/Running-Mode.plugin, tag=Running Mode, enabled=true
+https://yfamily.vercel.app/plugin/cp.plugin, tag=菜谱大全&香哈菜谱, enabled=true
+https://yfamily.vercel.app/plugin/MediaChecker.plugin, tag=流媒体解锁查询, enabled=true
 https://raw.githubusercontent.com/deezertidal/private/master/plugallery/GeoLocation.plugin, enabled=true
-https://yfamily.vercel.app/plugin/multisearch.plugin, tag=MultiSearch, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/master/plugallery/caixin.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/master/plugallery/bdwk.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/master/plugallery/baimiao.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/master/plugallery/arpdfbj.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/master/plugallery/artp.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/master/plugallery/aliyun.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/master/plugallery/absqgs.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/master/plugallery/7dong.plugin, enabled=false
-https://raw.githubusercontent.com/sub-store-org/Sub-Store/master/config/Loon.plugin, enabled=false
-https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/PersistentPolicy/persistent-policy.plugin, enabled=false
-https://raw.githubusercontent.com/Peng-YM/QuanX/master/Rewrites/GithubPrivate/github-private-repo.plugin, enabled=false
-https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/AutoPolicy/auto-policy.plugin, enabled=false
-https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/RunningMode/running-mode.plugin, enabled=false
-https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/PlaneFinder/PlaneFinder.Loon.plugin, enabled=false
-https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/LiuLiShuoYueDu/LiuLiShuoYueDu.Loon.plugin, enabled=false
-https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/KuWoMusic/KuWoMusic.Loon.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/master/plugallery/wsgj.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/master/plugallery/wscsds.plugin, tag=网速测试大师, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/master/plugallery/caiyun.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/master/plugallery/1blocker.plugin, enabled=false
-https://raw.githubusercontent.com/chengkongyiban/Loon/main/Loon-Gallery/BaiduCloud.plugin, enabled=false
-https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/Xmind/Xmind.Loon.plugin, enabled=false
-https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/js/debug/aDriveCrack/aDriveCrack_test.plugin, enabled=false
-https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/js/Mine/aDriveCheckIn/aDriveCheckIn_token.plugin, enabled=false
-https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/js/Mine/aDriveCheckIn/aDriveCheckIn.plugin, enabled=false
-https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/COVID19.plugin, enabled=false
-https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/wnCalendar.plugin, enabled=false
-https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/DaysMatter.plugin, enabled=false
-https://raw.githubusercontent.com/mw418/Loon/main/plugin/Bing_rewards.plugin, enabled=false
-https://raw.githubusercontent.com/aico267/rule_for_quantumultX/master/Loon/Plugin/bilibiliSkin.plugin, enabled=false
-https://github.com/VirgilClyne/GetSomeFries/blob/main/plugin/DNS.plugin?raw=true, tag=🌐 DNS for Router and Companys, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/Emby.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/WPS.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/nicegram.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/SpotifyPremium.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/soundcloud.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/Tidal-HiFi.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/B-Search.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/Bodian.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/DisableUpdate.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/fanqienovel.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/iRingo_TestFlight.plugin, enabled=false
-https://raw.githubusercontent.com/NobyDa/Script/master/Loon/Loon_Bahamut_ADS.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/lls.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/jibjab.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/mix.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/picsart.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/polarr.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/ppx.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/vsco.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/xiaoying.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/xjsp.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/colorwidgets.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/alarmy.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/aloha.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/BedtimeFan.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/bazaart.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/daily-yoga.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/darkroom.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/fabulous.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/invideo.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/giftr.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/judou.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/kika.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/mojo.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/myfitnesspal.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/now.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/nybz.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/piccollage.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/pixelcut.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/sgsz.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/shadowlinkvpn.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/smallpdf.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/tangerine.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/wfw.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/widgetsmith.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/zjsg.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/apowersoft.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/appraven.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/bdsp.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/boom.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/clarity.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/ellabook.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/fimo.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/ft.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/ilovepdf.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/qifu.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/symbolab.plugin, enabled=false
-https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/PixivShow/Loon.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/b612.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/egdd.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/hyperweb.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/molycam.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/photomath.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/xcz.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/accu.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/meistertask.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/yiyan.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/fantastical.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/yunting.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/wdqd.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/emmo.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/xxg.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/dsbj.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/myplate.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/iam.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/imuseum.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/audiomack.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/grammarly.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/tokcam.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/tutu.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/wallcraft.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/xyts.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/yitian.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/grow.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/weiboad.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/xmlyad.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/wnds.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/mklwt.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/dyd.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/htjzb.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/peak.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/pillow.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/pocketlists.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/zymk.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/ydybj.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/vista.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/photoshop.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/rrsp.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/qmxs.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/mht.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/notability.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/baimiao.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/oldroll.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/sndd.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/dalanjing.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/lsdyw.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/ywqpy.plugin, tag=语文趣配音, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/zhitiao.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/smwd.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/meipian.plugin, tag=美篇, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/lightroom.plugin, tag=LightRoom, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/calm.plugin, tag=Calm解锁限制, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/stsq.plugin, tag=搜图神器, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/ssa.plugin, tag=SSA丝社, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/hyxc.plugin, tag=幻影相册, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/jsgx.plugin, tag=精塾国学, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/prettyup.plugin, tag=PrettyUp, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/cubox.plugin, tag=Cubox, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/pandora.plugin, tag=Pandora订阅管理, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/wechatread.plugin, tag=微信自动阅读, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/ly.plugin, tag=来音智能陪练, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/xzj.plugin, tag=熊掌记, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/notboring.plugin, tag=Notboring套装, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/ceo.plugin, tag=CEO周课, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/fileball.plugin, tag=Fileball, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/1blocker.plugin, tag=1blocker, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/ai.plugin, tag=AI换脸秀, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/proknockout.plugin, tag=proKnockout, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/qnhb.plugin, tag=青柠海报, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/faintv.plugin, tag=FainTV, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/wxts.plugin, tag=微信听书, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/rmrb.plugin, tag=人民日报去广告, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/wxds.plugin, tag=微信读书, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/chic.plugin, tag=Chic, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/ydcd.plugin, tag=有道词典, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/efekt.plugin, tag=EFEKT美易, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/doc.plugin, tag=WPS稻壳会员, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/mksp.plugin, tag=米克锁屏, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/absqgs.plugin, tag=阿布睡前故事, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/collart.plugin, tag=Collart, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/bsxm.plugin, tag=博商小麦, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/memrise.plugin, tag=Memrise, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/duitang.plugin, tag=堆糖, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/aptv.plugin, tag=APTV, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/cxs.plugin, tag=长相思, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/dzqj.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/hyxj.plugin, tag=黄油相机, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/lingokids.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/craft.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/panda.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/keep.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/documents.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/planny.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/ego.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/jssmy.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/zjbj.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/agenda.plugin, enabled=false
-https://github.com/VirgilClyne/GetSomeFries/blob/main/plugin/Disney%2B.plugin?raw=true, enabled=false
-https://github.com/VirgilClyne/GetSomeFries/blob/main/plugin/General.plugin?raw=true, tag=🍟 Fries: 🌐 General Enhanced, enabled=false
-https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/plugin/DNS.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/qj.plugin, enabled=false
-https://raw.githubusercontent.com/GeQ1an/Rules/master/Loon/Rewrite/Rewrite.plugin, enabled=false
-https://raw.githubusercontent.com/aico267/rule_for_quantumultX/master/Loon/Plugin/YouTube.plugin, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png, enabled=false
-https://raw.githubusercontent.com/NobyDa/Script/master/Loon/Loon_GetCookie.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/kuwo-unlock.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/BaiduCloud.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/CamScanner.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/KuwoVip.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/Price.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/AdBlock.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/Ratings.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/caiyun.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/thunder.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/wnbsq.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/bili.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/meituxx.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/xmind.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/wechatad.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/biliad.plugin, tag=哔哩哔哩去广告, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/nfc.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/https.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/rq.plugin, enabled=false
-https://raw.githubusercontent.com/deezertidal/private/main/aqc.plugin, tag=爱企查, enabled=false
-https://raw.githubusercontent.com/NobyDa/Script/master/Loon/Loon_TF_Account.plugin, tag=TestFlight账户管理, enabled=false
-https://raw.githubusercontent.com/NobyDa/Script/master/Loon/Loon_TF_Download.plugin, tag=TestFlight区域限制解除, enabled=false
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/AllInOne/AllInOne.plugin, tag=AllInOne, enabled=false
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/Upgrade/Upgrade.plugin, policy=𓃰SSID𐂂, tag=更新检查, enabled=false
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/GetCookie/GetCookie.plugin, policy=𓃰SSID𐂂, tag=签到脚本, enabled=false
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/Advertising/Advertising.plugin, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=复写去广告, enabled=false
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin, tag=AdvertisingLite, enabled=false
+https://yfamily.vercel.app/plugin/multisearch.plugin, tag=MultiSearch, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/master/plugallery/caixin.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/master/plugallery/bdwk.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/master/plugallery/arpdfbj.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/master/plugallery/artp.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/master/plugallery/aliyun.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/master/plugallery/absqgs.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/master/plugallery/7dong.plugin, enabled=true
+https://raw.githubusercontent.com/sub-store-org/Sub-Store/master/config/Loon.plugin, enabled=true
+https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/PersistentPolicy/persistent-policy.plugin, enabled=true
+https://raw.githubusercontent.com/Peng-YM/QuanX/master/Rewrites/GithubPrivate/github-private-repo.plugin, enabled=true
+https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/AutoPolicy/auto-policy.plugin, enabled=true
+https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/RunningMode/running-mode.plugin, enabled=true
+https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/PlaneFinder/PlaneFinder.Loon.plugin, enabled=true
+https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/LiuLiShuoYueDu/LiuLiShuoYueDu.Loon.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/master/plugallery/wsgj.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/master/plugallery/wscsds.plugin, tag=网速测试大师, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/master/plugallery/caiyun.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/master/plugallery/1blocker.plugin, enabled=true
+https://raw.githubusercontent.com/chengkongyiban/Loon/main/Loon-Gallery/BaiduCloud.plugin, enabled=true
+https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/Xmind/Xmind.Loon.plugin, enabled=true
+https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/js/debug/aDriveCrack/aDriveCrack_test.plugin, enabled=true
+https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/js/Mine/aDriveCheckIn/aDriveCheckIn_token.plugin, enabled=true
+https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/js/Mine/aDriveCheckIn/aDriveCheckIn.plugin, enabled=true
+https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/COVID19.plugin, enabled=true
+https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/wnCalendar.plugin, enabled=true
+https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/DaysMatter.plugin, enabled=true
+https://raw.githubusercontent.com/mw418/Loon/main/plugin/Bing_rewards.plugin, enabled=true
+https://raw.githubusercontent.com/aico267/rule_for_quantumultX/master/Loon/Plugin/bilibiliSkin.plugin, enabled=true
+https://github.com/VirgilClyne/GetSomeFries/blob/main/plugin/DNS.plugin?raw=true, tag=🌐 DNS for Router and Companys, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/Emby.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/WPS.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/nicegram.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/SpotifyPremium.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/soundcloud.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/Tidal-HiFi.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/B-Search.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/Bodian.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/DisableUpdate.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/fanqienovel.plugin, enabled=true
+https://raw.githubusercontent.com/NobyDa/Script/master/Loon/Loon_Bahamut_ADS.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/lls.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/jibjab.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/mix.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/picsart.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/polarr.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/ppx.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/vsco.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/xiaoying.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/xjsp.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/colorwidgets.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/alarmy.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/aloha.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/BedtimeFan.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/bazaart.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/daily-yoga.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/darkroom.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/fabulous.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/invideo.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/giftr.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/judou.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/kika.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/mojo.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/myfitnesspal.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/now.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/nybz.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/piccollage.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/pixelcut.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/sgsz.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/shadowlinkvpn.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/smallpdf.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/tangerine.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/wfw.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/widgetsmith.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/zjsg.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/apowersoft.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/appraven.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/bdsp.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/boom.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/clarity.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/ellabook.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/fimo.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/ft.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/ilovepdf.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/qifu.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/symbolab.plugin, enabled=true
+https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/PixivShow/Loon.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/b612.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/egdd.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/hyperweb.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/molycam.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/photomath.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/xcz.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/accu.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/meistertask.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/yiyan.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/fantastical.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/yunting.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/wdqd.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/emmo.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/xxg.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/dsbj.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/myplate.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/iam.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/imuseum.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/audiomack.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/grammarly.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/tokcam.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/tutu.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/wallcraft.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/xyts.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/yitian.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/grow.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/weiboad.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/xmlyad.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/wnds.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/mklwt.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/dyd.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/htjzb.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/peak.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/pillow.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/pocketlists.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/zymk.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/ydybj.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/vista.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/photoshop.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/rrsp.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/qmxs.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/mht.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/notability.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/oldroll.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/sndd.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/dalanjing.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/lsdyw.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/ywqpy.plugin, tag=语文趣配音, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/zhitiao.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/smwd.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/meipian.plugin, tag=美篇, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/lightroom.plugin, tag=LightRoom, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/calm.plugin, tag=Calm解锁限制, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/stsq.plugin, tag=搜图神器, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/ssa.plugin, tag=SSA丝社, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/hyxc.plugin, tag=幻影相册, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/jsgx.plugin, tag=精塾国学, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/prettyup.plugin, tag=PrettyUp, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/cubox.plugin, tag=Cubox, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/pandora.plugin, tag=Pandora订阅管理, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/wechatread.plugin, tag=微信自动阅读, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/ly.plugin, tag=来音智能陪练, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/xzj.plugin, tag=熊掌记, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/ceo.plugin, tag=CEO周课, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/fileball.plugin, tag=Fileball, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/1blocker.plugin, tag=1blocker, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/ai.plugin, tag=AI换脸秀, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/proknockout.plugin, tag=proKnockout, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/qnhb.plugin, tag=青柠海报, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/faintv.plugin, tag=FainTV, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/wxts.plugin, tag=微信听书, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/rmrb.plugin, tag=人民日报去广告, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/wxds.plugin, tag=微信读书, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/chic.plugin, tag=Chic, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/ydcd.plugin, tag=有道词典, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/efekt.plugin, tag=EFEKT美易, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/doc.plugin, tag=WPS稻壳会员, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/mksp.plugin, tag=米克锁屏, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/absqgs.plugin, tag=阿布睡前故事, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/collart.plugin, tag=Collart, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/bsxm.plugin, tag=博商小麦, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/memrise.plugin, tag=Memrise, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/duitang.plugin, tag=堆糖, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/aptv.plugin, tag=APTV, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/cxs.plugin, tag=长相思, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/dzqj.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/hyxj.plugin, tag=黄油相机, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/lingokids.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/craft.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/panda.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/keep.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/documents.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/planny.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/ego.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/jssmy.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/zjbj.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/agenda.plugin, enabled=true
+https://github.com/VirgilClyne/GetSomeFries/blob/main/plugin/Disney%2B.plugin?raw=true, enabled=true
+https://github.com/VirgilClyne/GetSomeFries/blob/main/plugin/General.plugin?raw=true, tag=🍟 Fries: 🌐 General Enhanced, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/qj.plugin, enabled=true
+https://raw.githubusercontent.com/GeQ1an/Rules/master/Loon/Rewrite/Rewrite.plugin, enabled=true
+https://raw.githubusercontent.com/aico267/rule_for_quantumultX/master/Loon/Plugin/YouTube.plugin, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png, enabled=true
+https://raw.githubusercontent.com/NobyDa/Script/master/Loon/Loon_GetCookie.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/BaiduCloud.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/CamScanner.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/KuwoVip.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/Price.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/AdBlock.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/Ratings.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/caiyun.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/thunder.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/wnbsq.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/bili.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/meituxx.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/xmind.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/wechatad.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/biliad.plugin, tag=哔哩哔哩去广告, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/nfc.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/https.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/rq.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/aqc.plugin, tag=爱企查, enabled=true
+https://raw.githubusercontent.com/NobyDa/Script/master/Loon/Loon_TF_Account.plugin, tag=TestFlight账户管理, enabled=true
+https://raw.githubusercontent.com/NobyDa/Script/master/Loon/Loon_TF_Download.plugin, tag=TestFlight区域限制解除, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/AllInOne/AllInOne.plugin, tag=AllInOne, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/Upgrade/Upgrade.plugin, policy=𓃰SSID𐂂, tag=更新检查, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/Advertising/Advertising.plugin, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=复写去广告, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin, tag=AdvertisingLite, enabled=true
 
 [MITM]
 skip-server-cert-verify = false
