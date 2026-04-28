@@ -5,13 +5,8 @@
 [Proxy] 
 Super4-LosAngeles#5846 = vmess,82.198.246.233,180,aes-128-gcm,"d13fc2f5-3e05-4795-81eb-44143a09e552",transport=tcp,alterId=0,path=/,host=icloud.com,udp=true,block-quic=false,over-tls=false
 Super4-LosAngeles#5849 = vmess,82.198.246.37,180,aes-128-gcm,"d13fc2f5-3e05-4795-81eb-44143a09e552",transport=tcp,alterId=0,path=/,host=icloud.com,udp=true,block-quic=false,over-tls=false
-TG@wzmfjd 香港 09 = vmess,efan.dnsefan04881.com,7754,auto,"009e558d-3cf4-49d8-b5e4-82c9e14fe1a4",transport=tcp,alterId=0,udp=true,block-quic=false,over-tls=false
-HK|优选反代|59ms = VLESS,104.26.7.124,443,"none:a30b1851-6b6f-4512-8627-71731ae70570",transport=ws,path=/,host=wahaha2026.us.ci,udp=true,block-quic=false,over-tls=true,sni=wahaha2026.us.ci
 🇺🇸 US備用⑧ˣ⁶𝕋𝔾myFreeNodeChat = Hysteria2,104.168.104.80,18912,"9de223f6-86ac-4bf9-85b5-fabc62ddd7d9",skip-cert-verify=true
-🇰🇷 KR 備用④ˣ⁶𝕋𝔾myFreeNodeChat = vmess,217.142.138.61,80,auto,"ac1b933d-afff-4487-93ef-f57130a55dff",transport=http,alterId=0,path=/,udp=true,block-quic=false,over-tls=false
 21 ~ 164746 优选节点 = VLESS,108.162.198.96,443,":e5cc16a6-ea42-46b2-82ae-ad2157e1641b",transport=ws,path=/,host=hhlfy.twiladaphne.ndjp.net,udp=true,block-quic=false,over-tls=true,sni=hhlfy.twiladaphne.ndjp.net
-21 ~ 164746 优选节点 = VLESS,108.162.198.96,443,":e5cc16a6-ea42-46b2-82ae-ad2157e1641b",transport=ws,path=/,host=hhlfy.twiladaphne.ndjp.net,udp=true,block-quic=false,over-tls=true,sni=hhlfy.twiladaphne.ndjp.net
-Super4-LosAngeles#5848 = vmess,82.198.246.214,180,aes-128-gcm,"d13fc2f5-3e05-4795-81eb-44143a09e552",transport=tcp,alterId=0,path=/,host=icloud.com,udp=true,block-quic=false,over-tls=false
 Super4-LosAngeles#5847 = vmess,82.198.246.9,180,aes-128-gcm,"d13fc2f5-3e05-4795-81eb-44143a09e552",transport=tcp,alterId=0,path=/,host=icloud.com,udp=true,block-quic=false,over-tls=false
 
 美国🌰提取 = vmess,n1761372455.kzxds.cn,443,auto,"5e6150fc-b561-4c14-b6d2-d52ffc1165a4",transport=ws,alterId=0,path=/,host=n1761372455.kzxds.cn,udp=true,block-quic=false,over-tls=true
@@ -104,7 +99,7 @@ Super4-LosAngeles#5847 = vmess,82.198.246.9,180,aes-128-gcm,"d13fc2f5-3e05-4795-
 🎭肆🐲號🌦✈⋯· ☀︎💥 = url-test,𓆉“未”🐏✈⋯· · · · 🚴‍♀️,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1007.png
 🎭伍🐲號🌦✈⋯· ☀︎💥 = url-test,𓆉“戌”🐕✈⋯· · · · 🚴‍♀️,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1015.png
 🎭陸🐲號🌦✈⋯· ☀︎💥 = url-test,𓃰坤̥͒“🏆”柒̥͒☷✈⋯·₇🤍,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1010.png
-🎭柒🐲號🌦✈⋯· ☀︎💥 = url-test,美国🌰提取,🌰坚果提取,🍟🇨🇦CA-2🐓,Super4-LosAngeles#5846,Super4-LosAngeles#5849,TG@wzmfjd 香港 09,HK|优选反代|59ms,🇺🇸 US備用⑧ˣ⁶𝕋𝔾myFreeNodeChat,🇰🇷 KR 備用④ˣ⁶𝕋𝔾myFreeNodeChat,21 ~ 164746 优选节点,Super4-LosAngeles#5848,Super4-LosAngeles#5847,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1059.png
+🎭柒🐲號🌦✈⋯· ☀︎💥 = url-test,美国🌰提取,🌰坚果提取,🍟🇨🇦CA-2🐓,Super4-LosAngeles#5846,Super4-LosAngeles#5849,🇺🇸 US備用⑧ˣ⁶𝕋𝔾myFreeNodeChat,Super4-LosAngeles#5847,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1059.png
 🎭捌🐲號🌦✈⋯· ☀︎💥 = url-test,𓃰離̥͒“🏆”陸̥͒☲✈⋯·₆🖤,🦥(山̥͒🪲地̥͒)✈︎⋯🦢 •:✺͒ʷ̣̫✺͒:•,𓄄𓀢⑧𓀣🌬⋯· ·ⓗ  (辛̥͒),𓆉“寅”🐯✈⋯· · · · 🚴‍♀️,interval = 600,img-url = https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Alpha.png
 𓃰SSID𐂂 = ssid,default=𓃵策略選取✄,cellular=𓃵策略選取✄,"𓃵策略選取✄"=𓃵策略選取✄,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/SSID.png
 🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬 = select,DIRECT,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Direct.png
@@ -424,7 +419,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ZhihuAds/ZhihuAds.list, policy=🚁知乎🟢, tag=知乎廣告攔截, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingLite/AdvertisingLite.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=去廣告精簡版, parser-enable=true, enabled=true
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=Filter（過濾器）, parser-enable=true, enabled=true
-https://whatshub.top/rule/ChinaIPs.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=chinaips, enabled=true
+https://whatshub.top/rule/ChinaIPs.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=chinaips, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaIPs/ChinaIPs.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=ChinaIPs, parser-enable=true, enabled=false
 https://whatshub.top/rule/Bloomberg.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=bloomberg, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Bloomberg/Bloomberg.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=Bloomberg, parser-enable=true, enabled=false
