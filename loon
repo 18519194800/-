@@ -3,6 +3,9 @@
 
 # 本地节点
 [Proxy] 
+🇫🇷 法国 | FRA  住宅IP = Hysteria2,163.172.113.118,40022,"dongtaiwang.com",skip-cert-verify=true
+香港家庭宽带 = anyTLS,199dc802-te5ts0-twuk0i-1hzyr.hkt2.cdnhuawei.com,8443,"3be8cba8-b721-11ec-8b04-f23c91cfbbc9",sni=199dc802-te5ts0-twuk0i-1hzyr.hkt2.cdnhuawei.com,skip-cert-verify=true,udp=true,block-quic=false
+🇹🇼TW家宽 = VLESS,125.227.219.98,6235,"none:f6ddddaf-dfd6-4134-9dae-03b93b03d146",transport=ws,path=/xxxxhttp,host=baidu.com,udp=true,block-quic=false,over-tls=true,sni=baidu.com,skip-cert-verify=true
 Super4-LosAngeles#5846 = vmess,82.198.246.233,180,aes-128-gcm,"d13fc2f5-3e05-4795-81eb-44143a09e552",transport=tcp,alterId=0,path=/,host=icloud.com,udp=true,block-quic=false,over-tls=false
 Super4-LosAngeles#5849 = vmess,82.198.246.37,180,aes-128-gcm,"d13fc2f5-3e05-4795-81eb-44143a09e552",transport=tcp,alterId=0,path=/,host=icloud.com,udp=true,block-quic=false,over-tls=false
 🇺🇸 US備用⑧ˣ⁶𝕋𝔾myFreeNodeChat = Hysteria2,104.168.104.80,18912,"9de223f6-86ac-4bf9-85b5-fabc62ddd7d9",skip-cert-verify=true
@@ -46,7 +49,7 @@ Super4-LosAngeles#5847 = vmess,82.198.246.9,180,aes-128-gcm,"d13fc2f5-3e05-4795-
 𓆉“辰”🐉✈⋯· · · · 🚴‍♀️ = https://tinyurl.com/2759byr7,udp=true,block-quic=true,fast-open=true,vmess-aead=true,skip-cert-verify=default,enabled=true,flexible-sni=true,img-url=https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/zishi-cs/zs9.png
 𓆉“巳”🐍✈⋯· · · · 🚴‍♀️ = https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1,parser-enabled = true,udp=true,block-quic=true,fast-open=true,vmess-aead=true,skip-cert-verify=default,enabled=true,flexible-sni=true,img-url=https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/zishi-cs/zs8.png
 𓆉“午”🦓✈⋯· · · · 🚴‍♀️ = https://raw.githubusercontent.com/dalazhi/v2ray/refs/heads/main/data/base64-1.txt,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=false,img-url=https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/zishi-cs/zs7.png
-𓆉“未”🐏✈⋯· · · · 🚴‍♀️ = https://hha.albertabobbi.ndjp.net/sub?token=0dae672be75b12550a98be8fa66458f2,parser-enabled = true,udp=true,block-quic=false,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=false,img-url=https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/zishi-cs/zs6.png
+𓆉“未”🐏✈⋯· · · · 🚴‍♀️ = https://link123.52pokemon99.cc/api/v1/client/subscribe?token=7d27ee9fc0dee9b0d537997e991f877d&flag=V2rayNG,parser-enabled = true,udp=true,block-quic=false,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=false,img-url=https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/zishi-cs/zs6.png
 𓆉“申”🐒✈⋯· · · · 🚴‍♀️ = https://kejiland1.hidns.co/kejiland,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=true,img-url=https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/zishi-cs/zs4.png
 𓆉“酉”🐓✈⋯· · · · 🚴‍♀️ = https://proxypool1999.banyunxiaoxi.icu/vmess/sub,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=true,img-url=https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/zishi-cs/zs3.png
 𓆉“戌”🐕✈⋯· · · · 🚴‍♀️ = https://proxypool.link/clash/proxies,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=true,img-url=https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/zishi-cs/zs2.png
