@@ -3,10 +3,12 @@
 
 # 本地节点
 [Proxy] 
-Super4-LosAngeles#5846 = vmess,82.198.246.233,180,aes-128-gcm,"d13fc2f5-3e05-4795-81eb-44143a09e552",transport=tcp,alterId=0,path=/,host=icloud.com,udp=true,block-quic=false,over-tls=false
+美国DXCTechnology = Shadowsocks,admin.c1.webramz.co,443,chacha20-ietf-poly1305,"W74XFALLLuw6m5IA",fast-open=false,udp=false,block-quic=false
+台湾省新北市中华电信 = Shadowsocks,r3mrcg001286ek2.cybervena.com,50099,chacha20-ietf-poly1305,"7e731ec3-f8e1-43f6-92cf-3978d14705c4",fast-open=false,udp=false,block-quic=false
+CH 优选反代 288ms = VLESS,45.59.125.125,8443,"none:2e14faa2-71aa-4dc6-8ba1-03beeca75848",transport=ws,path=/,host=xiaili.pages.dev,udp=true,block-quic=false,over-tls=true,sni=xiaili.pages.dev
+美国 加州 洛杉矶 - DMIT直连VPS = vmess,64.186.233.131,10086,auto,"1eeb55f2-8516-46f3-8c7b-17db1de1df9b",transport=tcp,alterId=0,path=/,udp=true,block-quic=false,over-tls=false
 Super4-LosAngeles#5849 = vmess,82.198.246.37,180,aes-128-gcm,"d13fc2f5-3e05-4795-81eb-44143a09e552",transport=tcp,alterId=0,path=/,host=icloud.com,udp=true,block-quic=false,over-tls=false
 🇺🇸 US備用⑧ˣ⁶𝕋𝔾myFreeNodeChat = Hysteria2,104.168.104.80,18912,"9de223f6-86ac-4bf9-85b5-fabc62ddd7d9",skip-cert-verify=true
-21 ~ 164746 优选节点 = VLESS,108.162.198.96,443,":e5cc16a6-ea42-46b2-82ae-ad2157e1641b",transport=ws,path=/,host=hhlfy.twiladaphne.ndjp.net,udp=true,block-quic=false,over-tls=true,sni=hhlfy.twiladaphne.ndjp.net
 Super4-LosAngeles#5847 = vmess,82.198.246.9,180,aes-128-gcm,"d13fc2f5-3e05-4795-81eb-44143a09e552",transport=tcp,alterId=0,path=/,host=icloud.com,udp=true,block-quic=false,over-tls=false
 
 美国🌰提取 = vmess,n1761372455.kzxds.cn,443,auto,"5e6150fc-b561-4c14-b6d2-d52ffc1165a4",transport=ws,alterId=0,path=/,host=n1761372455.kzxds.cn,udp=true,block-quic=false,over-tls=true
@@ -15,6 +17,7 @@ Super4-LosAngeles#5847 = vmess,82.198.246.9,180,aes-128-gcm,"d13fc2f5-3e05-4795-
 
 #别名=订阅節點URL
 [Remote Proxy]
+🇲🇸੯‧̀͡⬮:鞧̥͒🧩鴜̥͒✈︎⋯··✨ = https://gist.githubusercontent.com/l406426025-cmd/bbbb3efb0bd1ed85a72b87f3bce95c49/raw/karing-nodes.txt,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=false,img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Maruko-chan/Maruko-chan-1043.png
 𓃵“網易雲音樂”✈⋯·☀︎💦 = https://git.io/JfNq3,parser-enabled = true,udp=true,block-quic=true,fast-open=true,vmess-aead=true,skip-cert-verify=default,enabled=true,flexible-sni=true,img-url=https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Bubble/Social-Logo/NeteaseMusic.png
 𓄂(豹̥͒)⚈͒.̫⚈͒🌬 ⋯· · ☀︎  ✷ 💨 = https://www.xrayvip.com/free.txt,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=true,img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-Miya/Shin-Miya-1027.png
 𓄂(虎̥͒)⚈͒.̫⚈͒🌬 ⋯· · ☀︎  ✷ 💨 = https://SOS.CMLiussss.net/auto,parser-enabled = true,udp=true,block-quic=true,fast-open=true,vmess-aead=true,skip-cert-verify=default,enabled=true,flexible-sni=true,img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-Miya/Shin-Miya-1059.png
@@ -99,13 +102,13 @@ Super4-LosAngeles#5847 = vmess,82.198.246.9,180,aes-128-gcm,"d13fc2f5-3e05-4795-
 🎭肆🐲號🌦✈⋯· ☀︎💥 = url-test,𓆉“未”🐏✈⋯· · · · 🚴‍♀️,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1007.png
 🎭伍🐲號🌦✈⋯· ☀︎💥 = url-test,𓆉“戌”🐕✈⋯· · · · 🚴‍♀️,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1015.png
 🎭陸🐲號🌦✈⋯· ☀︎💥 = url-test,𓃰坤̥͒“🏆”柒̥͒☷✈⋯·₇🤍,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1010.png
-🎭柒🐲號🌦✈⋯· ☀︎💥 = url-test,美国🌰提取,🌰坚果提取,🍟🇨🇦CA-2🐓,Super4-LosAngeles#5846,Super4-LosAngeles#5849,🇺🇸 US備用⑧ˣ⁶𝕋𝔾myFreeNodeChat,Super4-LosAngeles#5847,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1059.png
+🎭柒🐲號🌦✈⋯· ☀︎💥 = url-test,美国🌰提取,🌰坚果提取,🍟🇨🇦CA-2🐓,Super4-LosAngeles#5849,🇺🇸 US備用⑧ˣ⁶𝕋𝔾myFreeNodeChat,Super4-LosAngeles#5847,美国 加州 洛杉矶 - DMIT直连VPS,CH 优选反代 288ms,台湾省新北市中华电信,美国DXCTechnology,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1059.png
 🎭捌🐲號🌦✈⋯· ☀︎💥 = url-test,𓃰離̥͒“🏆”陸̥͒☲✈⋯·₆🖤,🦥(山̥͒🪲地̥͒)✈︎⋯🦢 •:✺͒ʷ̣̫✺͒:•,𓄄𓀢⑧𓀣🌬⋯· ·ⓗ  (辛̥͒),𓆉“寅”🐯✈⋯· · · · 🚴‍♀️,interval = 600,img-url = https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Alpha.png
 𓃰SSID𐂂 = ssid,default=𓃵策略選取✄,cellular=𓃵策略選取✄,"𓃵策略選取✄"=𓃵策略選取✄,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/SSID.png
 🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬 = select,DIRECT,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Direct.png
 ⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬 = select,REJECT,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Reject.png
 🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬 = select,♻️自動🌦✈,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Adblock.png
-👋手動🌦✈ = select,Super4-LosAngeles#5846,Super4-LosAngeles#5849,🇺🇸 US備用⑧ˣ⁶𝕋𝔾myFreeNodeChat,21 ~ 164746 优选节点,Super4-LosAngeles#5847,美国🌰提取,🌰坚果提取,🍟🇨🇦CA-2🐓,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Clubhouse.png
+👋手動🌦✈ = select,Super4-LosAngeles#5849,🇺🇸 US備用⑧ˣ⁶𝕋𝔾myFreeNodeChat,Super4-LosAngeles#5847,美国🌰提取,🌰坚果提取,🍟🇨🇦CA-2🐓,美国 加州 洛杉矶 - DMIT直连VPS,CH 优选反代 288ms,台湾省新北市中华电信,美国DXCTechnology,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Clubhouse.png
 ♻️自動🌦✈ = url-test,🇺🇸美國,url = http://www.qualcomm.cn/generate_204,interval = 120,tolerance = 30,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Roundrobin.png
 ⚖️負載🌦✈ = load-balance,𓆉“亥”🐖✈⋯· · · · 🚴‍♀️,url = http://www.gstatic.com/generate_204,interval = 360,max-timeout = 3000,algorithm = pcc,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Static.png
 ♨️檢測🌦✈ = fallback,🇷🇺俄羅斯,url = http://www.qualcomm.cn/generate_204,interval = 180,max-timeout = 8000,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Auto.png
