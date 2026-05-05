@@ -247,6 +247,18 @@ FINAL,𓃰SSID𐂂
 
 # 订阅规则
 [Remote Rule]
+https://kelee.one/Tool/Loon/Lsr/TikTok.lsr, policy=𓃰TikTok🌟, tag=TikTok, enabled=true
+https://rule.kelee.one/Loon/Netflix.lsr, policy=𓃰Netflix🌟, tag=Netflix, enabled=true
+https://kelee.one/Tool/Loon/Lsr/SpeedtestInternational.lsr, policy=🏬App_Store 🟢, tag=Speedtest Intl, enabled=true
+https://kelee.one/Tool/Loon/Lsr/AI.lsr, policy=𓃰SSID𐂂, tag=AI, enabled=true
+https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list, policy=𓃰SSID𐂂, tag=应用净化, enabled=true
+https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list, policy=𓃰Netflix🌟, tag=Netflix, enabled=true
+https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=中国公司IP, enabled=true
+https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=中国域名, enabled=true
+https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaIp.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=中国IP, enabled=true
+https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyPrivacy.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=隐私防护, enabled=true
+https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyListChina.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=EasyListChina, enabled=true
+https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyList.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=EasyList, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/XieCheng/XieCheng.list, policy=🛤攜程🟢, tag=攜程, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/KugouKuwo/KugouKuwo.list, policy=🐶酷狗🟢, tag=酷狗, enabled=true
 https://whatshub.top/rule/DingTalk.list, policy=🕊釘釘🟢, tag=钉钉, parser-enable=true, enabled=true
@@ -523,7 +535,6 @@ host = 127.0.0.1
 #插件
 [Plugin]
 https://raw.githubusercontent.com/chxm1023/Script_X/main/Collections.plugin, tag=APP解锁合集, enabled=true
-
 https://kelee.one/Tool/Loon/Lpx/Block_HTTPDNS.lpx, pin=true, enabled=true
 https://kelee.one/Tool/Loon/Lpx/BlockAdvertisers.lpx, pin=true, enabled=true
 https://kelee.one/Tool/Loon/Lpx/QuickSearch.lpx, enabled=true
