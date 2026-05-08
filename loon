@@ -17,7 +17,10 @@ Super4-LosAngeles#5847 = vmess,82.198.246.9,180,aes-128-gcm,"d13fc2f5-3e05-4795-
 
 #别名=订阅節點URL
 [Remote Proxy]
-🇲🇸੯‧̀͡⬮:鞧̥͒🧩鴜̥͒✈︎⋯··✨ = https://gist.githubusercontent.com/l406426025-cmd/bbbb3efb0bd1ed85a72b87f3bce95c49/raw/karing-nodes.txt,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=false,img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Maruko-chan/Maruko-chan-1043.png
+੯‧̀͡⬮:慟̥͒🏆禮̥͒✈︎⋯··✨ = http://45.149.92.50:45262/2c9dd4a6-9b44-45d6-b399-4d0c58114ef6/jhsub.txt,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=false,img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-Miya/Shin-Miya-1023.png
+੯‧̀͡⬮:叠̥͒🎭㙓̥͒✈︎⋯··✨ = https://v2rayse.com/fs/public/20260505/29fioja6.yaml,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=false,img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-Miya/Shin-Miya-1064.png
+੯‧̀͡⬮:㷣̥͒⛩嘞̥͒✈︎⋯··✨ = https://app.sublink.works/x/FUQLlhi,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=false,img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-Miya/Shin-Miya-1057.png
+੯‧̀͡⬮:鞧̥͒🧩鴜̥͒✈︎⋯··✨ = https://gist.githubusercontent.com/l406426025-cmd/bbbb3efb0bd1ed85a72b87f3bce95c49/raw/karing-nodes.txt,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=false,img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Maruko-chan/Maruko-chan-1043.png
 𓃵“網易雲音樂”✈⋯·☀︎💦 = https://git.io/JfNq3,parser-enabled = true,udp=true,block-quic=true,fast-open=true,vmess-aead=true,skip-cert-verify=default,enabled=true,flexible-sni=true,img-url=https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Bubble/Social-Logo/NeteaseMusic.png
 𓄂(豹̥͒)⚈͒.̫⚈͒🌬 ⋯· · ☀︎  ✷ 💨 = https://www.xrayvip.com/free.txt,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=true,img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-Miya/Shin-Miya-1027.png
 𓄂(虎̥͒)⚈͒.̫⚈͒🌬 ⋯· · ☀︎  ✷ 💨 = https://SOS.CMLiussss.net/auto,parser-enabled = true,udp=true,block-quic=true,fast-open=true,vmess-aead=true,skip-cert-verify=default,enabled=true,flexible-sni=true,img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-Miya/Shin-Miya-1059.png
@@ -534,6 +537,7 @@ host = 127.0.0.1
 
 #插件
 [Plugin]
+https://raw.githubusercontent.com/ElyDemiurge/Loon-Plugins/main/bilibili/Lpx/Bilibili_filter.lpx, enabled=true
 https://raw.githubusercontent.com/chxm1023/Script_X/main/Collections.plugin, tag=APP解锁合集, enabled=true
 https://kelee.one/Tool/Loon/Lpx/Block_HTTPDNS.lpx, pin=true, enabled=true
 https://kelee.one/Tool/Loon/Lpx/BlockAdvertisers.lpx, pin=true, enabled=true
@@ -542,7 +546,6 @@ https://kelee.one/Tool/Loon/Lpx/Prevent_DNS_Leaks.lpx, policy=全球手动策略
 https://kelee.one/Tool/Loon/Lpx/Node_detection_tool.lpx, enabled=true
 https://kelee.one/Tool/Loon/Lpx/TestFlightRegionUnlock.lpx, policy=DIRECT, enabled=true
 https://kelee.one/Tool/Loon/Lpx/BoxJs.lpx, policy=全球手动策略, enabled=true
-https://kelee.one/Tool/Loon/Lpx/Sub-Store.lpx, policy=全球手动策略, enabled=true
 https://kelee.one/Tool/Loon/Lpx/Script-Hub.lpx, policy=全球手动策略, enabled=true
 https://kelee.one/Tool/Loon/Lpx/ZuiYou_remove_ads.lpx, enabled=true
 https://kelee.one/Tool/Loon/Lpx/ZongHeng_remove_ads.lpx, enabled=true
@@ -682,7 +685,6 @@ https://kelee.one/Tool/Loon/Lpx/WARP_Node_Query.lpx, enabled=true
 https://kelee.one/Tool/Loon/Lpx/VVebo_repair.lpx, enabled=true
 https://kelee.one/Tool/Loon/Lpx/Uki_remove_ads.lpx, enabled=true
 https://kelee.one/Tool/Loon/Lpx/TubeMax_remove_ads.lpx, enabled=true
-https://kelee.one/Tool/Loon/Lpx/Sub-Store.lpx, enabled=true
 https://kelee.one/Tool/Loon/Lpx/Spotify_lyrics_translation.lpx, enabled=true
 https://kelee.one/Tool/Loon/Lpx/Spotify_remove_ads.lpx, enabled=true
 https://kelee.one/Tool/Loon/Lpx/Soul_remove_ads.lpx, enabled=true
@@ -707,11 +709,8 @@ https://kelee.one/Tool/Loon/Lpx/SafetyHome_remove_ads.lpx, enabled=true
 https://kelee.one/Tool/Loon/Lpx/360SmartCamera_remove_ads.lpx, enabled=true
 https://raw.githubusercontent.com/Keywos/rule/main/loon/jkyj.plugin, enabled=true
 https://whatshub.top/plugin/youtube.plugin, enabled=true
-https://kelee.one/Tool/Loon/Lpx/Script-Hub.lpx, enabled=true
 https://kelee.one/Tool/Loon/Lpx/Remove_ads_by_keli.lpx, enabled=true
-https://kelee.one/Tool/Loon/Lpx/QuickSearch.lpx, enabled=true
 https://kelee.one/Tool/Loon/Lpx/LoonGallery.lpx, policy=𓃵策略選取✄, enabled=true
-https://kelee.one/Tool/Loon/Lpx/BoxJs.lpx, enabled=true
 https://kelee.one/Tool/Loon/Lpx/12306_remove_ads.lpx, enabled=true
 https://kelee.one/Tool/Loon/Lpx/YouTubeSubtitlesTranslation.lpx, enabled=true
 https://kelee.one/Tool/Loon/Lpx/YouTube_remove_ads.lpx, enabled=true
@@ -735,7 +734,7 @@ https://raw.githubusercontent.com/deezertidal/private/master/plugallery/artp.plu
 https://raw.githubusercontent.com/deezertidal/private/master/plugallery/aliyun.plugin, enabled=true
 https://raw.githubusercontent.com/deezertidal/private/master/plugallery/absqgs.plugin, enabled=true
 https://raw.githubusercontent.com/deezertidal/private/master/plugallery/7dong.plugin, enabled=true
-https://raw.githubusercontent.com/sub-store-org/Sub-Store/master/config/Loon.plugin, enabled=true
+https://raw.githubusercontent.com/sub-store-org/Sub-Store/master/config/Loon.plugin, policy=𓃰SSID𐂂, enabled=true
 https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/PersistentPolicy/persistent-policy.plugin, enabled=true
 https://raw.githubusercontent.com/Peng-YM/QuanX/master/Rewrites/GithubPrivate/github-private-repo.plugin, enabled=true
 https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/AutoPolicy/auto-policy.plugin, enabled=true
@@ -833,7 +832,7 @@ https://raw.githubusercontent.com/deezertidal/private/main/myplate.plugin, enabl
 https://raw.githubusercontent.com/deezertidal/private/main/iam.plugin, enabled=true
 https://raw.githubusercontent.com/deezertidal/private/main/imuseum.plugin, enabled=true
 https://raw.githubusercontent.com/deezertidal/private/main/audiomack.plugin, enabled=true
-https://raw.githubusercontent.com/deezertidal/private/main/grammarly.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/main/grammarly.plugin, enabled=false
 https://raw.githubusercontent.com/deezertidal/private/main/tokcam.plugin, enabled=true
 https://raw.githubusercontent.com/deezertidal/private/main/tutu.plugin, enabled=true
 https://raw.githubusercontent.com/deezertidal/private/main/wallcraft.plugin, enabled=true
