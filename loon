@@ -17,7 +17,6 @@ Super4-LosAngeles#5847 = vmess,82.198.246.9,180,aes-128-gcm,"d13fc2f5-3e05-4795-
 
 #别名=订阅節點URL
 [Remote Proxy]
-੯‧̀͡⬮:慟̥͒🏆禮̥͒✈︎⋯··✨ = http://45.149.92.50:45262/2c9dd4a6-9b44-45d6-b399-4d0c58114ef6/jhsub.txt,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=false,img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-Miya/Shin-Miya-1023.png
 ੯‧̀͡⬮:叠̥͒🎭㙓̥͒✈︎⋯··✨ = https://v2rayse.com/fs/public/20260505/29fioja6.yaml,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=false,img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-Miya/Shin-Miya-1064.png
 ੯‧̀͡⬮:㷣̥͒⛩嘞̥͒✈︎⋯··✨ = https://app.sublink.works/x/FUQLlhi,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=false,img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-Miya/Shin-Miya-1057.png
 ੯‧̀͡⬮:鞧̥͒🧩鴜̥͒✈︎⋯··✨ = https://gist.githubusercontent.com/l406426025-cmd/bbbb3efb0bd1ed85a72b87f3bce95c49/raw/karing-nodes.txt,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=false,img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Maruko-chan/Maruko-chan-1043.png
