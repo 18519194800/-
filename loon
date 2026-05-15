@@ -545,6 +545,7 @@ host = 127.0.0.1
 
 #插件
 [Plugin]
+https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/QDReader/profiles/qdreader.loon.plugin, enabled=true
 https://raw.githubusercontent.com/ElyDemiurge/Loon-Plugins/main/bilibili/Lpx/Bilibili_filter.lpx, enabled=false
 https://raw.githubusercontent.com/chxm1023/Script_X/main/Collections.plugin, tag=APP解锁合集, enabled=true
 https://kelee.one/Tool/Loon/Lpx/Block_HTTPDNS.lpx, pin=true, enabled=true
