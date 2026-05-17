@@ -3,15 +3,9 @@
 
 # 本地节点
 [Proxy] 
-🇦🇺AU_AWS = Hysteria2,13.236.71.249,443,"qQe1z5kU8kN6SlKnDt9Ru3Qp",skip-cert-verify=true
-🇺🇸US 美国NTT伪家宽 = VLESS,192.204.45.241,24479,"none:fe85e12e-8820-416d-90f5-f93b5274da01",transport=tcp,public-key="jiZqt7Fm9MnXnLD25PuZ2Z1N1j5OKGVyRLPJqa1LSQw",short-id=da62ee6c8126787f,udp=true,block-quic=false,over-tls=true,sni=www.icloud.com
-Taiwan-HiNet      台湾省电信使劲撸 = VLESS,59.120.5.169,443,"none:c7475750-f104-4c07-b63b-06a4a2b9c476",transport=tcp,public-key="jLx1Lb-doJBxM8wJUnIglx4t4pGrIW0EcLGfUnMK1TQ",short-id=a2261cc14b0f3d5a,udp=true,block-quic=false,over-tls=true,sni=www.microsoft.com
-🇫🇷FR_AWS = Hysteria2,15.237.176.6,443,"qQe1z5kU8kN6SlKnDt9Ru3Qp",skip-cert-verify=true
-🇺🇸US_AWS = Hysteria2,34.215.145.62,443,"qQe1z5kU8kN6SlKnDt9Ru3Qp",skip-cert-verify=true
-🇸🇬SG_AWS = Hysteria2,54.179.147.86,443,"qQe1z5kU8kN6SlKnDt9Ru3Qp",skip-cert-verify=true
+谷歌搜地址：北枫云.xyz = Hysteria2,aa9.beifengyun.top,36758,"a30d39a9-1049-454e-9dc8-f96c5652d250",skip-cert-verify=true,salamander-password=e6gpWtdDUTBmN9Gd
 🇳🇱 荷兰[搬瓦工]02 = vmess,c1s5.jamjams.net,38872,auto,"d05bc3a9-97fb-4dc4-864c-7af49b0d86f8",transport=tcp,alterId=0,udp=true,block-quic=false,over-tls=false
 🇺🇸 美国[搬瓦工]06 = Shadowsocks,c91s2.portablesubmarines.com,8826,aes-256-gcm,"cbb7kXjssHKEHjfG",fast-open=false,udp=false,block-quic=false
-英国 V2CROSS.COM = vmess,82.198.246.233,180,auto,"d13fc2f5-3e05-4795-81eb-44143a09e552",transport=tcp,alterId=0,path=/,udp=true,block-quic=false,over-tls=false
 USA 小水管 = vmess,82.198.246.9,180,auto,"d13fc2f5-3e05-4795-81eb-44143a09e552",transport=tcp,alterId=0,path=/,udp=true,block-quic=false,over-tls=false
 🇺🇸 US備用⑧ˣ⁶𝕋𝔾myFreeNodeChat = Hysteria2,104.168.104.80,18912,"9de223f6-86ac-4bf9-85b5-fabc62ddd7d9",skip-cert-verify=true
 Super4-LosAngeles#5847 = vmess,82.198.246.9,180,aes-128-gcm,"d13fc2f5-3e05-4795-81eb-44143a09e552",transport=tcp,alterId=0,path=/,host=icloud.com,udp=true,block-quic=false,over-tls=false
@@ -108,7 +102,7 @@ Super4-LosAngeles#5847 = vmess,82.198.246.9,180,aes-128-gcm,"d13fc2f5-3e05-4795-
 🎭肆🐲號🌦✈⋯· ☀︎💥 = url-test,𓆉“未”🐏✈⋯· · · · 🚴‍♀️,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1007.png
 🎭伍🐲號🌦✈⋯· ☀︎💥 = url-test,𓆉“戌”🐕✈⋯· · · · 🚴‍♀️,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1015.png
 🎭陸🐲號🌦✈⋯· ☀︎💥 = url-test,𓃰坤̥͒“🏆”柒̥͒☷✈⋯·₇🤍,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1010.png
-🎭柒🐲號🌦✈⋯· ☀︎💥 = url-test,🍟🇨🇦CA-2🐓,🇺🇸 US備用⑧ˣ⁶𝕋𝔾myFreeNodeChat,Super4-LosAngeles#5847,USA 小水管,英国 V2CROSS.COM,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1059.png
+🎭柒🐲號🌦✈⋯· ☀︎💥 = url-test,🍟🇨🇦CA-2🐓,🇺🇸 US備用⑧ˣ⁶𝕋𝔾myFreeNodeChat,Super4-LosAngeles#5847,USA 小水管,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1059.png
 🎭捌🐲號🌦✈⋯· ☀︎💥 = url-test,𓃰離̥͒“🏆”陸̥͒☲✈⋯·₆🖤,🦥(山̥͒🪲地̥͒)✈︎⋯🦢 •:✺͒ʷ̣̫✺͒:•,𓄄𓀢⑧𓀣🌬⋯· ·ⓗ  (辛̥͒),𓆉“寅”🐯✈⋯· · · · 🚴‍♀️,interval = 600,img-url = https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Alpha.png
 𓃰SSID𐂂 = ssid,default=𓃵策略選取✄,cellular=𓃵策略選取✄,"𓃵策略選取✄"=𓃵策略選取✄,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/SSID.png
 🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬 = select,DIRECT,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Direct.png
