@@ -540,6 +540,25 @@ host = 127.0.0.1
 
 #插件
 [Plugin]
+https://kelee.one/Tool/Loon/Lpx/DigitalHeartbeat_remove_ads.lpx, enabled=true
+https://kelee.one/Tool/Loon/Lpx/Taqu_remove_ads.lpx, enabled=true
+https://kelee.one/Tool/Loon/Lpx/PerfectWorldEsport_remove_ads.lpx, enabled=true
+https://kelee.one/Tool/Loon/Lpx/Weimai_remove_ads.lpx, enabled=true
+https://kelee.one/Tool/Loon/Lpx/RoboTaxi_remove_ads.lpx, enabled=true
+https://kelee.one/Tool/Loon/Lpx/2bulu_remove_ads.lpx, enabled=true
+https://kelee.one/Tool/Loon/Lpx/JDWaimai_remove_ads.lpx, enabled=true
+https://kelee.one/Tool/Loon/Lpx/SnailSleep_remove_ads.lpx, enabled=true
+https://kelee.one/Tool/Loon/Lpx/XiaojukejiCharge_remove_ads.lpx, enabled=true
+https://kelee.one/Tool/Loon/Lpx/HeartideBrainWave_remove_ads.lpx, enabled=true
+https://kelee.one/Tool/Loon/Lpx/iReader_remove_ads.lpx, enabled=true
+https://kelee.one/Tool/Loon/Lpx/Damai_remove_ads.lpx, enabled=true
+https://kelee.one/Tool/Loon/Lpx/Sub-Store.lpx, enabled=true
+https://kelee.one/Tool/Loon/Lpx/RQrun_remove_ads.lpx, enabled=true
+https://kelee.one/Tool/Loon/Lpx/Pinterest_remove_ads.lpx, enabled=true
+https://kelee.one/Tool/Loon/Lpx/IPATool.lpx, enabled=true
+https://yfamilys.com/plugin/NodeLinkCheck.plugin, enabled=true
+https://yfamilys.com/plugin/GeoLocation.plugin, enabled=true
+https://yfamilys.com/plugin/shadowlinkvpn.plugin, enabled=true
 https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/QDReader/profiles/qdreader.loon.plugin, enabled=true
 https://raw.githubusercontent.com/ElyDemiurge/Loon-Plugins/main/bilibili/Lpx/Bilibili_filter.lpx, enabled=false
 https://raw.githubusercontent.com/chxm1023/Script_X/main/Collections.plugin, tag=APP解锁合集, enabled=true
