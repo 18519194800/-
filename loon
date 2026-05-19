@@ -247,7 +247,7 @@ FINAL,𓃰SSID𐂂
 
 # 订阅规则
 [Remote Rule]
-https://kelee.one/Tool/Loon/Lsr/AI.lsr, policy=𓃰SSID𐂂, tag=AI, enabled=true
+https://kelee.one/Tool/Loon/Lsr/AI.lsr, policy=𓃰SSID𐂂, tag=AI, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/XieCheng/XieCheng.list, policy=🛤攜程🟢, tag=攜程, enabled=true
 https://yfamilys.com/rule/XieCheng.list, policy=🛤攜程🟢, tag=携程, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/KugouKuwo/KugouKuwo.list, policy=🐶酷狗🟢, tag=酷狗, enabled=true
@@ -292,7 +292,8 @@ https://whatshub.top/rule/Pinduoduo.list, policy=🧐拼多多🟢, tag=拼多�
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Pinduoduo/Pinduoduo.list, policy=🧐拼多多🟢, tag=拼多多, parser-enable=true, enabled=false
 https://whatshub.top/rule/iQIYI.list, policy=🖥愛奇藝🟢, tag=爱奇艺, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/iQIYI/iQIYI.list, policy=🖥愛奇藝🟢, tag=愛奇藝, parser-enable=true, enabled=false
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/CaiNiao/CaiNiao.list, policy=🦢菜鳥裹裹🟢, tag=菜鳥裹裹, enabled=true
+https://yfamilys.com/rule/CaiNiao.list, policy=🦢菜鳥裹裹🟢, tag=菜鸟裹裹, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/CaiNiao/CaiNiao.list, policy=🦢菜鳥裹裹🟢, tag=菜鳥裹裹, enabled=false
 https://whatshub.top/rule/Alibaba.list, policy=🤖阿里巴巴🟢, tag=阿里巴巴, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Alibaba/Alibaba.list, policy=🤖阿里巴巴🟢, tag=阿里巴巴, enabled=false
 https://whatshub.top/rule/TencentVideo.list, policy=📺騰訊視頻🟢, tag=腾讯视频, parser-enable=true, enabled=true
@@ -325,6 +326,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/
 https://whatshub.top/rule/Bahamut.list, policy=🎬巴哈姆特🟢, tag=巴哈姆特, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Bahamut/Bahamut.list, policy=🎬巴哈姆特🟢, tag=巴哈姆特, parser-enable=true, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Copilot/Copilot.list, policy=🎗Copilot🟢, tag=copilot, enabled=true
+https://yfamilys.com/rule/Copilot.list, policy=🎗Copilot🟢, tag=COPILOT, enabled=false
 https://whatshub.top/rule/Netflix.list, policy=𓃰Netflix🌟, tag=Netflix, parser-enable=true, enabled=true
 https://rule.kelee.one/Loon/Netflix.lsr, policy=𓃰Netflix🌟, tag=Netflix, enabled=false
 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list, policy=𓃰Netflix🌟, tag=Netflix, enabled=false
@@ -348,6 +350,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/
 https://whatshub.top/rule/Slack.list, policy=𓃰Slack🌟, tag=slack, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Slack/Slack.list, policy=𓃰Slack🌟, tag=Slack, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Xbox/Xbox.list, policy=𓃰XboX🌟, tag=Xbox, parser-enable=true, enabled=true
+https://yfamilys.com/rule/Xbox.list, policy=𓃰XboX🌟, tag=XOBX, enabled=false
 https://whatshub.top/rule/Sling.list, policy=𓃰Sling🌟, tag=sling, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Sling/Sling.list, policy=𓃰Sling🌟, tag=Sling, parser-enable=true, enabled=false
 https://whatshub.top/rule/WeTV.list, policy=𓃰WeTV_Letter 🌟, tag=wetv, parser-enable=true, enabled=true
@@ -393,6 +396,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/
 https://whatshub.top/rule/Pandora.list, policy=𓃰PornHub🌟, tag=pandora, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Pandora/Pandora.list, policy=𓃰Pandora🌟, tag=Pandora, enabled=false
 https://whatshub.top/rule/ChatGPT.list, policy=𓃰ChatGPT🌟, tag=chatgpt, parser-enable=true, enabled=true
+https://yfamilys.com/rule/ChatGPT.list, policy=𓃰ChatGPT🌟, tag=CHATGPT, enabled=false
 https://whatshub.top/rule/Telegram.list, policy=𓃰Telegram🌟, tag=telegram, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Telegram/Telegram.list, policy=𓃰Telegram🌟, tag=Telegram, parser-enable=true, enabled=false
 https://whatshub.top/rule/Facebook.list, policy=𓃰Facebook🌟, tag=facebook, parser-enable=true, enabled=true
@@ -424,7 +428,7 @@ https://whatshub.top/rule/ParamountPlus.list, policy=𓃰ParamountPlus🌟, tag=
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ParamountPlus/ParamountPlus.list, policy=𓃰ParamountPlus🌟, tag=ParamountPlus, parser-enable=true, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Hijacking/Hijacking.list, policy=⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬, tag=反劫持, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingTest/AdvertisingTest_Domain.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=去廣告, parser-enable=true, enabled=false
-https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyPrivacy.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=隐私防护, enabled=true
+https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyPrivacy.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=隐私防护, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Privacy/Privacy.list, policy=⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬, tag=隱私保護, parser-enable=true, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingTest/AdvertisingTest.list, policy=🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬, tag=去廣告測試, parser-enable=true, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ZhihuAds/ZhihuAds.list, policy=🚁知乎🟢, tag=知乎廣告攔截, enabled=false
