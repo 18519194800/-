@@ -540,6 +540,9 @@ host = 127.0.0.1
 
 #插件
 [Plugin]
+https://kelee.one/Tool/Loon/Lpx/Roborock_remove_ads.lpx, enabled=true
+https://kelee.one/Tool/Loon/Lpx/Foodie_remove_ads.lpx, enabled=true
+https://kelee.one/Tool/Loon/Lpx/36Kr_remove_ads.lpx, enabled=true
 https://kelee.one/Tool/Loon/Lpx/DigitalHeartbeat_remove_ads.lpx, enabled=true
 https://kelee.one/Tool/Loon/Lpx/Taqu_remove_ads.lpx, enabled=true
 https://kelee.one/Tool/Loon/Lpx/PerfectWorldEsport_remove_ads.lpx, enabled=true
