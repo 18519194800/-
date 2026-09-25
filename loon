@@ -103,7 +103,7 @@ Super4-LosAngeles#5847 = vmess,82.198.246.9,180,aes-128-gcm,"d13fc2f5-3e05-4795-
 🎭陸🐲號🌦✈⋯· ☀︎💥 = url-test,𓃰坤̥͒“🏆”柒̥͒☷✈⋯·₇🤍,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1010.png
 🎭柒🐲號🌦✈⋯· ☀︎💥 = url-test,🍟🇨🇦CA-2🐓,🇺🇸 US備用⑧ˣ⁶𝕋𝔾myFreeNodeChat,Super4-LosAngeles#5847,USA 小水管,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1059.png
 🎭捌🐲號🌦✈⋯· ☀︎💥 = url-test,𓃰離̥͒“🏆”陸̥͒☲✈⋯·₆🖤,🦥(山̥͒🪲地̥͒)✈︎⋯🦢 •:✺͒ʷ̣̫✺͒:•,𓄄𓀢⑧𓀣🌬⋯· ·ⓗ  (辛̥͒),𓆉“寅”🐯✈⋯· · · · 🚴‍♀️,interval = 600,img-url = https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Alpha.png
-𓃰SSID𐂂 = ssid,default=𓃵策略選取✄,cellular=𓃵策略選取✄,"𓃵策略選取✄"=𓃵策略選取✄,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/SSID.png
+𓃰SSID𐂂 = ssid,default=𓃵策略選取✄,cellular=𓃵策略選取✄,"𓃵策略選取✄"=𓃵策略選取✄,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/SSID.png
 🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬 = select,DIRECT,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Direct.png
 ⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬 = select,REJECT,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Reject.png
 🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬 = select,♻️自動🌦✈,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Adblock.png
@@ -184,13 +184,13 @@ Super4-LosAngeles#5847 = vmess,82.198.246.9,180,aes-128-gcm,"d13fc2f5-3e05-4795-
 𓃰Disney+🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,⚖️負載🌦✈,♻️自動🌦✈,♨️檢測🌦✈,👋手動🌦✈,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/DisneyPlus.png
 𓃰Pandora🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,⚖️負載🌦✈,👋手動🌦✈,♨️檢測🌦✈,♻️自動🌦✈,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Pandora.png
 𓃰Message 🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,👋手動🌦✈,♻️自動🌦✈,♨️檢測🌦✈,⚖️負載🌦✈,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Message.png
-𓃰國際媒體🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,👋手動🌦✈,♻️自動🌦✈,♨️檢測🌦✈,⚖️負載🌦✈,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/ForeignMedia.png
+𓃰國際媒體🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,👋手動🌦✈,♻️自動🌦✈,♨️檢測🌦✈,⚖️負載🌦✈,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/swift.png
 𓃰全球加速🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,👋手動🌦✈,♻️自動🌦✈,♨️檢測🌦✈,⚖️負載🌦✈,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Global.png
 𓃰PornHub🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,⚖️負載🌦✈,♻️自動🌦✈,♨️檢測🌦✈,👋手動🌦✈,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/cai23511/yex/master/services/PORNHUB3.png
 𓃰ChatGPT🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,⚖️負載🌦✈,♻️自動🌦✈,♨️檢測🌦✈,👋手動🌦✈,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/ChatGPT.png
 𓃰Youtube🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,⚖️負載🌦✈,♻️自動🌦✈,♨️檢測🌦✈,👋手動🌦✈,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
 𓃰Telegram🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,⚖️負載🌦✈,♻️自動🌦✈,♨️檢測🌦✈,👋手動🌦✈,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Telegram_X.png
-𓃰Facebook🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,⚖️負載🌦✈,♻️自動🌦✈,♨️檢測🌦✈,👋手動🌦✈,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Color/Qure/Facebook.png
+𓃰Facebook🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,⚖️負載🌦✈,♻️自動🌦✈,♨️檢測🌦✈,👋手動🌦✈,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/04ProxySoft/facebook.png
 𓃰Speedtest🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,👋手動🌦✈,♻️自動🌦✈,♨️檢測🌦✈,⚖️負載🌦✈,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Speedtest.png
 𓃰lnstagram🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,⚖️負載🌦✈,👋手動🌦✈,♨️檢測🌦✈,♻️自動🌦✈,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Instagram.png
 𓃰KakaoTalk🌟 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,⚖️負載🌦✈,♻️自動🌦✈,♨️檢測🌦✈,👋手動🌦✈,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/KakaoTalk.png
