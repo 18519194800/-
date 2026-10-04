@@ -3,14 +3,11 @@
 
 # 本地节点
 [Proxy] 
-谷歌搜地址：北枫云.xyz = Hysteria2,aa9.beifengyun.top,36758,"a30d39a9-1049-454e-9dc8-f96c5652d250",skip-cert-verify=true,salamander-password=e6gpWtdDUTBmN9Gd
-🇳🇱 荷兰[搬瓦工]02 = vmess,c1s5.jamjams.net,38872,auto,"d05bc3a9-97fb-4dc4-864c-7af49b0d86f8",transport=tcp,alterId=0,udp=true,block-quic=false,over-tls=false
-🇺🇸 美国[搬瓦工]06 = Shadowsocks,c91s2.portablesubmarines.com,8826,aes-256-gcm,"cbb7kXjssHKEHjfG",fast-open=false,udp=false,block-quic=false
-USA 小水管 = vmess,82.198.246.9,180,auto,"d13fc2f5-3e05-4795-81eb-44143a09e552",transport=tcp,alterId=0,path=/,udp=true,block-quic=false,over-tls=false
-🇺🇸 US備用⑧ˣ⁶𝕋𝔾myFreeNodeChat = Hysteria2,104.168.104.80,18912,"9de223f6-86ac-4bf9-85b5-fabc62ddd7d9",skip-cert-verify=true
-Super4-LosAngeles#5847 = vmess,82.198.246.9,180,aes-128-gcm,"d13fc2f5-3e05-4795-81eb-44143a09e552",transport=tcp,alterId=0,path=/,host=icloud.com,udp=true,block-quic=false,over-tls=false
+🇺🇸 US美国DMIT-02 = trojan,www.7770031.xyz,39493,"KiUXpE53Xd",transport=tcp,sni=www.7770031.xyz,path=/,host=www.7770031.xyz,udp=true,block-quic=false,alpn=h2
+Asia-Japan = VLESS,tk1.high-speed-test-56424.me,443,"none:37615d66-5467-44a3-bc23-f2c3bef7f761",transport=tcp,flow=xtls-rprx-vision,public-key="p8VhFzvFOBAhWAEAeWmwDxT3xBSRsGYixqi0qnLFnBM",short-id=21270a66,udp=true,block-quic=false,over-tls=true,sni=aws.amazon.com
+TROJAN_TR_01 = trojan,183.61.173.145,39001,"ef73ca2cf3d9cd0f04c8f448da8125c6",transport=tcp,sni=www.yrtok.com,skip-cert-verify=true,path=/,host=www.yrtok.com,udp=true,block-quic=false
+akcdn-hytron2 = Shadowsocks,[2a0e:97c0:7da:ae60:760b:431c:d997:5310],50912,aes-256-gcm,"8ty5j16vFJoGBxvC",fast-open=false,udp=false,block-quic=false
 
-🍟🇨🇦CA-2🐓 = Shadowsocks,callis.carrollis.club,12656,chacha20-ietf-poly1305,"Pudding4242",obfs-name=http,obfs-uri=/,fast-open=false,udp=false,block-quic=false
 
 #别名=订阅節點URL
 [Remote Proxy]
@@ -101,13 +98,13 @@ Super4-LosAngeles#5847 = vmess,82.198.246.9,180,aes-128-gcm,"d13fc2f5-3e05-4795-
 🎭肆🐲號🌦✈⋯· ☀︎💥 = url-test,𓆉"子̥͒🐁鼠̥͒"Ⓐ✈·☼☺︎☻😊,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1007.png
 🎭伍🐲號🌦✈⋯· ☀︎💥 = url-test,𓄂𓀢叁̥͒𓀣🌬·☀︎3⃝(丙̥͒)꧂,url = http://www.qualcomm.cn/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1015.png
 🎭陸🐲號🌦✈⋯· ☀︎💥 = url-test,𓄂𓀢壹̥͒𓀣🌬·☀︎1⃝(甲̥͒)꧂,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1010.png
-🎭柒🐲號🌦✈⋯· ☀︎💥 = url-test,🍟🇨🇦CA-2🐓,🇺🇸 US備用⑧ˣ⁶𝕋𝔾myFreeNodeChat,Super4-LosAngeles#5847,USA 小水管,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1059.png
+🎭柒🐲號🌦✈⋯· ☀︎💥 = url-test,interval = 600,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/OnePiece/OnePiece-1059.png
 🎭捌🐲號🌦✈⋯· ☀︎💥 = url-test,𓄂𓀢陸̥͒𓀣🌬·☀︎6⃝(己̥͒)꧂,interval = 600,img-url = https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Alpha.png
 𓃰SSID𐂂 = ssid,default=𓃵策略選取✄,cellular=𓃵策略選取✄,"𓃵策略選取✄"=𓃵策略選取✄,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/SSID.png
 🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬 = select,DIRECT,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Direct.png
 ⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬 = select,REJECT,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Reject.png
 🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬 = select,♻️自動🌦✈,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Adblock.png
-👋手動🌦✈ = select,🇺🇸 US備用⑧ˣ⁶𝕋𝔾myFreeNodeChat,Super4-LosAngeles#5847,🍟🇨🇦CA-2🐓,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Clubhouse.png
+👋手動🌦✈ = select,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Clubhouse.png
 ♻️自動🌦✈ = url-test,🇺🇸美國,url = http://www.qualcomm.cn/generate_204,interval = 120,tolerance = 30,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Roundrobin.png
 ⚖️負載🌦✈ = load-balance,𓄂𓀢伍̥͒𓀣🌬·☀︎5⃝(戊̥͒)꧂,url = http://www.gstatic.com/generate_204,interval = 360,max-timeout = 3000,algorithm = pcc,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Static.png
 ♨️檢測🌦✈ = fallback,🇷🇺俄羅斯,url = http://www.qualcomm.cn/generate_204,interval = 180,max-timeout = 8000,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Auto.png
