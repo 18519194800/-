@@ -365,7 +365,7 @@ https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Loon/ChinaM
 https://yfamilys.com/rule/ChinaMaxNoIP.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=國內域名合集, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Lan/Lan.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=本地局域網, parser-enable=true, enabled=true
 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaIp.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=中国IP, enabled=true
-https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=中国公司IP, enabled=true
+https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=中国公司IP, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaMax/ChinaMax.list, policy=🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬, tag=國內網站/IP合集, parser-enable=true, enabled=false
 https://gitlab.com/Loon0x00/loon_data/-/raw/main/default_rule.list, policy=REJECT, tag=Loon, enabled=false
 
