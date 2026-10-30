@@ -6,6 +6,11 @@
 TROJAN_TR_01 = trojan,183.61.173.145,39001,"ef73ca2cf3d9cd0f04c8f448da8125c6",transport=tcp,sni=www.yrtok.com,skip-cert-verify=true,path=/,host=www.yrtok.com,udp=true,block-quic=false
 Hysteria2-8443 = Hysteria2,www.limingzhe.icu,8843,"6a62fe67c6ba0d43c009f2a15a46388d",salamander-password=46359a849437e277fd4716d79b4f4835
 Hysteria2-8443  闲置小🐔无限流量随便操 = Hysteria2,www.limingzhe.icu,8843,"6a62fe67c6ba0d43c009f2a15a46388d",salamander-password=46359a849437e277fd4716d79b4f4835
+🇮🇹 014  | ⬇️ 48KB/s = Shadowsocks,202.50.253.27,19999,aes-256-gcm,"ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",fast-open=false,udp=false,block-quic=false
+🇮🇹 020  | ⬇️ 5MB/s = Shadowsocks,202.50.253.81,19999,aes-256-gcm,"ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",fast-open=false,udp=false,block-quic=false
+🇮🇹意大利|  ⬇️IT-Milan-h-1741182-vvik = Shadowsocks,202.50.253.27,19999,aes-256-gcm,"ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",fast-open=false,udp=false,block-quic=false
+🇮🇹 意大利090  |  ⬇️ 18KB/s = Shadowsocks,202.50.253.72,19999,aes-256-gcm,"ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",fast-open=false,udp=false,block-quic=false
+🇺🇸 港中转 ③ SS2022 = Shadowsocks,38.76.180.144,8388,2022-blake3-aes-128-gcm,"JB29TossRcUxYsUoXURQzA==",fast-open=false,udp=false,block-quic=false
 
 
 #别名=订阅節點URL
