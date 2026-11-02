@@ -534,7 +534,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Lo
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/Redirect/Redirect.plugin, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/SafeRedirect/SafeRedirect.plugin, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.lnplugin, enabled=true
-https://www.nsloon.com/openloon/import?plugin=https://kelee.one/Tool/Loon/Plugin/Prevent_DNS_Leaks.plugin, tag=DNS, enabled=true
 https://kelee.one/Tool/Loon/Lpx/Roborock_remove_ads.lpx, enabled=true
 https://kelee.one/Tool/Loon/Lpx/Foodie_remove_ads.lpx, enabled=true
 https://kelee.one/Tool/Loon/Lpx/36Kr_remove_ads.lpx, enabled=true
