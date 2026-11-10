@@ -249,6 +249,8 @@ FINAL,𓃵策略選取✄
 
 # 订阅规则
 [Remote Rule]
+https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Surge.list, policy=𓃵策略選取✄, tag=红果, enabled=true
+https://raw.githubusercontent.com/Tartarus2014/Loon-Script/refs/heads/master/Plugin/Block/hgdj.lpx, policy=𓃵策略選取✄, tag=红果, enabled=true
 https://kelee.one/Tool/Loon/Lsr/AI.lsr, policy=𓃰SSID𐂂, tag=AI, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/XieCheng/XieCheng.list, policy=🛤攜程🟢, tag=攜程, enabled=true
 https://yfamilys.com/rule/XieCheng.list, policy=🛤攜程🟢, tag=携程, enabled=false
