@@ -115,7 +115,7 @@ Hysteria2-8443  闲置小🐔无限流量随便操 = Hysteria2,www.limingzhe.icu
 ⚖️負載🌦✈ = load-balance,𓄂𓀢伍̥͒𓀣🌬·☀︎5⃝(戊̥͒)꧂,url = http://www.gstatic.com/generate_204,interval = 360,max-timeout = 3000,algorithm = pcc,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Static.png
 ♨️檢測🌦✈ = fallback,🇷🇺俄羅斯,url = http://www.qualcomm.cn/generate_204,interval = 180,max-timeout = 8000,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Auto.png
 🎮遊戲🟢 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,⚖️負載🌦✈,♻️自動🌦✈,👋手動🌦✈,♨️檢測🌦✈,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Game.png
-🕊釘釘🟢 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,⚖️負載🌦✈,♻️自動🌦✈,👋手動🌦✈,♨️檢測🌦✈,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/dingtalk.png
+🕊釘釘🟢 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,⚖️負載🌦✈,♻️自動🌦✈,👋手動🌦✈,♨️檢測🌦✈,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/03CNSoft/dingding(1).png
 💍淘寶🟢 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,⚖️負載🌦✈,♻️自動🌦✈,👋手動🌦✈,♨️檢測🌦✈,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Taobao.png
 🛤攜程🟢 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,👋手動🌦✈,♻️自動🌦✈,⚖️負載🌦✈,♨️檢測🌦✈,img-url = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/03CNSoft/xiechenglvxing(1).png
 🥜豆瓣🟢 = select,𓃰SSID𐂂,🟢𝐃𝐢𝐫𝐞𝐜𝐭🌬,⛔️𝐑𝐞𝐣𝐞𝐜𝐭🌬,🚫𝐀𝐝 𝐁𝐥𝐨𝐜𝐤🌬,⚖️負載🌦✈,♻️自動🌦✈,♨️檢測🌦✈,👋手動🌦✈,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/douban.png
